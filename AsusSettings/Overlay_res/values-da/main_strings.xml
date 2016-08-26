@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Krypteringen blev afbrudt, og kan ikke fuldføres. På grund af dette, er dataene på din enhed ikke længere tilgængelig. \n\n For at bruge enheden igen, skal den først nulstilles til fabriksindstillingerne. Når enheden indstilles efter nulstillingen, får du mulighed for at gendanne data, som du evt. har sikkerhedskopieret til din konto.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Den indtastede adgangskode er rigtig, men dine data er desværre ødelagte. \n\nFor at bruge enheden igen, skal den først nulstilles til fabriksindstillingerne. Når enheden indstilles efter nulstillingen, får du mulighed for at gendanne data, som du evt. har sikkerhedskopieret til din konto.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Dette sletter alle dataene fra din enheds <b>interne lager</b>, herunder:\n\n<li>Din konto</li>\n<li>System- og app-data og indstillinger</li>\n<li>Downloadede apps</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Eventuelle ændringer, du laver på dine konti på nettet, kopieres automatisk til din enhed.\n\nNogle konti kopierer også automatisk de ændringer, du laver på enheden til internettet. En konto fungerer på denne måde.</string>
+</resources>

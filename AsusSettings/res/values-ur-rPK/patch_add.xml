@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">اپنی اسکرین غیر مقفل کئے بغیر تیزی سے کیمرا کھولیں</string>
+  <string name="camera_double_tap_power_gesture_title">کیمرا کیلئے پاور بٹن دو بار دبائیں</string>
+  <string name="camera_gesture_desc">اپنی کلائی کو دو بار مروڑ کر کیمرا ایپ کھولیں</string>
+  <string name="camera_gesture_title">کیمرا کیلئے دو بار مروڑیں</string>
+  <string name="keywords_color_mode">‏پرجوش rgb srgb رنگ کا قدرتی معیار</string>
+  <string name="manual">مینوئل</string>
+  <string name="picture_color_mode">تصویری رنگ موڈ</string>
+  <string name="settings_manual_activity_title">مینوئل</string>
+  <string name="settings_manual_activity_unavailable">مینوئل لوڈ کرنے میں ایک مسئلہ ہے۔</string>
+</resources>

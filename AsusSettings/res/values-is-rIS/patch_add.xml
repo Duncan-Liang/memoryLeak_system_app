@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Opnaðu myndavélina hratt án þess að taka skjáinn úr lás</string>
+  <string name="camera_double_tap_power_gesture_title">Ýttu tvisvar á aflrofann til að opna myndavélina</string>
+  <string name="camera_gesture_desc">Opnaðu myndavélarforritið með því að snúa úlnliðnum tvisvar</string>
+  <string name="camera_gesture_title">Tvöfaldur snúningur fyrir myndavél</string>
+  <string name="keywords_color_mode">líflegir rgb srgb litir náttúrulegir hefðbundnir</string>
+  <string name="manual">Handbók</string>
+  <string name="picture_color_mode">Litastilling mynda</string>
+  <string name="settings_manual_activity_title">Handbók</string>
+  <string name="settings_manual_activity_unavailable">Vandamál kom upp við að hlaða handbókina.</string>
+</resources>

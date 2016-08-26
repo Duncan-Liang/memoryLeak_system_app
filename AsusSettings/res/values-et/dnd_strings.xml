@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Mitte häirida</string>
+    <string name="zen_mode_option_off2">Luba alati</string>
+    <string name="zen_mode_option_important_interruptions2">Kehtestage häirimisega seotud reeglid</string>
+    <string name="zen_mode_option_no_interruptions2">Ära luba</string>
+    <string name="zen_mode_important_category2">Häirimisega seotud reeglid</string>
+    <string name="zen_mode_from2">Kõned/Sõnumid kontaktilt:</string>
+    <string name="zen_mode_from_anyone2">Igaüks</string>
+    <string name="zen_mode_from_contacts2">Ainult "Kontaktid"</string>
+    <string name="zen_mode_from_starred2">Ainult "Lemmikud"</string>
+    <string name="zen_mode_from_vip2">Ainult eriti tähtsad (VIP) kõned</string>
+    <string name="zen_mode_downtime_category2">Planeeritud aeg (kehtestage häirimisega seotud reeglid)</string>
+    <string name="zen_mode_alarms_priority">Alarmid</string>
+    <string name="zen_mode_repeated_calls">Korduvad kõned</string>
+    <string name="zen_mode_repeated_calls_desc">Teist kõnet kahe minuti jooksul ei vaigistata</string>
+    <string name="zen_mode_add_downtime">Uus ajakava</string>
+    <string name="zen_mode_meeting_mode_category">Ajakava on käivitatud kalendrisündmustega</string>
+    <string name="zen_mode_weekend">Nädalalõpp</string>
+    <string name="zen_mode_everyday">Iga päev</string>
+    <string name="zen_mode_remove_dialog_title">Eemaldan ajakava</string>
+    <string name="zen_mode_remove_dialog_message">Eemaldan selle ajakava?</string>
+    <string name="zen_mode_limit_dialog_title">Uus ajakava</string>
+    <string name="zen_mode_limit_dialog_message">Võimalik, et teil on kuni %d ajakava sätet.</string>
+    <string name="zen_mode_downtime_title">ajakava</string>
+    <string name="zen_mode_downtime_title_new">Uus ajakava</string>
+    <string name="zen_mode_downtime_title_edit">Redigeerige ajakava</string>
+    <string name="zen_mode_downtime_title_meeting">Redigeerige ajakava </string>
+    <string name="zen_mode_others">Sätted</string>
+    <string name="zen_mode_send_notifications">Teadaanne</string>
+    <string name="zen_mode_send_notifications_desc">Saatke teadaanne kui "Mitte häirida" on aktiveeritud</string>
+    <string name="zen_mode_no_interruptions_warning">"Kui määrate \"täielik vaigistamine\", siis äratused vaigistatakse."</string>
+    <string name="zen_mode_from_anyone3">"Kõigilt"</string>
+    <string name="zen_mode_from_favorites_only">"Vaid lemmikutelt"</string>
+    <string name="zen_mode_from_contacts_only">"Vaid kontaktidelt"</string>
+    <string name="zen_mode_repeat_callers2">"Korduvad kõned"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Sama number, mis helistab uuesti <xliff:g id="MINUTES">%d</xliff:g> minuti jooksul, lubatakse"</string>
+    <string name="zen_mode_option_important_interruptions3">"Rakenda häirimisreeglid"</string>
+    <string name="zen_mode_selected_callers2">"valitud kõned"</string>
+    <string name="zen_mode_dnd_is_on">"Režiim „Mitte häirida“ on nüüd sisse lülitatud. Saate selle käsitsi välja lülitada."</string>
+    <string name="zen_mode_turn_off_now">"Lülita kohe välja"</string>
+    <string name="zen_mode_custom_name">"Kohandatud"</string>
+    <string name="zen_mode_manual_turn_on">"Lülita režiim „Mitte häirida“ käsitsi sisse"</string>
+    <string name="zen_mode_turn_off">"Lülita režiim „Mitte häirida“ välja"</string>
+    <string name="zen_mode_in_activity">"Sisse lülitatud: "</string>
+    <string name="zen_mode_forever2">"Määramata ajaks"</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CTA iestatījums</string>
+    <string name="activity_main_title">CTA iestatījums</string>
+    <string name="activity_item_title">CTA iestatījums</string>
+    <string name="descrption">apraksts</string>
+    <string name="dialog_title">Noņemt iestatījumu</string>
+    <string name="dialog_message">Noņemt iestatījuma vērtību šai lietotnei, lietojot šo atļauju?</string>
+    <string name="descrption_applications">Turpmākās lietotnes</string>
+
+    <string name="cta_preference_category">Atļaujas</string>
+    <string name="cta_prefrence_title">Atļaujas iestatījums</string>
+    <string name="cta_prefrence_summary">Iestatīt atļaujas lietotnēm</string>
+        <!-- Archie Huang, 2013/12/03 for CTA -->
+    <string name="cta_act_phone_call">"Tālruņa zvans"</string>
+    <string name="cta_act_send_sms">"Sūtīt SMS"</string>
+    <string name="cta_act_send_mms">"Sūtīt MMS"</string>
+    <string name="cta_act_read_contacts">"Lasīt kontaktpersonas"</string>
+    <string name="cta_act_read_call_log">"Lasīt zvanu žurnālu"</string>
+    <string name="cta_act_read_mms">"Lasīt MMS"</string>
+    <string name="cta_act_read_sms">"Lasīt SMS"</string>
+    <string name="cta_act_read_mms_sms">"Lasīt MMS un SMS"</string>
+    <string name="cta_act_mobile_network">"Mobilais tīkls"</string>
+    <string name="cta_act_wlan">"WLAN"</string>
+    <string name="cta_act_location">"Vieta"</string>
+    <string name="cta_act_call_recorder">"Zvanu saraksts"</string>
+    <string name="cta_act_sound_recorder">"Skaņu ierakstītājs"</string>
+    <string name="cta_act_camera">"Kamera"</string>
+    <string name="cta_act_bluetooth">"Bluetooth"</string>
+    <string name="cta_act_use_network">"Tīkls"</string>
+    <string name="cta_act_write_contacts">"Rakstīt kontaktpersonām"</string>
+    <string name="cta_act_write_call_log">"Rakstīt zvanu žurnālā"</string>
+    <string name="cta_act_write_mms">"Rakstīt MMS"</string>
+    <string name="cta_act_write_sms">"Rakstīt SMS"</string>
+    <string name="cta_act_write_mms_sms">"Rakstīt MMS un SMS"</string>
+    <string name="cta_act_nfc">"NFC"</string>
+    <string name="cta_msg_phone_call">"mēģina sastādīt numuru zvanam."</string>
+    <string name="cta_msg_send_sms">"mēģina sūtīt SMS."</string>
+    <string name="cta_msg_send_mms">"mēģina sūtīt MMS."</string>
+    <string name="cta_msg_read_contacts">"mēģina lasīt kontaktpersonas."</string>
+    <string name="cta_msg_read_call_log">"mēģina lasīt zvanu žurnālu."</string>
+    <string name="cta_msg_read_mms">"mēģina lasīt MMS."</string>
+    <string name="cta_msg_read_sms">"mēģina lasīt SMS."</string>
+    <string name="cta_msg_read_mms_sms">"mēģina lasīt MMS un SMS."</string>
+    <string name="cta_msg_mobile_network">"mēģina savienoties ar mobilo tīklu. Par mobilā tīkla lietošanu var būt jāmaksā. Lai nebūtu jāmaksā, atvienojiet mobilo tīklu, kad to nelietojat."</string>
+    <string name="cta_msg_wlan">"mēģina savienoties ar WLAN."</string>
+    <string name="cta_msg_location">"mēģina lietot vietējo infoemāciju."</string>
+    <string name="cta_msg_call_recorder">"mēģina lietot zvanu ierakstītāju."</string>
+    <string name="cta_msg_sound_recorder">"mēģina lietot skaņas ierakstītāju."</string>
+    <string name="cta_msg_camera">"mēģina lietot kameru."</string>
+    <string name="cta_msg_bluetooth">"mēģina lietot atvērtu bluetooth ierīci."</string>
+    <string name="cta_msg_use_network">"mēģina lietot tīklu."</string>
+    <string name="cta_category_communicate">Komunikācija un datu lietošana"</string>
+    <string name="cta_category_data">"Piekļuve datiem"</string>
+    <string name="cta_msg_write_contacts">"mēģina rakstīt kontaktpersonas."</string>
+    <string name="cta_msg_write_call_log">"mēģina rakstīt zvanu žurnālu."</string>
+    <string name="cta_msg_write_mms">"mēģina rkastīt MMS."</string>
+    <string name="cta_msg_write_sms">"mēģina rakstīt SMS."</string>
+    <string name="cta_msg_write_mms_sms">"mēģina rakstīt MMS un SMS."</string>
+    <string name="cta_msg_nfc">"mēģina iespējot NFC."</string>
+</resources>

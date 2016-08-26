@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Capturaţi imagini ale ecranului menţinând apăsată tasta Recent Apps (Aplicaţii recente)</string>
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">NumeGeometrie</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Ofertă cod sursă generală</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">Setări personalizate ASUS</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Wayne2_Chen: UI required-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Setări rapide</string>
+    <!-- Harrison for power settings -->
+
+    <string name="asus_sd_eject">Demontare stocare externă</string>
+    <string name="asus_sd_eject_summary">Eliminare în siguranţă stocare externă</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage">Tastaţi...</string>
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">Golire memorie cache pentru aplicaţii</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">Goliţi memoria cache pentru aplicaţii?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">Prin aceasta veţi goli memoria cache pentru aplicaţii. Spaţiul cache eliberat poate fi utilizat pentru stocare internă.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">Golire memorie cache</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Aplicaţii de recuperare</string>
+    <string name="clear_apps_data_account">\n\n"Aceste conturi vor fi eliminate.</string>
+    <string name="clear_apps_data_title">Ştergeţi toate datele aplicaţiilor?</string>
+    <string name="clear_apps_data_desc">„Toate datele aplicaţiilor vor fi şterse permanent. Aceasta include.”\n\n<li>„Toate fişierele”</li>\n<li>„Setările”</li>\n<li>„Conturile”</li>\n<li>„Bazele de date”</li>\n<li>„Memoria cache”</li>
+    </string>
+    <string name="clear_apps_data_final_desc">Ştergeţi toate datele aplicaţiilor? Dispozitivul va reporni. Nu veţi putea anula această acţiune!</string>
+    <string name="clear_apps_data_button">Ştergere date</string>
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"Ștergeţi cardul SD"</string>
+    <string name="erase_mircosd_storage_description">"Ștergeţi toate datele de pe cardul SD, cum ar fi muzica sau fotografiile"</string>
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <string name="app_wakelock_switch_label">se previne rămânerea dispozitivului în modul activ</string>
+    <string name="powermanagement_options_dialog">Este posibil ca această setare să fie memorată după repornirea aplicaţiei sau a dispozitivului</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">Mesaj e-mail nou</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Mesaj e-mail trimis</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">Alerte calendar</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Alarmă implicită</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Conexiunea la internet este obligatorie pentru accesarea aplicaţiei. Activaţi reţeaua mobilă sau conexiunea Wi-Fi din Setări. </string>
+    <string name="load_suspended_title">Fără conexiune la internet</string>
+    <string name="button_label_settings">Setări</string>
+    <string name="button_label_cancel">Anulare</string>
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">Opţiuni setări rapide</string>
+    <string name="quick_setting_description">Selectaţi elementele de afişat în panoul de setări rapide</string>
+    <string name="quick_setting_reset_title">Resetare setări rapide</string>
+    <string name="quick_setting_reset_message">Se vor reseta opţiunile setărilor rapide.</string>
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display Pad EC version of padfone station" maxwidth="-1">Versiune staţie PadFone</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">Versiune panou tactil pentru stația PadFone</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">Versiune aparat foto pentru staţia PadFone</string>
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Ecran de blocare</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Lansaţi aplicaţii pe ecranul de blocare</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Acces rapid</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Afișare bară de stare</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">Cameră instantanee</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">Apăsaţi de două ori tasta de volum pentru a lansa camera din modul de aşteptare</string>
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">Widgetul What\'s Next (Ce urmează)</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">Se afișează widgetul What\'s Next (Ce urmează) pe ecranul Lock (Blocare)</string>
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <string name="select_shortcut_ap_title" description="Select App as shortcut" maxwidth="-1">Setare aplicație de acces rapid</string>
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Întunecat</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Luminos</string>
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Versiune stilou digital</string>
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">Configuraţi codul PIN</string>
+    <string name="lockpassword_setup_your_password_header">Configuraţi parola</string>
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">Versiune baterie</string>
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Trimiteţi date de diagnostic către ASUS pentru îmbunătăţirea calităţii şi performanţelor produsului</string>
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">Tastă pentru aplicații recente</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Se afișează întotdeauna aplicațiile recente</item>
+        <item>Atingeți continuu pentru a face o captură de ecran</item>
+        <item>Atingeți continuu pentru a afișa meniul</item>
+    </string-array>
+    <string name="touch_key_light_title">Tastă tactilă</string>
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">Preîncărcată</string>
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">Această aplicaţie a fost activată</string>
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">Versiune firmware IA</string>
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">Versiune firmware IC controler tastatură</string>
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">Afişare procentaj baterie</string>
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Mod pentru mănușă</string>
+    <string name="glove_mode_setting_summary">Măriţi sensibilitatea la atingere atunci când purtaţi mănuşi</string>
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS Cover (Capac ASUS)</string>
+    <string name="asus_transcover_category_title">Accesorii</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Activare ASUS Cover</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Suspendaţi ecranul la închiderea carcasei</string>
+    <string name="asus_cover_settings">Setări ASUS Cover (Capac ASUS)</string>
+    <string name="asus_cover_automatic_unlock_tittle">Deblocare automată</string>
+    <string name="asus_cover_automatic_unlock_summary">Atunci când blocarea ecranului este dezactivată, deschideți capacul pentru a debloca automat ecranul de securitate</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <string name="app_installation_category">INSTALARE APLICAŢII</string>
+    <string name="app_installation_title">Setări instalare aplicaţii</string>
+    <string name="app_installation_summary">Personalizaţi setările legate de instalarea aplicaţiilor</string>
+    <string name="app_installation_settings_category">LOCAŢIE IMPLICITĂ INSTALARE</string>
+    <string name="app_installation_settings_preferinternal_title">Se preferă stocarea internă</string>
+    <string name="app_installation_settings_preferinternal_summary">Instalaţi aplicaţiile în spaţiul de stocare intern. Este posibil ca unele aplicaţii să fie instalate în spaţiul de stocare extern, atunci când spaţiul de stocare intern este redus</string>
+    <string name="app_installation_settings_preferexternal_title">Se preferă stocarea externă</string>
+    <string name="app_installation_settings_preferexternal_summary">Dacă este permis, instalaţi aplicaţiile în stocarea externă</string>
+    <string name="app_installation_settings_forceexternal_title">Forţare instalare în stocarea externă</string>
+    <string name="app_installation_settings_forceexternal_description">Setare expert:\n\nInstalare aplicaţii cu locaţie nespecificată în stocarea externă\n\n
+Pot apărea operaţii anormale pentru aplicaţii care sunt construite cu o configuraţie care include servicii de fundal, servicii de alarmă, motor pentru metoda de introducere, lansator, imagine de fundal activă, widget de aplicaţie, manager de cont, adaptor de sincronizare, administrator de dispozitiv, mecanism de monitorizare a semnalului la pornire etc.</string>
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+    <string name="memory_system_reserved_usage">Spaţiu de memorie rezervat pentru sistem</string>
+<!-- bruce1_li, AT&T DMAgent -->
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">Indicator LED</string>
+    <string name="asus_lockscreen_camera_settings">Cameră</string>
+    <string name="lockscreen_enable_camera_widget_title">Glisaţi pentru lansare</string>
+    <string name="lockscreen_enable_camera_widget">Glisaţi către stânga din partea dreaptă a ecranului de blocare pentru a lansa camera</string>
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">Selfie cu intrusul</string>
+    <string name="lockscreen_intruder_selfie_summary">Surprindeţi în fotografie persoana care introduce un cod eronat</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Selfie cu intrusul</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Realizaţi o fotografie cu intrusul atunci când acesta introduce parola greşită în ecranul de blocare</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Număr de introduceri incorecte ale codului</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">De două ori</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Salvaţi fotografia automat</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Salvaţi fotografia în folderul Selfie cu intrusul din galerie</string>
+    <string name="lockscreen_incorrect_code_entries_twice">De două ori</string>
+    <string name="lockscreen_incorrect_code_entries_third">De trei ori</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">De patru ori</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">De cinci ori</string>
+    <string name="lockscreen_enable_slide_widget_title">Omitere pagină de deblocare prin glisare</string>
+    <string name="lockscreen_enable_slide_widget">Omiteţi ecranul de deblocare prin glisare în momentul activării dispozitivului</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Modul Simplu</string>
+    <string name="asus_easy_launcher_intro">Modul Simplu vă oferă o interfaţă prietenoasă şi intuitivă cu aspect simplu şi funcţii de bază</string>
+    <!-- AMAX AT&T issue -->
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Parola trebuie să conţină minimum %d seturi de caractere, din următoarele 4 categorii: litere mari, litere mici, cifre, simboluri"</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">Opţiuni luminozitate automată</string>
+    <string name="auto_brightness_settings_gain">Amplificare</string>
+    <string name="auto_brightness_settings_sensor">Senzor lumină</string>
+    <string name="auto_brightness_settings_adjustment">Se permite modificarea amplificării</string>
+    <string name="auto_brightness_settings_reset_gain">Resetare la valorile implicite</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Resetaţi la valoarea implicită a amplificării?</string>
+    <string name="auto_brightness_settings_indark">În mediu întunecat</string>
+    <string name="auto_brightness_settings_indark_title">Reducere luminozitate</string>
+    <string name="auto_brightness_settings_indark_slow">Lent</string>
+    <string name="auto_brightness_settings_indark_immediate">Imediat</string>
+    <string name="auto_brightness_settings_indark_dynamic">Dinamic</string>
+    <string name="show_sensor_usage">Afişare valoare senzor de lumină</string>
+    <string name="show_sensor_usage_summary">Imaginea suprapusă pe ecran afişează starea actuală a senzorului de lumină</string>
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Mod de utilizare cu o singură mână</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Declanşator rapid</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Atingeţi de două ori tasta Acasă pentru a activa modul de control cu o singură mână</string>
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">Ton de apel şi notificări</string>
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Stil font</string>
+    <string name="monotype_preference_summary">Setare font</string>
+    <string name="monotype_dialog_button">Obțineți fonturi online</string>
+    <string name="monotype_dialog_set_font_question">Setați fontul drept %s?</string>
+    <string name="monotype_dialog_revert_question">Reinițializați la fontul implicit?</string>
+    <string name="monotype_dialog_no_fonts_installed">Nu sunt disponibile alte fonturi</string>
+    <string name="monotype_restart_dialog_text_1">Reporniți telefonul</string>
+    <string name="monotype_restart_dialog_text_2">Reporniți telefonul pentru aplicarea setărilor</string>
+    <string name="monotype_restart_dialog_button_1">Reporniți acum</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_default_font">Font implicit</string>
+    <string name="monotype_loading_list">Se încarcă lista de fonturi...</string>
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">Mod confidenţial</string>
+    <string name="user_snapview_summary">Puteţi crea un instantaneu Mod confidenţial pentru a vă proteja fotografiile, fişierele şi aplicaţiile.</string>
+    <string name="user_snapview_message_Notice">Notă</string>
+    <string name="user_snapview_message_created">Spațiu de stocare sistem insuficient.</string>
+    <string name="user_snapview_message_with_normal_lock">În Mod confidenţial, puteţi să fotografiaţi, să salvaţi fişiere şi să instalaţi aplicaţii.  Aceste fişiere şi aplicaţii rămân în siguranţă în Mod confidenţial şi nu vor fi văzute după ce părăsiţi Mod confidenţial.\n\nÎnainte de a putea crea un instantaneu Mod confidenţial, trebuie să configuraţi o blocare a ecranului pentru Mod confidenţial.\n\nNotă: Blocarea ecranului pentru Mod confidenţial nu trebuie să fie identică cu cea pentru proprietar.</string>
+    <string name="user_snapview_message_without_normal_lock">În Mod confidenţial, puteţi să fotografiaţi, să salvaţi fişiere şi să instalaţi aplicaţii.  Aceste fişiere şi aplicaţii rămân în siguranţă în Mod confidenţial şi nu vor fi văzute după ce părăsiţi Mod confidenţial.\n\nÎnainte de a putea crea un instantaneu Mod confidenţial, trebuie să configuraţi o blocare a ecranului pentru proprietar.</string>
+    <string name="user_snapview_settings">Setări Mod confidenţial</string>
+    <string name="user_snapview_settings_category_lockscreen">Securitate ecran de blocare</string>
+    <string name="user_snapview_settings_category_visualhint">Sugestie vizuală</string>
+    <string name="user_snapview_settings_category_dummy">Notificare formală</string>
+    <string name="user_snapview_settings_category_account">Cont Mod confidenţial</string>
+    <string name="user_snapview_settings_hint_lock">Decorațiune ecran de blocare</string>
+    <string name="user_snapview_settings_hint_notify">Decoraţiune Mod confidenţial</string>
+    <string name="user_snapview_settings_dummy_notify">Text</string>
+    <string name="user_snapview_settings_dummy_default">Serviciu Google Play actualizat</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Pictogramă</string>
+    <string name="user_snapview_settings_set_lock">Setare blocare ecran</string>
+    <string name="user_snapview_settings_change_info">Modificare informații profil</string>
+    <string name="user_snapview_settings_delete_self">Ştergere Mod confidenţial</string>
+    <string name="user_snapview_settings_item1">Discretă</string>
+    <string name="user_snapview_settings_item2">Evidentă</string>
+    <string name="user_snapview_settings_item3">Fără</string>
+    <string name="user_snapview_settings_item_color">Culoare</string>
+    <string name="user_snapview_settings_item_icon">Pictogramă</string>
+    <string name="user_snapview_settings_item_none">Fără</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Cont de e-mail de salvare Mod confidențial</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Înainte de a crea un instantaneu Mod confidențial, vă sugerăm să atribuiți un cont %s drept cont de e-mail de salvare.\n\nContul de e-mail de salvare vă ajută să reinițializați parola Mod confidențial în cazul în care o uitați.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Verificați-vă contul %s</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Urmează să verificăm contul dvs. %1$s.\n\nOdată ce verificarea este reușită, puteți începe să reinițializați parola ecranului de blocare.\n\nNotă: Următorul ecran aparține caracteristicii %2$s Account Verification (Verificare cont Google), iar noi nu colectăm informațiile contului dvs.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Parola Mod confidențial este reinițializată</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Felicitări! Parola Mod confidențial a fost reinițializată.\n\nÎn continuare, puteți să atribuiți o parolă Mod confidențial nouă sau să ștergeți instantaneul Mod confidențial curent.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Pentru a șterge Mod confidențial, trebuie să introduceți o cheie de trecere pentru blocarea ecranului și codul PIN aleatoriu.\n\nAtunci când se confirmă, Mod confidențial se va șterge de pe dispozitiv. Veți pierde fotografiile, aplicațiile și datele din Mod confidențial.\n\nAceastă acțiune nu poate fi anulată. Doriți să continuați?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Modificare cont de e-mail de salvare</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Utilizați-l pe acesta pentru a vă reinițializa parola Mod confidențial</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Atribuiți un cont Gmail drept cont de e-mail de salvare pentru Mod confidențial.\n\nContul de e-mail de salvare vă ajută să reinițializați parola Mod confidențial în cazul în care o uitați.</string>
+    <string name="user_snapview_reset_confirm">Ştergeţi toate datele din modul Privat?\nNu veţi putea reveni asupra acestei acţiuni!</string>
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">Alegeți noua parolă pentru proprietar</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Alegeți noul cod PIN pentru proprietar</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Confirmați parola pentru proprietar</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Confirmați codul PIN pentru proprietar</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Trasați noul model de deblocare pentru proprietar</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Trasați din nou modelul pentru proprietar în vederea confirmării</string>
+    <string name="lockpattern_choose_private_mode">Trasaţi noul model de deblocare pentru Mod confidenţial</string>
+    <string name="lockpattern_confirm_private_mode">Trasaţi din nou modelul pentru Mod confidenţial în vederea confirmării</string>
+    <string name="lockpassword_choose_private_mode">Alegeţi noua parolă pentru Mod confidenţial</string>
+    <string name="lockpassword_confirm_private_mode">Confirmaţi parola pentru Mod confidenţial</string>
+    <string name="lockpin_choose_private_mode">Alegeţi noul cod PIN pentru Mod confidenţial</string>
+    <string name="lockpin_confirm_private_mode">Confirmaţi codul PIN pentru Mod confidenţial</string>
+    <string name="lockpattern_pattern_same_to_normal">Model similar normal</string>
+    <string name="select_account">Selectați acțiunea</string>
+    <string name="owner_account">Modificați blocarea ecranului pentru proprietar</string>
+    <string name="personal_space">Modificaţi blocarea ecranului pentru Mod confidenţial</string>
+    <string name="both">Modificare tip blocare ecran</string>
+    <string name="notice">Notă</string>
+    <string name="pmode_pattern_same_to_normal">Blocarea ecranului pentru Mod confidenţial nu trebuie să fie identică cu cea pentru proprietar. Încercaţi din nou.</string>
+    <string name="pmode_pattern_same_to_private">Blocarea ecranului pentru proprietar nu trebuie să fie identică cu cea pentru Mod confidenţial. Încercaţi din nou.</string>
+    <string name="pmode_created">Instantaneul dvs. Mod confidenţial este creat!  Acum, încercaţi să accesaţi Mod confidenţial utilizând blocarea ecranului pentru Mod confidenţial.</string>
+    <string name="pmode_created_title">Instantaneu Mod confidenţial creat</string>
+    <string name="pmode_set_personal_space_title">Setaţi blocarea ecranului pentru Mod confidenţial</string>
+    <string name="pmode_set_personal_space">Apoi, configuraţi o blocare a ecranului pentru Mod confidenţial.\n\nNotă: Blocarea ecranului pentru Mod confidenţial nu trebuie să fie identică cu cea pentru proprietar.</string>
+    <string name="pmode_pattern_cannot_same">Modelul de deblocare pentru Mod confidenţial nu trebuie să fie identic cu cel pentru proprietar</string>
+    <string name="pmode_pin_cannot_same">Codul PIN pentru Mod confidenţial nu trebuie să fie identic cu cel pentru proprietar</string>
+    <string name="pmode_password_cannot_same">Parola pentru Mod confidenţial nu trebuie să fie identică cu cea pentru proprietar</string>
+    <string name="pmode_set_lock">Setare blocare</string>
+    <string name="pmode_set_owner_lock_title">Setați blocarea ecranului pentru proprietar</string>
+    <string name="pmode_set_owner_lock">Mai întâi, configurați o blocare a ecranului pentru proprietar.</string>
+    <string name="pmode_pin_length_must_same">Lungimea codului PIN pentru Mod confidenţial şi pentru proprietar trebuie să fie identică</string>
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">Avertisment</string>
+    <string name="asus_master_clear_check_backup_message">Aveţi date salvate în stocarea internă. Mutaţi aceste date în stocarea externă înainte de a continua. În caz contrar, aceste date vor fi şterse din stocarea internă. Doriţi să continuaţi resetarea?</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">Încărcare rapidă (c.a.)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> până la încărcare completă cu c.a. (încărcare rapidă)</string>
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">Nu se permite</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Acces rapid personalizat</string>
+    <string name="change_short_cut_message">Atingeţi aplicaţia pentru a o personaliza şi glisaţi aplicaţia pentru a o rearanja</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">Manager pornire automată</string>
+    <string name="autostart_summary">"Eliberați o cantitate mai mare de memorie și economisiți energie"</string>
+    <!-- Kevin_Chiou for ANT build -->
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Aplicare design material</string>
+    <string name="notification_material_summary">După aplicare, unele pictograme pentru notificările aplicaţiilor vor lua forme albe pentru a corespunde acestui stil.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Înainte"</string>
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Mod Kids (Copii)"</string>
+    <string name="asus_kids_launcher_settings_message">"Activaţi modul Kids (Copii) pentru a configura un spaţiu de joacă sigur pe care să îl utilizeze copii."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">Este posibil ca unele aplicaţii să nu afişeze corespunzător textele cu o dimensiune a fontului foarte mare.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">"Text foarte mare"</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Atingeţi continuu tasta obturatorului camerei sau tasta camerei video pentru a lansa camera atunci când ecranul este activat"</string>
+    <string name="lockscreen_longpress_screen_off">"Atingeţi continuu tasta obturatorului camerei sau tasta camerei video pentru a lansa camera atunci când ecranul este dezactivat"</string>
+    <string name="lockscreen_longpress_screen_on_title">"Lansaţi camera atunci când ecranul este activat"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Lansaţi camera atunci când ecranul este dezactivat"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Text nou</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"Alerte în caz de urgenţă"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Configuraţi alertele în caz de urgenţă"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"Transmisiune celulară SMS"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Configurare transmisiune celulară SMS"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Dezactivare pagină cu informații meteo"</string>
+    <string name="lockscreen_disable_weather_info_page">"Dezactivați complet pagina cu informații meteo (susținută de Cheetah Mobile) din partea dreaptă a ecranului de blocare"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

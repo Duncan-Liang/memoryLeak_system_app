@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Verplaats naar apparaatgeheugen</string>
+    <string name="move_error_unknow">Kan app niet verplaatsen. Probeer het opnieuw.</string>
+    <string name="processing">Bezig met verwerken...</string>
+    <string name="dialog_hint">Dit proces kan even duren.\n\nSchakel uw apparaat niet uit en gebruik de geselecteerde verplaatstoepassingen niet. U mag het externe opslagapparaat momenteel niet verwijderen.\n\nWilt u doorgaan?</string>
+</resources>

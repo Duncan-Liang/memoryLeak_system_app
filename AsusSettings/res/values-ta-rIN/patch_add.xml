@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">திரையைத் திறக்காமலேயே கேமராவை வேகமாகத் திறக்கும்</string>
+  <string name="camera_double_tap_power_gesture_title">கேமராவிற்கு பவர் பட்டனை இருமுறை அழுத்துக</string>
+  <string name="camera_gesture_desc">உங்கள் மணிக்கட்டை இருமுறை திருப்புவதன் மூலம் கேமரா பயன்பாட்டைத் திறக்கலாம்</string>
+  <string name="camera_gesture_title">கேமராவைத் திறக்க, இருமுறை திருப்புதல்</string>
+  <string name="keywords_color_mode">வைபிரன்ட் rgb srgb வண்ணம் இயற்கை வழக்கம்</string>
+  <string name="manual">கைமுறை</string>
+  <string name="picture_color_mode">படத்தின் வண்ணப் பயன்முறை</string>
+  <string name="settings_manual_activity_title">கைமுறை</string>
+  <string name="settings_manual_activity_unavailable">கைமுறைச் செயலாக்கத்தை ஏற்றுவதில் சிக்கல்.</string>
+</resources>

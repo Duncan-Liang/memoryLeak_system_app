@@ -1,0 +1,46 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">မနှောင့်ယှက်ပါနှင့်</string>
+    <string name="zen_mode_option_off2">အမြဲတမ်း ခွင့်ပြုပါ</string>
+    <string name="zen_mode_option_important_interruptions2">နှောင့်ယှက်မှုစည်းမျဉ်းများကို အသုံးချပါ</string>
+    <string name="zen_mode_option_no_interruptions2">ခွင့်မပြုပါနှင့်</string>
+    <string name="zen_mode_important_category2">နှောင့်ယှက်မှုစည်းမျဉ်းများ</string>
+    <string name="zen_mode_from2">မှ ခေါ်ဆိုမှုများ/မက်ဆေ့ချ်များ ခွင့်ပြုပါ</string>
+    <string name="zen_mode_from_anyone2">မည်သူမဆို</string>
+    <string name="zen_mode_from_contacts2">အဆက်အသွယ်များသာလျှင်</string>
+    <string name="zen_mode_from_starred2">အကြိုက်နှစ်ဆုံးများသာလျှင်</string>
+    <string name="zen_mode_from_vip2">VIP သာလျှင်</string>
+    <string name="zen_mode_downtime_category2">အစီအစဉ်ချထားသောအချိန် (နှောင့်ယှက်မှုစည်းမျဉ်းများကို အသုံးချပါ)</string>
+    <string name="zen_mode_alarms_priority">နှိုးစက်</string>
+    <string name="zen_mode_repeated_calls">ထပ်မံခေါ်ဆိုမှုများ</string>
+    <string name="zen_mode_repeated_calls_desc">နှစ်မိနစ်အတွင်း ဒုတိယအကြိမ်ခေါ်ဆိုမှုကို အသံပိတ်မည်မဟုတ်ပါ</string>
+    <string name="zen_mode_add_downtime">အစီအစဉ်အသစ်</string>
+    <string name="zen_mode_meeting_mode_category">ပြက္ခဒိန်ဖြစ်ရပ်များဖြင့် သတ်မှတ်ထားသော အစီအစဉ်</string>
+    <string name="zen_mode_weekend">စနေနေ့နှင့်တနင်္ဂနွေနေ့</string>
+    <string name="zen_mode_everyday">နေ့တိုင်း</string>
+    <string name="zen_mode_remove_dialog_title">အစီအစဉ်ကို ဖယ်ရှားပါ</string>
+    <string name="zen_mode_remove_dialog_message">ဤအစီအစဉ်ကို ဖယ်ရှားမလား။</string>
+    <string name="zen_mode_limit_dialog_title">အစီအစဉ်အသစ်</string>
+    <string name="zen_mode_limit_dialog_message">သင့်တွင် အစီအစဉ်ဆက်တင်များ %d ခု ရှိနိုင်သည်။</string>
+    <string name="zen_mode_downtime_title">အစီအစဉ်</string>
+    <string name="zen_mode_downtime_title_new">အစီအစဉ်အသစ်</string>
+    <string name="zen_mode_downtime_title_edit">အစီအစဉ်ကို တည်းဖြတ်ပါ</string>
+    <string name="zen_mode_downtime_title_meeting">အစီအစဉ်ကို တည်းဖြတ်ပါ</string>
+    <string name="zen_mode_others">ဆက်တင်များ</string>
+    <string name="zen_mode_send_notifications">သတိပေးချက်</string>
+    <string name="zen_mode_send_notifications_desc">မနှောင့်ယှက်ပါနှင့်ကို သက်ဝင်အောင်ပြုလုပ်သည်နှင့် သတိပေးချက် ပို့ပါ</string>
+    <string name="zen_mode_no_interruptions_warning">"\"လုံးဝ အသံတိတ်\" သို့ သတ်မှတ်ထားသောအခါ နှိုးစက်သည် အသံပိတ်နေလိမ့်မည်။"</string>
+    <string name="zen_mode_from_anyone3">"မည်သူ့ထံမှမဆို"</string>
+    <string name="zen_mode_from_favorites_only">"အကြိုက်များထံမှသာ"</string>
+    <string name="zen_mode_from_contacts_only">"အဆက်အသွယ်များထံမှသာ"</string>
+    <string name="zen_mode_repeat_callers2">"ခေါ်ဆိုမှုများကို ပြန်ကျော့ပါ"</string>
+    <string name="zen_mode_repeat_callers_summary2">"<xliff:g id="MINUTES">%d</xliff:g> မိနစ်အတွင်း ထပ်ခေါ်ထားသော တူညီသည့် နံပါတ်ကို ခွင့်ပြုပါမည်"</string>
+    <string name="zen_mode_option_important_interruptions3">"နှောင့်ယှက်မှုဆိုင်ရာ စည်းမျဉ်းများကို သုံးပါ"</string>
+    <string name="zen_mode_selected_callers2">"ရွေးထားသော ခေါ်ဆိုမှုများ"</string>
+    <string name="zen_mode_dnd_is_on">"မနှောင့်ယှက်ရ ကို ယခု ဖွင့်ထားသည်။ ကိုယ်တိုင် ပြန်ပိတ်နိုင်သည်။"</string>
+    <string name="zen_mode_turn_off_now">"ခု ပိတ်ပါ"</string>
+    <string name="zen_mode_custom_name">"စိတ်ကြိုက်"</string>
+    <string name="zen_mode_manual_turn_on">"မနှောင့်ယှက်ရကို ကိုယ်တိုင် ဖွင့်ပါ"</string>
+    <string name="zen_mode_turn_off">"မနှောင့်ယှက်ရကို ပိတ်ပါ"</string>
+    <string name="zen_mode_in_activity">"ဖွင့်ထား-"</string>
+    <string name="zen_mode_forever2">"အချိန်ကန့်သတ်မရှိ"</string>
+</resources>

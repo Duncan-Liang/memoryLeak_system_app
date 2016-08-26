@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">لا تزعجني</string>
+    <string name="zen_mode_option_off2">اسمح دائمًا</string>
+    <string name="zen_mode_option_important_interruptions2">تطبيق قواعد الإزعاج</string>
+    <string name="zen_mode_option_no_interruptions2">عدم السماح</string>
+    <string name="zen_mode_important_category2">قواعد الإزعاج</string>
+    <string name="zen_mode_from2">السماح بالمكالمات/الرسائل من</string>
+    <string name="zen_mode_from_anyone2">أي شخص</string>
+    <string name="zen_mode_from_contacts2">جهات الاتصال فقط</string>
+    <string name="zen_mode_from_starred2">المفضلات فقط</string>
+    <string name="zen_mode_from_vip2">الشخصيات الهامة فقط</string>
+    <string name="zen_mode_downtime_category2">الوقت المجدول (تطبيق قواعد الإزعاج)</string>
+    <string name="zen_mode_alarms_priority">التنبيهات</string>
+    <string name="zen_mode_repeated_calls">المكالمات المتكررة</string>
+    <string name="zen_mode_repeated_calls_desc">لن يتم وضع الهاتف على وضع صامت إذا جاءت مكالمة ثانية خلال دقيقتينِ</string>
+    <string name="zen_mode_add_downtime">جدول جديد</string>
+    <string name="zen_mode_meeting_mode_category">الجدول مُشغَّل بواسطة أحداث التقويم</string>
+    <string name="zen_mode_weekend">عطلة الأسبوع</string>
+    <string name="zen_mode_everyday">كل يوم</string>
+    <string name="zen_mode_remove_dialog_title">مسح الجدول</string>
+    <string name="zen_mode_remove_dialog_message">هل تريد مسح هذا الجدول؟</string>
+    <string name="zen_mode_limit_dialog_title">جدول جديد</string>
+    <string name="zen_mode_limit_dialog_message">قد يكون لديك ما يصل إلى %d إعدادات جدول.</string>
+    <string name="zen_mode_downtime_title">جدول</string>
+    <string name="zen_mode_downtime_title_new">جدول جديد</string>
+    <string name="zen_mode_downtime_title_edit">تحرير الجدول</string>
+    <string name="zen_mode_downtime_title_meeting">تحرير الجدول </string>
+    <string name="zen_mode_others">الإعدادات</string>
+    <string name="zen_mode_send_notifications">الإشعار</string>
+    <string name="zen_mode_send_notifications_desc">إرسال الشعار بمجرد أن يتم تنشيط Do not disturb (لا تزعجني)</string>
+    <string name="zen_mode_no_interruptions_warning">"عند الضبط على \"صامت بالكامل\", سيتم ضبط المنبهات على صامت."</string>
+    <string name="zen_mode_from_anyone3">"من أي أحد"</string>
+    <string name="zen_mode_from_favorites_only">"من المفضلات فقط"</string>
+    <string name="zen_mode_from_contacts_only">"من جهات الاتصال فقط"</string>
+    <string name="zen_mode_repeat_callers2">"تكرار المكالمات"</string>
+    <string name="zen_mode_repeat_callers_summary2">"سيتم السماح بنفس الرقم الذي يتصل مرة أخرى خلال فترة <xliff:g id="MINUTES">%d</xliff:g> دقيقة"</string>
+    <string name="zen_mode_option_important_interruptions3">"تطبيق قواعد الإزعاج"</string>
+    <string name="zen_mode_selected_callers2">"المكالمات المحددة"</string>
+    <string name="zen_mode_dnd_is_on">"عدم الإزعاج قيد التشغيل الآن. يمكنك إيقاف تشغيله يدويًا."</string>
+    <string name="zen_mode_turn_off_now">"إيقاف التشغيل الآن"</string>
+    <string name="zen_mode_custom_name">"مخصص"</string>
+    <string name="zen_mode_manual_turn_on">"تمكين عدم الإزعاج يدويًا"</string>
+    <string name="zen_mode_turn_off">"تعطيل عدم الإزعاج"</string>
+    <string name="zen_mode_in_activity">"تم تمكين: "</string>
+    <string name="zen_mode_forever2">"بشكل غير محدد"</string>
+</resources>

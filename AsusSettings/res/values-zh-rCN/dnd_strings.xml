@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">请勿打扰</string>
+    <string name="zen_mode_option_off2">始终允许</string>
+    <string name="zen_mode_option_important_interruptions2">应用打扰规则</string>
+    <string name="zen_mode_option_no_interruptions2">不允许</string>
+    <string name="zen_mode_important_category2">打扰规则</string>
+    <string name="zen_mode_from2">允许电话/消息自</string>
+    <string name="zen_mode_from_anyone2">任何人</string>
+    <string name="zen_mode_from_contacts2">仅限联系人</string>
+    <string name="zen_mode_from_starred2">仅限收藏</string>
+    <string name="zen_mode_from_vip2">仅限 VIP</string>
+    <string name="zen_mode_downtime_category2">计划的时间（应用打扰规则）</string>
+    <string name="zen_mode_alarms_priority">闹钟</string>
+    <string name="zen_mode_repeated_calls">重复来电</string>
+    <string name="zen_mode_repeated_calls_desc">启用后，相同的来电者在2分钟内打来的第二通电话将不会被静音</string>
+    <string name="zen_mode_add_downtime">新时间表</string>
+    <string name="zen_mode_meeting_mode_category">日历事件触发的时间表</string>
+    <string name="zen_mode_weekend">周末</string>
+    <string name="zen_mode_everyday">每天</string>
+    <string name="zen_mode_remove_dialog_title">删除时间表</string>
+    <string name="zen_mode_remove_dialog_message">删除此时间表？</string>
+    <string name="zen_mode_limit_dialog_title">新时间表</string>
+    <string name="zen_mode_limit_dialog_message">您可能已有 %d 时间表设置。</string>
+    <string name="zen_mode_downtime_title">时间表</string>
+    <string name="zen_mode_downtime_title_new">新时间表</string>
+    <string name="zen_mode_downtime_title_edit">编辑时间表</string>
+    <string name="zen_mode_downtime_title_meeting">编辑时间表 </string>
+    <string name="zen_mode_others">设置</string>
+    <string name="zen_mode_send_notifications">通知</string>
+    <string name="zen_mode_send_notifications_desc">在“请勿打扰”激活时发送通知</string>
+    <string name="zen_mode_no_interruptions_warning">若设定为”完全阻止”，闹钟也会被静音</string>
+    <string name="zen_mode_from_anyone3">"来自任何人"</string>
+    <string name="zen_mode_from_favorites_only">"仅限来自收藏"</string>
+    <string name="zen_mode_from_contacts_only">"仅限来自联系人"</string>
+    <string name="zen_mode_repeat_callers2">"重复来电"</string>
+    <string name="zen_mode_repeat_callers_summary2">"允许 <xliff:g id="MINUTES">%d</xliff:g> 分钟内再次打来的相同号码"</string>
+    <string name="zen_mode_option_important_interruptions3">"应用打扰规则"</string>
+    <string name="zen_mode_selected_callers2">“选择的来电”</string>
+    <string name="zen_mode_dnd_is_on">"“请勿打扰”现已打开。您可以手动将其关闭。"</string>
+    <string name="zen_mode_turn_off_now">"立即关闭"</string>
+    <string name="zen_mode_custom_name">"自定义"</string>
+    <string name="zen_mode_manual_turn_on">"手动启用“请勿打扰”"</string>
+    <string name="zen_mode_turn_off">"禁用“请勿打扰”"</string>
+    <string name="zen_mode_in_activity">"已启用："</string>
+    <string name="zen_mode_forever2">"无限期"</string>
+</resources>

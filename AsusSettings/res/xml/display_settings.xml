@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+        android:title="@string/display_settings"
+        settings:keywords="@string/keywords_display">
+
+        <!-- xuyi@wind-mobi.com 20160530 modify for Asus brightness dialogue begin -->
+        <com.android.settings.AsusBrightnessPreference
+            android:persistent="false"
+            android:title="@string/brightness" />
+        <!--
+        <PreferenceScreen
+                android:key="brightness"
+                android:title="@string/brightness"
+                settings:keywords="@string/keywords_display_brightness_level">
+            <intent android:action="android.intent.action.SHOW_BRIGHTNESS_DIALOG" />
+        </PreferenceScreen>
+        -->
+        <!-- xuyi@wind-mobi.com 20160530 modify for Asus brightness dialogue end -->
+
+        <SwitchPreference
+                android:key="auto_brightness"
+                android:title="@string/auto_brightness_title"
+                settings:keywords="@string/keywords_display_auto_brightness"
+                android:summary="@string/auto_brightness_summary"
+                android:persistent="false" />
+
+        <!-- Hide night mode for now
+        <ListPreference
+            android:key="night_mode"
+            android:title="@string/night_mode_title"
+            settings:keywords="@string/keywords_display_night_mode"
+            android:summary="@string/night_mode_summary"
+            android:persistent="false"
+            android:entries="@array/night_mode_entries"
+            android:entryValues="@array/night_mode_values" /> -->
+
+        <!-- xuyi@wind-mobi.com 20160530 add for font style begin -->
+        <com.android.settings.flipfont.FontListPreference
+            android:key="MONOTYPE"
+            android:persistent="false"
+            android:summary="@string/monotype_preference_summary"
+            android:title="@string/monotype_preference_title" />
+        <!-- xuyi@wind-mobi.com 20160530 add for font style end -->
+
+        <com.android.settings.WarnedListPreference
+            android:key="font_size"
+            android:title="@string/title_font_size"
+            settings:keywords="@string/keywords_display_font_size"
+            android:summary="@string/summary_font_size"
+            android:entries="@array/entries_font_size"
+            android:entryValues="@array/entryvalues_font_size"
+            android:dialogTitle="@string/dialog_title_font_size" />
+
+        <!-- xuyi@wind-mobi.com 20160601 remove for settings wallpaper begin -->
+        <!--
+        <PreferenceScreen
+                android:key="wallpaper"
+                android:title="@string/wallpaper_settings_title"
+                settings:keywords="@string/keywords_display_wallpaper"
+                android:fragment="com.android.settings.WallpaperTypeSettings"/>
+        -->
+        <PreferenceScreen
+            android:key="wallpaper"
+            android:title="@string/wallpaper_settings_title" />
+        <!-- xuyi@wind-mobi.com 20160601 remove for settings wallpaper end -->
+
+        <ListPreference
+                android:key="screen_timeout"
+                android:title="@string/screen_timeout"
+                android:summary="@string/screen_timeout_summary"
+                android:persistent="false"
+                android:entries="@array/screen_timeout_entries"
+                android:entryValues="@array/screen_timeout_values" />
+
+        <!-- xuyi@wind-mobi.com 20160530 add for LED begin -->
+        <CheckBoxPreference
+            android:key="notification_pulse"
+            android:title="@string/led_indicator"
+            android:persistent="false" />
+        <!-- xuyi@wind-mobi.com 20160530 add for LED end -->
+
+        <PreferenceScreen
+                android:key="screensaver"
+                android:title="@string/screensaver_settings_title"
+                android:fragment="com.android.settings.DreamSettings" />
+
+        <SwitchPreference
+                android:key="lift_to_wake"
+                android:title="@string/lift_to_wake_title"
+                android:persistent="false" />
+
+        <SwitchPreference
+                android:key="doze"
+                android:title="@string/doze_title"
+                android:summary="@string/doze_summary"
+                android:persistent="false" />
+
+        <SwitchPreference
+                android:key="tap_to_wake"
+                android:title="@string/tap_to_wake"
+                android:summary="@string/tap_to_wake_summary"
+                android:persistent="false" />
+
+        <!-- xuyi@wind-mobi.com 20160530 modify for auto rotate begin -->
+        <!--
+        <com.android.settings.DropDownPreference
+                android:key="auto_rotate"
+                android:title="@string/display_auto_rotate_title" />
+        -->
+        <CheckBoxPreference
+            android:key="auto_rotate"
+            android:title="@string/accelerometer_title"
+            android:persistent="false"/>
+        <!-- xuyi@wind-mobi.com 20160530 modify for auto rotate end -->
+        <!--liyong@wind-mobi.com 20160615 remove cast  begin-->
+        <!--<PreferenceScreen
+                android:key="wifi_display"
+                android:title="@string/wifi_display_settings_title"
+                settings:keywords="@string/keywords_display_cast_screen"
+                android:fragment="com.android.settings.wfd.WifiDisplaySettings" />-->
+        <!--liyong@wind-mobi.com 20160615 remove cast  end-->
+
+        <!-- xuyi@wind-mobi.com 20160525 add for BlueLightFilter begin -->
+        <com.android.settings.bluelightfilter.BluelightFilterPreference
+                android:key="bluelight_filter_mode"
+                android:title="@string/splendid_reading_mode_text"
+                android:summary="@string/splendid_balance_mode_text"/>
+        
+        <PreferenceScreen
+                android:key="screen_color_mode"
+                android:title="@string/splendid_screen_color_mode_title"
+                android:summary="@string/splendid_balance_mode_text" />
+	<!-- xuyi@wind-mobi.com 20160525 add for BlueLightFilter end -->
+</PreferenceScreen>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Bitte nicht stören</string>
+    <string name="zen_mode_option_off2">Immer erlauben</string>
+    <string name="zen_mode_option_important_interruptions2">Störregeln anwenden</string>
+    <string name="zen_mode_option_no_interruptions2">Nicht erlauben</string>
+    <string name="zen_mode_important_category2">Störregeln</string>
+    <string name="zen_mode_from2">Anrufe/Nachrichten erlauben von</string>
+    <string name="zen_mode_from_anyone2">Alle</string>
+    <string name="zen_mode_from_contacts2">Nur Kontakte</string>
+    <string name="zen_mode_from_starred2">Nur Favoriten</string>
+    <string name="zen_mode_from_vip2">Nur VIP</string>
+    <string name="zen_mode_downtime_category2">Geplante Zeit (Störregeln anwenden)</string>
+    <string name="zen_mode_alarms_priority">Alarme</string>
+    <string name="zen_mode_repeated_calls">Wiederholte Anrufe</string>
+    <string name="zen_mode_repeated_calls_desc">Ein zweiter Anruf innerhalb zwei Minuten wird nicht stumm geschaltet</string>
+    <string name="zen_mode_add_downtime">Neuer Zeitplan</string>
+    <string name="zen_mode_meeting_mode_category">Durch Kalenderereignisse ausgelösten Zeitplan</string>
+    <string name="zen_mode_weekend">Wochenende</string>
+    <string name="zen_mode_everyday">Täglich</string>
+    <string name="zen_mode_remove_dialog_title">Zeitplan entfernen</string>
+    <string name="zen_mode_remove_dialog_message">Diesen Zeitplan entfernen?</string>
+    <string name="zen_mode_limit_dialog_title">Neuer Zeitplan</string>
+    <string name="zen_mode_limit_dialog_message">Sie können bis zu %d Zeitplaneinstellungen haben.</string>
+    <string name="zen_mode_downtime_title">Zeitplan</string>
+    <string name="zen_mode_downtime_title_new">Neuer Zeitplan</string>
+    <string name="zen_mode_downtime_title_edit">Zeitplan bearbeiten</string>
+    <string name="zen_mode_downtime_title_meeting">Zeitplan bearbeiten </string>
+    <string name="zen_mode_others">Einstellungen</string>
+    <string name="zen_mode_send_notifications">Benachrichtigung</string>
+    <string name="zen_mode_send_notifications_desc">Benachrichtigung senden, sobald Bitte nicht stören aktiviert ist</string>
+    <string name="zen_mode_no_interruptions_warning">"Bei Einstellung auf \"Absolute Stille\" werden Alarme stummgeschaltet."</string>
+    <string name="zen_mode_from_anyone3">"Von jedem"</string>
+    <string name="zen_mode_from_favorites_only">"Nur von Favoriten"</string>
+    <string name="zen_mode_from_contacts_only">"Nur von Kontakten"</string>
+    <string name="zen_mode_repeat_callers2">"Wiederholte Anrufe"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Die Anzahl, die in einem Zeitraum von <xliff:g id="MINUTES">%d</xliff:g> Minuten erneut anruft, wird zugelassen."</string>
+    <string name="zen_mode_option_important_interruptions3">"Störregeln anwenden"</string>
+    <string name="zen_mode_selected_callers2">"Ausgewählte Anrufe"</string>
+    <string name="zen_mode_dnd_is_on">"Bitte nicht stören ist jetzt aktiviert. Sie können die Funktion manuell deaktivieren."</string>
+    <string name="zen_mode_turn_off_now">"Jetzt abschalten"</string>
+    <string name="zen_mode_custom_name">"Benutzerdefiniert"</string>
+    <string name="zen_mode_manual_turn_on">"Bitte nicht stören manuell aktivieren"</string>
+    <string name="zen_mode_turn_off">"Bitte nicht stören deaktivieren"</string>
+    <string name="zen_mode_in_activity">"Aktiviert:"</string>
+    <string name="zen_mode_forever2">"Unbegrenzt"</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="error_apn_not_allowed" description="error message for setting apn that is not allowed">Le nom de point d\&apos;acc\u00e8s sp\u00e9cifi\u00e9 n\&apos;est pas autoris\u00e9 sur cet appareil. Veuillez sp\u00e9cifier un nom diff\u00e9rent.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">మీ స్క్రీన్‌ను అన్‌లాక్ చేయకుండానే కెమెరాను శీఘ్రంగా తెరుస్తుంది</string>
+  <string name="camera_double_tap_power_gesture_title">కెమెరాకై పవర్ బటన్ రెండుసార్లు నొక్కండి</string>
+  <string name="camera_gesture_desc">మీ ఫోన్ పట్టుకున్న ముంజేతిని రెండు సార్లు తిప్పితే కెమెరా అనువర్తనం తెరవబడుతుంది</string>
+  <string name="camera_gesture_title">కెమెరా కోసం రెండు సార్లు తిప్పడం</string>
+  <string name="keywords_color_mode">సచేతనం rgb srgb రంగు సహజం ప్రామాణికం</string>
+  <string name="manual">మాన్యువల్</string>
+  <string name="picture_color_mode">చిత్రం రంగు మోడ్</string>
+  <string name="picture_color_mode_desc">sRGB ఉపయోగిస్తుంది</string>
+  <string name="settings_manual_activity_title">మాన్యువల్</string>
+  <string name="settings_manual_activity_unavailable">మాన్యువల్‌ను లోడ్ చేయడంలో సమస్య ఏర్పడింది.</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"如要控制裝置安置於座架上和/或休眠時的設定，請開啟休眠模式。"</string>
+</resources>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_info">Información de software</string>
+ <string name="hardware_info">Información de hardware</string>
+ <string name="software_info_summary">Banda base, versión del kernel, número de compilación, etc.</string>
+ <string name="hardware_info_summary">Wi-Fi, Bluetooth, versión de Firmware, etc.</string>
+ <string name="asus_encrypt_phone_title">Cifrar teléfono</string>
+ <string name="asus_encrypt_phone_description">Quite el teléfono de su PadFone Station para realizar el cifrado.</string>
+ <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">Almacenamiento insuficiente para cifrar el dispositivo.</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"Más configuraciones"</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">Una aplicación desea que el dispositivo esté visible a otros dispositivos Bluetooth durante <xliff:g id="timeout">%1$d</xliff:g> segundos.</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">Una aplicación desea que el dispositivo esté visible a otros dispositivos Bluetooth. Puede cambiar esta configuración más tarde en la configuración Bluetooth.</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">Una aplicación desea activar la funcionalidad Bluetooth y que el dispositivo esté visible a otros dispositivos durante <xliff:g id="timeout">%1$d</xliff:g> segundos.</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">Una aplicación desea activar la funcionalidad Bluetooth y que el dispositivo esté visible a otros dispositivos. Puede cambiar esta configuración más tarde en la configuración Bluetooth.</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">Información del dispositivo móvil de bolsillo</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">¡Cuando permite la itinerancia de datos, puede incurrir en cargos de itinerancia importantes!\n\nEsta configuración afecta a todos los usuarios de este dispositivo móvil de bolsillo.</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">Cifrar dispositivo</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">
+    Puede cifrar sus cuentas, configuración, aplicaciones descargadas y datos de estas, contenido multimedia y otros archivos. Después de cifrar el dispositivo, suponiendo que ha configurado una pantalla de bloqueo (es decir, un patrón, un código PIN o una contraseña), necesitará desbloquear la pantalla para descifrar el dispositivo cada vez que lo encienda. La única forma de realizar el descifrado es restablecer los datos de fábrica, borrando todos los datos del usuario.\n\nEl cifrado tarda una hora o más. Debe comenzar con una batería cargada y mantener el dispositivo enchufado durante todo el proceso. Si lo interrumpe, perderá algunos datos o todos ellos.</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">Cifrar dispositivo</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">
+    La operación de cifrado es irreversible y, si la interrumpe, perderá los datos. El cifrado tarda al menos una hora. Durante este tiempo el dispositivo se reiniciará varias veces.
+    </string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Espere mientras el dispositivo se cifra. <xliff:g example="50" id="percent">^1</xliff:g>% completado.</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Espere mientras el dispositivo se cifra. Tiempo restante: <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      El cifrado se interrumpió y no se puede completar. Por ello, ya no se podrá acceder a los datos del dispositivo. \n\n Para reanudar el uso del dispositivo, necesita restablecer los valores predeterminados de fábrica. Cuando configure el dispositivo después del restablecimiento, tendrá la oportunidad de restaurar todos los datos de los que hizo una copia de seguridad en su cuenta de Google.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      La contraseña especificada es correcta pero, desafortunadamente, los datos están dañados. \n\nPara reanudar el uso del dispositivo, necesita restablecer los valores predeterminados de fábrica. Cuando configure el dispositivo después del restablecimiento, tendrá la oportunidad de restaurar todos los datos de los que hizo una copia de seguridad en su cuenta de Google.
+    </string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g> se desconectará del uso compartido de la conexión a Internet de este dispositivo.</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">Permitir intercambio de datos cuando el dispositivo toca otro dispositivo.</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">ADVERTENCIA: Si omite Wi\u2011Fi, el dispositivo solamente utilizará datos móviles para descargas y actualizaciones iniciales. Para evitar posibles cuotas de datos, conéctese a Wi\u2011Fi.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">ADVERTENCIA: Si omite Wi\u2011Fi, el dispositivo no tendrá conexión a Internet que utilizar para ninguna descarga o actualización inicial.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">El dispositivo no se pudo conectar a esta red Wi\u2011Fi.</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">Dispositivo no acoplado</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">Necesita acoplar el dispositivo antes de configurar el audio de la base de conexiones.</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">Reproducir sonido al insertar o quitar el dispositivo de la base de conexiones</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">No reproducir sonido al insertar o quitar el dispositivo de la base de conexiones</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">Cambiar la orientación automáticamente al girar el dispositivo</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">Cambiar la orientación automáticamente al girar el dispositivo</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">Solicitar código PIN para usar el dispositivo</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">Solicitar código PIN para usar el dispositivo</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">Estado del dispositivo</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">Estado de la batería, de la red y otra información</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">Borra todos los datos del dispositivo</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Esto borrará todos los datos del almacenamiento interno <b>del dispositivo</b>, lo que incluye:\n\n<li>Su cuenta de Google</li>\n<li>Datos y configuraciones del sistema y de las aplicaciones</li>\n<li>Aplicaciones descargadas</li>"</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">Restablecer dispositivo</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">Compartiendo la conexión a Internet de este dispositivo</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">Compartiendo la conexión a Internet de este dispositivo con 1 dispositivo</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">Compartiendo la conexión a Internet de este dispositivo con <xliff:g id="connectedDeviceCount">%1$d</xliff:g> dispositivos</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">La conexión a Internet de este dispositivo no se está compartiendo</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">Permitir que las aplicaciones utilicen GPS en el dispositivo para precisar su ubicación</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">Acerca del dispositivo</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">El dispositivo y los datos personales son más vulnerables a ataques de aplicaciones de fuentes desconocidas. Usted acepta ser el único responsable de cualquier daño causado al dispositivo o de la pérdida de datos derivados del uso de estas aplicaciones.</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">Esta aplicación puede acceder a lo siguiente en el dispositivo:</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">Esta aplicación puede acceder a lo siguiente en el dispositivo.</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">Mover al dispositivo</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">Si detiene este servicio, algunas funciones del dispositivo pueden dejar de funcionar correctamente hasta que la apague y la vuelva a encender.</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">Información del dispositivo</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">Inactividad del dispositivo</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">Dispositivo</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">Batería usada cuando el dispositivo está inactivo</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">¡Si quita esta cuenta se eliminarán todos sus mensajes, contactos y otros datos del dispositivo!</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Los cambios realizados en sus cuentas en la Web se copiarán automáticamente en el dispositivo.\n\nAlgunas cuentas también pueden copiar automáticamente los cambios realizados en el dispositivo en la Web. Una cuenta de Google funciona de esta forma.</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">El dispositivo desactivará los datos móviles cuando alcance el límite establecido.\n\nDado que el uso de los datos se mide en el dispositivo y su compañía puede contar de forma diferente, considere la posibilidad de establecer un límite conservador.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">Si restringe los datos móviles en segundo plano, algunas aplicaciones y servicios no funcionarán a menos que esté conectado a una red Wi\u2011Fi.\n\nEsta configuración afecta a todos los usuarios de este dispositivo.</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>: aproximadamente <xliff:g example="128KB" id="total">%1$s</xliff:g> usad, según lo ha medido el dispositivo. Las estimaciones de uso de datos de la compañía pueden ser diferentes.</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">Solamente el propietario del dispositivo puede administrar usuarios.</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">Perderá el espacio y los datos del dispositivo. No puede deshacer esta acción.</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">Esta configuración afecta a todos los usuarios de este dispositivo.</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">Permitir intercambio de datos cuando el dispositivo toca otro dispositivo.</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">Sólo GPS</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">Cuando se activa, puede usar el anclaje de la pantalla para mantener la versión actual a la vista hasta que deshaga el anclaje.\n\nPara usar el anclaje de la pantalla:\n\n1. Asegúrese de que el anclaje de la pantalla está activado.\n\n2. Abra la pantalla que desee anclar.\n\n3. Pulse la tecla de aplicaicones recientes.\n\n4. Pulse el icono de anclaje.</string>
+
+    <string name="zenui_update">Actualizaciones de ZenUI APP</string>
+ <string name="c_launch_title">“C” para iniciar la aplicación</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">No mostrar esto de nuevo</string>
+    <string name="double_tap_mode_confirm_dialog_message">Cuando la pantalla esté apagada, pulse dos veces en el mismo lugar de la misma para reactivarla. En la pantalla de bloqueo con deslizamiento rápido para bloquear, pulse dos veces en un espacio vacío para apagar la pantalla. En la barra de estado y en el iniciador, pulse dos veces en un espacio vacío para apagar la pantalla.</string>
+    <string name="double_tap_mode_confirm_dialog_title">Pulsar dos veces para reactivar/\nPulsar dos veces para suspender</string>
+    <string name="doubletap_mode_setting_summary">Pulsar dos veces para reactivar/"\n"Pulsar dos veces para suspender</string>
+    <string name="doubletap_mode_setting_title">Encendido y apagado de la pantalla</string>
+    <string name="e_launch_title">“e” para iniciar la aplicación</string>
+    <string name="motion_gesture_category_title">Gesto de movimiento</string>
+    <string name="s_launch_title">“S” para iniciar la aplicación</string>
+    <string name="shake_sensitivity_title">Sensibilidad de agitación</string>
+    <string name="shake_title">Agitar dos veces</string>
+    <string name="touch_gesture_category_title">Gesto táctil</string>
+    <string name="v_launch_title">“V” para iniciar la aplicación</string>
+    <string name="w_launch_title">“W” para iniciar la aplicación</string>
+    <string name="z_launch_title">“Z” para iniciar la aplicación</string>
+    <string name="app_disable">Deshabilitada</string>
+    <string name="shake_sensitivity_entries_high">Alta</string>
+    <string name="shake_sensitivity_entries_low">Baja</string>
+    <string name="shake_sensitivity_entries_normal">Normal</string>
+    <string name="usage_applications_settings">Aplicaciones en ejecución</string>
+    <string name="usage_data_usage_summary_title">Uso de datos</string>
+    <string name="usage_power_settings_title">Administración de energía</string>
+    <string name="double_tap_off_confirm_dialog_message">En la pantalla de bloqueo con deslizamiento rápido para desbloquear, pulse dos veces en un espacio vacío para apagar la pantalla. En la barra de estado y en el iniciador, pulse dos veces en un espacio vacío para apagar la pantalla.</string>
+    <string name="double_tap_off_confirm_dialog_title">Pulsar dos veces para suspender</string>
+    <string name="double_tap_on_confirm_dialog_message">Cuando la pantalla esté apagada, pulse dos veces en el mismo lugar de la misma para reactivarla.</string>
+    <string name="double_tap_on_confirm_dialog_title">Pulsar dos veces para reactivar</string>
+    <string name="doubletap_off_setting_summary">Pulsar dos veces para suspender</string>
+    <string name="doubletap_off_setting_title">Apagar pantalla</string>
+    <string name="doubletap_on_setting_summary">Pulsar dos veces para reactivar</string>
+    <string name="doubletap_on_setting_title">Pantalla encendida</string>
+    <string name="cpu_frequency_title">CPU</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="shake_summary">Cuando utilice una aplicación, agite dos veces para hacer una captura de pantalla y crear una nueva tarea en Do It Later.</string>
+    <string name="sleep_touch_gesture_category_title">Modo Suspender</string>
+    <string name="wake_up_touch_gesture_category_title">Modo Reactivar</string>
+    <string name="motion_double_click_summary">Haga clic en el cuerpo del teléfono dos veces.</string>
+    <string name="motion_double_click_title">Doble clic</string>
+    <string name="motion_flip_summary">Dé la vuelta al dispositivo.</string>
+    <string name="motion_flip_title">Voltear</string>
+    <string name="motion_hand_up_summary">Sujete el teléfono verticalmente y levante para tocar la oreja.</string>
+    <string name="motion_hand_up_title">Manos arriba</string>
+    <string name="motion_walking_summary">Mientras el teléfono está en las manos o en el bolsillo, dicho teléfono sabe que el usuario está andando o moviéndose.</string>
+    <string name="motion_walking_title">Movimiento</string>
+    <string name="app_asus_front_camera_name">"Cámara - Objetivo frontal"</string>
+    <string name="tutorial_c_launch_summary">"Cuando la pantalla esté apagada, dibuje una “C” para iniciar la aplicación."</string>
+    <string name="tutorial_double_click_summary">"Cuando reciba una llamada, haga doble clic en el cuerpo del teléfono para activar el modo de silencio."</string>
+    <string name="tutorial_e_launch_summary">"Cuando la pantalla esté apagada, dibuje una “e” para iniciar la aplicación."</string>
+    <string name="tutorial_flip_down_summary">"Durante una semana entrante, dé la vuelta al dispositivo para activar el modo de silencio. Durante la reproducción multimedia, dé la vuelta al dispositivo para pausar el reproductor."</string>
+    <string name="tutorial_flip_down_title">"Voltear (boca abajo)"</string>
+    <string name="tutorial_flip_up_summary">"Mientras el reproductor multimedia está en pausa, ponga el dispositivo boca arriba para pausarlo."</string>
+    <string name="tutorial_flip_up_title">"Voltear (boca arriba)"</string>
+    <string name="tutorial_hands_up_summary">"Levante el teléfono hasta su oreja para responder llamadas automáticamente sin pulsar la pantalla."</string>
+    <string name="tutorial_moving_summary">"Cuando haya una llamada entrante, suba el volumen del tono de llamada mientras camina o se mueve."</string>
+    <string name="tutorial_s_launch_summary">"Cuando la pantalla esté apagada, dibuje una “S” para iniciar la aplicación."</string>
+    <string name="tutorial_v_launch_summary">"Cuando la pantalla esté apagada, dibuje una “V” para iniciar la aplicación."</string>
+    <string name="tutorial_w_launch_summary">"Cuando la pantalla esté apagada, dibuje una “W” para iniciar la aplicación."</string>
+    <string name="tutorial_z_launch_summary">"Cuando la pantalla esté apagada, dibuje una “Z” para iniciar la aplicación."</string>
+    <string name="zenmotion_tutorial_title">"Tutorial"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"Último restablecimiento de datos de fábrica"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"Versión de configuración"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"Asistente para audio"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">Temas</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"ID cliente"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"¿Usar USB para transferir archivos?"</string>
+    <string name="usb_change_config_dialog_title">"¿Usar USB para transferir archivos?"</string>
+    <string name="usb_change_config_dialog_message">Permitir transferencia de archivos con los equipos en que confía cuando estén conectados.</string>
+    <string name="usb_change_config_dialog_checkbox_message">"Permitir siempre para este equipo"
+    </string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 end-->
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">העבר אל זכרון המכשיר</string>
+    <string name="move_error_unknow">לא ניתן להעביר את היישום. נסה שוב.</string>
+    <string name="processing">מעבד…</string>
+    <string name="dialog_hint">תהליך הגיבוי עשוי להימשך זמן רב.\n\nאל את המכשיר ואל להשתמש ביישומים שבחרת להעביר. אל תוציא את התקן האחסון החיצוני במהלך הגיבוי.\n\nהאם ברצונך להמשיך?</string>
+</resources>

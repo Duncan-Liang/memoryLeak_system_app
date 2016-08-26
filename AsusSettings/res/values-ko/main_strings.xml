@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_info">소프트웨어 정보</string>
+ <string name="hardware_info">하드웨어 정보</string>
+ <string name="software_info_summary">기본 대역, 커널 버전, 빌드 번호 등</string>
+ <string name="hardware_info_summary">Wi-Fi, 블루투스, 펌웨어 버전 등</string>
+ <string name="asus_encrypt_phone_title">폰 암호화</string>
+ <string name="asus_encrypt_phone_description">암호화를 위해 PadFone Station에서 폰을 제거하십시오.</string>
+ <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">장치 암호화에 필요한 저장 공간이 부족합니다.</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"추가 설정"</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">앱에서 휴대 전화를 다른 Bluetooth 장치에 <xliff:g id="timeout">%1$d</xliff:g> 초 동안 표시하려고 합니다.</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">앱에서 휴대 전화를 다른 Bluetooth 장치에 표시하려고 합니다. 나중에 Bluetooth 설정에서 변경할 수 있습니다.</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">앱에서 Bluetooth를 켜고 휴대 전화를 다른 장치에  <xliff:g id="timeout">%1$d</xliff:g> 초 동안 표시하려고 합니다.</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">앱에서 Bluetooth를 켜고 휴대 전화를 다른 장치에 표시하려고 합니다. 나중에 Bluetooth 설정에서 변경할 수 있습니다.</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">휴대장치 모바일 기기 정보</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">데이터 로밍을 허용할 경우 과도한 로밍 요금이 부과될 수 있습니다!\n\n이 설정은 휴대장치 모바일 기기를 사용하는 모든 사용자에게 영향을 줄 수 있습니다.</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">장치 암호화</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">
+    계정, 설정, 다운로드 받은 앱 및 데이터, 미디어, 기타 파일을 암호화할 수 있습니다. 장치를 암호화 한 후 화면 잠금(패턴 또는 숫자 PIN 또는 암호)을 설정한 경우, 전원을 켤 때마다 화면을 잠금해제하여 장치를 암호화해야 합니다. 암호화하는 다른 방법은 공장 데이터 초기화를 수행하는 것이며 초기화할 경우 모든 데이터가 삭제됩니다.\n\n암호화는 한 시간 이상이 걸립니다. 충전된 배터리로 시작해야 하며 과정 내내 연결이 되어 있어야 합니다. 전원이 중단되면 데이터 전체 또는 일부가 손실될 수 있습니다.</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">장치 암호화</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">
+    암호화 작업을 되돌릴 수 없는 상태에서 중단할 경우 데이터가 손실됩니다. 암호화는 한 시간 이상이 걸리며 과정 중에 몇 번을 다시 시작합니다.
+    </string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">장치가 암호화될 때까지 기다리십시오. <xliff:g example="50" id="percent">^1</xliff:g>% 완료.</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">장치가 암호화될 때까지 기다리십시오. 남은 시간 <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      암호화가 중단되었으며 완료할 수 없습니다. 따라서 장치에 있는 데이터에 더 이상 접속할 수 없습니다. \n\n 장치를 사용하려면 공장 설정으로 초기화 하십시오. 초기화한 후 장치를 설정할 때 Google 계정으로 백업한 데이터를 복원할 수 있습니다.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      입력한 비밀번호는 맞지만 데이터가 손상되었습니다. \n\n 장치를 사용하려면 공장 설정으로 초기화 하십시오. 초기화한 후 장치를 설정할 때 Google 계정으로 백업한 데이터를 복원할 수 있습니다.
+    </string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g> 이(가) 장치의 인터넷 연결 공유에서 연결이 끊어집니다.</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">장치가 다른 장치를 터치할 때 데이터 교환 허용</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">경고: Wi\u2011Fi를 건너 뛰면 초기 다운로드 및 업데이트에 셀룰러 데이터만 사용하게 됩니다. 데이터 요금을 내지 않으려면 Wi\u2011Fi에 연결하십시오.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">경고: Wi\u2011Fi를 건너 뛰면 초기 다운로드 및 업데이트에 인터넷 연결을 사용하지 않습니다.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">장치를 이 Wi\u2011Fi 네트워크에 연결할 수 없습니다.</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">장치가 도크되지 않음</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">도크 오디오를 설정하기 전에 장치를 도크해야 합니다.</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">도크에서 장치를 설치하거나 제거할 때 재생 소리</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">도크에서 장치를 설치하거나 제거할 때 소리 없음</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">장치를 회전할 때 자동으로 방향 전환</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">장치를 회전할 때 자동으로 방향 전환</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">장치 사용 시 PIN 필요</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">장치 사용 시 PIN 필요</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">장치 상태</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">배터리, 네트워크, 기타 정보 상태</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">장치에서 모든 데이터 삭제</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"장치의 내부 저장소에서 모든 <b>데이터를</b>삭제하며<li>Google 계정</li>\n<li>시스템 및 앱 데이터와 설정</li>\n<li>다운로드 받은 앱도 삭제됩니다</li>"</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">장치 초기화</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">장치의 인터넷 연결 공유</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">1개 장치에 이 장치의 인터넷 연결 공유</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">다음 장치에 이 장치의 인터넷 연결 공유 <xliff:g id="connectedDeviceCount">%1$d</xliff:g> .</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">장치의 인터넷 연결을 공유하지 않음</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">앱이 장치에서 GPS를 사용하여 위치에 대해 고정점 허용</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">장치 정보</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">장치와 개인 데이터가 더욱 취약해져 알 수 없는 소스로부터 앱에 의해 공격을 받기 쉽습니다. 이들 앱을 사용함으로 인한 데이터 분실 또는 장치 파손은 사용자 책임입니다.</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">이 앱은 장치에서 다음에 접속할 수 있습니다:</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">이 앱은 장치에서 다음에 접속할 수 있습니다:</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">장치로 이동</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">이 서비스를 중단하면 전원을 끄고 다시 켤 때까지 장치의 일부 기능이 올바르게 작동하지 않을 수 있습니다.</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">장치 정보</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">장치 휴면 상태</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">장치</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">장치가 휴면 상태일 때 사용한 배터리 양</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">이 계정을 제거하면 장치에서 메시지, 연락처, 기타 데이터를 삭제합니다.</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">웹에서 변경한 계정 정보가 장치로 자동으로 복사됩니다.\n\n장치에서 변경한 일부 정보도 웹으로 자동으로 복사됩니다. Google 계정을 이 방법으로 작동합니다.</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">설정값에 도달하면 장치가 셀룰러 데이터를 끕니다.\n\n장치에서 데이터 사용량을 측정하므로 통신 사업자의 사용량 계산과 다를 수 있으므로 보수적인 제한값을 설정하십시오.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">배경 셀룰러 데이터를 제한할 경우 일부 앱과 서비스가 Wi\u2011Fi에 연결될 때까지 작동하지 않습니다.\n\n이 설정은 장치에 있는 모든 사용자에게 영향을 줍니다.</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>: 정보 <xliff:g example="128KB" id="total">%1$s</xliff:g> 사용함. 장치에서 측정한 수치입니다. 통신 사업자기 측정한 값은 다를 수 있습니다.</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">장치 소유자만 사용자를 관리할 수 있습니다.</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">장치에서 공간 및 데이터를 잃게 됩니다. 이 작업은 실행 취소를 할 수 없습니다.</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">이 설정은 장치에 있는 모든 사용자에게 영향을 줍니다.</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">장치가 다른 장치를 터치할 때 데이터 교환 허용</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">GPS만</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">전원을 켜면 화면 고정을 사용하여 화면 고정을 해제할 때까지 보기에서 현재 화면을 유지할 수 있습니다.\n\n화면 고정을 사용하려면:\n\n1. 화면 고정이 켜져 있는지 확인하십시오.\n\n2. 고정할 화면을 엽니다.\n\n3. 최근 앱 키를 누릅니다.\n\n4. 핀 아이콘을 누릅니다.</string>
+
+    <string name="zenui_update">ZenUI APP 업데이트</string>
+ <string name="c_launch_title">앱을 시작하려면 “C”를 탭핑하십시오.</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">이 메시지를 다시 표시하지 않음</string>
+    <string name="double_tap_mode_confirm_dialog_message">화면이 꺼져 있으므로, 화면 절전 모드를 해제하려면 화면의 동일한 곳을 두 번 탭핑하십시오. 살짝 밀기로 잠근 잠금 화면에서, 화면을 끄려면 빈 공간을 두 번 탭핑하십시오. 상태 표시줄과 시작 프로그램에서, 화면을 끄려면 빈 공간을 두 번 탭핑하십시오.</string>
+    <string name="double_tap_mode_confirm_dialog_title">절전 모드를 해제하려면 두 번 탭핑하십시오./\n일시 중진하려면 두 번 탭핑하십시오.</string>
+    <string name="doubletap_mode_setting_summary">절전 모드를 해제하려면 두 번 탭핑하십시오./\n일시 중단하려면 두 번 탭핑하십시오.</string>
+    <string name="doubletap_mode_setting_title">화면 켜기/끄기</string>
+    <string name="e_launch_title">앱을 시작하려면 “e”를 탭핑하십시오.</string>
+    <string name="motion_gesture_category_title">동작 제스처</string>
+    <string name="s_launch_title">앱을 시작하려면 “S”를 탭핑하십시오.</string>
+    <string name="shake_sensitivity_title">흔들기 감도</string>
+    <string name="shake_title">계속 흔들기</string>
+    <string name="touch_gesture_category_title">터치 제스처</string>
+    <string name="v_launch_title">앱을 시작하려면 “V”를 탭핑하십시오.</string>
+    <string name="w_launch_title">앱을 시작하려면 “W”를 탭핑하십시오.</string>
+    <string name="z_launch_title">앱을 시작하려면 “Z”를 탭핑하십시오.</string>
+    <string name="app_disable">사용 안 함</string>
+    <string name="shake_sensitivity_entries_high">높음</string>
+    <string name="shake_sensitivity_entries_low">낮음</string>
+    <string name="shake_sensitivity_entries_normal">보통</string>
+    <string name="double_tap_off_confirm_dialog_message">밀어서 잠금 해제한 잠금 화면에서 빈 공간을 두 번 눌러 화면을 끕니다. 상태 표시줄 및 시작 관리자에서 빈 공간을 두 번 눌러 화면을 끕니다.</string>
+    <string name="double_tap_off_confirm_dialog_title">두 번 눌러 일시 정지</string>
+    <string name="double_tap_on_confirm_dialog_message">화면이 꺼지면 화면에서 같은 장소를 두 번 눌러 절전모드를 해제합니다.</string>
+    <string name="double_tap_on_confirm_dialog_title">두 번 눌러 절전모드 해제</string>
+    <string name="doubletap_off_setting_summary">두 번 눌러 일시 정지</string>
+    <string name="doubletap_off_setting_title">화면 꺼짐</string>
+    <string name="doubletap_on_setting_summary">두 번 눌러 절전모드 해제</string>
+    <string name="doubletap_on_setting_title">화면 켜짐</string>
+    <string name="cpu_frequency_title">CPU</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="shake_summary">앱 사용 시, 두 번 흔들면 스냅샷을 만들고 나중에 할 일에서 새 작업을 만들 수 있습니다.</string>
+    <string name="sleep_touch_gesture_category_title">일시중단 모드</string>
+    <string name="wake_up_touch_gesture_category_title">절전모드 해제 모드</string>
+    <string name="motion_double_click_summary">전화 본체를 두 번 클릭합니다.</string>
+    <string name="motion_double_click_title">두 번 클릭</string>
+    <string name="motion_flip_summary">장치를 뒤집습니다.</string>
+    <string name="motion_flip_title">반전</string>
+    <string name="motion_hand_up_summary">전화를 세로 모드로 고정하고 들어올려 귀를 터치합니다.</string>
+    <string name="motion_hand_up_title">핸즈 업</string>
+    <string name="motion_walking_summary">전화기를 손에 들거나 주머니에 넣고 있는 동안, 전화기는 사용자가 걷거나 이동 중에 있는 것을 감지합니다.</string>
+    <string name="motion_walking_title">이동 중</string>
+    <string name="app_asus_front_camera_name">“카메라 전면 렌즈”</string>
+    <string name="tutorial_c_launch_summary">"화면이 꺼졌습니다. “C”를 그려 앱을 시작하십시오."</string>
+    <string name="tutorial_double_click_summary">"전화가 걸려오면, 전화기를 두 번 클릭하여 자동 모드로 전환하십시오."</string>
+    <string name="tutorial_e_launch_summary">"화면이 꺼졌습니다. “e”를 그려 앱을 시작하십시오."</string>
+    <string name="tutorial_flip_down_summary">"전화 수신 중 장치 상단을 아래로 뒤집으면 자동 모드로 전환됩니다. 미디어 재생 중 장치 상단을 아래로 뒤집으면 플레이어가 일시 중지됩니다."</string>
+    <string name="tutorial_flip_down_title">"뒤집기(아래로 뒤집기)"</string>
+    <string name="tutorial_flip_up_summary">"미디어 플레이어가 일시 중지된 동안 장치 상단을 위로 뒤집으면 플레이어가 일시 중지됩니다."</string>
+    <string name="tutorial_flip_up_title">"뒤집기(위로 뒤집기)"</string>
+    <string name="tutorial_hands_up_summary">"전화기를 귀에 대면 화면을 탭하지 않고도 자동으로 통화할 수 있습니다."</string>
+    <string name="tutorial_moving_summary">"전화가 걸려오면, 걷거나 움직이면서 벨소리 볼륨을 높일 수 있습니다."</string>
+    <string name="tutorial_s_launch_summary">"화면이 꺼졌습니다. “S”를 그려 앱을 시작하십시오."</string>
+    <string name="tutorial_v_launch_summary">"화면이 꺼졌습니다. “V”를 그려 앱을 시작하십시오."</string>
+    <string name="tutorial_w_launch_summary">"화면이 꺼졌습니다. “W”를 그려 앱을 시작하십시오."</string>
+    <string name="tutorial_z_launch_summary">"화면이 꺼졌습니다. “Z”를 그려 앱을 시작하십시오."</string>
+    <string name="zenmotion_tutorial_title">"자습서"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"마지막 공장 데이터 초기화"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"구성 버전"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"오디오 마법사"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">테마</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"고객 ID"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"파일 전송 시 USB를 사용하시겠습니까?"</string>
+    <string name="usb_change_config_dialog_title">"파일 전송 시 USB를 사용하시겠습니까?"</string>
+    <string name="usb_change_config_dialog_message">"연결되면 신뢰할 수 있는 컴퓨터를 사용해 파일을 전송할 수 있습니다."
+    </string>
+    <string name="usb_change_config_dialog_checkbox_message">"항상 이 컴퓨터 허용"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 end-->
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"فعال کردن حرکات برای باز کردن برنامه ها و خاموش و روشن کردن صفحه"</string>
+    <string name="vzw_doubletap_off_setting_title">"خاموش کردن صفحه با دوبار ضربه"</string>
+    <string name="vzw_doubletap_off_setting_summary">"برای خاموش کردن صفحه، دوبار روی آن ضربه بزنید"</string>
+    <string name="vzw_doubletap_on_setting_title">"روشن کردن صفحه با دوبار ضربه"</string>
+    <string name="vzw_doubletap_on_setting_summary">"برای روشن کردن صفحه سیاه، دوبار روی آن ضربه بزنید"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"حرکات"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"وقتی صفحه خاموش است می توانید با کشیدن حرف مختص هر برنامه، آن را باز کنید. برنامه را می توانید با ضربه زدن روی آن در قسمت زیر تغییر دهید."</string>
+    <string name="vzw_w_launch_title">"با کشیدن \"W\" این برنامه باز می شود"</string>
+    <string name="vzw_s_launch_title">"با کشیدن \"S\" این برنامه باز می شود"</string>
+    <string name="vzw_e_launch_title">"با کشیدن \"e\" این برنامه باز می شود"</string>
+    <string name="vzw_c_launch_title">"با کشیدن \"C\" این برنامه باز می شود"</string>
+    <string name="vzw_z_launch_title">"با کشیدن \"Z\" این برنامه باز می شود"</string>
+    <string name="vzw_v_launch_title">"با کشیدن \"V\" این برنامه باز می شود"</string>
+</resources>

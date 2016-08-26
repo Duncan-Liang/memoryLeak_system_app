@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Si activa la función de bloqueo de llamadas entrantes, deberá pasar la huella dactilar para responder llamadas. Las llamadas se conectarán automáticamente si se identifica correctamente la huella dactilar.\nTenga en cuenta lo siguiente:\n1.Puede responder las llamada entrantes directamente desde unos auriculares Bluetooth emparejados o un smartwatch sin pasar la huella dactilar.\n2.Seguirá teniendo que usar la huella dactilar para responder llamadas si utiliza auriculares con cable.\n3.No podrá contestar la llamada desde una pantalla de llamada entrante de terceros.\n4.Para llamadas de Voz sobre IP (VoIP), p. ej., llamadas de voz de WhatsApp, deberá responder la llamada desde la propia aplicación."</string>
+    <string name="asus_long_tap_warning">"Si está activada la función de bloqueo de llamada entrante, se desactivará la respuesta de llamadas mediante pulsar y mantener."</string>
+</resources>

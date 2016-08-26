@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"바로가기 키 설정"</string>
+    <string name="screenshot_hot_key_title">"최근 앱 키"</string>
+    <string name="screenshot_hot_key_summary">"최근 앱 키를 탭핑하여 누르고 있으면 스크린샷을 촬영합니다."</string>
+    <string name="screenshot_format_setting_title">"파일 형식 설정"</string>
+    <string name="screenshot_format_title">"스크린샷 파일 형식"</string>
+    <string name="screenshot_sound_setting_title">"소리 설정"</string>
+    <string name="screenshot_sound_title">"스크린샷 소리 사용"</string>
+    <string name="screenshot_notify_setting_title">"알림 설정"</string>
+    <string name="screenshot_notify_title">"알림 활성화"</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Configuração do botão de atalho"</string>
+    <string name="screenshot_hot_key_title">"Botão de aplicações recentes"</string>
+    <string name="screenshot_hot_key_summary">"Toque sem soltar o botão de aplicações recentes para efetuar uma captura do ecrã"</string>
+    <string name="screenshot_format_setting_title">"Configuração de formato de ficheiro"</string>
+    <string name="screenshot_format_title">"Formato do ficheiro de captura de ecrã"</string>
+    <string name="screenshot_sound_setting_title">"Definição de som"</string>
+    <string name="screenshot_sound_title">"Ativar som de captura de ecrã"</string>
+    <string name="screenshot_notify_setting_title">"Definição da notificação"</string>
+    <string name="screenshot_notify_title">"Ativar notificação"</string>
+</resources>

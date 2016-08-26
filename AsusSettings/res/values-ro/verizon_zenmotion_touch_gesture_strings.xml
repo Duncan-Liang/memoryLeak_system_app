@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Permite gesturi la deschiderea apl. şi la stingerea şi pornirea ecranului"</string>
+    <string name="vzw_doubletap_off_setting_title">"Atingere dublă pt. a stinge ecranul"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Atingeţi de două ori ecranul pentru a-l stinge"</string>
+    <string name="vzw_doubletap_on_setting_title">"Atingere dublă pt. activare"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Atingeţi de două ori ecranul negru pentru a-l activa"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Gesturi"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Desenaţi o literă pe ecranul pornit pentru a deschide aplicaţia asociată. Puteţi modifica apl. atingând dedesubt."</string>
+    <string name="vzw_w_launch_title">"“W” deschide această aplicaţie"</string>
+    <string name="vzw_s_launch_title">"“S” deschide această aplicaţie"</string>
+    <string name="vzw_e_launch_title">"“e” deschide această aplicaţie"</string>
+    <string name="vzw_c_launch_title">"“C” deschide această aplicaţie"</string>
+    <string name="vzw_z_launch_title">"“Z” deschide această aplicaţie"</string>
+    <string name="vzw_v_launch_title">"“V” deschide această aplicaţie"</string>
+</resources>

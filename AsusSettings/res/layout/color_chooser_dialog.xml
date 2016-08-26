@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.android.settings.users.ColorChooserGridLayout
+        android:id="@+id/color_chooser_colormaskgridlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingTop="@dimen/color_chooser_dialog_margin_top"
+        android:paddingBottom="@dimen/color_chooser_dialog_margin_bottom"
+        android:gravity="center"
+        android:orientation="horizontal" >
+    </com.android.settings.users.ColorChooserGridLayout>
+
+    <FrameLayout
+        android:id="@+id/color_chooser_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/color_mask_palette"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/asus_colorchooser_bg_color"
+            android:paddingTop="@dimen/color_chooser_bar_padding_top"
+            android:paddingLeft="@dimen/color_chooser_bar_padding"
+            android:paddingRight="@dimen/color_chooser_bar_padding"
+            android:paddingBottom="@dimen/color_chooser_bar_padding_bottom"/>
+        <ImageView
+            android:id="@+id/color_choose_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/asus_colorchooser_icon_chose"/>
+    </FrameLayout>
+</LinearLayout>

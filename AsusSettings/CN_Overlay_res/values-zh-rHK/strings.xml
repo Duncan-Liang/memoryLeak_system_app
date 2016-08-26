@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="radio_controls_summary" msgid="2837395036275123133">"管理 WLAN、藍牙、飛行模式、流動網絡和 VPN"</string>
+    <string name="wifi_assistant_title" msgid="2553267316621598101">"WLAN Assistant"</string>
+    <string name="wifi_alert_lockdown_by_device_owner" msgid="8459738223049002970">"<xliff:g id="APP_NAME">%1$s</xliff:g> 目前管理您的裝置，且不允許修改或刪除此 WLAN 網絡。如需瞭解更多資訊，請聯絡您的管理員。"</string>
+    <string name="wifi_quick_toggle_title" msgid="8850161330437693895">"WLAN"</string>
+    <string name="wifi_quick_toggle_summary" msgid="2696547080481267642">"開啟 WLAN"</string>
+    <string name="wifi_settings" msgid="29722149822540994">"WLAN"</string>
+    <string name="wifi_settings_category" msgid="8719175790520448014">"WLAN 設定"</string>
+    <string name="wifi_settings_title" msgid="3103415012485692233">"WLAN"</string>
+    <string name="wifi_setup_wizard_title" msgid="7873622558088429710">"選取 WLAN 網絡"</string>
+    <string name="wifi_select_network" msgid="4210954938345463209">"選取 WLAN"</string>
+    <string name="wifi_starting" msgid="6732377932749942954">"正在開啟 WLAN..."</string>
+    <string name="wifi_stopping" msgid="8952524572499500804">"正在關閉 WLAN…"</string>
+    <string name="wifi_poor_network_detection_summary" msgid="2784135142239546291">"除非互聯網連線穩定，否則不要使用 WLAN 網絡"</string>
+    <string name="wifi_automatically_connect_title" msgid="7950640291510621742">"自動使用開放的 WLAN"</string>
+    <string name="wifi_automatically_connect_summary" msgid="6722194413023965902">"讓 WLAN 小幫手自動連線至優質的開放網絡"</string>
+    <string name="wifi_scan_notify_text" msgid="5593805423071186757">"為提高定位準確度，系統應用程式和服務仍可掃瞄 WLAN 網絡。您可以在<xliff:g id="LINK_BEGIN_0">LINK_BEGIN</xliff:g>掃瞄設定<xliff:g id="LINK_END_1">LINK_END</xliff:g>中更改此設定。"</string>
+    <string name="wifi_setting_sleep_policy_title" msgid="5149574280392680092">"休眠時繼續連接 WLAN 網絡"</string>
+    <string name="wifi_setting_on_during_sleep_title" msgid="8308975500029751565">"休眠狀態仍保持 WLAN 連線"</string>
+    <string name="wifi_suspend_optimizations" msgid="1220174276403689487">"WLAN 優化"</string>
+    <string name="wifi_suspend_optimizations_summary" msgid="4151428966089116856">"開啟 WLAN 時盡量節約用電"</string>
+    <string name="wifi_limit_optimizations_summary" msgid="9000801068363468950">"限制 WLAN 耗電量"</string>
+    <string name="wifi_switch_away_when_unvalidated" msgid="1410499115509796174">"當 WLAN 無法連接至互聯網時，切換至流動數據。"</string>
+    <string name="wifi_access_points" msgid="7053990007031968609">"WLAN 網絡"</string>
+    <string name="wifi_menu_p2p" msgid="7619851399250896797">"WLAN Direct"</string>
+    <string name="wifi_empty_list_wifi_off" msgid="8056223875951079463">"如要查看可用的網絡，請開啟 WLAN。"</string>
+    <string name="wifi_empty_list_wifi_on" msgid="8746108031587976356">"正在搜尋 WLAN 網絡..."</string>
+    <string name="wifi_empty_list_user_restricted" msgid="7322372065475939129">"您無權更改 WLAN 網絡。"</string>
+    <string name="wifi_wps_setup_title" msgid="8207552222481570175">"WLAN 保護設定"</string>
+    <string name="wifi_wps_onstart_pbc" msgid="817003360936932340">"按路由器上的 WLAN 保護設定按鈕，該按鈕可能標示為「WPS」或顯示這個符號："</string>
+    <string name="wifi_wps_connected" msgid="7153432445748931183">"已連接 WLAN 網絡 <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+    <string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"「<xliff:g id="APP_NAME">%1$s</xliff:g>」要求開啟網絡掃瞄功能 (即使 WLAN 已關閉)，以提升定位精確度及用於其他用途。\n\n您要允許所有需要掃瞄的應用程式這項要求嗎？"</string>
+    <string name="wifi_skipped_message" product="tablet" msgid="6761689889733331124">"警告：如果略過 WLAN 設定，平板電腦將只能透過流動數據連線，以作初始下載及更新。如要避免產生數據傳輸費用，請連線至 WLAN 網絡。"</string>
+    <string name="wifi_skipped_message" product="device" msgid="1385490367826852775">"警告：如果略過 WLAN 設定，裝置將只能透過流動數據連線，以作初始下載及更新。如要避免產生數據傳輸費用，請連線至 WLAN 網絡。"</string>
+    <string name="wifi_skipped_message" product="default" msgid="6084295135297772350">"警告：如果略過 WLAN 設定，手機將只能透過流動數據連線，以作初始下載及更新。如要避免產生數據傳輸費用，請連線至 WLAN 網絡。"</string>
+    <string name="wifi_and_mobile_skipped_message" product="tablet" msgid="6324917391996718760">"如果略過 WLAN 設定：\n\n"<li>"您的平板電腦將無法連線至互聯網。"</li>\n\n<li>"您必須連線至互聯網，才能取得軟件更新。"</li>\n\n<li>"目前無法啟用裝置保護功能。"</li></string>
+    <string name="wifi_and_mobile_skipped_message" product="device" msgid="1110629752293998468">"如果略過 WLAN 設定：\n\n"<li>"您的裝置將無法連線至互聯網。"</li>\n\n<li>"您必須連線至互聯網，才能取得軟件更新。"</li>\n\n<li>"目前無法啟用裝置保護功能。"</li></string>
+    <string name="wifi_and_mobile_skipped_message" product="default" msgid="8271524692702309267">"如果略過 WLAN 設定：\n\n"<li>"您的手機將無法連線至互聯網。"</li>\n\n<li>"您必須連線至互聯網，才能取得軟件更新。"</li>\n\n<li>"目前無法啟用裝置保護功能。"</li></string>
+    <string name="wifi_connect_failed_message" product="tablet" msgid="4474691090681670156">"平板電腦無法連接這個 WLAN 網絡。"</string>
+    <string name="wifi_connect_failed_message" product="device" msgid="8870885845666880869">"裝置無法連線至這個 WLAN 網絡。"</string>
+    <string name="wifi_connect_failed_message" product="default" msgid="2185803140161396572">"手機無法連接這個 WLAN 網絡。"</string>
+    <string name="wifi_advanced_titlebar" msgid="4485841401774142908">"進階 WLAN"</string>
+    <string name="wifi_setting_frequency_band_title" msgid="3655327399028584656">"WLAN 頻帶"</string>
+    <string name="wifi_p2p_settings_title" msgid="5444461191435291082">"WLAN Direct"</string>
+    <string name="wifi_tether_checkbox_text" msgid="1847167643625779136">"可攜式 WLAN 熱點"</string>
+    <string name="wifi_hotspot_checkbox_text" msgid="7763495093333664887">"WLAN 熱點"</string>
+    <string name="wifi_hotspot_checkbox_text_summary" msgid="3800646230853724318">"使用流動連線提供 WLAN 網絡"</string>
+    <string name="wifi_tether_failed_subtext" msgid="1484941858530919002">"可攜式 WLAN 熱點發生錯誤"</string>
+    <string name="wifi_tether_configure_ap_text" msgid="7974681394041609308">"設定 WLAN 熱點"</string>
+    <string name="wifi_hotspot_configure_ap_text" msgid="5478614731464220432">"WLAN 熱點設定"</string>
+    <string name="wifi_hotspot_configure_ap_text_summary" msgid="5618031116920832182">"AndroidAP WPA2 PSK 可攜式 WLAN 熱點"</string>
+    <string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> 可攜式 WLAN 熱點"</string>
+    <string name="wifi_calling_settings_title" msgid="4102921303993404577">"WLAN 通話"</string>
+    <string name="wifi_calling_mode_dialog_title" msgid="8149690312199253909">"WLAN 通話模式"</string>
+    <string-array name="wifi_calling_mode_choices">
+        <item msgid="2124257075906188844">"首選 WLAN"</item>
+        <item msgid="5267397515594230396">"首選流動數據"</item>
+    </string-array>
+    <string name="wifi_calling_off_explanation" msgid="2597566001655908391">"當開啟 WLAN 通話時，您的手機可根據偏好設定及訊號強弱，選擇使用 WLAN 網絡或流動網絡供應商的網絡安排來電轉接。開啟此功能前，請向您的流動網絡供應商查詢收費及其他詳情。"</string>
+    <string name="status_wifi_mac_address" msgid="2202206684020765378">"WLAN MAC 位址"</string>
+    <string name="reset_network_desc" msgid="581668983587311282">"這將重設所有網絡設定，包括：\n\n"<li>" WLAN "</li>\n<li>"流動數據"</li>\n<li>"藍牙"</li></string>
+    <string name="network_scorer_change_active_dialog_title" msgid="3776301550387574975">"變更 WLAN Assistant？"</string>
+    <string name="location_mode_high_accuracy_description" msgid="5703350404315028607">"使用 GPS、WLAN、藍牙或流動數據網絡來定位"</string>
+    <string name="location_mode_battery_saving_description" msgid="8361848607963121770">"使用 WLAN、藍牙或流動數據網絡來定位"</string>
+    <string name="location_scanning_wifi_always_scanning_title" msgid="6216705505621183645">"WLAN 掃瞄"</string>
+    <string name="location_scanning_wifi_always_scanning_description" msgid="8036382029606868081">"允許系統應用程式和服務隨時偵測 WLAN 網絡，以提高定位準確度。"</string>
+    <string name="location_network_based" msgid="6010456018401296590">"WLAN 和流動網絡位置資料"</string>
+    <string name="location_neighborhood_level_wifi" msgid="4234820941954812210">"根據 WLAN 確定位置"</string>
+    <string name="wifi_verbose_logging" msgid="4203729756047242344">"啟用 WLAN 詳細記錄"</string>
+    <string name="wifi_aggressive_handover" msgid="9194078645887480917">"加強 WLAN 至流動數據轉換"</string>
+    <string name="wifi_allow_scan_with_traffic" msgid="3601853081178265786">"永遠允許 WLAN 漫遊掃瞄"</string>
+    <string name="wifi_verbose_logging_summary" msgid="6615071616111731958">"讓 WLAN 記錄功能升級，在 WLAN 選擇器中依每個 SSID RSSI 顯示 WLAN 詳細紀錄"</string>
+    <string name="wifi_aggressive_handover_summary" msgid="6328455667642570371">"啟用時，WLAN 連線會在訊號不穩的情況下更積極轉換成流動數據連線"</string>
+    <string name="mobile_data_always_on_summary" msgid="8149773901431697910">"即使 WLAN 已啟用，仍永遠啟用流動數據 (可快速切換網絡)。"</string>
+    <string name="battery_stats_wifi_running_label" msgid="1845839195549226252">"WLAN"</string>
+    <string name="wifi_on_time" msgid="3208518458663637035">"WLAN 開啟時間"</string>
+    <string name="bluetooth_on_time" msgid="3056108148042308690">"WLAN 開啟時間"</string>
+    <string name="power_wifi" msgid="1135085252964054957">"WLAN"</string>
+    <string name="usage_type_wifi_running" msgid="3134357198266380400">"WLAN 執行中"</string>
+    <string name="usage_type_data_wifi_send" msgid="1847552143597396162">"已傳送的 WLAN 數據包"</string>
+    <string name="usage_type_data_wifi_recv" msgid="5678475911549183829">"已接收的 WLAN 數據包"</string>
+    <string name="battery_action_wifi" msgid="8181553479021841207">"WLAN 設定"</string>
+    <string name="battery_desc_wifi" msgid="2375567464707394131">"WLAN 耗電量"</string>
+    <string name="battery_sugg_wifi" msgid="7776093125855397043">"不使用或無法使用時即關閉 WLAN"</string>
+    <string name="gadget_toggle_wifi" msgid="319262861956544493">"正在更新 WLAN 設定"</string>
+    <string name="gadget_wifi" msgid="4712584536500629417">"WLAN"</string>
+    <string name="backup_data_summary" msgid="708773323451655666">"將應用程式資料、WLAN 密碼及其他設定備份到 Google 伺服器"</string>
+    <string name="backup_erase_dialog_message" msgid="5221011285568343155">"要停止備份您的 WLAN 密碼、書籤、其他設定以及應用程式資料，並清除 Google 伺服器上儲存的所有副本嗎？"</string>
+    <string name="fullbackup_erase_dialog_message" msgid="944399039066318647">"停止備份裝置資料 (例如 WLAN 密碼和通話記錄) 和應用程式資料 (例如由應用程式儲存的設定和檔案)，並清除「Google 雲端硬碟」內的所有副本？"</string>
+    <string name="fullbackup_data_summary" msgid="960850365007767734">"自動遙距備份裝置資料 (例如 WLAN 密碼和通話記錄) 和應用程式資料 (例如由應用程式儲存的設定和檔案)。\n\n啟用自動備份功能後，裝置和應用程式資料會定時以遙距方式儲存。應用程式資料可以是由應用程式儲存的任何資料 (視乎開發設定而定)，包括可能視為敏感的資料，如通訊錄、訊息及相片。"</string>
+    <string name="wifi_setup_title" msgid="2970260757780025029">"WLAN 設定"</string>
+    <string name="wifi_setup_title_editing_network" msgid="6020614644556717979">"連接 WLAN 網絡 <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+    <string name="wifi_setup_title_connecting_network" msgid="5572226790101017822">"正在連接 WLAN 網絡 <xliff:g id="NETWORK_NAME">%s</xliff:g>…"</string>
+    <string name="wifi_setup_title_connected_network" msgid="1608788657122010919">"已連接 WLAN 網絡 <xliff:g id="NETWORK_NAME">%s</xliff:g>"</string>
+    <string name="wifi_setup_eap_not_supported" msgid="6812710317883658843">"您無法在安裝期間設定 EAP WLAN 連線。請在安裝完成後前往 [設定] 的 [無線與網絡] 加以設定。"</string>
+    <string name="wifi_setup_description_connected" msgid="736032046548460779">"輕觸 [下一步]"<b></b>" 即可繼續安裝；\n\n輕觸 [返回]"<b></b>" 則可連接其他 WLAN 網絡。"</string>
+    <string name="data_usage_menu_show_wifi" msgid="2296217964873872571">"顯示 WLAN 用量"</string>
+    <string name="data_usage_menu_hide_wifi" msgid="7290056718050186769">"隱藏 WLAN"</string>
+    <string name="data_usage_disable_wifi_limit" msgid="1394901415264660888">"設定 WLAN 數據上限"</string>
+    <string name="data_usage_tab_wifi" msgid="481146038146585749">"WLAN"</string>
+    <string name="data_usage_restrict_background" msgid="6264965779074729381">"如果您限制背景流動數據用量，部分應用程式和服務必須在連線至 WLAN 網絡後才能運作。"</string>
+    <string name="data_usage_restrict_background_multiuser" product="tablet" msgid="7954930300449415764">"如果您限制背景流動數據用量，部分應用程式和服務必須在連線至 WLAN 網絡後才能運作。\n\n這項設定會影響這部平板電腦的所有使用者。"</string>
+    <string name="data_usage_restrict_background_multiuser" product="default" msgid="259958321968870600">"如果您限制背景流動數據用量，部分應用程式和服務必須在連線至 WLAN 網絡後才能運作。\n\n這項設定會影響這部手機的所有使用者。"</string>
+    <string name="data_usage_metered_wifi" msgid="1761738002328299714">"按用量收費的 WLAN 網絡"</string>
+    <string name="data_usage_metered_wifi_disabled" msgid="727808462375941567">"如要選取按用量收費的網絡，請開啟 WLAN。"</string>
+    <string name="user_add_user_message_long" msgid="8562152293752222985">"您可以建立額外的使用者，與他人分享這部裝置。每位使用者都有各自的個人空間，可使用自己的應用程式和桌布等自訂。此外，他們可以調整影響所有使用者的裝置設定 (例如 WLAN 設定)。\n\n新增的使用者需要自行設定個人空間。\n\n任何使用者都可以為其他所有使用者更新應用程式。"</string>
+    <string name="restriction_wifi_config_title" msgid="8889556384136994814">"WLAN 與流動網絡"</string>
+    <string name="restriction_wifi_config_summary" msgid="70888791513065244">"允許修改 WLAN 和流動網絡設定"</string>
+    <string name="keywords_wifi" msgid="8947676711698613374">"WiFi WLAN 網絡連線"</string>
+    <string name="keywords_wifi_calling" msgid="5497735076883598019">"WiFi WLAN 通話 撥號中"</string>
+    <string name="setup_wifi_nfc_tag" msgid="9028353016222911016">"設定 WLAN NFC 標籤"</string>
+
+</resources>

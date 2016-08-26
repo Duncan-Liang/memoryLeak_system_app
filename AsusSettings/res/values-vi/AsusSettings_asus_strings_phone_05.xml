@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="error_apn_not_allowed" description="error message for setting apn that is not allowed">APN này ko được phép trên thiết bị này. Hãy thử dùng APN khác.</string>
+</resources>

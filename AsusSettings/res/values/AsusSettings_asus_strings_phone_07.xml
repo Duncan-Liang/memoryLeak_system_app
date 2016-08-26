@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"When you enable the incoming call lock feature, you must scan your fingerprint to answer a call. The call will be connected automatically when the fingerprint is successfully identified.\nPlease note that:\n1.You can answer the incoming call directly from a paired Bluetooth headset or smart watch without scanning your fingerprint.\n2.You still need to use your fingerprint to answer the call when using a wired headset.\n3.You will not be able to answer the call from 3rd party incoming call screen.\n4.For Voice over IP (VoIP) call, e.g. WhatsApp voice call, you should still answer the call from the app itself."</string>
+    <string name="asus_long_tap_warning">"When incoming call lock feature is enabled, answering calls via tap and hold will be disabled."</string>
+</resources>

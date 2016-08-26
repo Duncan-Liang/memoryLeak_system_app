@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_app2sd_blacklist_warning">Перемістіть програми в пам’ять пристрою, щоб користуватися ними стало зручніше.</string>
+  <string name="asus_app2sd_notif_title">Деякі програми потрібно перемістити назад у пам’ять пристрою</string>
+  <string name="asus_call_lock_detail">Якщо активовано блокування вхідних викликів, для відповіді на виклик треба зісканувати відбиток пальця. Після цього ви автоматично відповісте на виклик.</string>
+  <string name="asus_fingerprint_answer_call_summary">Відповідайте на вхідні виклики за допомогою відбитка пальця</string>
+  <string name="asus_fingerprint_camera_title">Запуск камери</string>
+  <string name="asus_fingerprint_id_category_title">Ідентифікатор відбитка пальця</string>
+  <string name="asus_fingerprint_incoming_call_title">Блокування вхідних дзвінків</string>
+  <string name="asus_fingerprint_launch_camera_summary">Двічі торкніться сенсора для відбитків пальців, щоб запустити камеру, коли пристрій розблоковано.</string>
+  <string name="asus_fingerprint_launch_camera_title">Запуск камери</string>
+  <string name="asus_fingerprint_long_press_summary">Натисніть і утримуйте сенсор для відбитків пальців, щоб відповідати на вхідні дзвінки.</string>
+  <string name="asus_fingerprint_long_press_title">Відповідь на вхідні дзвінки</string>
+  <string name="asus_fingerprint_snap_call_summary">Активуйте швидкий виклик за допомогою відбитка пальця</string>
+  <string name="asus_fingerprint_snap_call_title">Швидкий виклик</string>
+  <string name="asus_fingerprint_take_photo_summary">Натисніть сенсор для відбитків пальців, щоб зробити фото, коли камеру увімкнено.</string>
+  <string name="asus_fingerprint_take_photo_title">Зйомка фото</string>
+  <string name="asus_fingerprint_touch_control_category_title">Керування сенсором</string>
+  <string name="asus_long_tap_warning">Якщо активовано блокування вхідних викликів, ви не зможете відповісти на виклик, натиснувши та утримуючи палець.</string>
+  <string name="asus_storage_menu_migrate">Змінити тип сховища</string>
+  <string name="asus_storage_sd_warning_content">Установіть високоякісну картку SD для надійного зберігання даних. Щоб захистити дані, використовуйте картки SD визнаних виробників.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[Очевидно, ця <xliff:g id="name" example="SD card">^1</xliff:g> працює повільно.<br><br>Можливо, варто вставити швидшу <xliff:g id="name" example="SD card">^1</xliff:g>.]]></string>
+  <string name="button_ok">ОК</string>
+  <string name="camera_double_tap_power_gesture_desc">Швидко запускайте камеру, не розблоковуючи екран</string>
+  <string name="camera_double_tap_power_gesture_title">Камера: двічі натиснути кнопку живлення</string>
+  <string name="camera_gesture_desc">Додаток Камера відкриється, якщо двічі покрутити зап’ястям</string>
+  <string name="camera_gesture_title">Відкривати Камеру, покрутивши зап’ястям</string>
+  <string name="gesture_wake_up_screen">Увімкнути екран</string>
+  <string name="get_real_time_notification">Сповіщення в реальному часі</string>
+  <string name="get_real_time_notification_detail">Програми працюватимуть у фоновому режимі, тож ви отримуватимете сповіщення й оновлення вчасно.</string>
+  <string name="incompatible_apps">Несумісні програми</string>
+  <string name="incompatible_detail">У цій версії ОС Android виявлено несумісні програми. За докладними відомостями зверніться до їх розробників або видаліть їх.</string>
+  <string name="incompatible_notify_title">Виявлено несумісні програми</string>
+  <string name="keywords_color_mode">насичений rgb srgb колір природний стандартний</string>
+  <string name="large_and_huge_font_size_warning">Деякі програми можуть неправильно відображати текст із великим (чи величезним) шрифтом.</string>
+  <string name="manual">Посібник</string>
+  <string name="notify_off">Більше не показувати</string>
+  <string name="optimize_battery_usage">Оптимізація роботи від акумулятора</string>
+  <string name="optimize_battery_usage_detail">Заряду вистачає на довше. Але деякі сповіщення й оновлення можуть не надходити в реальному часі.</string>
+  <string name="picture_color_mode">Режим кольору</string>
+  <string name="power_management_setting_title">Керування живленням</string>
+  <string name="power_settings_title">Керування живленням</string>
+  <string name="powersaver_app_name">Енергозбереження</string>
+  <string name="real_time_notification">Сповіщення в реальному часі</string>
+  <string name="settings_manual_activity_title">Посібник</string>
+  <string name="settings_manual_activity_unavailable">Не вдалося завантажити посібник.</string>
+  <string name="storage_wizard_benchmark_content">Зачекайте кілька хвилин.</string>
+  <string name="storage_wizard_benchmark_tittle">Аналіз</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>Замалий обсяг картки SD. Скористайтеся високошвидкісною карткою SD більшого обсягу.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Використовувати як внутрішнє сховище для програм і даних</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Для встановлення програм у зовнішньому сховищі. Потребує форматування, після чого не зможе працювати з іншими пристроями.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Використовувати лише як внутрішнє сховище для програм</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Перенесіть дані на нову картку <xliff:g example="SD card" id="name">^1</xliff:g>, на якій більше місця для зберігання фотографій, файлів і деяких програм. Можна також залишити місце на картці <xliff:g example="SD card" id="name">^1</xliff:g> для встановлення програм.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Нова картка <xliff:g example="SD card" id="name">^1</xliff:g> працює.]]></string>
+  <string name="swipe_up_to_wake_up_summary">Проведіть пальцем угору по екрану, щоб вивести пристрій із режиму очікування.</string>
+  <string name="swipe_up_to_wake_up_title">Проведіть пальцем вгору, щоб увімкнути</string>
+  <string name="usb_hint_option_dialog_title">Заряджання через USB</string>
+  <string name="usb_hint_option_got_it">ДОБРЕ</string>
+  <string name="usb_hint_option_message">Щоб переглянути інші варіанти для USB, проведіть по екрану згори донизу й торкніться сповіщення щодо USB.</string>
+</resources>

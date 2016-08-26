@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Når du aktiverer den indgående opkaldslåsefunktion, skal du scanne dit fingeraftryk for at besvare et opkald. Opkaldet bliver automatisk tilsluttet, når fingeraftrykket identificeres.\nBemærk at:\n1.Du kan besvare det indgående opkald direkte fra et parret Bluetooth-hovedsæt eller Smart-watch uden at scanne dit fingeraftryk.\n2.Du skal stadig bruge dit fingeraftryk til at besvare opkaldet, når du bruger et trådført hovedsæt.\n3.Du kan ikke besvare opkaldet fra tredjepartens indgående opkaldsskærm.\n4.Ved opkald, der bruger Voice over IP (VoIP), f.eks. WhatsApp-stemmeopkald, skal du stadig besvare opkaldet fra selve appen."</string>
+    <string name="asus_long_tap_warning">"Når låsefunktionen for indgående opkald er aktiveret, deaktiveres besvarelse af opkald via tryk og hold."</string>
+</resources>

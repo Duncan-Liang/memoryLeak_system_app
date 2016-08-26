@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Cài đặt phím nóng"</string>
+    <string name="screenshot_hot_key_title">"Phím ứ.dụng gần đây"</string>
+    <string name="screenshot_hot_key_summary">"Chạm và giữ phím ứ.dụng gần đây để chụp ảnh màn hình"</string>
+    <string name="screenshot_format_setting_title">"Cài đặt đ.dạng file"</string>
+    <string name="screenshot_format_title">"Đ.dạng file ảnh chụp màn hình"</string>
+    <string name="screenshot_sound_setting_title">"Cài đặt âm thanh"</string>
+    <string name="screenshot_sound_title">"Bật âm ảnh chụp màn hình"</string>
+    <string name="screenshot_notify_setting_title">"Cài đặt thông báo"</string>
+    <string name="screenshot_notify_title">"Bật thông báo"</string>
+</resources>

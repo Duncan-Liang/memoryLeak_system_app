@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_item_title">权限设置</string>
+    <string name="descrption">说明</string>
+    <string name="dialog_title">移除设置</string>
+    <string name="dialog_message">移除此应用的权限设置</string>
+    <string name="descrption_applications">下列应用</string>
+
+    <string name="cta_preference_category">权限</string>
+    <string name="cta_prefrence_title">权限设置</string>
+    <string name="cta_prefrence_summary">设置各应用的权限</string>
+       <!-- Archie Huang, 2013/12/3, For CTA -->
+    <string name="cta_act_phone_call">"拨打电话"</string>
+    <string name="cta_act_send_sms">"发送短信"</string>
+    <string name="cta_act_send_mms">"发送彩信"</string>
+    <string name="cta_act_read_contacts">读取联系人</string>
+    <string name="cta_act_read_call_log">"读取通话记录"</string>
+    <string name="cta_act_read_mms">"读取彩信"</string>
+    <string name="cta_act_read_sms">"读取短信"</string>
+    <string name="cta_act_mobile_network">开启移动数据</string>
+    <string name="cta_act_wlan">开启WLAN</string>
+    <string name="cta_act_location">读取位置信息</string>
+    <string name="cta_act_sound_recorder">启动录音</string>
+    <string name="cta_act_camera">开启摄像头</string>
+    <string name="cta_act_bluetooth">开启蓝牙</string>
+    <string name="cta_act_use_network">"使用网络"</string>
+    <string name="cta_act_write_contacts">写/删联系人</string>
+    <string name="cta_act_write_call_log">写/删通话记录</string>
+    <string name="cta_act_write_mms">写/删彩信</string>
+    <string name="cta_act_write_sms">写/删短信</string>
+    <string name="cta_act_write_mms_sms">写/删彩信及短信</string>
+    <string name="cta_act_nfc">开启NFC</string>
+    <string name="cta_msg_phone_call">"尝试拨打电话."</string>
+    <string name="cta_msg_send_sms">"尝试发送短信."</string>
+    <string name="cta_msg_send_mms">"尝试发送彩信."</string>
+    <string name="cta_msg_read_contacts">尝试读取联系人.</string>
+    <string name="cta_msg_read_call_log">"尝试读取通话记录."</string>
+    <string name="cta_msg_read_mms">"尝试读取彩信."</string>
+    <string name="cta_msg_read_sms">"尝试读取短信."</string>
+    <string name="cta_msg_read_mms_sms">"尝试读取彩信及短信."</string>
+    <string name="cta_msg_mobile_network">"尝试启动移动数据. 使用移动数据可能会收取其他费用, 具体取决于您的网络订阅情况, 要避免流量耗费, 请在完成后禁用移动数据."</string>
+    <string name="cta_msg_wlan">尝试开启WLAN.</string>
+    <string name="cta_msg_location">尝试读取位置信息.</string>
+    <string name="cta_msg_call_recorder">尝试启动录音.</string>
+    <string name="cta_msg_sound_recorder">尝试启动录音.</string>
+    <string name="cta_msg_camera">尝试开启摄像头.</string>
+    <string name="cta_msg_bluetooth">尝试开启蓝牙.</string>
+    <string name="cta_msg_use_network">"尝试使用网络. 使用网络可能会收取其他费用, 具体取决于您的网络订阅情况, 要避免流量耗费, 请在完成后禁用网络."</string>
+    <string name="cta_category_communicate">"通信数据"</string>
+    <!--  <string name="cta_category_communicate">"通信数据"</string>-->
+    <string name="cta_category_data">"本地敏感资料"</string>
+    <string name="cta_msg_write_contacts">尝试存取通讯录.</string>
+    <string name="cta_msg_write_call_log">"尝试存取通话记录."</string>
+    <string name="cta_msg_write_mms">尝试写/删彩信.</string>
+    <string name="cta_msg_write_sms">尝试写/删短信.</string>
+    <string name="cta_msg_write_mms_sms">尝试写/删彩信及短信.</string>
+    <string name="cta_msg_nfc">尝试启动NFC.</string>
+</resources>

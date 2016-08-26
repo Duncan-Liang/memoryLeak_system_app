@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">सामान्य स्रोत कोड प्रस्ताव</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">"ASUS अनुकूलित सेटिंग"</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Wayne2_Chen: UI required-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <!-- Harrison for power settings -->
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <!-- MikeHsu for clear app data -->
+
+    <string name="asus_sd_eject">बाहरी संग्रहण अनमाउंट करें</string>
+    <string name="asus_sd_eject_summary">बाहरी संग्रहण सुरक्षित तरीके से हटाएं</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">्रुत सेटिंग विकल्प</string>
+    <string name="quick_setting_description">्रुत सेटिंग पैनल में दिखाने के लिए आइटम का चयन करें</string>
+    <string name="quick_setting_reset_title">द्रुत सेटिंग रीसेट करें</string>
+    <string name="quick_setting_reset_message">द्रुत सेटिंग विकल्प रीसेट कर दिए जाएँगे।</string>
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">स्थिति बार दिखाएँ</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">इंस्टेंट कैमरा</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">कैमरा को सस्पेंशन से लॉन्च के लिए वॉल्यूम की पर डबल क्लिक करें</string>
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <!-- Harrison Chen, recent app key long press_control-->
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <!-- ashan_yang@asus.com, show battery -->
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">ग्लव मोड</string>
+    <string name="glove_mode_setting_summary">जब आपने ग्लव्स पहने हुए हों तो टच संवेदनशीलता को बढ़ाएं</string>
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- flipcover setting item title and summary -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS कवर</string>
+    <string name="asus_transcover_category_title">एक्‍सेसरीज़</string>
+    <string name="asus_transcover_title">ASUS Cover सक्षम करें</string>
+    <string name="asus_transcover_summary">कवर बंद रहने पर स्क्रीन निलंबित करें</string>
+    <string name="asus_cover_settings">ASUS कवर सेटिंग</string>
+    <string name="asus_cover_automatic_unlock_tittle">स्वचालित अनलॉक</string>
+    <string name="asus_cover_automatic_unlock_summary">जब स्क्रीन लॉक ऑफ़ रहता है, तो सुरक्षा स्क्रीन स्वचालित रूप से अनलॉक करने के लिए कवर खोलें</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+<!-- bruce1_li, AT&T DMAgent -->
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">LED संकेतक</string>
+    <string name="asus_lockscreen_camera_settings">कैमरा</string>
+    <string name="lockscreen_enable_camera_widget_title">लॉन्च करने के लिए स्वाइप करें</string>
+    <string name="lockscreen_enable_camera_widget">कैमरा लॉन्च करने के लिए लॉक स्क्रीन के दाएँ किनारे से बाँईं ओर स्वाइप करें</string>
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">घुसपैठिए की सेल्फ़ी</string>
+    <string name="lockscreen_intruder_selfie_summary">गलत कोड प्रविष्ट करने वाले का फ़ोटो लें</string>
+    <string name="lockscreen_intruder_selfie_setting_title">घुसपैठिए की सेल्फ़ी</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">घुसपैठिए को फ़ोटो लें जब वह लॉक स्क्रीन में गलत पासवर्ड प्रविष्ट करे</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">गलत कोड प्रविष्टियाँ</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">दो बार</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">फ़ोटो को स्वचालित रूप से सहेजें</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">फ़ोटो को गैलरी में घुसपैठिए की सेल्फ़ी फ़ोल्डर में सहेजें</string>
+    <string name="lockscreen_incorrect_code_entries_twice">दो बार</string>
+    <string name="lockscreen_incorrect_code_entries_third">तीसरा</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">चौथा</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">पाँचवाँ</string>
+    <string name="lockscreen_enable_slide_widget_title">स्लाइड पृष्ठ छोड़ें</string>
+    <string name="lockscreen_enable_slide_widget">जागृत होते समय स्लाइड लॉक स्क्रीन पृष्ठ छोड़ें</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">आसान मोड</string>
+    <string name="asus_easy_launcher_intro">आसान मोड सरल लेआउट और मुख्य कार्यों के साथ आपको एक आसान और सहज इंटरफेस अनुभव प्रदान करता है </string>
+    <!-- AMAX AT&T issue -->
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"पासवर्ड में कम से कम %d वर्ण श्रेणियों को 4 समूहों में होना चाहिए: अपरकेस, लोअरकेस, संख्या, चिह्न"</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">ऑटो ब्राइटनेस विकल्प</string>
+    <string name="auto_brightness_settings_gain">प्राप्त करें</string>
+    <string name="auto_brightness_settings_sensor">प्रकाश संकेतक</string>
+    <string name="auto_brightness_settings_adjustment">परिवर्तन प्राप्ति की अनुमति दें</string>
+    <string name="auto_brightness_settings_reset_gain">डिफाल्ट पर रिसेट करें</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">डिफॉल्ट प्राप्ति मान रीसेट करें ?</string>
+    <string name="auto_brightness_settings_indark">अंधेरे वातावरण में</string>
+    <string name="auto_brightness_settings_indark_title">ब्राइटनेस कम करें</string>
+    <string name="auto_brightness_settings_indark_slow">धीरे-धीरे</string>
+    <string name="auto_brightness_settings_indark_immediate">तुरंत</string>
+    <string name="auto_brightness_settings_indark_dynamic">सक्रिय रूप से</string>
+    <string name="show_sensor_usage">प्रकाश संकेतक मान दिखाएं</string>
+    <string name="show_sensor_usage_summary">वर्तमान प्रकाश संवेदक की स्थिति दर्शाने वाला स्क्रीन ओवरले</string>
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">एक हाथ मोड</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">त्वरित ट्रिगर</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">एक हाथ वाले संचालन मोड को सक्रिय करने के लिए होम की पर डबल टैप करें</string>
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">रिंगटोन एवं सूचनाएँ</string>
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">फ़ॉन्ट प्रकार</string>
+    <string name="monotype_preference_summary">फ़ॉन्ट सेट करें</string>
+    <string name="monotype_dialog_button">फ़ॉन्ट आनलाइन प्राप्त करें</string>
+    <string name="monotype_dialog_set_font_question">फ़ॉन्ट को %s के रूप में सेट करें?</string>
+    <string name="monotype_dialog_revert_question">डिफ़ॉल्ट फ़ॉन्ट पर रीसेट करें?</string>
+    <string name="monotype_dialog_no_fonts_installed">कोई अतिरिक्त फ़ॉन्ट उपलब्ध नहीं है</string>
+    <string name="monotype_restart_dialog_text_1">फ़ोन पुनः प्रारंभ करें</string>
+    <string name="monotype_restart_dialog_text_2">सेटिंग लागू करने के लिए फ़ोन पुनः प्रारंभ करें</string>
+    <string name="monotype_restart_dialog_button_1">अभी पुनः प्रारंभ करें</string>
+    <string name="monotype_dialog_font_oem_font1">OEM फ़ॉन्ट1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM फ़ॉन्ट2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM फ़ॉन्ट3</string>
+    <string name="monotype_default_font">डिफ़ॉल्ट फ़ॉन्ट</string>
+    <string name="monotype_loading_list">फ़ॉन्ट सूची लोड कर रहा है...</string>
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">निजी मोड</string>
+    <string name="user_snapview_summary">आप अपने फ़ोटो, फ़ाइलें और एप्लिकेशन को बचाने के लिए एक निजी मोड बना सकते हैं।</string>
+    <string name="user_snapview_message_Notice">सूचना</string>
+    <string name="user_snapview_message_created">सिस्टम संग्रहण अपर्याप्त है।</string>
+    <string name="user_snapview_message_with_normal_lock">निजी मोड में, आप चित्र ले सकते हैं, फ़ाइलें सहेज सकते हैं, एप्लिकेशन संस्थापित कर सकते हैं। ये फ़ाइलें और एप्लिकेशन निजी मोड में सुरक्षित रहते हैं और आपके निजी मोड से बाहर निकल जाने पर ये दिखाई नहीं देंगे।\n\nइससे पहले कि आप निजी मोड बनाएं, आपको निजी मोड के लिए एक स्क्रीन लॉक सेटअप करने की आवश्यकता पड़ती है।\n\nनोट : आपका निजी मोड स्क्रीन लॉक स्वामी के स्क्रीन लॉक के जैसा नहीं होना चाहिए।</string>
+    <string name="user_snapview_message_without_normal_lock">निजी मोड में, आप चित्र ले सकते हैं, फ़ाइलें सहेज सकते हैं, एप्लिकेशन संस्थापित कर सकते हैं। ये फ़ाइलें और एप्लिकेशन निजी मोड में सुरक्षित रहते हैं और आपके निजी मोड से बाहर निकल जाने पर ये दिखाई नहीं देंगे।\n\nइससे पहले कि आप निजी मोड बनाएं, आपको निजी मोड के लिए एक स्क्रीन लॉक सेटअप करने की आवश्यकता होगी।</string>
+    <string name="user_snapview_settings">निजी मोड सेटिंग</string>
+    <string name="user_snapview_settings_category_lockscreen">लॉक स्क्रीन सुरक्षा</string>
+    <string name="user_snapview_settings_category_visualhint">दृश्यमान संकेत</string>
+    <string name="user_snapview_settings_category_dummy">डमी सूचना</string>
+    <string name="user_snapview_settings_category_account">निजी मोड खाता</string>
+    <string name="user_snapview_settings_hint_lock">लॉक स्क्रीन सजावट</string>
+    <string name="user_snapview_settings_hint_notify">निजी मोड सजावट</string>
+    <string name="user_snapview_settings_dummy_notify">पाठ</string>
+    <string name="user_snapview_settings_dummy_default">Google Play सेवा अपडेट हो गई</string>
+    <string name="user_snapview_settings_dummy_notify_icon">आइकन</string>
+    <string name="user_snapview_settings_set_lock">स्क्रीन लॉक सेट करें</string>
+    <string name="user_snapview_settings_change_info">प्रोफ़ाइल जानकारी बदलें</string>
+    <string name="user_snapview_settings_delete_self">निजी मोड हटाएं</string>
+    <string name="user_snapview_settings_item1">सुंदर</string>
+    <string name="user_snapview_settings_item2">स्पष्ट</string>
+    <string name="user_snapview_settings_item3">कोई नहीं</string>
+    <string name="user_snapview_settings_item_color">रंग</string>
+    <string name="user_snapview_settings_item_icon">आइकन</string>
+    <string name="user_snapview_settings_item_none">कोई नहीं</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">निजी मोड बचाव ईमेल खाता</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">निजी मोड बनाने के पहले, हम आपको एक Google खाता बचाव ईमेल खाते के रूप में निर्दिष्ट करने की सलाह देते हैं।\n\nअगर आप अपना पासवर्ड भूल जाते हैं तो आपका बचाव ईमेल खाता आपके निजी मोड पासवर्ड को रीसेट करने में सहायता करेगा।</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">अपना Google खाता सत्यापित करें</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">हम आपके Google खाते को सत्यापित करने वाले हैं।\n\nसत्यापन के सफल हो जाने के बाद, आप अपने लॉक स्क्रीन पासवर्ड को रीसेट करना आरंभ कर सकते हैं।\n\nनोट: अगली स्क्रीन Google खाता सत्यापन की है और हम आपके खाते की जानकारी एकत्र नहीं करते हैं।</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">निजी मोड पासवर्ड रीसेट हो गया</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">बधाइयाँ! आपका निजी मोड पासवर्ड रीसेट कर दिया गया है।\n\nआगे, आप एक नया निजी मोड पासवर्ड निर्दिष्ट कर सकते हैं, या अपना वर्तमान निजी मोड हटा सकते हैं।</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">निजी मोड हटाने के लिए, आपको एक स्क्रीन लॉक पास और यादृच्छिक पिन प्रविष्ट करने की जरूरत है।\n\nपुष्टि हो जाने पर, आपके उपकरण से निजी मोड हटा दिया जाएगा। आप निजी मोड में अपने फ़ोटो, एप्लिकेशन और डेटा को खो देंगे।\n\nयह कार्यवाही पूर्ववत नहीं की जा सकती है। क्या आप आगे बढ़ना चाहेंगे?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">बचाव ईमेल खाता परिवर्तित करें</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">इसका उपयोग अपने निजी मोड पासवर्ड को रीसेट करने के लिए करें</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">कृपया एक Gmail खाते को अपने निजी मोड बचाव ईमेल खाते के रूप में निर्दिष्ट करें।\n\nअगर आप अपना पासवर्ड भूल जाते हैं तो आपका बचाव ईमेल खाता आपके निजी मोड पासवर्ड को रीसेट करने में सहायता करेगा।</string>
+    <string name="user_snapview_reset_confirm">निजी मोड में अपने सभी डेटा मिटाएँ?\nआप इस कार्यवाही को पलट नहीं सकते हैं!</string>
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">स्वामी का नया पासवर्ड चुनें</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">स्वामी का नया पिन चुनें</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">स्वामी के पासवर्ड की पुष्टि करें</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">स्वामी के पिन की पुष्टि करें</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">स्वामी का नया अनलॉक पैटर्न बनाएं</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">पुष्टि करने के लिए स्वामी का पैटर्न दोबारा बनाएं</string>
+    <string name="lockpattern_choose_private_mode">निजी मोड का नया अनलॉक पैटर्न बनाएं</string>
+    <string name="lockpattern_confirm_private_mode">पुष्टि करने के लिए निजी मोड का पैटर्न दोबारा बनाएं</string>
+    <string name="lockpassword_choose_private_mode">निजी मोड का नया पासवर्ड चुनें</string>
+    <string name="lockpassword_confirm_private_mode">निजी मोड के पासवर्ड की पुष्टि करें</string>
+    <string name="lockpin_choose_private_mode">निजी मोड का नया पिन चुनें</string>
+    <string name="lockpin_confirm_private_mode">निजी मोड के पिन की पुष्टि करें</string>
+    <string name="lockpattern_pattern_same_to_normal">पैटर्न सामान्य के समान</string>
+    <string name="select_account">अपना कार्य चुनें</string>
+    <string name="owner_account">स्वामी का स्क्रीन लॉक बदलें</string>
+    <string name="personal_space">निजी मोड का स्क्रीन लॉक बदलें</string>
+    <string name="both">स्क्रीन लॉक प्रकार बदलें</string>
+    <string name="notice">सूचना</string>
+    <string name="pmode_pattern_same_to_normal">निजी मोड का स्क्रीन लॉक स्वामी के स्क्रीन लॉक के समान नहीं होना चाहिए। दोबारा प्रयास करें।</string>
+    <string name="pmode_pattern_same_to_private">स्वामी का स्क्रीन लॉक निजी मोड के स्क्रीन लॉक के समान नहीं होना चाहिए। दोबारा प्रयास करें।</string>
+    <string name="pmode_created">बहुत बढ़िया, आपका निजी मोड बन गया है!  अब, अपने निजी मोड के स्क्रीन लॉक का उपयोग करके निजी मोड में प्रवेश करने का प्रयास करें।</string>
+    <string name="pmode_created_title">निजी मोड बन गया है</string>
+    <string name="pmode_set_personal_space_title">निजी मोड का स्क्रीन लॉक सेट करें</string>
+    <string name="pmode_set_personal_space">अगला, कृपया निजी मोड के लिए एक स्क्रीन लॉक सेटअप करें।\n\nनोट : निजी मोड का स्क्रीन लॉक स्वामी के स्क्रीन लॉक के समान नहीं होना चाहिए</string>
+    <string name="pmode_pattern_cannot_same">निजी मोड का अनलॉक पैटर्न स्वामी के अनलॉक पैटर्न के समान नहीं होना चाहिए</string>
+    <string name="pmode_pin_cannot_same">निजी मोड का पिन स्वामी के पिन के समान नहीं होना चाहिए</string>
+    <string name="pmode_password_cannot_same">निजी मोड का पासवर्ड स्वामी के पासवर्ड के समान नहीं होना चाहिए</string>
+    <string name="pmode_set_lock">लॉक सेट करें</string>
+    <string name="pmode_set_owner_lock_title">स्वामी का स्क्रीन लॉक सेट करें</string>
+    <string name="pmode_set_owner_lock">पहले, कृपया स्वामी के लिए एक स्क्रीन लॉक सेट करें।</string>
+    <string name="pmode_pin_length_must_same">निजी मोड का पिन और स्वामी के पिन की लंबाई समान होनी चाहिए</string>
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">चेतावनी</string>
+    <string name="asus_master_clear_check_backup_message">आपने डेटा को अपने आंतरिक संग्रहण में सहेज लिया है। कृपया आगे बढ़ने से पहले उन्हें अपने बाहरी संग्रहण में स्थानांतरित कर लें, अन्यथा ये डेटा आपके आंतरिक संग्रहण से हटा दिए जाएँगे। क्या आप फिर भी रीसेट के साथ आगे बढ़ना चाहते हैं?</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">त्वरित चार्जिंग (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> AC पर पू्र्ण होने तक (त्वरित चार्जिंग)</string>
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">अनुमति नहीं दें</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">अनुकूलित त्वरित पहुँच</string>
+    <string name="change_short_cut_message">एप्लिकेशन को अनुकूलित करने के लिए टैप करें और पुनर्व्यवस्थित करने के लिए एप्लिकेशन खींचें</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">स्वतः-प्रारंभ प्रबंधक</string>
+    <string name="autostart_summary">"और अधिक मैमोरी खाली करें और पावर बचाएँ"</string>
+    <!-- Kevin_Chiou for ANT build -->
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">सामग्री डिज़ाइन लागू करें</string>
+    <string name="notification_material_summary">लागू किए जाने पर, कुछ एप्लिकेशन सूचना आइकन इस डिज़ाइन शैली के अनुपालन हेतु श्वेत आकार के हो जाते हैं।</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"आगे"</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"शिशु मोड"</string>
+    <string name="asus_kids_launcher_settings_message">"अपने बच्चों के उपयोग हेतु सुरक्षित प्ले ग्राउंड सेटअप करने के लिए शिशु मोड चालू करें।"</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">हो सकता है कि कुछ ऐप्स अतिरिक्त बड़े फ़ॉन्ट आकार के साथ ठीक से पाठ प्रदर्शित न करें।</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">अतिरिक्त बड़ा पाठ</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"स्क्रीन ऑन रहने के दौरान कैमरा आरंभ करने के लिए कैमरा शटर कुंजी या वीडियो कैमरा कुंजी को टैप करके रोके रहें।"</string>
+    <string name="lockscreen_longpress_screen_off">"स्क्रीन ऑफ़ रहने के दौरान कैमरा आरंभ करने के लिए कैमरा शटर कुंजी या वीडियो कैमरा कुंजी को टैप करके रोके रहें।"</string>
+    <string name="lockscreen_longpress_screen_on_title">"स्क्रीन ऑन रहने के दौरान कैमरा आरंभ करें"</string>
+    <string name="lockscreen_longpress_screen_off_title">"स्क्रीन ऑफ़ रहने के दौरान कैमरा आरंभ करें"</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"आपातकालीन चेतावनियाँ"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"आपातकालीन चेतावनी कॉन्फ़िगर करें"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMS सेल प्रसारण"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"SMS सेल प्रसारण को कॉन्फ़िगर करें"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"मौसम जानकारी पृष्ठ अक्षम करें"</string>
+    <string name="lockscreen_disable_weather_info_page">"लॉक स्क्रीन के दाएँ हिस्से पर मौजूद पर मौसम जानकारी पृष्ठ (Cheetah Mobile द्वारा संचालित) को पूरी तरह से निष्क्रिय करें"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Jangan ganggu</string>
+    <string name="zen_mode_option_off2">Selalu bolehkan</string>
+    <string name="zen_mode_option_important_interruptions2">Terapkan aturan ganggu</string>
+    <string name="zen_mode_option_no_interruptions2">Jangan bolehkan</string>
+    <string name="zen_mode_important_category2">Aturan ganggu</string>
+    <string name="zen_mode_from2">Bolehkan panggilan/pesan dari</string>
+    <string name="zen_mode_from_anyone2">Siapapun</string>
+    <string name="zen_mode_from_contacts2">Hanya kontak</string>
+    <string name="zen_mode_from_starred2">Hanya favorit</string>
+    <string name="zen_mode_from_vip2">Hanya VIP</string>
+    <string name="zen_mode_downtime_category2">Waktu terjadwal (terapkan aturan ganggu)</string>
+    <string name="zen_mode_alarms_priority">Alarm</string>
+    <string name="zen_mode_repeated_calls">Panggilan berulang</string>
+    <string name="zen_mode_repeated_calls_desc">Panggilan kedua selama dua menit tidak akan diatur ke diam</string>
+    <string name="zen_mode_add_downtime">Jadwal baru</string>
+    <string name="zen_mode_meeting_mode_category">Jadwal digerakkan dengan aktivitas kalender</string>
+    <string name="zen_mode_weekend">Akhir pekan</string>
+    <string name="zen_mode_everyday">Setiap Hari</string>
+    <string name="zen_mode_remove_dialog_title">Hapus jadwal</string>
+    <string name="zen_mode_remove_dialog_message">Hapus jadwal ini?</string>
+    <string name="zen_mode_limit_dialog_title">Jadwal baru</string>
+    <string name="zen_mode_limit_dialog_message">Anda mungkin memiliki hingga %d pengaturan jadwal.</string>
+    <string name="zen_mode_downtime_title">jadwal</string>
+    <string name="zen_mode_downtime_title_new">Jadwal baru</string>
+    <string name="zen_mode_downtime_title_edit">Edit jadwal</string>
+    <string name="zen_mode_downtime_title_meeting">Edit jadwal </string>
+    <string name="zen_mode_others">Pengaturan</string>
+    <string name="zen_mode_send_notifications">Notifikasi</string>
+    <string name="zen_mode_send_notifications_desc">Kirim notifikasi setelah Jangan ganggu diaktifkan</string>
+    <string name="zen_mode_no_interruptions_warning">"Ketika disetel \"senyap total\", alarm akan disetel menjadi senyap."</string>
+    <string name="zen_mode_from_anyone3">"Dari siapa pun"</string>
+    <string name="zen_mode_from_favorites_only">"Dari favorit saja"</string>
+    <string name="zen_mode_from_contacts_only">"Dari kontak saja"</string>
+    <string name="zen_mode_repeat_callers2">"Ulang panggilan"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Nomor sama yang melakukan panggilan lagi dalam periode <xliff:g id="MINUTES">%d</xliff:g> menit akan diizinkan"</string>
+    <string name="zen_mode_option_important_interruptions3">"Terapkan aturan ganggu"</string>
+    <string name="zen_mode_selected_callers2">"panggilan yang dipilih"</string>
+    <string name="zen_mode_dnd_is_on">"Jangan ganggu dihidupkan sekarang. Anda dapat mematikannya secara manual."</string>
+    <string name="zen_mode_turn_off_now">"Matikan sekarang"</string>
+    <string name="zen_mode_custom_name">"Kustom"</string>
+    <string name="zen_mode_manual_turn_on">"Aktifkan Jangan ganggu secara manual"</string>
+    <string name="zen_mode_turn_off">"Nonaktifkan Jangan ganggu"</string>
+    <string name="zen_mode_in_activity">"Diaktifkan: "</string>
+    <string name="zen_mode_forever2">"Tanpa batas"</string>
+</resources>

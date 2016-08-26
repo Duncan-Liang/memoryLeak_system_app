@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">Никогда </string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">Экран всегда включен</string>
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">Версия мобильной док-станции</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">Недоступно</string>
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">Справка</string>
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Версия Wi-Fi</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Версия Bluetooth</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">Версия GPS</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">Версия Pad EC</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">Версия сенсорной панели</string>
+
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">Скриншот</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Нажмите и удерживайте кнопку последних приложений на панели навигации для снимка экрана</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">Формат скриншота</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">Отключить внешний накопитель</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">Безопасное отключение внешнего накопителя</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">Подключение внешнего накопителя</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">Подключить внешний накопитель</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">Отключить внешний накопитель</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">Если Вы отключите накопитель, некоторые приложения могут быть остановлены и будут недоступны до повторного подключения накопителя.</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">Ошибка отключения внешнего накопителя</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">Невозможно отключить внешний накопитель. Пожалуйста, повторите попытку позже</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">Внешний накопитель будет отключен.</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">Форматировать внешний накопитель</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">Режим работы тачпэда</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">Режим жестов</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">Режим курсора мыши</string>
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">Индивидуальные настройки ASUS</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">Поведение правой кнопки</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">Поведение средней кнопки</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">Показать контекстное меню</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Действие: как средняя кнопка Android</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">Действие: как клавиша назад</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">Действие: как клавиша меню</string>
+
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+
+
+
+
+
+
+
+    <!-- Lance Tung ,2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">Управление энергопотреблением</string>
+
+
+
+    <!-- Nick_Mou, 2012/08/16 -->
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Версия Scalar</string>
+
+
+
+
+
+
+    <string name="alarm_wakeup_total">Кол-во пробуждений</string>
+    <string name="alarm_times">раз</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage" description="hint message" maxwidth="-1">Введите</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">Очистить кэш всех приложений</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">Очистить кэш всех приложений?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">Это очистит кэш всех приложений. Освобожденное  пространство может быть использовано внутренним накопителем.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">Очистить кэш</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">Обработка...</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">Кэш очищен.</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Восстановление прикладного ПО</string>
+    <string name="clear_apps_data_title">Удалить все данные приложений?</string>
+    <string name="clear_apps_data_desc">"Все данные приложений будут полностью удалены. К ним относятся"\n\n<li>"Все файлы"</li>\n<li>"Настройки"</li>\n<li>"Учетные записи"</li>\n<li>"Базы данных"</li>\n<li>"Кэш"</li>
+    </string>
+    <string name="clear_apps_data_button">Удалить данные</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title" description="The title of ATT factory reset password setting" maxWidth="">Пароль для восстановления заводских настроек</string>
+    <string name="att_factory_reset_password_header_no_sim_card" description="The description for entering factory reset without sim card" maxWidth="">Введите пароль для восстановления заводских настроек</string>
+    <string name="att_factory_reset_password_header_enter_old" description="The description for entering the old ATT factory reset password" maxWidth="">Введите старый пароль</string>
+    <string name="att_factory_reset_password_header_enter_new" description="The description for entering the new ATT factory reset password" maxWidth="">Введите новый пароль</string>
+    <string name="att_factory_reset_password_header_confirm_new" description="The description for confirming the new ATT factory reset password" maxWidth="">Введите подтверждение нового пароля</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"Очистить SD-карту"</string>
+    <string name="erase_mircosd_storage_description">"Удалить с SD-карты все данные, в том числе музыку и фотографии"</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- Start: MikeHsu for 25th strings -->
+    <string name="clear_apps_data_account">\n\n"Эти учетные записи будут удалены."</string>
+    <string name="clear_apps_data_final_desc">Стереть все данные приложений? Будет выполнен перезапуск. Данное действие необратимо!</string>
+    <!-- End: MikeHsu for 25th strings -->
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">Новое письмо</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Письмо отправлено</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">События календаря</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Будильник по умолчанию</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Приложению требуется подключение к сети Интернет. Пожалуйста, включите в Настройках Wi-Fi или мобильную сеть.</string>
+    <string name="load_suspended_title">Нет подключения к сети</string>
+    <string name="button_label_settings">Настройки</string>
+    <string name="button_label_cancel">Отмена</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">Достигнуто макс. число выбранных клавиатур</string>
+
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">защита устройства от активации</string>
+    <string name="app_wakelock_switch_label">защита устройства от постоянного пребывания в активном режиме</string>
+    <string name="powermanagement_options_dialog">Данный параметр вступает в силу после перезапуска приложения или перезагрузки системы</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title" description="The title of Quick Settings List." maxWidth="-1">Опции быстрой настройки</string>
+    <string name="quick_setting_description" description="The description of Quick Settings List." maxWidth="-1">Выберите элементы для отображения панели быстрых настроек</string>
+    <string name="quick_setting_reset_title" description="The item of Quick Settings menu." maxWidth="-1">Сброс быстрых настроек</string>
+    <string name="quick_setting_reset_message">Опции быстрой настройки будут сброшены.</string>
+    <!-- end -->
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">Версия PadFone Station</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">Версия сенсорной панели PadFone Station </string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">Версия камеры PadFone Station </string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Быстрая настройка</string>
+
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Экран блокировки</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Запустить приложения на экране блокировки</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Быстрый доступ</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Версия стилуса</string>
+
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Темный</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Светлый</string>
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Для улучшения качества работы и производительности продукта отправьте диагностические данные в ASUS.</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">Установите PIN-код</string>
+    <string name="lockpassword_setup_your_password_header">Установите пароль</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">Кнопка последних приложений</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Всегда показывать последние приложения</item>
+        <item>Нажмите и удерживайте для снимка экрана</item>
+        <item>Нажмите и удерживайте для отображения меню</item>
+    </string-array>
+    <string name="touch_key_light_title">Сенсорные клавиши</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">Версия встроенного ПО IA</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">Версия микропрограммы IC контроллера клавиатуры</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">Показать остаток заряда батареи</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS View Flip Cover</string>
+    <string name="asus_transcover_category_title">Аксессуары</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Включить ASUS Cover</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Отключать экран при закрытии крышки</string>
+    <string name="asus_cover_settings">Настройки обложки ASUS</string>
+    <string name="asus_cover_automatic_unlock_tittle">Автоматическая разблокировка</string>
+    <string name="asus_cover_automatic_unlock_summary">Откройте крышку для автоматической разблокировки экрана, когда блокировка экрана выключена</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- George Yeh 2014/01/09 for Asus LockScreen Settings -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">Виджет "Что дальше"</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">Показывать виджет "Что дальше" на экране блокировки</string>
+    <string name="select_shortcut_ap_title" description="Set quick access app" maxwidth="-1">Установить приложение быстрого доступа</string>
+
+    <!-- Guoliang Lin, 2014/02/20 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">Версия батареи  </string>
+
+    <!-- yiqiu_huang@asus.com,installation for app2sd -->
+    <string name="app_installation_category">УСТАНОВКА ПРИЛОЖЕНИЯ</string>
+    <string name="app_installation_title">Параметры установки приложения</string>
+    <string name="app_installation_summary">Настроить соответствующие параметры при установке приложения </string>
+    <string name="app_installation_settings_category">МЕСТО УСТАНОВКИ ПО УМОЛЧАНИЮ</string>
+    <string name="app_installation_settings_preferinternal_title">Выбрать внутреннюю память </string>
+    <string name="app_installation_settings_preferinternal_summary">Устанавливать приложения во внутренней памяти. Некоторые приложения могут устанавливаться во внутренней памяти, если недостаточно места в памяти накопителя</string>
+    <string name="app_installation_settings_preferexternal_title">Выбрать внешний накопитель</string>
+    <string name="app_installation_settings_preferexternal_summary">Устанавливать приложения на внешнем накопителе, если это разрешено</string>
+    <string name="app_installation_settings_forceexternal_title">Принудительная установка на внешнем накопителе</string>
+    <string name="app_installation_settings_forceexternal_description">Для опытных пользователей:\n\nУстанавливать приложения с неуказанным местом установки во внутренней памяти\n\n
+Это может вызвать сбои в работе приложения со следующими конструкциями, такими как сервис фоновой обработки, служба тревожной сигнализации, редактор способа ввода, средство запуска, живые обои, виджет приложения, управление учетной записью, адаптер синхронизации, администратор устройств, прослушивание сигнала загрузки и т.д.</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Режим "В перчатках"</string>
+    <string name="glove_mode_setting_summary" maxwidth="-1">Надевая перчатки, необходимо увеличить чувствительность сенсора</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">Предварительно загружено</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">Данное приложение включено</string>
+
+    <string name="lockscreen_display_instant_camera_widget_title">Текущая камера</string>
+    <string name="lockscreen_display_instant_camera_widget">Дважды нажмите на кнопку громкость для запуска камеры из режима приостановки</string>
+    <string name="asus_lockscreen_camera_settings">Камера</string>
+    <string name="lockscreen_enable_camera_widget_title">Проведите пальцем для запуска</string>
+    <string name="lockscreen_enable_camera_widget">Для запуска камеры проведите пальцем слева на право по экрану блокировки</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">Главный экран</string>
+    <string name="set_lock_screen">Экран блокировки</string>
+    <string name="set_both_home_lockscreen">Главный экран и экран блокировки</string>
+
+    <!-- sheng-en_fann@asus.com -->
+    <string name="led_indicator">Светодиодный индикатор</string>
+    <string name="auto_brightness_settings_title">Параметры подбора яркости</string>
+    <string name="auto_brightness_settings_gain">Усиление</string>
+    <string name="auto_brightness_settings_sensor">Датчик освещения</string>
+    <string name="auto_brightness_settings_adjustment">Разрешить смену усиления</string>
+    <string name="auto_brightness_settings_reset_gain">Установить настройки по умолчанию</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Установить настройки по умолчанию для параметра усиления?</string>
+    <string name="auto_brightness_settings_indark">В темном помещении</string>
+    <string name="auto_brightness_settings_indark_title">Уменьшить яркость</string>
+    <string name="auto_brightness_settings_indark_slow">Медленно</string>
+    <string name="auto_brightness_settings_indark_immediate">Сразу</string>
+    <string name="auto_brightness_settings_indark_dynamic">Динамически</string>
+    <string name="show_sensor_usage">Показывать значение датчика освещения</string>
+    <string name="show_sensor_usage_summary">На экранной панели отображается текущее состояние датчика освещения</string>
+
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Режим Easy </string>
+    <string name="asus_easy_launcher_intro" maxwidth="">Режим Easy предоставляет легкий и интуитивно понятный интерфейс с простой раскладкой и основными функциями.</string>
+
+    <string name="memory_system_reserved_usage">Система зарезервирована</string>
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">Управление энергопотреблением</string>
+    <string name="powerstatistics_app_name">Таблица энергопотребления</string>
+    <string name="powersaver_app_name">Режим энергосбережения</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Режим управления одной рукой</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">\u0411\u044b\u0441\u0442\u0440\u043e\u0435 \u043f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">\u0414\u043b\u044f \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u0440\u0435\u0436\u0438\u043c\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u043e\u0434\u043d\u043e\u0439 \u0440\u0443\u043a\u043e\u0439 \u0434\u0432\u0430\u0436\u0434\u044b \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0443 \u00ab\u0414\u043e\u043c\u043e\u0439\u00bb</string>
+
+    <!-- Ashen_gu@asus.com, Settings-Sounds -->
+    <string name="ring_notification_volume_option_title">\u0420\u0438\u043d\u0433\u0442\u043e\u043d\u044b \u0438 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f</string>
+
+    <string name="detect_drain_apps">Обнаружение приложений, разряжающих батарею</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">\u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435</string>
+    <string name="user_snapview_message_created">\u041d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u043c\u0435\u0441\u0442\u0430 \u043d\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u043c \u043d\u0430\u043a\u043e\u043f\u0438\u0442\u0435\u043b\u0435.</string>
+    <string name="user_snapview_message_with_normal_lock">\u0412 SnapView \u043c\u043e\u0436\u043d\u043e \u0434\u0435\u043b\u0430\u0442\u044c \u0441\u043d\u0438\u043c\u043a\u0438, \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0442\u044c \u0444\u0430\u0439\u043b\u044b, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. \u042d\u0442\u0438 \u0444\u0430\u0439\u043b\u044b \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u043d\u0443\u0442\u0441\u044f \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0438 \u0431\u0443\u0434\u0443\u0442 \u0441\u043a\u0440\u044b\u0442\u044b \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 SnapView. \n\n \u041f\u0435\u0440\u0435\u0434 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c SnapView \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 \u0434\u043b\u044f SnapView. \n\n \u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435: \u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u044d\u043a\u0440\u0430\u043d\u0430 SnapView \u0434\u043e\u043b\u0436\u043d\u0430 \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0439 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c.</string>
+    <string name="user_snapview_message_without_normal_lock">\u0412 SnapView \u043c\u043e\u0436\u043d\u043e \u0434\u0435\u043b\u0430\u0442\u044c \u0441\u043d\u0438\u043c\u043a\u0438, \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0442\u044c \u0444\u0430\u0439\u043b\u044b, \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. \u042d\u0442\u0438 \u0444\u0430\u0439\u043b\u044b \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u043d\u0443\u0442\u0441\u044f \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0438 \u0431\u0443\u0434\u0443\u0442 \u0441\u043a\u0440\u044b\u0442\u044b \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0445\u043e\u0434\u0430 \u0438\u0437 SnapView. \n\n \u041f\u0435\u0440\u0435\u0434 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c SnapView \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 \u0434\u043b\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430.</string>
+    <string name="user_snapview_settings">\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 SnapView</string>
+    <string name="user_snapview_settings_category_account">\u0423\u0447\u0435\u0442\u043d\u0430\u044f \u0437\u0430\u043f\u0438\u0441\u044c SnapView</string>
+    <string name="user_snapview_settings_category_dummy">\u0421\u043a\u0440\u044b\u0442\u044b\u0435 \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435</string>
+    <string name="user_snapview_settings_category_lockscreen">\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u044d\u043a\u0440\u0430\u043d\u0430 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438</string>
+    <string name="user_snapview_settings_category_visualhint">\u0412\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u043a\u0430</string>
+    <string name="user_snapview_settings_change_info">\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0432 \u043f\u0440\u043e\u0444\u0438\u043b\u0435</string>
+    <string name="user_snapview_settings_delete_self">\u0423\u0434\u0430\u043b\u0438\u0442\u044c SnapView</string>
+    <string name="user_snapview_settings_dummy_default">\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0430 \u0441\u043b\u0443\u0436\u0431\u0430 Google Play</string>
+    <string name="user_snapview_settings_dummy_notify">\u0422\u0435\u043a\u0441\u0442</string>
+    <string name="user_snapview_settings_dummy_notify_icon">\u0418\u043a\u043e\u043d\u043a\u0430</string>
+    <string name="user_snapview_settings_hint_lock">\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u044d\u043a\u0440\u0430\u043d\u0430 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438</string>
+    <string name="user_snapview_settings_hint_notify">\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 SnapView</string>
+    <string name="user_snapview_settings_item1">\u0422\u043e\u043d\u043a\u043e\u0435</string>
+    <string name="user_snapview_settings_item2">\u041e\u0447\u0435\u0432\u0438\u0434\u043d\u043e\u0435</string>
+    <string name="user_snapview_settings_item3">\u041d\u0435\u0442</string>
+    <string name="user_snapview_settings_item_color">\u0426\u0432\u0435\u0442</string>
+    <string name="user_snapview_settings_item_icon">\u0418\u043a\u043e\u043d\u043a\u0430</string>
+    <string name="user_snapview_settings_item_none">\u041d\u0435\u0442</string>
+    <string name="user_snapview_settings_set_lock">\u0417\u0430\u0434\u0430\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430</string>
+    <string name="user_snapview_summary">\u041c\u043e\u0436\u043d\u043e \u0441\u043e\u0437\u0434\u0430\u0442\u044c SnapView \u0434\u043b\u044f \u0437\u0430\u0449\u0438\u0442\u044b \u0441\u0432\u043e\u0438\u0445 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0439, \u0444\u0430\u0439\u043b\u043e\u0432 \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439.</string>
+    <string name="user_snapview_title">SnapView</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Назначьте учетную запись %s спасательной учетной записью частный режим.\n\nСпасательная учетная запись поможет сбросить пароль частный режим в том случае, если вы его забудете.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Для удаления защищенного режима необходимо ввести пароль блокировки экрана и случайный PIN-код.\n\nПосле подтверждения защищенный режим будет удален с вашего устройства. Вы потеряете фотографии, приложения и данные в частный режим.\n\nЭто действие является необратимым. Продолжить выполнение?</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Поздравляем! Ваш пароль частный режим сброшен.\n\nДалее можно установить новый пароль частный режим или удалить используемый частный режим.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Сброс пароля частный режим выполнен</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Перед созданием частный режим рекомендуется назначить учетную запись %s спасательной учетной записью.\n\nСпасательная учетная запись поможет сбросить пароль частный режим в том случае, если вы его забудете.</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Спасательная учетная запись частный режим</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Мы\u0027 собираемся выполнить верификацию вашей учетной записи.\n\nПосле завершения верификации можно сбросить пароль блокировки экрана.\n\nПримечание. Следующий экран служит для Верификации учетной записи Google, мы не\u0027 храним информацию о вашей учетной записи.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Верификация учетной записи %s</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Сменить спасательную учетную запись эл. почты</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Используйте эти данные для сброса пароля частный режим</string>
+    <string name="user_snapview_reset_confirm">Стереть все ваши данные в Private Mode?\nВы не сможете отменить данную операцию!</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="owner_account">\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="personal_space">\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 SnapView</string>
+    <string name="pmode_created">SnapView \u0441\u043e\u0437\u0434\u0430\u043d! \u0422\u0435\u043f\u0435\u0440\u044c \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0432\u043e\u0439\u0442\u0438 \u0432 SnapView \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u044d\u043a\u0440\u0430\u043d\u0430 SnapView.</string>
+    <string name="pmode_created_title">SnapView \u0441\u043e\u0437\u0434\u0430\u043d</string>
+    <string name="pmode_password_cannot_same">\u041f\u0430\u0440\u043e\u043b\u044c SnapView \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u043f\u0430\u0440\u043e\u043b\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="pmode_pattern_cannot_same">\u0413\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043b\u044e\u0447 SnapView \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u043a\u043b\u044e\u0447\u0430 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="pmode_pattern_same_to_normal">\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u044d\u043a\u0440\u0430\u043d\u0430 SnapView \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0433\u043e \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0435\u0449\u0435 \u0440\u0430\u0437.</string>
+    <string name="pmode_pattern_same_to_private">\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u044d\u043a\u0440\u0430\u043d\u0430 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430 \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0433\u043e SnapView. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0435\u0449\u0435 \u0440\u0430\u0437.</string>
+    <string name="pmode_pin_cannot_same">\u041f\u0418\u041d-\u043a\u043e\u0434 SnapView \u0434\u043e\u043b\u0436\u0435\u043d \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0433\u043e \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c</string>
+    <string name="pmode_pin_length_must_same">\u0414\u043b\u0438\u043d\u0430 \u041f\u0418\u041d-\u043a\u043e\u0434\u0430 SnapView \u0438 \u041f\u0418\u041d-\u043a\u043e\u0434\u0430 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u0430</string>
+    <string name="pmode_set_lock">\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443</string>
+    <string name="pmode_set_owner_lock">\u0421\u043d\u0430\u0447\u0430\u043b\u0430 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u0442\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 \u0434\u043b\u044f \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430.</string>
+    <string name="pmode_set_owner_lock_title">\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="pmode_set_personal_space">\u0414\u0430\u043b\u0435\u0435, \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u0442\u0435 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 \u0434\u043b\u044f SnapView.
+\n\n \u041f\u0440\u0438\u043c\u0435\u0447\u0430\u043d\u0438\u0435: \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u044d\u043a\u0440\u0430\u043d\u0430 SnapView \u0434\u043e\u043b\u0436\u043d\u0430 \u043e\u0442\u043b\u0438\u0447\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0439 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0435\u043c.</string>
+    <string name="pmode_set_personal_space_title">\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0443 \u044d\u043a\u0440\u0430\u043d\u0430 SnapView</string>
+    <string name="both">\u0418\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0442\u0438\u043f \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u044d\u043a\u0440\u0430\u043d\u0430</string>
+    <string name="lockpassword_choose_private_mode">\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u043f\u0430\u0440\u043e\u043b\u044c \u0434\u043b\u044f SnapView</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u043f\u0430\u0440\u043e\u043b\u044c \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u041f\u0418\u041d-\u043a\u043e\u0434 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="lockpassword_confirm_private_mode">\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c SnapView</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u043f\u0430\u0440\u043e\u043b\u044c \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c \u041f\u0418\u041d-\u043a\u043e\u0434 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="lockpattern_choose_private_mode">\u0417\u0430\u0434\u0430\u0439\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043b\u044e\u0447 SnapView</string>
+    <string name="lockpattern_confirm_private_mode">\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043b\u044e\u0447 SnapView</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043b\u044e\u0447 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="lockpattern_pattern_same_to_normal">Pattern same to normal</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">\u0417\u0430\u0434\u0430\u0439\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043b\u044e\u0447 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430</string>
+    <string name="lockpin_choose_private_mode">\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043d\u043e\u0432\u044b\u0439 \u041f\u0418\u041d-\u043a\u043e\u0434 SnapView</string>
+    <string name="lockpin_confirm_private_mode">\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044c \u041f\u0418\u041d-\u043a\u043e\u0434 SnapView</string>
+    <string name="notice">\u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435</string>
+    <string name="select_account">\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_default_font">\u0428\u0440\u0438\u0444\u0442 \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e</string>
+    <string name="monotype_dialog_button">\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0448\u0440\u0438\u0444\u0442\u044b</string>
+    <string name="monotype_dialog_font_oem_font1">\u0428\u0440\u0438\u0444\u0442 OEM 1</string>
+    <string name="monotype_dialog_font_oem_font2">\u0428\u0440\u0438\u0444\u0442 OEM 2</string>
+    <string name="monotype_dialog_font_oem_font3">\u0428\u0440\u0438\u0444\u0442 OEM 3</string>
+    <string name="monotype_dialog_no_fonts_installed">\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0448\u0440\u0438\u0444\u0442\u044b \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b</string>
+    <string name="monotype_dialog_revert_question">\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0448\u0440\u0438\u0444\u0442 \u043f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e?</string>
+    <string name="monotype_dialog_set_font_question">\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0448\u0440\u0438\u0444\u0442 \u043a\u0430\u043a %s?</string>
+    <string name="monotype_loading_list">\u0421\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u0441\u043f\u0438\u0441\u043a\u0430 \u0448\u0440\u0438\u0444\u0442\u043e\u0432...</string>
+    <string name="monotype_preference_summary">\u0417\u0430\u0434\u0430\u0442\u044c \u0448\u0440\u0438\u0444\u0442</string>
+    <string name="monotype_preference_title">\u0421\u0442\u0438\u043b\u044c \u0448\u0440\u0438\u0444\u0442\u0430</string>
+    <string name="monotype_restart_dialog_button_1">\u041f\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441</string>
+    <string name="monotype_restart_dialog_text_1">\u041f\u0435\u0440\u0435\u0437\u0430\u043f\u0443\u0441\u043a \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430</string>
+    <string name="monotype_restart_dialog_text_2">\u041f\u0435\u0440\u0435\u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u0434\u043b\u044f \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a</string>
+    <string name="asus_master_clear_check_backup_message">Вы сохранили данные во внутренней памяти. Перед продолжением переместите их на внешний накопитель, иначе эти данные будут удалены из внутренней памяти. Все равно выполнить сброс параметров?</string>
+    <string name="asus_master_clear_check_backup_title">Внимание!</string>
+    <string name="change_short_cut_message">\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u0438 \u043f\u0435\u0440\u0435\u0442\u0430\u0449\u0438\u0442\u0435 \u0435\u0433\u043e \u044f\u0440\u043b\u044b\u043a</string>
+    <string name="lockscreen_enable_slide_widget">Разблокируйте устройство, не проводя по экрану</string>
+    <string name="lockscreen_enable_slide_widget_title">Пропустить разблокировку слайдером</string>
+    <string name="quick_access_message">\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430</string>
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">Менеджер автозапуска</string>
+    <string name="autostart_summary">"Освободить место в памяти и сократить энергопотребление"</string>
+
+    <!-- Wilson_Chen@asus.com, quick charging -->
+    <string name="battery_info_status_quick_charging">\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0437\u0430\u0440\u044f\u0434\u043a\u0430 (\u0441\u0435\u0442\u044c)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% - <xliff:g id="time">%2$s</xliff:g> \u0434\u043e \u043f\u043e\u043b\u043d\u043e\u0439 \u0437\u0430\u0440\u044f\u0434\u043a\u0438 \u043e\u0442 \u0441\u0435\u0442\u0438 (\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0437\u0430\u0440\u044f\u0434\u043a\u0430)</string>
+    <string name="zen_mode_dont_interrupt_category">Не разрешать</string>
+
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">\u041e\u0442\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u044c \u0441\u0442\u0440\u043e\u043a\u0443 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f</string>
+    <string name="notification_material_summary">При использовании некоторые значки уведомлений приложения принимают белый вид для соответствия стилю дизайна.</string>
+    <string name="notification_material_title">Применить дизайн материалов</string>
+
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Дважды</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Ввод неверного кода</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Сделайте снимок нарушителя, когда он вводит неверный пароль при заблокированном экране</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Селфи нарушителя</string>
+    <string name="lockscreen_intruder_selfie_summary">Сделайте снимок, вводящего неверный пароль</string>
+    <string name="lockscreen_intruder_selfie_title">Селфи нарушителя</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Сохраните снимок в папке "Селфи нарушителя" в "Галерее"</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Сохранять снимок автоматически</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">Пять раз</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">Четыре раза</string>
+    <string name="lockscreen_incorrect_code_entries_third">Трижды</string>
+    <string name="lockscreen_incorrect_code_entries_twice">Дважды</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Пароль должен состоять не менее чем из %d символов 4 групп: прописные буквы, строчные буквы, цифры, символы"</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Далее"</string>
+
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u0439 \u043a\u043e\u0434</string>
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Режим "Дети" "</string>
+    <string name="asus_kids_launcher_settings_message">"Включите режим "Дети" для создания безопасной игровой площадки для детей."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">Некоторые приложения могут неверно отображать текст с очень крупным размером шрифта.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">Очень крупный текст</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Для запуска режима камеры при включенном экране нажмите и удерживайте затвор фотокамеры или кнопку пуска видеокамеры."</string>
+    <string name="lockscreen_longpress_screen_off">"Для запуска режима камеры при выключенном экране нажмите и удерживайте затвор фотокамеры или кнопку пуска видеокамеры."</string>
+    <string name="lockscreen_longpress_screen_on_title">"Пуск камеры при включенном экране"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Пуск камеры при выключенном экране"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Новое сообщение</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"Аварийные предупреждения"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Настройка аварийных предупреждений"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"Широковещательные сообщения"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Настройка широковещательных сообщений"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Отключить страницу информации о погоде"</string>
+    <string name="lockscreen_disable_weather_info_page">"Полное отключение страницы информации о погоде (управляемой приложением Cheetah Mobile) на правой стороне экрана блокировки"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

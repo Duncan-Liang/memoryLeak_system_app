@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Asus Lock Screen Weather Animation Effect -->
+    <string name="asus_lockscreen_enable_weather_animation">"Weeranimatie"</string>
+    <string name="asus_lockscreen_enable_weather_effect_on_lockscreen">"Weeranimatie op vergrendelingsscherm inschakelen"</string>
+    <!-- Asus Lock Screen Theme -->
+    <string name="asus_lockscreen_change_lockscreen_theme">"Vergrendelingsschermthema wijzigen"</string>
+    <!-- Asus Lock Screen Wallpaper -->
+    <string name="asus_lockscreen_change_lockscreen_wallpaper">"Vergrendelingsschermachtergrond wijzigen"</string>
+    <!-- BEGIN: For Lock screeen widget settings string -->
+    <string name="asus_lock_screen_show_clock_widget">"Klokwidget tonen"</string>
+    <!-- END: For Lock screeen widget settings string -->
+    <!-- BEGIN: For fingerprint settings string -->
+    <string name="security_settings_manage_fingerprint_preference_title">"Vingerafdrukken beheren"</string>
+    <string name="secure_with_fingerprint_category">"Gebruik uw vingerafdruk voor"</string>
+    <string name="secure_unlock_with_fingerprint_item">"Apparaat ontgrendelen"</string>
+    <string name="secure_unlock_with_fingerprint_summary">"Gebruik uw vingerafdruk om het scherm te ontgrendelen."</string>
+    <string name="fingerprint_management_category">"Opgeslagen vingerafdrukken"</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature[CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_title">"Een vingerafdruk toevoegen"</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_message">"Gebruik vingerafdruk om het apparaat te ontgrendelen of toegang te krijgen tot telefoonoproepen. U zult een schermvergrendeling in combinatie met de vingerafdruk moeten instellen."</string>
+    <!-- Introduction title shown in fingerprint enrollment dialog to locate the sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_title">"Lokaliseer de vingerafdruksensor"</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_front">"Zoek de vingerafdruksensor aan de voorzijde van uw apparaat. Verplaats uw vinger om verschillende delen van uw vingerafdruk te registreren."</string>
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_back">"Zoek de vingerafdruksensor aan de achterzijde van uw apparaat. Verplaats uw vinger om verschillende delen van uw vingerafdruk te registreren."</string>
+    <!-- Title shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=29]-->
+    <string name="asus_security_settings_fingerprint_enroll_start_title">"Plaatsen en tillen"</string>
+    <!-- Message shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_start_message">"Plaats uw vinger op de vingerafdruksensor en til hem op zodra u een trilling voelt."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_title">"Nu herhalen"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_message">"Herhaal deze plaats-en-tilactie tot de volledige vingerafdruk is vastgelegd."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_title">"Meer vastleggen"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_message">"Pas uw greep aan en registreer verschillende delen van uw vinger."</string>
+    <string name="asus_security_settings_fingerprint_enroll_hint">"[Druk op de Terug-toets om terug te keren. Home-knop is uitgeschakeld tijdens de uitvoering.]"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is completed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_title">"Voltooid"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is completed -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_message">"Uw vingerafdruk is voltooid. Iedere opgeslagen vingerafdruk kan worden gebruikt om het apparaat te ontgrendelen, oproepen te beantwoorden en gegevens op te halen."</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is failed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_title">"Mislukt"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is failed -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_message">"Vingerafdrukregistratie is mislukt. Probeer het later opnieuw."</string>
+    <string name="asus_fingerprint_acquied_too_similar">"Verplaats uw vinger een beetje om de verschillende zones van uw vingerafdruk te scannen"</string>
+    <string name="asus_security_settings_fingerprint_enroll_lift_touch_again">"Plaats uw vinger herhaaldelijk op de vingerafdruksensor en til hem vervolgens op."</string>
+    <!-- Text shown in fingerprint settings explaining what the fingerprint can be used for in the case unlocking is disabled [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_disabled_on_lockscreen">"Schermvergrendelingsoptie uitgeschakeld"</string>
+    <!-- END: For fingerprint settings string -->
+</resources>

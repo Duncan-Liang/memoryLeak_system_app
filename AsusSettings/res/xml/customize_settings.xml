@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/customize_settings_title" >
+
+    <PreferenceCategory
+        android:key="recent_apps_key_long_press_category"
+        android:title="@string/touch_key_light_title">
+        <ListPreference
+            android:key="recent_apps_key_long_press_control_settings"
+            android:title="@string/recent_apps_key_long_press_control_title"
+            android:entries="@array/recent_apps_key_long_press_control_entries"
+            android:entryValues="@array/recent_apps_key_long_press_control_values"
+            android:defaultValue="0"
+            />
+    </PreferenceCategory>
+
+    <!-- BEGIN: Jeffrey_Chiang@asus.com Glove mode settings -->
+    <PreferenceCategory
+           android:key="asus_glove_mode_category"
+           android:title="@string/glove_mode_setting_title">
+        <CheckBoxPreference
+           android:key="asus_glove_mode_setting"
+           android:title="@string/glove_mode_setting_title"
+           android:summary="@string/glove_mode_setting_summary"
+           android:defaultValue="false"/>
+    </PreferenceCategory>
+    <!-- End: Jeffrey_Chiang@asus.com Glove mode settings -->
+
+    <!--sunhuihui@wind-mobi.com 2016/5/10 begin-->
+    <!-- BEGIN: Chung-han_Tsai@asus.com Quick settings option -->
+    <PreferenceCategory
+            android:key="interface_setting_category"
+            android:title="@string/interface_settings">
+        <PreferenceScreen
+                android:key="quick_setting"
+                android:title="@string/quick_setting_title"
+                android:summary="@string/quick_setting_description">
+            <intent android:action="android.settings.action.ASUS_QUICKSETTING_LIST_SETTING_PAGE"/>
+        </PreferenceScreen>
+        <com.android.settings.QuickSettingsResetPreference
+                android:key="quick_setting_reset"
+                android:title="@string/quick_setting_reset_title"
+                android:dialogMessage="@string/quick_setting_reset_message"
+                android:dialogTitle="@string/quick_setting_reset_title"/>
+    </PreferenceCategory>
+    <!-- End: Chung-han_Tsai@asus.com Quick settings option -->
+    <!--ADD by sunxiaolong@wind-mobi.com for game toolbar patch begin-->
+    <!-- BEGIN: AMAX game tool bar -->
+    <PreferenceCategory
+            android:key="in_app_toolbar_category"
+            android:title="@string/in_app_toolbar_category_title">
+        <Preference
+                android:key="game_toolbar_app_settings"
+                android:title="@string/game_toolbar_app_settings_page_title"
+                android:summary="@string/game_toolbar_app_settings_page_annotation"/>
+    </PreferenceCategory>
+    <!-- End: AMAX game tool bar -->
+    <!--ADD by sunxiaolong@wind-mobi.com for game toolbar patch end-->
+    <!--sunhuihui@wind-mobi.com 2016/5/10 end-->
+</PreferenceScreen>
+

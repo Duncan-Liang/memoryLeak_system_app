@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"タッチコントロール"</string>
+    <string name="asus_fingerprint_long_press_title">"着信電話に応答する"</string>
+    <string name="asus_fingerprint_long_press_summary">"指紋センサーをタップしながら着信電話に応答します。"</string>
+    <string name="asus_fingerprint_camera_title">"カメラを起動する"</string>
+    <string name="asus_fingerprint_launch_camera_title">"カメラを起動する"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"指紋センサーをダブルタップして、デバイスがロックされたらカメラを起動します。"</string>
+    <string name="asus_fingerprint_take_photo_title">"写真をキャプチャーする"</string>
+    <string name="asus_fingerprint_take_photo_summary">"指紋センサーをタップしてカメラが有効になったら写真をキャプチャーします。"</string>
+    <string name="asus_fingerprint_id_category_title">"指紋ID"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"着信電話ロック"</string>
+    <string name="asus_fingerprint_answer_call_summary">"指紋で着信電話に応答する"</string>
+    <string name="asus_fingerprint_snap_call_title">"スナップコール"</string>
+    <string name="asus_fingerprint_snap_call_summary">"指紋でスナップコールを有効にする"</string>
+</resources>

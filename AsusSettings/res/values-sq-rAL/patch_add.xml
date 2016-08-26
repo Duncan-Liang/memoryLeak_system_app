@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Hap me shpejtësi kamerën pa e shkyçur ekranin</string>
+  <string name="camera_double_tap_power_gesture_title">Shtyp butonin e energjisë dy herë për kamerën</string>
+  <string name="camera_gesture_desc">Hap aplikacionin e kamerës duke rrotulluar kyçin e dorës dy herë</string>
+  <string name="camera_gesture_title">Rrotullo dy herë për kamerën</string>
+  <string name="keywords_color_mode">ngjyrë e gjallë rgb srgb natyrale standarde</string>
+  <string name="manual">Manuale</string>
+  <string name="picture_color_mode">Modalitti i ngjyrave të figurës</string>
+  <string name="settings_manual_activity_title">Manuale</string>
+  <string name="settings_manual_activity_unavailable">Ka një problem me ngarkimin e manualit.</string>
+</resources>

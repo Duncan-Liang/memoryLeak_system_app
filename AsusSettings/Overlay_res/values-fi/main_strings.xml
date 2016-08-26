@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Salaus keskeytettiin eikä sitä voi suorittaa loppuun. Tämän vuoksi laitteesi tiedot eivät ole enää käytettävissä. \n\n Jatkaaksesi laitteen käyttöä, sinun on suoritettava tehdaspalautus. Kun asetat laitteesi palautuksen jälkeen, sinulla on mahdollisuus palauttaa kaikki tilille varmuuskopioidut tiedot.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Antamasi salasana on oikea, mutta valitettavasti tietosi ovat vioittuneet. \n\nJatkaaksesi laitteen käyttöä, sinun on suoritettava tehdaspalautus. Kun asetat laitteesi palautuksen jälkeen, sinulla on mahdollisuus palauttaa kaikki tilille varmuuskopioidut tiedot.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Tämä poistaa kaikki laitteesi tiedot <b>sisäinen tallennustila</b>, mukaan lukien:\n\n<li>tilisi</li>\n<li>Järjestelmä- ja sovellustiedot sekä asetukset</li>\n<li>Ladatut sovellukset</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Kaikki tiliisi verkossa tekemäsi muutokset kopioidaan automaattisesti laitteeseesi.\n\nJotkut tilit voivat myös kopioida automaattisesti kaikki muutokset, jotka teet laitteesta verkkoon. tili toimii tällä tavoin.</string>
+</resources>

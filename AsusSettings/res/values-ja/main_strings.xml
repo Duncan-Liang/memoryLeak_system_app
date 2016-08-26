@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="software_info">ソフトウェア情報</string>
+    <string name="hardware_info">ハードウェア情報</string>
+    <string name="software_info_summary">ベースバンド、カーネルバージョン、ビルド番号、その他</string>
+    <string name="hardware_info_summary">Wi-Fi、Bluetooth、ファームウェアのバージョンなど</string>
+    <string name="asus_encrypt_phone_title">電話の暗号化</string>
+    <string name="asus_encrypt_phone_description">暗号化するには、PadFone Stationから電話を取り外してください</string>
+    <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">電話を暗号化する十分な記憶容量がありません</string>
+    <!-- Kevin_Chiou 2014/08/06 for Settings storage -->
+    <string name="memory_system_reserved_usage">システム予約領域</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">他の設定</string>
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">\u3042\u308b\u30a2\u30d7\u30ea\u304c <xliff:g id="timeout">%1$d</xliff:g> \u79d2\u9593\u3042\u306a\u305f\u306e\u30c7\u30d0\u30a4\u30b9\u304c\u4ed6\u306eBluetooth\u30c7\u30d0\u30a4\u30b9\u306b\u691c\u51fa\u3055\u308c\u308b\u3053\u3068\u3092\u6c42\u3081\u3066\u3044\u307e\u3059\u3002</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">アプリが他のBluetoothデバイスにこの携帯デバイスを表示しようとしています。これは後からBluetoothの設定で変更できます。</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">\u3042\u308b\u30a2\u30d7\u30ea\u304c\u3001Bluetooth\u3092\u30aa\u30f3\u306b\u3057 <xliff:g id="timeout">%1$d</xliff:g> \u79d2\u9593\u3042\u306a\u305f\u306e\u30c7\u30d0\u30a4\u30b9\u304c\u4ed6\u306e\u30c7\u30d0\u30a4\u30b9\u306b\u691c\u51fa\u3055\u308c\u308b\u3053\u3068\u3092\u6c42\u3081\u3066\u3044\u307e\u3059\u3002</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">アプリがBluetoothをONにして他のデバイスにこの携帯デバイスを表示しようとしています。これは後からBluetoothの設定で変更できます。</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">ハンドヘルドモバイルデバイス情報</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">データローミングを許可すると高額な通信料が発生することがあります。\n\nこの設定はこの携帯移動デバイスのすべてのユーザーに影響します。</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">暗号化デバイス</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">アカウント、設定、ダウンロードしたアプリとそのデータ、メディアなどのファイルを暗号化できますデバイスを暗号化すると、画面ロック（パターン、数値PIN、パスワード）を設定済みの場合は、電源を入れるたびに画面のロックを解除してデバイスを復号化する必要があります。他に暗号化を解除する方法は、データの初期化を行ってすべてのデータを消去する方法のみです。\n\n暗号化には1時間以上かかります。開始する前に完全に充電し、暗号化が完了するまでタブレットを電源に接続しておく必要があります。中断すると、一部またはすべてのデータが失われます。</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">暗号化デバイス</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">この暗号化操作は元に戻すことができず、途中で中断するとデータが失われます。暗号化には1時間以上かかり、途中でスマートフォンが何度か再起動されます。</string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">\u6697\u53f7\u5316\u304c\u5b8c\u4e86\u3059\u308b\u307e\u3067\u3001\u66ab\u3089\u304f\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002<xliff:g example="50" id="percent">^1</xliff:g>% \u5b8c\u4e86\u3057\u307e\u3057\u305f\u3002</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">\u6697\u53f7\u5316\u304c\u5b8c\u4e86\u3059\u308b\u307e\u3067\u3001\u66ab\u3089\u304f\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u6b8b\u308a\u6642\u9593: <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">暗号化処理が中断されて完了できなかったためデバイス上のデータにアクセスできなくなりました。\n\nデバイスの使用を再開するには出荷時設定にリセットする必要があります。リセット後、デバイスのセットアップの段階で、Googleアカウントにバックアップしたデータの復元を選択できます。</string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">入力したパスワードは正しいのですが、データが破損しています。\n\nデバイスの使用を再開するには出荷時設定にリセットする必要があります。リセット後、デバイスのセットアップの段階で、Googleアカウントにバックアップしたデータの復元を選択できます。</string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g>\u306f\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a\u306e\u5171\u6709\u304b\u3089\u5207\u65ad\u3055\u308c\u307e\u3059\u3002</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">デバイスが他のデバイスと接触したときのデータ交換を許可する</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">警告: [Wi‑Fi]をスキップすると、デバイスはモバイルデータのみを使って最初のダウンロードやアップデートを行います。データ通信料が発生する可能性を防ぐにはWi‑Fiに接続してください。".</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">注意: WiFiをスキップする場合、デバイスは、最初のダウンロードやアップデートを使用するには、インターネットに接続していません。</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">デバイスからこのWi‑Fiネットワークに接続できませんでした。".</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">デバイスがドッキングされていません</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">ドックオーディオを設定する前に、デバイスをドッキングする必要があります。</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">ドックからデバイスを取り外すまたは挿入するときに音を鳴らします</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">ドックからデバイスを取り外すまたは挿入するときに音声を再生しないでください</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">画面の向きに合わせて縦横表示を切り替える</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">画面の向きに合わせて縦横表示を切り替える</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">デバイスを起動するにはPINが必須とする</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">デバイスを起動するにはPINが必須とする</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">デバイス状態</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">電池やネットワークなどの情報のステータス</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">デバイス上のすべてのデータを消去します</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">\u5b9f\u884c\u3059\u308b\u3068\u3001\u30c7\u30d0\u30a4\u30b9\u306e <b>\u5185\u90e8\u30b9\u30c8\u30ec\u30fc\u30b8</b> \u5185\u306e\u6b21\u3092\u542b\u3080\u5168\u3066\u306e\u30c7\u30fc\u30bf:\n\n<li> Google\u30a2\u30ab\u30a6\u30f3\u30c8</li>\n<li>\u30b7\u30b9\u30c6\u30e0/\u30a2\u30d7\u30ea\u306e\u30c7\u30fc\u30bf\u3068\u8a2d\u5b9a</li>\n<li>\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u6e08\u307f\u30a2\u30d7\u30ea</li>\u304c\u6d88\u53bb\u3055\u308c\u307e\u3059\u3002</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">デバイスをリセット</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">このデバイスのインターネット接続を共有します</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">1デバイスに、このデバイスのインターネット接続を共有します</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">
+        <xliff:g id="connectedDeviceCount">%1$d</xliff:g>\u53f0\u306e\u30c7\u30d0\u30a4\u30b9\u3068\u3053\u306e\u30c7\u30d0\u30a4\u30b9\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a\u3092\u5171\u6709\u3059\u308b</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">このデバイスのインターネット接続を共有しません</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">デバイスでGPSを使用して現在地を特定することをアプリに許可する</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">デバイス情報</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">提供元不明のアプリからデバイスや個人データが攻撃を受ける可能性が高くなります。このようなアプリの使用により生じる可能性があるデバイスへの損害やデータの損失について、ユーザーご自身が単独で責任を負うことに同意するものとします。</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">デバイスでこのアプリは下記にアクセスする場合があります。</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">デバイスでこのアプリは下記にアクセスする場合があります。</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">デバイスへ移動</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">このサービスを中止するなら、再びそれの電源をオフにするまで、デバイスの一部の機能が正常に動作しなくなることがあります。</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">デバイス情報</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">デバイスアイドル中</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">デバイス</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">デバイスがアイドル状態のときにバッテリーを使用</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">このアカウントを削除すると、デバイスからのメッセージ、連絡先、およびその他のデータをすべて削除します！</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">ウェブでアカウントに変更を加えると自動的にデバイスに反映されます。\n\nGoogleアカウントなど、アカウントによっては、デバイスで変更を加えた場合も自動的にウェブに反映されます。</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">モバイルデータは指定の制限に達した場合オフになります。\n\nデータ利用はデバイスで記録されますが、携帯通信会社の利用明細は異なる可能性があるため、制限にできるだけ余裕をみておくことをおすすめします。</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">バックグラウンドのモバイルデータを制限すると、アプリやサービスによっては、Wi-Fi未接続時に機能しない場合があります。\n\nこの設定はこのタブレット上のすべてのユーザーに影響します。</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>: \u4f7f\u7528\u91cf: \u7d04 <xliff:g example="128KB" id="total">%1$s</xliff:g> (\u30c7\u30d0\u30a4\u30b9\u306b\u3088\u308b\u6e2c\u5b9a\u5024)\u3002\u3054\u5951\u7d04\u306e\u901a\u4fe1\u30ad\u30e3\u30ea\u30a2\u306e\u30c7\u30fc\u30bf\u4f7f\u7528\u91cf\u3068\u7570\u306a\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">デバイスの所有者のみユーザーを管理することができます。</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">このデバイスのスペースとデータが失われます。この操作は元に戻せません。</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">この設定はこのデバイス上のすべてのユーザーに影響します。</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">デバイスが他のデバイスと接触したときのデータ交換を許可する</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">GPSのみ</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">この設定をONにして画面の固定を使用すると、固定を解除するまで現在の画面が常に表示されるようになります。\n\n画面の固定を使用するには:\n\n1. 画面の固定がONになっていることを確認します。\n\n2. 固定する画面を開きます。\n\n3. [最近使ったアプリキー]をタップします。\n\n4. 固定アイコンをタップします。</string>
+
+    <string name="zenui_update">ZenUI インスタント更新</string>
+ <string name="c_launch_title">「C」でアプリを起動</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">再度表示しない</string>
+    <string name="double_tap_mode_confirm_dialog_message">画面がオフのとき、画面上で同じ場所を 2 回タップすると画面が復帰します。 スワイプして画面をロックしたら、空いている領域を 2 回タップすると画面がオフになります。 ステータスバーとランチャーの空いている領域を 2 回タップすると画面がオフになります。</string>
+    <string name="double_tap_mode_confirm_dialog_title">2 回タップしてスリープON/\nOFFにする</string>
+    <string name="doubletap_mode_setting_summary">2 回タップしてスリープON/"\n"OFFにする</string>
+    <string name="doubletap_mode_setting_title">画面のオン/オフ</string>
+    <string name="e_launch_title">「e」でアプリを起動</string>
+    <string name="motion_gesture_category_title">モーションジェスチャー</string>
+    <string name="s_launch_title">「S」でアプリを起動</string>
+    <string name="shake_sensitivity_title">シェイク感度</string>
+    <string name="shake_title">ふるふる</string>
+    <string name="shake_summary">アプリを利用中にデバイスを2回振ると、スクリーンショットとやることリストにタスクが保存されます。</string>
+    <string name="touch_gesture_category_title">タッチジェスチャー</string>
+    <string name="v_launch_title">「V」でアプリを起動</string>
+    <string name="w_launch_title">「W」でアプリを起動</string>
+    <string name="z_launch_title">「Z」でアプリを起動</string>
+    <string name="app_disable">無効</string>
+    <string name="shake_sensitivity_entries_high">高</string>
+    <string name="shake_sensitivity_entries_low">低</string>
+    <string name="shake_sensitivity_entries_normal">通常</string>
+
+    <string name="double_tap_off_confirm_dialog_message">スワイプして、ロック画面をロック解除して、空きスペースをダブルタップして画面をオフにします。ステータスバーやランチャーで空きスペースをダブルタップして、画面をオフにします。</string>
+    <string name="double_tap_off_confirm_dialog_title">ダブルタップして一時停止します</string>
+    <string name="double_tap_on_confirm_dialog_message">画面がオフになっているように、画面上の同じ場所でダブルタップして、画面が復帰します。</string>
+    <string name="double_tap_on_confirm_dialog_title">ダブルタップでスリープモードを解除する</string>
+    <string name="doubletap_off_setting_summary">ダブルタップでスリープモードにする</string>
+    <string name="doubletap_off_setting_title">スクリーンオフ</string>
+    <string name="doubletap_on_setting_summary">ダブルタップでスリープモードを解除する</string>
+    <string name="doubletap_on_setting_title">スクリーンオン</string>
+    <string name="cpu_frequency_title">CPU</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="sleep_touch_gesture_category_title">Gestures on dark screen</string>
+    <string name="wake_up_touch_gesture_category_title">ウェイクアップモード</string>
+    <string name="motion_double_click_summary">本体をダブルタップすると、着信音がミュートになります。</string>
+    <string name="motion_double_click_title">タップでミュート</string>
+    <string name="motion_flip_summary">デバイスの画面を下に向けると、再生中の音楽が一時停止します。</string>
+    <string name="motion_flip_title">フリップ</string>
+    <string name="motion_hand_up_summary">着信があった際、デバイスを持ち上げて耳にあてるだけで、自動的に着信応答ができます。</string>
+    <string name="motion_hand_up_title">もしもし着信応答</string>
+    <string name="motion_walking_summary">歩いている時などに着信があった場合、自動的に着信音量を大きくします。</string>
+    <string name="motion_walking_title">着信音量アップ</string>
+    <string name="tutorial_c_launch_summary">スリープ状態の時に、画面に「C」を書くとアプリが起動します。</string>
+    <string name="tutorial_double_click_summary">"着信時、電話機本体をダブルクリックすると着信音がミュートになります。"</string>
+    <string name="tutorial_e_launch_summary">スリープ状態の時に、画面に「e」を書くとアプリが起動します。</string>
+    <string name="tutorial_flip_down_summary">"着信中にデバイスをさかさまにすると着信音がミュートになります。音楽の再生中にデバイスをさかさまにすると再生中の音楽が一時停止します。"</string>
+    <string name="tutorial_flip_down_title">ひっくり返してミュート(フリップダウン)</string>
+    <string name="tutorial_flip_up_summary">"音楽の再生中にデバイスの上部を上にすると再生中の音楽が一時停止します。"</string>
+    <string name="tutorial_flip_up_title">ひっくり返してミュート(フリップアップ)</string>
+    <string name="tutorial_hands_up_summary">"画面をタップしなくても、耳に電話を近づけると自動的に呼び出しに応答します。"</string>
+    <string name="tutorial_moving_summary">散歩中や移動中を見ているとき、着信があると着信音を上げます。</string>
+    <string name="tutorial_s_launch_summary">スリープ状態の時に、画面に「S」を書くとアプリが起動します。</string>
+    <string name="tutorial_v_launch_summary">スリープ状態の時に、画面に「V」を書くとアプリが起動します。</string>
+    <string name="tutorial_w_launch_summary">スリープ状態の時に、画面に「W」を書くとアプリが起動します。</string>
+    <string name="tutorial_z_launch_summary">スリープ状態の時に、画面に「Z」を書くとアプリが起動します。</string>
+    <string name="zenmotion_tutorial_title">"チュートリアル"</string>
+
+    <!-- Sunny_Yuan, touch gesture,2015.07.03 -->
+    <string name="app_asus_front_camera_name">カメラ - 前面カメラ</string>
+    <!-- Denny_Hsiao, touch gesture,2015.10.27 -->
+    <string name="app_asus_boost_name">Asus メモリ解放</string>
+
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"前回の工場出荷時データリセット"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"構成バージョン"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"オーディオウィザード"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">テーマ</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"顧客 ID"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <!-- JimCC_Yu, Use local translation from JP instead of translation system -->
+    <string name="usb_change_config_title">"USBをファイル転送に使用しますか？"</string>
+    <string name="usb_change_config_dialog_title">"USBをファイル転送に使用しますか？"</string>
+    <string name="usb_change_config_dialog_message">
+        "デバイスがコンピュータと接続されました。USBをファイル転送(MTP)で使用する場合は、「はい」を選択してください。"
+    </string>
+    <string name="usb_change_config_dialog_checkbox_message">"この設定を常に有効にする"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 end-->
+</resources>

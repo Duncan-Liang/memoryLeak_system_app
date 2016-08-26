@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"網際網路共用與行動熱點"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"以 GB 顯示"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"以 MB 顯示"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"行動數據"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"限制行動數據用量"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"開啟數據用量警示"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"數據用量警示"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"在行動數據用量超出您指定的數值時，<xliff:g example="tablet" id="device_type">%s</xliff:g> 會顯示警示。"</string>
+    <string name="vzw_data_usage_limit_dialog_title">"數據用量限制"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"數據用量達到您所指定的上限時，將停用行動數據連線。\n\n數據用量是由 <xliff:g example="tablet" id="device_type">%s</xliff:g> 所測量。 您使用的電信服務商計算出的數值可能有所不同，因此請將上限設為略低於您的數據方案數值。 請按照帳單計費時期設定日期。"</string>
+    <string name="vzw_phone">"手機"</string>
+    <string name="vzw_tablet">"平板"</string>
+    <string name="vzw_data_usage_disclaimer">"數據用量是由 <xliff:g example="tablet" id="device_type">%s</xliff:g> 所測量。 您使用的電信服務商計算出的數值可能有所不同。 請按照帳單計費時期設定日期。"</string>
+    <string name="vzw_data_usage_warning_notification_message">"輕觸即可查看用量與設定"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"行動數據已停用。"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"已達您指定的數據用量上限，因此行動數據已停用。\n\n若之後啟用行動數據，可能需支付額外費用給電信服務商。"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"啟用數據"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"行動數據已停用"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"觸碰即可啟用"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"超過行動數據上限"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"超過指定上限 <xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g>"</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"כאשר אתם מפעילים את תכונת נעילת השיחה הנכנסת, עליכם לסרוק את טביעת האצבע שלכם כדי לענות לשיחה. השיחה תחובר אוטומטית לאחר שטביעת האצבע תזוהה בהצלחה.\nשימו לב:\n1. באפשרותכם לענות לשיחה ישירות מאוזניות Bluetooth מחוברות או שעון חכם מבלי לסרוק את טביעת האצבע שלכם.\n2.יהיה עליכם להשתמש בטביעת האצבע שלכם כדי לענות לשיחה במידה ואתם משתמשים באוזניות חוטיות.\n3. לא תוכלו לענות לשיחות ממסך שיחה נכנסת של צד שלישי.\n4. לשיחות קול על גבי IP  (VoIP) כדוגמת שיחת וואטסאפ, מומלץ שתענו לשיחה מהאפליקציה עצמה."</string>
+    <string name="asus_long_tap_warning">"כאשר נעילת שיחות נכנסות מאופשרת, לא ניתן לענות לשיחות באמצעות נגיעה ממושכת."</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VZ_REQ_ACTIVATIONUI_38766 -->
+    <string name="vrz_view_verizon_account" >"View Verizon Account"</string>
+</resources>

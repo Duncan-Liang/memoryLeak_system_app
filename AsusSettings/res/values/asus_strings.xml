@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">About</string>
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">Never</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">Screen always on</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title" maxwidth="-1">Pad EC version</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">Camera version</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">Touch panel version</string>
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">MobileDock version</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">Not available</string>
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">Screenshot</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Tap and hold the recent apps key on navigation bar to take screenshot</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">Screenshot file format</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Wi-Fi version</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Bluetooth version</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">GPS version</string>
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">General source code offer</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">ASUS customized settings</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">Unmount external storage</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">Remove the external storage safely</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">Insert external storage for mounting</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">Mount external storage</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">Unmount external storage</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">If you unmount the storage, some applications you are using will stop and may be unavailable until you remount the storage.</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">Unmounting external storage failed</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">Cannot unmount external storage. Try again later.</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">External storage will be unmounted.</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">Erase external storage</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">Trackpad pointer style</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">Gesture mode</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">Mouse cursor mode</string>
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">Right button behavior</string>
+    <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">Middle button behavior</string>
+    <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">Show context menu</string>
+    <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Act as an Android middle button</string>
+    <string name="button_back" description="right button setting: it is like press back key" width="-1">Act as a back key</string>
+    <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">Act as a menu key</string>
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">Power management</string>
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Scalar version</string>
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Quick settings</string>
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">Power management</string>
+    <string name="powerstatistics_app_name">Apps power usage details</string>
+    <string name="powersaver_app_name">Power saver</string>
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage">Please type</string>
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">Clear cache of all apps</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">Clear cache of all apps?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">This will clear all apps cache. The freed up cache space can be used for internal storage.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">Clear cache</string>
+    <string name="clear_apps_cache_info">Processing...</string>
+    <string name="clear_apps_cache_toast">Cache is cleared.</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Recovery applications</string>
+    <string name="clear_apps_data_account">\n\nThese accounts will be removed.</string>
+    <string name="clear_apps_data_title">Clear all apps data?</string>
+    <string name="clear_apps_data_desc">"All apps data will be deleted permanently. This includes."\n\n<li>"All files"</li>\n<li>"Settings"</li>\n<li>"Accounts"</li>\n<li>"Databases"</li>\n<li>"Cache"</li>
+    </string>
+    <string name="clear_apps_data_final_desc">Erase all applications data? It will be restart. You can\'t reverse this action!</string>
+    <string name="clear_apps_data_button">Clear data</string>
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title">Factory reset password</string>
+    <string name="att_factory_reset_password_header_no_sim_card">Please enter the password for factory data reset</string>
+    <string name="att_factory_reset_password_header_enter_old">Please enter the old password</string>
+    <string name="att_factory_reset_password_header_enter_new">Please enter the new password</string>
+    <string name="att_factory_reset_password_header_confirm_new">Confirm the new password</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">Erase SD card</string>
+    <string name="erase_mircosd_storage_description">Erase all the data on the SD card, such as music or photos</string>
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <string name="alarm_times">times</string>
+    <string name="alarm_wakeup_total">Total Wakeups</string>
+    <string name="wakeupalarm_label">&lt;![CDATA[@string/power_management_setting_title]]&gt;</string>
+    <string name="app_wakeupalarm_switch_label">prevent the device from being waked up</string>
+    <string name="app_wakelock_switch_label">prevent the device from keeping awake</string>
+    <string name="powermanagement_options_dialog">This setting might take effect after restarting the application or rebooting</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">New Mail</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Sent Mail</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">Calendar Alerts</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Default Alarm</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="50">Max. number of selected keyboard reached</string>
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Internet connection is required to access the application. Please enable mobile network or WiFi in Settings. </string>
+    <string name="load_suspended_title">No network connection</string>
+    <string name="button_label_settings">Settings</string>
+    <string name="button_label_cancel">Cancel</string>
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">Quick settings options</string>
+    <string name="quick_setting_description">Select items to show on quick settings panel</string>
+    <string name="quick_setting_reset_title">Reset quick settings</string>
+    <string name="quick_setting_reset_message">The quick settings options will be reset.</string>
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display Pad EC version of padfone station" maxwidth="-1">PadFone Station version</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">PadFone Station touch panel version</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">PadFone Station camera version</string>
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Lock screen</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Launch apps on lock screen</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Quick access</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Show status bar</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">Instant Camera</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">Double click volume key to launch camera from suspension</string>
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">What\'s Next widget</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">Show What\'s Next widget on lock screen</string>
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <string name="select_shortcut_ap_title" description="Select App as shortcut" maxwidth="-1">Select App as shortcut</string>
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Dark</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Bright</string>
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Stylus version</string>
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">Setup your PIN</string>
+    <string name="lockpassword_setup_your_password_header">Setup your password</string>
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">Battery version</string>
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Send diagnostic data to ASUS to improve the quality and performance of our product.</string>
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">Recent apps key</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Always show recent apps</item>
+        <item>Tap and hold to take screenshot</item>
+        <item>Tap and hold to show menu</item>
+    </string-array>
+    <string-array name="recent_apps_key_long_press_control_values">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string name="touch_key_light_title">Touch key</string>
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">Preloaded</string>
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">This application was enabled</string>
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">IA firmware version</string>
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">Keyboard controller IC firmware version</string>
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">Show battery percentage</string>
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Glove mode</string>
+    <string name="glove_mode_setting_summary">Increase touch sensitivity when you wearing the gloves</string>
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <string name="lockscreen_longpress_camera">Long press camera key to launch camera</string>
+    <!-- begin jeson_li@20141121: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting transcover" maxwidth="-1">ASUS Cover</string>
+    <string name="asus_transcover_category_title" description="category title for setting transcover" maxwidth="-1">Accessories</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Automatic sleep/wakeup</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Automatically turn off and on the screen when you close and open cover</string>
+    <string name="asus_cover_settings">ASUS Cover settings</string>
+    <string name="asus_cover_automatic_unlock_tittle">Lock/Unlock</string>
+    <string name="asus_cover_automatic_unlock_summary">Automatically lock and unlock your device when you close and open cover</string>
+    <!-- end  jeson_li@20141121: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <string name="app_installation_category">App installation</string>
+    <string name="app_installation_title">App installation settings</string>
+    <string name="app_installation_summary">Customize the related settings on app installation</string>
+    <string name="app_installation_settings_category">Default installation location</string>
+    <string name="app_installation_settings_auto_title">Auto</string>
+    <string name="app_installation_settings_auto_summary">Automatically decide installation location based on app configuration and storage availability</string>
+    <string name="app_installation_settings_preferinternal_title">Prefer internal storage</string>
+    <string name="app_installation_settings_preferinternal_summary">Install applications in internal storage. Some applications may install in external storage when storage space is running out</string>
+    <string name="app_installation_settings_preferexternal_title">Prefer external storage</string>
+    <string name="app_installation_settings_preferexternal_summary">Install applications in external storage if allowed</string>
+    <string name="app_installation_settings_advanced_category">ADVANCED SETTINGS</string>
+    <string name="app_installation_settings_forceexternal_title">Force external storage installation</string>
+    <string name="app_installation_settings_forceexternal_description">Expert setting:\n\nInstall applications with unspecified location in external storage\n\n It may cause abnormal operations for application with the following designs, such as background service, alarm service, input method engine, launcher, live wallpaper, app widget, account manager, sync adapter, device administrator, listening to boot signal and so on.</string>
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+    <string name="memory_system_reserved_usage">System reserved</string>
+<!-- bruce1_li, AT&T DMAgent -->
+    <string name="att_software_update">AT&amp;T Software Update</string>
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">LED indicator</string>
+    <string name="asus_lockscreen_camera_settings">Camera</string>
+    <string name="lockscreen_enable_camera_widget_title">Swipe to launch</string>
+    <string name="lockscreen_enable_camera_widget">Swipe left from the right edge of the lock screen to launch camera</string>
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">Intruder selfie</string>
+    <string name="lockscreen_intruder_selfie_summary">Take a photo of someone who entered a wrong code</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Intruder selfie</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Take a photo of the intruder when he inputs the wrong password in lock screen</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Incorrect code entries</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Twice</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Save the photo automatically</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Save the photo in Intruder Selfie folder of Gallery</string>
+    <string name="lockscreen_incorrect_code_entries_twice">Twice</string>
+    <string name="lockscreen_incorrect_code_entries_third">Third</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">Fourth</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">Fifth</string>
+    <string name="lockscreen_enable_slide_widget_title">Skip the slide page</string>
+    <string name="lockscreen_enable_slide_widget">Skip the slide lock screen page when waking up</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">Home screen</string>
+    <string name="set_lock_screen">Lock screen</string>
+    <string name="set_both_home_lockscreen">Home and lock screen</string>
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Easy mode</string>
+    <string name="asus_easy_launcher_intro">Easy mode provides you a friendly yet intuitive interface experience with simple layout and core functions</string>
+    <string name="keywords_easy_mode">"easy ez launcher simple old wiser big elder"</string>
+    <string name="ezmode_enable_title">Enable Easy Launcher</string>
+    <string name="ezmode_enable_description">To use Easy Mode, please enable \"Easy Launcher\" app first. Enable now?</string>
+    <!-- AMAX AT&T issue -->
+    <string name="invalid_pin_for_eas" discription="invalid pin for eas(ex:1111,1234,4321)" maxwidth="-1">Invalid pin</string>
+    <string name="invalid_password_for_eas" discription="invalid password for eas(ex:1111,1234,4321,aaaa,abcd)" maxwidth="-1">Invalid password</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">Password must contain at least %d character sets in the 4 groups: uppercase, lowercase, number, symbol</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">Auto brightness options</string>
+    <string name="auto_brightness_settings_gain">Gain</string>
+    <string name="auto_brightness_settings_sensor">Light sensor</string>
+    <string name="auto_brightness_settings_adjustment">Allow change gain</string>
+    <string name="auto_brightness_settings_adjustment_on">&lt;![CDATA[@string/wifi_state_enabled]]&gt;</string>
+    <string name="auto_brightness_settings_adjustment_off">&lt;![CDATA[@string/wifi_state_disabled]]&gt;</string>
+    <string name="auto_brightness_settings_reset_gain">Reset to default</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Reset to default gain value?</string>
+    <string name="auto_brightness_settings_indark">In dark environment</string>
+    <string name="auto_brightness_settings_indark_title">Lower the brightness</string>
+    <string name="auto_brightness_settings_indark_slow">Slowly</string>
+    <string name="auto_brightness_settings_indark_immediate">Immediately</string>
+    <string name="auto_brightness_settings_indark_dynamic">Dynamically</string>
+    <string name="show_sensor_usage">Show light sensor value</string>
+    <string name="show_sensor_usage_summary">Screen overlay showing current light sensor status</string>
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <string name="asus_notification_ringtone_title">New Text</string>
+    <string name="newmail_ringtone_title">New Mail</string>
+    <string name="sentmail_ringtone_title">Sent Mail</string>
+    <string name="calendaralert_ringtone_title">Calendar Alerts</string>
+    <string name="alarm_ringtone_title">Default Alarm</string>
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">One Hand Mode</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Quick trigger</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Double tap the home key to activate the one hand operation mode</string>
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">Ringtone &amp; Notifications</string>
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Font style</string>
+    <string name="monotype_preference_summary">Set font</string>
+    <string name="monotype_dialog_button">Get fonts online</string>
+    <string name="monotype_dialog_set_font_question">Set font as %s?</string>
+    <string name="monotype_dialog_revert_question">Reset to default font?</string>
+    <string name="monotype_android_market_uri">market://search?q=pub:Monotype Imaging Inc.</string>
+    <string name="monotype_dialog_no_fonts_installed">No additional fonts available</string>
+    <string name="monotype_restart_dialog_text_1">Restart phone</string>
+    <string name="monotype_restart_dialog_text_2">Restart phone to apply settings</string>
+    <string name="monotype_restart_dialog_button_1">Restart now</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_default_font">Default font</string>
+    <string name="monotype_loading_list">Loading font list...</string>
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">SnapView</string>
+    <string name="user_snapview_summary">You can create a SnapView to protect your photo, files, and apps.</string>
+    <string name="user_snapview_message_Notice">Notice</string>
+    <string name="user_snapview_message_created">Insufficient system storage.</string>
+    <string name="user_snapview_message_with_normal_lock">In SnapView, you may take pictures, save files, install apps. These files and apps remain safe in SnapView and won\'t be seen once you exit SnapView.\n\nBefore you can create SnapView, you need to set up a screen lock for SnapView.\n\nNote: Your SnapView screen lock must not be the same as Owner\'s screen lock.</string>
+    <string name="user_snapview_message_without_normal_lock">In SnapView, you may take pictures, save files, install apps. These files and apps remain safe in SnapView and won\'t be seen once you exit SnapView.\n\nBefore you can create SnapView, you\'ll need to set up a screen lock for Owner.</string>
+    <string name="user_snapview_settings">SnapView Settings</string>
+    <string name="user_snapview_settings_category_lockscreen">Lock screen security</string>
+    <string name="user_snapview_settings_category_visualhint">Visual hint</string>
+    <string name="user_snapview_settings_category_dummy">Dummy notification</string>
+    <string name="user_snapview_settings_category_account">SnapView account</string>
+    <string name="user_snapview_settings_avatar"> Show avatars on lock screen</string>
+    <string name="user_snapview_settings_hint_lock">Lock screen decoration</string>
+    <string name="user_snapview_settings_hint_notify">SnapView decoration</string>
+    <string name="user_snapview_settings_dummy_notify">Text</string>
+    <string name="user_snapview_settings_dummy_default">Google Play service updated</string>
+    <string name="cn_user_snapview_settings_dummy_default">ASUS Apps Store service updated</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Icon</string>
+    <string name="user_snapview_settings_set_lock">Set screen lock</string>
+    <string name="user_snapview_settings_change_info">Change profile info</string>
+    <string name="user_snapview_settings_delete_self">Delete SnapView</string>
+    <string name="user_snapview_settings_item1">Subtle</string>
+    <string name="user_snapview_settings_item2">Obvious</string>
+    <string name="user_snapview_settings_item3">None</string>
+    <string name="user_snapview_settings_item_color">Color</string>
+    <string name="user_snapview_settings_item_icon">Icon</string>
+    <string name="user_snapview_settings_item_none">None</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">SnapView rescue account</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Before creating SnapView, we suggest you assign a google account as a rescue email account.\n\nYour rescue email account will help you reset your SnapView password in case you forget it.</string>
+    <string name="cn_user_snapview_message_set_account_dlg_text" maxwidth="-1">Before creating SnapView, we suggest you assign weibo account or off-line password as rescue account.\n\nYour rescue account will help you reset your SnapView password in case you forget it.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Verify your rescue password</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">We\'re about to verify your rescue password.\n\nOnce verification is successful, you can start resetting your lock screen password.\n\nNote: The next screen is account verification, and we don\'t collect your account information.</string>
+    <string name="cn_user_snapview_message_verify_account_dlg_text" maxwidth="-1">We\'re about to verify your rescue password.\n\nOnce verification is successful, you can start resetting your lock screen password.</string>
+    <string name="user_snapview_message_verify_account_fail_dlg_title" maxwidth="-1">Wrong rescue account</string>
+    <string name="user_snapview_message_verify_account_fail_dlg_message" maxwidth="-1">The rescue account is different from the one you used in creating SnapView. Ensure that you use the same account that you used in SnapView.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Verify success</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Congratulations! Your verification is successful.\n\nNext, you can assign a new SnapView password, or delete your current SnapView.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">To delete SnapView, you need to enter a screen lock pass and the random PIN.\n\nWhen confirmed, SnapView will be deleted from your device. You will lose your photos, apps, and data in SnapView.\n\nThis action cannot be undone. Would you like to proceed?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Change rescue method</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Touch to set up rescue method.</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Please assign a new rescue method in case of you forget your SnapView\'s password.\n\nYour rescue method will help you reset SnapView password in case you forget it.</string>
+    <string name="user_snapview_message_set_rescue_account">Set up</string>
+    <string name="user_snapview_message_later_set_rescue_account">Skip</string>
+    <string name="user_snapview_message_none_rescue_account">Touch to set up rescue account</string>
+    <string name="user_snapview_reset_confirm">Erase all your data in SnapView?\nYou can\'t reverse this action!</string>
+    <string name="user_snapview_choose_rescue_method_dlg_title">Choose rescue method</string>
+    <string name="user_snapview_offline_pwd">Off-line password</string>
+    <string name="user_snapview_security_question">Security questions</string>
+    <string name="user_snapview_security_page_title">Choose a security question and type your answer. If you forget your SnapView password, key in the answer you provided to enable password reset.</string>
+    <string name="user_snapview_your_answer">Your answer</string>
+    <string name="user_snapview_confirm">Confirm your answer</string>
+    <string name="user_snapview_invalid_answer">Wrong answer. Please try again.</string>
+    <string name="question1">Your birthday?</string>
+    <string name="question2">Where did you first meet your spouse/partner?</string>
+    <string name="question3">What was the year when you were born?</string>
+    <string name="question4">Who was your childhood hero?</string>
+    <string name="question5">What was the name of your first school?</string>
+    <string name="question6">When you were young, what do you want to be when you grow up?</string>
+    <string name="user_snapview_answering_question_description">Choose a security question and answer to enable resetting your SnapView password.</string>
+    <string name="google">Google</string>
+    <string name="weibo">Weibo</string>
+    <string name="gmail">Gmail</string>
+    <string name="weibo_account">Weibo</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">Choose Owner\'s new password</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Choose Owner\'s new PIN</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Confirm Owner\'s password</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Confirm Owner\'s PIN</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Draw Owner\'s new unlock pattern</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Draw Owner\'s pattern again to confirm</string>
+    <string name="lockpattern_choose_private_mode">Draw SnapView\'s new unlock pattern</string>
+    <string name="lockpattern_confirm_private_mode">Draw SnapView\'s pattern again to confirm</string>
+    <string name="lockpassword_choose_private_mode">Choose SnapView\'s new password</string>
+    <string name="lockpassword_confirm_private_mode">Confirm SnapView\'s password</string>
+    <string name="lockpin_choose_private_mode">Choose SnapView\'s new PIN</string>
+    <string name="lockpin_confirm_private_mode">Confirm SnapView\'s PIN</string>
+    <string name="lockpattern_pattern_same_to_normal">Pattern same to normal</string>
+    <string name="select_account">Select your action</string>
+    <string name="owner_account">Change Owner\'s screen lock</string>
+    <string name="personal_space">Change SnapView\'s screen lock</string>
+    <string name="both">Change screen lock type</string>
+    <string name="notice">Notice</string>
+    <string name="pmode_pattern_same_to_normal">SnapView\'s screen lock must not be the same as Owner\'s. Try again.</string>
+    <string name="pmode_pattern_same_to_private">Owner\'s screen lock must not be the same as SnapView\'s. Try again.</string>
+    <string name="pmode_created">Your SnapView is created! Now, try to enter SnapView using your SnapView\'s screen lock.</string>
+    <string name="pmode_created_title">SnapView created</string>
+    <string name="pmode_set_personal_space_title">Set SnapView\'s screen lock</string>
+    <string name="pmode_set_personal_space">Next, please set up a screen lock for SnapView.\n\nNote : SnapView\'s screen lock must not be the same as Owner\'s.</string>
+    <string name="pmode_pattern_cannot_same">SnapView\'s unlock pattern must not be the same as Owner\'s</string>
+    <string name="pmode_pin_cannot_same">SnapView\'s PIN must not be the same as Owner\'s</string>
+    <string name="pmode_password_cannot_same">SnapView\'s password must not be the same as Owner\'s</string>
+    <string name="pmode_set_lock">Set lock</string>
+    <string name="pmode_set_owner_lock_title">Set Owner\'s screen lock</string>
+    <string name="pmode_set_owner_lock">First, please set up a screen lock for Owner.</string>
+    <string name="pmode_pin_length_must_same">SnapView\'s PIN and Owner\'s PIN length must be the same</string>
+    <string name="detect_drain_apps">Detect battery-draining apps</string>
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">Warning</string>
+    <string name="asus_master_clear_check_backup_message">There are ASUS Backup data found in the internal storage.\n\nPlease move backup data to an external storage before formatting, or data would be erased.\n\nDo you want to continue with system reset?</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">Quick Charging (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+        <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> until full on AC(Quick Charging)</string>
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">Do not allow</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Customized quick access</string>
+    <string name="change_short_cut_message">Tap app to customize and drag app to rearrange</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">"Auto-start Manager"</string>
+    <string name="autostart_summary">"Free more memory and save power"</string>
+    <!-- Kevin_Chiou for ANT build -->
+    <string name="display_personalize" discription="settings_display_personalize group name" maxwidth="">Personal</string>
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Apply Material Design</string>
+    <string name="notification_material_summary">When applied, some app notification icons become a white shape to comply with this design style.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label">Next</string>
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">Kids mode</string>
+    <string name="asus_kids_launcher_settings_message">Turn on Kids mode to setup a safe playground for your children to use.</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">"Some apps may not properly display the texts with extra large font size."</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">"Extra large text"</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Tap and hold camera shutter key or video camera key to launch camera when screen is on"</string>
+    <string name="lockscreen_longpress_screen_off">"Tap and hold camera shutter key or video camera key to launch camera when screen is off"</string>
+    <string name="lockscreen_longpress_screen_on_title">"Start camera when screen is on"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Start camera when screen is off"</string>
+
+    <!-- nancy_jiang@asus.com wireless charging sound title-->
+    <string name="wireless_charging_sounds_title">"Wireless charging sounds"</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"Emergency alerts"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Configure emergency alerts"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMS cell broadcast"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Configure SMS cell broadcast"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Disable weather info page"</string>
+    <string name="lockscreen_disable_weather_info_page">"Fully deactivate the weather info page (powered by Cheetah Mobile) on the right side of Lock screen"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+	<!-- BEGIN: add by sunxiaolong@wind-mobi.com For Game tool bar settings asus patch-->
+	<string name="in_app_toolbar_category_title">"IN-APP ToolBar"</string>
+    <string name="game_toolbar_app_settings_page_title">"Launch Game Genie Setting Page"</string>
+    <string name="game_toolbar_app_settings_page_annotation" maxwidth="-1">"Game Genie function adjustment"</string>
+	<!-- END: add by sunxiaolong@wind-mobi.com For Game tool bar settings asus patch-->
+</resources>

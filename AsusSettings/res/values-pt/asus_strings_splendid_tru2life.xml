@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+   <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Modo de cor de tela</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Modo equilibrado</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Filtro de Luz Azul</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Modo vívido</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Modo personalizado</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+</resources>

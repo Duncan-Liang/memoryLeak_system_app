@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Nerušit</string>
+    <string name="zen_mode_option_off2">Vždy povolit</string>
+    <string name="zen_mode_option_important_interruptions2">Použít pravidla vyrušování</string>
+    <string name="zen_mode_option_no_interruptions2">Nepovolit</string>
+    <string name="zen_mode_important_category2">Pravidla vyrušování</string>
+    <string name="zen_mode_from2">Povolit volání/zprávy od</string>
+    <string name="zen_mode_from_anyone2">Kdokoli</string>
+    <string name="zen_mode_from_contacts2">Pouze kontakty</string>
+    <string name="zen_mode_from_starred2">Pouze oblíbené</string>
+    <string name="zen_mode_from_vip2">Pouze VIP</string>
+    <string name="zen_mode_downtime_category2">Plánovaný čas (Použít pravidla vyrušování)</string>
+    <string name="zen_mode_alarms_priority">Varování</string>
+    <string name="zen_mode_repeated_calls">Opakovaná volání</string>
+    <string name="zen_mode_repeated_calls_desc">Druhé volání během dvou minut nebude potlačeno</string>
+    <string name="zen_mode_add_downtime">Nový plán</string>
+    <string name="zen_mode_meeting_mode_category">Plán spuštěný událostmi kalendáře</string>
+    <string name="zen_mode_weekend">Víkend</string>
+    <string name="zen_mode_everyday">Každý den</string>
+    <string name="zen_mode_remove_dialog_title">Odebrat plán</string>
+    <string name="zen_mode_remove_dialog_message">Odebrat tento plán?</string>
+    <string name="zen_mode_limit_dialog_title">Nový plán</string>
+    <string name="zen_mode_limit_dialog_message">Můžete mít až %d nastavení plánu.</string>
+    <string name="zen_mode_downtime_title">plán</string>
+    <string name="zen_mode_downtime_title_new">Nový plán</string>
+    <string name="zen_mode_downtime_title_edit">Upravit plán</string>
+    <string name="zen_mode_downtime_title_meeting">Upravit plán </string>
+    <string name="zen_mode_others">Nastavení</string>
+    <string name="zen_mode_send_notifications">Oznámení</string>
+    <string name="zen_mode_send_notifications_desc">Po aktivaci režimu Nerušit odeslat oznámení</string>
+    <string name="zen_mode_no_interruptions_warning">"Při nastavení \"naprosté ticho\" budou alarmy ztlumeny."</string>
+    <string name="zen_mode_from_anyone3">"Od kohokoli"</string>
+    <string name="zen_mode_from_favorites_only">"Pouze od oblíbených"</string>
+    <string name="zen_mode_from_contacts_only">"Pouze od kontaktů"</string>
+    <string name="zen_mode_repeat_callers2">"Opakovat hovory"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Stejné číslo volající opakovaně v intervalu <xliff:g id="MINUTES">%d</xliff:g> minut bude povoleno"</string>
+    <string name="zen_mode_option_important_interruptions3">"Použít pravidla rušení"</string>
+    <string name="zen_mode_selected_callers2">"vybrané hovory"</string>
+    <string name="zen_mode_dnd_is_on">"Funkce Nerušit je nyní zapnutá. Můžete ji vypnout ručně."</string>
+    <string name="zen_mode_turn_off_now">"Vypnout nyní"</string>
+    <string name="zen_mode_custom_name">"Vlastní"</string>
+    <string name="zen_mode_manual_turn_on">"Povolit režim Nerušit ručně"</string>
+    <string name="zen_mode_turn_off">"Zakázat režim Nerušit"</string>
+    <string name="zen_mode_in_activity">"Povoleno: "</string>
+    <string name="zen_mode_forever2">"Na neurčito"</string>
+</resources>

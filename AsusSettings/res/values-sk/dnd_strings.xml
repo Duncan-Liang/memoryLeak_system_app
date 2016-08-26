@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Nevyrušovať</string>
+    <string name="zen_mode_option_off2">Vždy povoliť</string>
+    <string name="zen_mode_option_important_interruptions2">Použiť pravidlá rušenia</string>
+    <string name="zen_mode_option_no_interruptions2">Nepovoliť</string>
+    <string name="zen_mode_important_category2">Pravidlá rušenia</string>
+    <string name="zen_mode_from2">Povoliť hovory/správy od</string>
+    <string name="zen_mode_from_anyone2">Každý</string>
+    <string name="zen_mode_from_contacts2">Iba kontakty</string>
+    <string name="zen_mode_from_starred2">Iba obľúbené</string>
+    <string name="zen_mode_from_vip2">Iba VIP</string>
+    <string name="zen_mode_downtime_category2">Naplávovaný čas (použiť pravidlá rušenia)</string>
+    <string name="zen_mode_alarms_priority">Budíky</string>
+    <string name="zen_mode_repeated_calls">Opakované volania</string>
+    <string name="zen_mode_repeated_calls_desc">Druhý hovor do dvoch minút nebude stlmený</string>
+    <string name="zen_mode_add_downtime">Nový plán</string>
+    <string name="zen_mode_meeting_mode_category">Plán bol spustený udalosťou v kalendári</string>
+    <string name="zen_mode_weekend">Víkend</string>
+    <string name="zen_mode_everyday">Každý deň</string>
+    <string name="zen_mode_remove_dialog_title">Odstrániť plán</string>
+    <string name="zen_mode_remove_dialog_message">Má sa odatrániť tento plán ?</string>
+    <string name="zen_mode_limit_dialog_title">Nový plán</string>
+    <string name="zen_mode_limit_dialog_message">Môžete mať až %s nastavení plánu</string>
+    <string name="zen_mode_downtime_title">plán</string>
+    <string name="zen_mode_downtime_title_new">Nový plán</string>
+    <string name="zen_mode_downtime_title_edit">Upraviť plán</string>
+    <string name="zen_mode_downtime_title_meeting">Upraviť plán </string>
+    <string name="zen_mode_others">Nastavenia</string>
+    <string name="zen_mode_send_notifications">Upozornenie</string>
+    <string name="zen_mode_send_notifications_desc">Upozornenie odoslať po aktivovaní možnosti Nevyrušovať</string>
+    <string name="zen_mode_no_interruptions_warning">"Keď je nastavené na \"úplné ticho\", budíky budú nastavené na stlmenie."</string>
+    <string name="zen_mode_from_anyone3">"Od kohokoľvek"</string>
+    <string name="zen_mode_from_favorites_only">"Len od Obľúbených"</string>
+    <string name="zen_mode_from_contacts_only">"Len od Kontaktov"</string>
+    <string name="zen_mode_repeat_callers2">"Opakované hovory"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Rovnaké číslo, ktoré zavolá znova v limite do <xliff:g id="MINUTES">%d</xliff:g> min. bude povolené"</string>
+    <string name="zen_mode_option_important_interruptions3">"Použiť pravidlá vyrušovania"</string>
+    <string name="zen_mode_selected_callers2">"vybrané hovory"</string>
+    <string name="zen_mode_dnd_is_on">"Režim nevyrušovania je teraz aktívny. Môžete ho vypnúť ručne."</string>
+    <string name="zen_mode_turn_off_now">"Vypnúť teraz"</string>
+    <string name="zen_mode_custom_name">"Vlastné"</string>
+    <string name="zen_mode_manual_turn_on">"Aktivovať Režim nevyrušovania ručne"</string>
+    <string name="zen_mode_turn_off">"Vypnúť Režim nevyrušovania"</string>
+    <string name="zen_mode_in_activity">"Povolené: "</string>
+    <string name="zen_mode_forever2">"Nekonečno"</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="cta_category"
+            android:title="@string/cta_preference_category"
+            android:persistent="false">
+
+        <Preference android:title="@string/cta_prefrence_title"
+                android:summary="@string/cta_prefrence_summary"
+                android:persistent="false"
+                android:fragment="com.android.settings.cta.CtaSettings"/>
+    </PreferenceCategory>
+</PreferenceScreen>

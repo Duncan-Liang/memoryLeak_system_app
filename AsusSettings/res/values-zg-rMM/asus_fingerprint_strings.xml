@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"ထိေတြ႕ထိန္းခ်ဳပ္မႈမ်ား"</string>
+    <string name="asus_fingerprint_long_press_title">"အဝင္ဖုန္းမ်ားကုိ ေျဖပါ"</string>
+    <string name="asus_fingerprint_long_press_summary">"အဝင္ဖုန္းကုိ ေျဖရန္ လက္ေဗြအာရံုခံေပၚတြင္ ဖိႏွိပ္ထားပါ။"</string>
+    <string name="asus_fingerprint_camera_title">"ကင္မရာကုိ ဖြင့္ပါ"</string>
+    <string name="asus_fingerprint_launch_camera_title">"ကင္မရာကုိ ဖြင့္ပါ"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"စက္ကုိ ေသာ့ဖြင့္သည့္အခါ ကင္မရာကုိဖြင့္ရန္ လက္ေဗြအာရံုခံကုိ ႏွစ္ခ်က္ႏွိပ္ပါ။"</string>
+    <string name="asus_fingerprint_take_photo_title">"ဓါတ္ပံုရုိက္ပါ"</string>
+    <string name="asus_fingerprint_take_photo_summary">"ကင္မရာကုိ သက္ဝင္လုပ္ေဆာင္ထားသည့္အခါ ဓါတ္ပံုရုိက္ရန္ လက္ေဗြဆင္ဆာကုိ ႏွိပ္ပါ။"</string>
+    <string name="asus_fingerprint_id_category_title">"လက္ေဗြ ID"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"အဝင္ဖုန္းေသာ့"</string>
+    <string name="asus_fingerprint_answer_call_summary">"သင့္လက္ေဗြျဖင့္ အဝင္ဖုန္းကုိ ေျဖပါ"</string>
+    <string name="asus_fingerprint_snap_call_title">"အျမန္ေခၚဆုိမႈ"</string>
+    <string name="asus_fingerprint_snap_call_summary">"သင့္လက္ေဗြျဖင့္ အျမန္ေခၚဆုိမႈကုိ ဖြင့္ပါ"</string>
+</resources>

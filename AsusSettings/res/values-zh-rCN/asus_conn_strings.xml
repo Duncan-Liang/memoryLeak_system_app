@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">闲置时禁用 WLAN 热点</string>
+    <string name="wifi_disable_hotspot_selection_never">从不</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">5 分钟后</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">10 分钟后</string>
+
+    <!-- List of clients connected to Wifi Access Point -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">WLAN 热点使用者</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">尚无使用者连线至WLAN 热点。</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">\u4ee5\u592a\u7f51</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">\u672a\u8bbe\u7f6e IP \u5730\u5740\u3002</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">\u672a\u8bbe\u7f6e\u7f51\u7edc\u524d\u7f00\u957f\u5ea6\u3002</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">\u672a\u8bbe\u7f6e\u7f51\u5173\u5730\u5740\u3002</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">\u672a\u8bbe\u7f6e DNS1 \u5730\u5740\u3002</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">\u672a\u8bbe\u7f6e DNS2 \u5730\u5740\u3002</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">\u8bbe\u7f6e IP \u5730\u5740</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">\u8bbe\u7f6e\u7f51\u7edc\u524d\u7f00\u957f\u5ea6\u3002</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">\u8bbe\u7f6e\u7f51\u5173\u5730\u5740\u3002</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">\u8bbe\u7f6e DNS1</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">\u8bbe\u7f6e DNS2</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">\u7761\u7720\u65f6\u7ef4\u6301\u4ee5\u592a\u7f51\u8fde\u63a5</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">\u4ee5\u592a\u7f51\u9700\u8981\u989d\u5916\u7684\u7535\u6c60\u7535\u529b</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">\u7f51\u7edc\u8bbe\u7f6e</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">为确保连接质量，请尝试重新连接无线显示(Miracast)或 WLAN Direct。</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">请按键盘上的任意键, 以重新连线</string>
+    <!--liyong01@wind-mobi.com add for Bug #105267 -->
+    <string name="wifi_ap_no_connected">0 个连接者</string>
+    <string name="wifi_ap_client_block_title">阻止</string>
+
+</resources>

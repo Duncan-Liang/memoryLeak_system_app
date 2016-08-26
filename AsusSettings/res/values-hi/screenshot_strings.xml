@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"लोकप्रिय कुंजी सेट करना"</string>
+    <string name="screenshot_hot_key_title">"हाल के एप्लिकेशन कुंजी"</string>
+    <string name="screenshot_hot_key_summary">"स्क्रीनशॉट लेने के लिए हाल के एप्लिकेशन कुंजी को टैप करें और रोके रहें"</string>
+    <string name="screenshot_format_setting_title">"फ़ाइल फ़ॉर्मेट सेट करना"</string>
+    <string name="screenshot_format_title">"स्क्रीनशॉट फ़ाइल फ़ॉर्मेट"</string>
+    <string name="screenshot_sound_setting_title">"ध्वनि सेटिंग"</string>
+    <string name="screenshot_sound_title">"स्क्रीनशॉट ध्वनि सक्षम करें"</string>
+    <string name="screenshot_notify_setting_title">"अधिसूचना सेटिंग"</string>
+    <string name="screenshot_notify_title">"अधिसूचना सक्षम करें"</string>
+</resources>

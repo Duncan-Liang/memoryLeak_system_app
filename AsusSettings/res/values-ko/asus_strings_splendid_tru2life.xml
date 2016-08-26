@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">화면 색 모드</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">밸런스 모드</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">블루라이트필터</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">선명한 모드</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">사용자 지정 모드</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"잔상 없는 동작"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">높음</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">중간</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">낮음</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">사용 안 함</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">높은 효과</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">중간 효과</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">낮은 효과</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">사용 안 함</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">비디오 재생 품질을 매끄럽게 만듭니다.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"블루라이트 필터 모드"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"레벨 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"레벨 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"레벨 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"레벨 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"레벨 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"끄기"</string>
+    <string name="splendid_bluelight_filter_mode_on">"켜기"</string>
+    <string name="splendid_bluelight_ok">"확인"</string>
+    <string name="splendid_bluelight_cancel">"취소"</string>
+    <string name="notification_bluelight_filter_title">"블루라이트 필터가 활성화되었습니다."</string>
+    <string name="notification_bluelight_filter_summary">"수정하려면 탭하십시오."</string>
+    <!-- end -->
+</resources>

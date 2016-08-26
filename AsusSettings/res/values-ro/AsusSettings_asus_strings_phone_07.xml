@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Atunci când activaţi caracteristica de blocare apeluri de intrare, trebuie să vă scanaţi amprenta pentru a prelua un apel. Apelul va fi conectat automat atunci când este recunoscută amprenta.\nReţineţi că:\n1.Puteţi prelua apelul de intrare direct prin nişte căşti Bluetooth sau un smart watch fără scanarea amprentei.\n2.Atunci când utilizaţi căşti va trebui să utilizaţi amprenta pentru a prelua apelul.\n3.Nu veţi putea prelua apeluri dintr-un ecran terţ de preluare apeluri.\n4.Pentru apeluri VoIP, ex. apel vocal WhatsApp, va trebui să preluaţi apelul din aplicaţia respectivă."</string>
+    <string name="asus_long_tap_warning">"Atunci când este activată caracteristica de blocare apel de intrare, preluarea apelurilor prin atingere lungă va fi dezactivată."</string>
+</resources>

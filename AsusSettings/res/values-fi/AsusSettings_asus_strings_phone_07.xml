@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Kun otat käyttöön saapuvien puhelujen lukituksen, puheluun vastaaminen vaatii sormenjälkiesi skannaamista. Puhelu yhdistetään automaattisesti, jos sormenjälki tunnistetaan onnistuneesti.\nOta huomioon, että:\n1.Voit vastata tulevaan puheluun suoraan parilliselta Bluetooth-kuuloke-mikrofoni-yhdistelmältä tai älykellosta ilman sormenjäljen skannaamista.\n2.Sinun on edelleen käytettävä sormenjälkeä vastataksesi puheluun langallista kuuloke-mikrofoni-yhdistelmää käyttäessäsi.\n3.Et pysty vastaamaan kolmannelta osapuolelta tulevaan puheluun saapuvien puhelujen näytöstä.\n4.Kun kyseessä on Voice over IP (VoIP) -soitto, esim. Whatsapp-äänipuhelu, sinun tulee edelleen vastata puheluun itse sovelluksesta."</string>
+    <string name="asus_long_tap_warning">"Kun tulevan soiton lukko on otettu käyttöön, soittoihin vastaaminen napauttamalla ja pitämällä sormea pohjassa otetaan pois käytöstä."</string>
+</resources>

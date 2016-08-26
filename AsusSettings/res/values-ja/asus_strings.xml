@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">使用しない</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">常にON</string>
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="">MobileDock バージョン</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="">利用できません</string>
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">端末情報</string>
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Wi-Fi バージョン</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="">Bluetooth バージョン</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="">GPSバージョン</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">Pad ECバージョン</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">カメラのバージョン</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">タッチパネルバージョン</string>
+
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="">スクリーンショット</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">マルチタスクボタンをタップ＆ホールドしすると、スクリーンショットを保存できます</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">スクリーンショットのファイルフォーマット</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+<!-- Johnson2_Chen, 2011/03/17, UI required, new feature -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">外付けストレージのアンマウント</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">外付けストレージを安全に取り外します</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">外付けストレージを挿入しマウントします</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">外付けストレージのマウント</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">外付けストレージのアンマウント</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">ストレージをアンマウントすると、現在使用中のアプリケーションが停止し、再度マウントするまで使用できない場合があります。</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">外付けストレージのアンマウントに失敗しました。</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">外付けストレージをアンマウントできません。後で再試行してください。</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">外付けストレージをアンマウントします。</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">外付けストレージの削除</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">タッチパッド設定</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">ジェスチャーモード</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">マウスカーソルモード</string>
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">ASUSカスタマイズ設定</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">右クリック時の動作</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">ミドルボタン選択時の動作</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">左クリックと同じ動作</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Androidの中央ボタンとして動作</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">バックキーとして動作</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">メニューを開くとして動作</string>
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+
+
+
+
+
+
+    <!-- Lance Tung , 2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">電力管理</string>
+
+
+    <!-- Nick_Mou, 2012/08/16 -->
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Scalarバージョン</string>
+
+
+
+
+
+
+    <string name="alarm_wakeup_total">ウェイクアップ合計</string>
+    <string name="alarm_times">回</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage" description="hint message" maxwidth="-1">入力する</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">すべてのアプリのキャッシュを消去</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">すべてのアプリのキャッシュを消去しますか？</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">全てのアプリのキャッシュを消去します。開いた領域はインターネットストレージとして使用されます。</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">キャッシュをクリア</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">処理中...</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">キャッシュがクリアされます。</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">リカバリアプリケーション</string>
+    <string name="clear_apps_data_title">すべてのアプリデータをクリアしますか?</string>
+    <string name="clear_apps_data_desc">"すべてのアプリデータが完全に削除されます。 これには、以下が含まれます。"\n\n<li>"すべてのファイル"</li>\n<li>"設定"</li>\n<li>"アカウント"</li>\n<li>"データベース"</li>\n<li>"キャッシュ"</li>
+    </string>
+    <string name="clear_apps_data_button">データをクリア</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title" description="The title of ATT factory reset password setting" maxWidth="">工場出荷時の状態にリセットするパスワード</string>
+    <string name="att_factory_reset_password_header_no_sim_card" description="The description for entering factory reset without sim card" maxWidth="">データを初期化するパスワードを入力してください</string>
+    <string name="att_factory_reset_password_header_enter_old" description="The description for entering the old ATT factory reset password" maxWidth="">古いパスワードを入力してください。</string>
+    <string name="att_factory_reset_password_header_enter_new" description="The description for entering the new ATT factory reset password" maxWidth="">新しいパスワードを入力してください</string>
+    <string name="att_factory_reset_password_header_confirm_new" description="The description for confirming the new ATT factory reset password" maxWidth="">新しいパスワードを確認</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"SDカード内データを消去"</string>
+    <string name="erase_mircosd_storage_description">"SDカード内の全データ（音楽、画像など）を消去します"</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- Start: MikeHsu for 25th strings -->
+    <string name="clear_apps_data_account">\n\n"これらのアカウントは削除されます。"</string>
+    <string name="clear_apps_data_final_desc">すべてのアプリケーションデータを消去しますか? 再起動します。 このアクションは元に戻せません!</string>
+    <!-- End: MikeHsu for 25th strings -->
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">新着メール</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">メール送信</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">カレンダーの通知</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">既定の通知</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">このアプリケーションにアクセスするにはインターネット接続が必要です。「設定」でモバイルネットワークまたはWi-Fiを有効にしてください。</string>
+    <string name="load_suspended_title">ネットワーク接続なし</string>
+    <string name="button_label_settings">設定</string>
+    <string name="button_label_cancel">キャンセル</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">選択したキーボードの数が最大限に達しました</string>
+
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">デバイスが呼び起こされるのを防ぎます</string>
+    <string name="app_wakelock_switch_label">デバイスが呼び起こされた状態を維持するのを防ぎます</string>
+    <string name="powermanagement_options_dialog">この設定はアプリケーションの再起動後またはコンピュータのリブート後に有効になります</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title" description="The title of Quick Settings List." maxWidth="-1">クイック設定オプション</string>
+    <string name="quick_setting_description" description="The description of Quick Settings List." maxWidth="-1">クイック設定パネルに表示する項目を選択します</string>
+    <string name="quick_setting_reset_title" description="The item of Quick Settings menu." maxWidth="-1">クイック設定をリセット</string>
+    <string name="quick_setting_reset_message">クイック設定オプションがリセットされます。</string>
+
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">PadFone Stationのバージョン</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">PadFone Stationタッチパネルバージョン</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">PadFone Stationカメラバージョン</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">クイック設定</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">ロックスクリーン</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">ロック画面でアプリを起動する</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">クイックアクセス</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">スタイラスバージョン</string>
+
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">暗い</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">明るい</string>
+
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">製品の品質と性能を向上するために、診断データをASUSに送信してください。</string>
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">電力管理</string>
+    <string name="powerstatistics_app_name">アプリの電力使用状況</string>
+    <string name="powersaver_app_name">省電力設定</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">PINのセットアップ</string>
+    <string name="lockpassword_setup_your_password_header">パスワードのセットアップ</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">マルチタスクボタン</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>起動中のアプリを表示する</item>
+        <item>ボタンを押し続け、スクリーンショットを保存する</item>
+        <item>ボタンを押し続け、メニューを表示する</item>
+    </string-array>
+    <string name="touch_key_light_title">タッチキー</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">IAファームウェアバージョン</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">キーボードコントローラー IC ファームウェアバージョン</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">電池残量をパーセントで表示する</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS Cover</string>
+    <string name="asus_transcover_category_title">アクセサリー</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">ASUS Coverを有効にする</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">カバーが閉じられているときは画面を一時停止にする</string>
+    <string name="asus_cover_settings">View Flip Cover の設定</string>
+    <string name="asus_cover_automatic_unlock_tittle">自動ロック解除</string>
+    <string name="asus_cover_automatic_unlock_summary">画面ロックがオフのとき、カバーを開くとロック画面が自動的に解除されます</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- George Yeh 2014/01/09 for Asus LockScreen Settings -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">What\'s Next ウィジェット</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">ロック画面に「What\'s next」ウィジェットを表示する</string>
+    <string name="select_shortcut_ap_title" description="Set quick access app" maxwidth="-1">クイックアクセスアプリを設定する</string>
+
+    <!-- Guoliang Lin, 2014/02/20 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">バッテリーバージョン</string>
+
+    <!-- yiqiu_huang@asus.com,installation for app2sd -->
+    <string name="app_installation_category">アプリインストール</string>
+    <string name="app_installation_title">アプリインストール設定</string>
+    <string name="app_installation_summary">アプリインストールの関連設定をカスタマイズします</string>
+    <string name="app_installation_settings_category">デフォルトのインストール場所</string>
+    <string name="app_installation_settings_preferinternal_title">内部ストレージを優先します</string>
+    <string name="app_installation_settings_preferinternal_summary">内部ストレージにアプリケーションをインストールします。ストレージに空き容量がないとき、一部のアプリケーションは外部ストレージにインストールされる場合があります</string>
+    <string name="app_installation_settings_preferexternal_title">外部ストレージを優先します</string>
+    <string name="app_installation_settings_preferexternal_summary">許可される場合、外部ストレージにアプリケーションをインストールします</string>
+    <string name="app_installation_settings_forceexternal_title">外部ストレージインストールを強制します</string>
+    <string name="app_installation_settings_forceexternal_description">エキスパート設定:\n\n外部ストレージの指定されていない場所でアプリケーションをインストールします\n\n
+バックグラウンドサービス、アラームサービス、インプットメソッドエンジン、ランチャー、ライブ壁紙、アプリウィジェット、アカウントマネージャー、デバイス管理者、起動信号の傍受などの設計を持つアプリケーションでは動作に異常が現れることがあります。</string>
+
+
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">手袋モード</string>
+    <string name="glove_mode_setting_summary" maxwidth="-1">手袋をした状態でも、快適なタッチ操作を可能にします</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">プリロード済み</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">このアプリケーションは有効にされました</string>
+
+
+    <string name="lockscreen_display_instant_camera_widget_title">インスタントカメラ</string>
+    <string name="lockscreen_display_instant_camera_widget">音量ボタンをダブルクリックすることで、カメラをすぐに起動します</string>
+    <string name="asus_lockscreen_camera_settings">カメラ</string>
+    <string name="lockscreen_enable_camera_widget_title">スワイプして起動</string>
+    <string name="lockscreen_enable_camera_widget">ロック画面の右端から左にスワイプするとカメラが起動します</string>
+    <string name="lockscreen_enable_slide_widget_title">スライドページをスキップ</string>
+    <string name="lockscreen_enable_slide_widget">目覚めたときに、スライドロック画面のページをスキップ</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">ホーム画面</string>
+    <string name="set_lock_screen">ロック画面</string>
+    <string name="set_both_home_lockscreen">ホームおよびロック画面</string>
+
+    <!-- sheng-en_fann@asus.com -->
+    <string name="led_indicator">充電ランプ</string>
+    <string name="auto_brightness_settings_title">明るさの自動調整オプション</string>
+    <string name="auto_brightness_settings_gain">ゲイン</string>
+    <string name="auto_brightness_settings_sensor">光センサ</string>
+    <string name="auto_brightness_settings_adjustment">ゲイン変更を許可する</string>
+    <string name="auto_brightness_settings_reset_gain">デフォルトにリセットする</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">ゲインのデフォルト値にリセットしますか？</string>
+    <string name="auto_brightness_settings_indark">暗い環境で</string>
+    <string name="auto_brightness_settings_indark_title">明るさを下げる</string>
+    <string name="auto_brightness_settings_indark_slow">ゆっくり</string>
+    <string name="auto_brightness_settings_indark_immediate">すぐに</string>
+    <string name="auto_brightness_settings_indark_dynamic">動的に</string>
+    <string name="show_sensor_usage">光センサの値を表示する</string>
+    <string name="show_sensor_usage_summary">現在の光センサの状態を表示するスクリーンオーバーレイ</string>
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">簡単モード</string>
+    <string name="asus_easy_launcher_intro" maxwidth="">簡単モードは、文字やアイコンが大きく表示され、よく使う機能を簡単な操作で利用することができます。</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">片手モード</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">クイック設定</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">ホームキーをダブルタップして、片手モードを有効にします。</string>
+
+    <!-- Ashen_gu@asus.com, Settings-Sounds -->
+    <string name="ring_notification_volume_option_title">着信音＆通知</string>
+
+    <string name="detect_drain_apps">バッテリーを消耗させるアプリの検出</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="notice">注意</string>
+    <string name="both">画面ロックの種類を変更します</string>
+    <string name="lockpassword_choose_private_mode">SnapViewの新しいパスワードを選択してください</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">所有者の新しいパスワードを選択してください</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">所有者の新しいPINを選択してください</string>
+    <string name="lockpassword_confirm_private_mode">SnapViewのパスワードを確認</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">所有者のパスワードを確認してください</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">所有者のPINを確認してください</string>
+    <string name="lockpattern_choose_private_mode">SnapViewの新しいロック解除パターンを描画</string>
+    <string name="lockpattern_confirm_private_mode">もう一度SnapViewのパターンを描画して確認</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">もう一度所有者のパターンを描画して確認</string>
+    <string name="lockpattern_pattern_same_to_normal">Pattern same to normal</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">所有者の新しいロック解除パターンを描画</string>
+    <string name="lockpin_choose_private_mode">SnapViewの新しいPINを選択</string>
+    <string name="lockpin_confirm_private_mode">SnapViewのPINを確認</string>
+    <string name="owner_account">所有者の画面ロックを変更</string>
+    <string name="personal_space">SnapViewの画面ロックを変更します</string>
+    <string name="pmode_created">"SnapViewが作成されました。SnapViewの画面ロックを使用してSnapViewを入力してみてください。</string>
+    <string name="pmode_created_title">SnapViewが作成されました</string>
+    <string name="pmode_password_cannot_same">SnapViewのパスワードは所有者のパスワードと同じでなければなりません</string>
+    <string name="pmode_pattern_cannot_same">SnapViewのロック解除パターンは所有者のロック解除パターンと同じでなければなりません</string>
+    <string name="pmode_pattern_same_to_normal">SnapViewの画面ロックは所有者の画面ロックと同じではいけません。再試行してください。</string>
+    <string name="pmode_pattern_same_to_private">所有者の画面ロックはSnapViewの画面ロックと同じではいけません。再試行してください。</string>
+    <string name="pmode_pin_cannot_same">SnapViewのPINは所有者のPINと同じでなければなりません</string>
+    <string name="pmode_pin_length_must_same">SnapViewのPINは所有者のPINの長さと同じでなければなりません</string>
+    <string name="pmode_set_lock">ロックを設定</string>
+    <string name="pmode_set_owner_lock">まず、所有者の画面ロックを設定してください。</string>
+    <string name="pmode_set_owner_lock_title">所有者の画面ロックを設定します。</string>
+    <string name="pmode_set_personal_space">次、SnapViewのため、ロック画面をセットアップしてください。\n\n注意 : SnapViewのロック画面は所有者のロック画面と同じではいけません。</string>
+    <string name="pmode_set_personal_space_title">SnapViewの画面ロックを設定します</string>
+    <string name="select_account">アクションを選択します</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">注意</string>
+    <string name="user_snapview_message_created">システムストレージが不足しています。</string>
+    <string name="user_snapview_message_with_normal_lock">SnapViewで写真を撮って、ファイルを保存して、アプリをインストールできます。ファイルとアプリがSnapViewの中で安全に残り、SnapViewを終了したら、表示されません。\n\nSnapViewを作成する前に、所有者のために画面ロックを設定する必要があります。\n\n注意 : SnapView画面ロックは、所有者の画面ロックと同じではいけません。</string>
+    <string name="user_snapview_message_without_normal_lock">SnapViewで写真を撮って、ファイルを保存して、アプリをインストールできます。ファイルとアプリがSnapViewの中で安全に残り、SnapViewを終了したら、表示されません。\n\nSnapViewを作成する前に、所有者のために画面ロックを設定する必要があります。</string>
+    <string name="user_snapview_settings">SnapView 設定</string>
+    <string name="user_snapview_settings_category_account">SnapView アカウント</string>
+    <string name="user_snapview_settings_category_dummy">ダミー通知</string>
+    <string name="user_snapview_settings_category_lockscreen">ロック画面のセキュリティ</string>
+    <string name="user_snapview_settings_category_visualhint">ビジュアルヒント</string>
+    <string name="user_snapview_settings_change_info">プロフィール情報を変更します</string>
+    <string name="user_snapview_settings_delete_self">SnapViewを削除</string>
+    <string name="user_snapview_settings_dummy_default">Google Playのサービスが更新します</string>
+    <string name="user_snapview_settings_dummy_notify">テキスト</string>
+    <string name="user_snapview_settings_dummy_notify_icon">アイコン</string>
+    <string name="user_snapview_settings_hint_lock">ロック画面の装飾</string>
+    <string name="user_snapview_settings_hint_notify">SnapViewの装飾</string>
+    <string name="user_snapview_settings_item1">巧妙</string>
+    <string name="user_snapview_settings_item2">明らか</string>
+    <string name="user_snapview_settings_item3">なし</string>
+    <string name="user_snapview_settings_item_color">カラー</string>
+    <string name="user_snapview_settings_item_icon">アイコン</string>
+    <string name="user_snapview_settings_item_none">なし</string>
+    <string name="user_snapview_settings_set_lock">Set screen lock</string>
+    <string name="user_snapview_summary">SnapViewを作成して、フォト、ファイルとアプリを保護できます。</string>
+    <string name="user_snapview_title">SnapView</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">SnapView レスキューメールアカウントとして %s アカウントを割り当ててください。\n\nレスキューメールアカウントがあれば、SnapView パスワードを忘れたときに SnapView パスワードをリセットできます。</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">プライベートモード を削除するには、画面ロックパスとランダム PIN を入力する必要があります。\n\n確定すると、プライベートモード がお使いのデバイスから削除されます。SnapView の写真、アプリ、データが失われます。\n\nこのアクションは元に戻せません。 続行しますか？</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">おめでとうございます！ SnapView パスワードがリセットされました。\n\n次に、新しい SnapView パスワードを割り当てたり、現在の SnapView を削除したりできます。</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">検証完成</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">SnapView を作成する前に、レスキューメールアカウントとして %s アカウントを割り当てることをお勧めします。\n\nレスキューメールアカウントがあれば、SnapView パスワードを忘れたときに SnapView パスワードをリセットできます。</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">SnapView レスキューメールアカウント</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">これからあなたの %1$s アカウントを検証します。\n\n検証が成功すると、ロック画面パスワードのリセットを開始できます。\n\n注記: 次の画面は %2$s Account Verification のものです。あなたの情報を集めることはありません。</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">レスキューパスワードを確認</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">レスキューメールアカウントを変更します</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">これを利用し、SnapView パスワードをリセットします。</string>
+    <string name="user_snapview_reset_confirm">プライベートモードのデータをすべて消去しますか？\nこの操作は元に戻すことができません！</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_restart_dialog_text_1">フォンを再起動</string>
+    <string name="monotype_restart_dialog_text_2">フォンを再起動して設定を適用</string>
+    <string name="monotype_default_font">デフォルトのフォント</string>
+    <string name="monotype_dialog_button">オンラインでフォントを取得</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_dialog_no_fonts_installed">使用可能な追加のフォントはありません</string>
+    <string name="monotype_dialog_revert_question">デフォルトフォントにリセットしますか？</string>
+    <string name="monotype_dialog_set_font_question">%sのようなフォントに設定しますか？</string>
+    <string name="monotype_loading_list">フォントリストを読み込む...</string>
+    <string name="monotype_preference_summary">フォントを設定</string>
+    <string name="monotype_preference_title">フォントスタイル</string>
+    <string name="monotype_restart_dialog_button_1">すぐ再起動</string>
+
+    <string name="asus_master_clear_check_backup_message">内部ストレージにデータを保存しています。 続行するには外部ストレージにデータを移してください。移さない場合、内部ストレージからデータが消去されます。 リセットを続行しますか?</string>
+    <string name="asus_master_clear_check_backup_title">警告</string>
+    <string name="change_short_cut_message">アプリをタップして、アプリをカスタマイズとドラッグして、再配置します</string>
+    <string name="quick_access_message">カスタマイズしたクイックアクセス</string>
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">自動起動マネージャー</string>
+    <string name="autostart_summary">"メモリをもっと解放し、電力を節約する"</string>
+
+    <!-- Wilson_Chen@asus.com, quick charging -->
+    <string name="battery_info_status_quick_charging">急速充電 (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+<xliff:g id="level">%1$d</xliff:g>%% - <xliff:g id="time">%2$s</xliff:g>AC\u96fb\u6e90 (Quick Charging)\u3067\u30d5\u30eb\u5145\u96fb\u3055\u308c\u308b\u307e\u3067</string>
+    <string name="zen_mode_dont_interrupt_category">許可しない</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">ステータスバーを表示する</string>
+    <string name="notification_material_summary">適用する際、一部のアプリの通知アイコンは、このデザインスタイルに準拠する白い形状になります。</string>
+    <string name="notification_material_title">素材デザインの適用</string>
+
+    <string name="lockscreen_incorrect_code_entries_setting_summery">2 回</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">正しくないコードの入力</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">ロック画面で間違ったパスワードを入力したときに侵入者の写真を撮影します</string>
+    <string name="lockscreen_intruder_selfie_setting_title">侵入者撮影</string>
+    <string name="lockscreen_intruder_selfie_summary">間違ったコードを入力した人物の写真を撮影します</string>
+    <string name="lockscreen_intruder_selfie_title">侵入者撮影</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">ギャラリーの侵入者撮影フォルダーに写真を保存します</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">写真を自動的に保存します</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">5 回</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">4 回</string>
+    <string name="lockscreen_incorrect_code_entries_third">3 回</string>
+    <string name="lockscreen_incorrect_code_entries_twice">2 回</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"パスワードは大文字、小文字、数字、記号の 4 つのグループの中から %d 種類以上を組み合わせて作る必要があります。"</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"次へ"</string>
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">一般的なソースコードの提供</string>
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">キッズモード</string>
+    <string name="asus_kids_launcher_settings_message">キッズモードを有効にすると、お子様が安全に使えるように管理することができます。</string>
+
+    <!-- KDDI -->
+    <string name="data_roaming">データローミング</string>
+    <string name="battery_info_status_full" msgid="2824614753861462808">フル</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">この機能をONにすると、文字サイズが大きいために、アプリによっては正常に文字が表示されなくなる場合があります。</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">特大文字テキスト</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">非スリープ状態の時にシャッターボタンまたは録画ボタンをタップ＆ホールドしすると、カメラをすばやく起動することができます</string>
+    <string name="lockscreen_longpress_screen_off">スリープ状態の時にシャッターボタンまたは録画ボタンをタップ＆ホールドしすると、カメラをすばやく起動することができます</string>
+    <string name="lockscreen_longpress_screen_on_title">"カメラの起動 (非スリープ状態)"</string>
+    <string name="lockscreen_longpress_screen_off_title">"カメラの起動 (スリープ状態)"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">新しいテキスト</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"緊急アラート"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"緊急アラートを設定"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMSセルブロードキャスト"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"SMSのセルブロードキャストを設定"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"天気情報ページを無効にする"</string>
+    <string name="lockscreen_disable_weather_info_page">"ロック画面の右側で天気情報ページ (Cheetah Mobile 提供) を完全に無効にします"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

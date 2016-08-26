@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Tethering &amp; Κινητό ενεργό σημείο"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Εμφάνιση σε GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Εμφάνιση σε MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Δεδομένα κινητής τηλεφωνίας"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Περιορισμός δεδομένων κινητής τηλεφωνίας"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Να λαμβάνω ειδοποίηση για τη χρήση δεδομένων"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Ειδοποίηση για τη χρήση δεδομένων"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Το <xliff:g example="tablet" id="device_type">%s</xliff:g> σας θα σας ειδοποιήσει όταν η χρήση δεδομένων κινητής τηλεφωνίας αγγίξει τον όγκο που επιλέξατε."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Περιορισμένη χρήση δεδομένων"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Η σύνδεση δεδομένων κινητής τηλεφωνίας σας θα απενεργοποιηθεί όταν η χρήση δεδομένων που κάνετε αγγίξει το όριο που έχετε επιλέξει.\n\nΗ χρήση των δεδομένων μετράται από το <xliff:g example="tablet" id="device_type">%s</xliff:g> σας. Ο πάροχός σας μπορεί να υπολογίζει τη χρήση διαφορετικά, έτσι σκεφτείτε το ενδεχόμενο να ορίσετε ένα όριο που είναι λίγο χαμηλότερο από αυτό που προβλέπεται στο πρόγραμμα δεδομένων που έχετε. Ορίστε τις ημερομηνίες για να αντιστοιχούν με την περίοδο χρήσης του λογαριασμού σας.</string>
+    <string name="vzw_phone">"τηλέφωνο"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"Η χρήση δεδομένων μετράται από το <xliff:g example="tablet" id="device_type">%s</xliff:g> σας. Ο πάροχός σας μπορεί να υπολογίζει τη χρήση διαφορετικά. Ορίστε τις ημερομηνίες για να αντιστοιχούν με την περίοδο χρήσης του λογαριασμού σας.</string>
+    <string name="vzw_data_usage_warning_notification_message">"Πατήστε για να προβάλετε τη χρήση και τις ρυθμίσεις"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Τα δεδομένα κινητής τηλεφωνίας είναι τώρα απενεργοποιημένα"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Το καθορισμένο όριο χρήσης δεδομένων έχει επιτευχθεί, έτσι η λειτουργία δεδομένων κινητής τηλεφωνίας έχει απενεργοποιηθεί.\n\nΕάν ενεργοποιήσετε πάλι τα δεδομένα κινητής τηλεφωνίας σας, ενδέχεται να χρεωθείτε για τη χρήση δεδομένων από τον πάροχό σας."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Ενεργοποίηση δεδομένων"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Τα δεδομένα κινητής τηλεφωνίας είναι απενεργοποιημένα"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Αγγίξτε για ενεργοποίηση"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Υπέρβαση ορίου δεδομένων κινητής τηλεφωνίας"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> πάνω από το καθορισμένο όριο"</string>
+</resources>

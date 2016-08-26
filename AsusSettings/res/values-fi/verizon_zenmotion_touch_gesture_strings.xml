@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Mahdollista eleet sovellusten avaamiseen ja näytön käynnistämiseen ja sammuttamiseen"</string>
+    <string name="vzw_doubletap_off_setting_title">"Kaksoisnapauta näyttöä käynnistääksesi sen päälle"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Kaksoisnapauta näyttöä sammuttaaksesi sen"</string>
+    <string name="vzw_doubletap_on_setting_title">"Kaksoisnapauta herättääksesi"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Kaksoisnapauta tummaa näyttöä käynnistääksesi sen"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Eleet"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Piirrä kirjain näytön ollessa pois päältä avataksesi liittyvän sovelluksen. Voit muuttaa sovellusta napauttamalla sitä alla."</string>
+    <string name="vzw_w_launch_title">"“W” avaa tämän sovelluksen"</string>
+    <string name="vzw_s_launch_title">"“S” avaa tämän sovelluksen"</string>
+    <string name="vzw_e_launch_title">"“e” avaa tämän sovelluksen"</string>
+    <string name="vzw_c_launch_title">"“C” avaa tämän sovelluksen"</string>
+    <string name="vzw_z_launch_title">"“Z” avaa tämän sovelluksen"</string>
+    <string name="vzw_v_launch_title">"“V” avaa tämän sovelluksen"</string>
+</resources>

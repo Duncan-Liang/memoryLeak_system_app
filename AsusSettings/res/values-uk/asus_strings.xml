@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Натисніть і утримуйте клавішу останнього застосунку на панелі навігації, щоб зробити скріншот.</string>
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Пропозиція коду загального джерела</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">"Особисті налаштування ASUS"</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Wayne2_Chen: UI required-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Швидкі налаштування</string>
+    <!-- Harrison for power settings -->
+
+    <string name="asus_sd_eject">Від’єднати накопичувач</string>
+    <string name="asus_sd_eject_summary">Безпечне видалення накопичувача</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage">Будь ласка, введіть</string>
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">"Очистити кеш всіх задач"</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">"Очистити кеш всіх задач?"</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">"Це очистить кеш всіх задач. Звільнене місце можна використати для внутрішньої пам'яті."</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">"Очистити кеш"</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Задача відновлення</string>
+    <string name="clear_apps_data_account">\n\n"Ці облікові записи будуть видалені."</string>
+    <string name="clear_apps_data_title">Очистити всі дані застосунків?</string>
+    <string name="clear_apps_data_desc">"Всі дані застосунків будуть видалені назавжди. Це включає."\n\n<li>"Всі файли"</li>\n<li>"Настройки"</li>\n<li>"Облікові записи"</li>\n<li>"Бази даних"</li>\n<li>"Кеш"</li>
+    </string>
+    <string name="clear_apps_data_final_desc">Стерти всі дані застосунків? Перестартує. Це - незворотня дія! </string>
+    <string name="clear_apps_data_button">Очистити дані</string>
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"Очистити карту SD"</string>
+    <string name="erase_mircosd_storage_description">"Стерти всі дані на карті SD, такі як музика чи фото."</string>
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <string name="app_wakeupalarm_switch_label">не дозволяйте наступати на пристрій</string>
+    <string name="app_wakelock_switch_label">не утримуйте пристрій в активному режимі</string>
+    <string name="powermanagement_options_dialog">Це налаштування може набрати чинності після перестартування задачі або перезапуску системи</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">Нова пошта</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Надіслана пошта</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">Сигналізація календаря</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Сигналізація за замовчанням</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Інтернет-підключення потрібне для доступу до задачі. Будь ласка, активуйте мобільну мережу або WiFi в Налаштуваннях. </string>
+    <string name="load_suspended_title">Немає підключення до мережі</string>
+    <string name="button_label_settings">Настройки</string>
+    <string name="button_label_cancel">Скасувати</string>
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">Опції швидких налаштувань</string>
+    <string name="quick_setting_description">Виберіть пункти для показу на панелі швидких налаштувань</string>
+    <string name="quick_setting_reset_title">Скинути швидкі налаштування</string>
+    <string name="quick_setting_reset_message">Опції швидких налаштувань будуть скинуті.</string>
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display Pad EC version of padfone station" maxwidth="-1">Версія станції PadFone</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">Версія станції PadFone сенсорної панелі</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">Версія камери станції PadFone</string>
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Блокування екрану</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Запустити задачі на екрані блокування</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Швидкий доступ</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Показати панель статусу</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">Швидка камера</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">Двічі клацніть клавішу гучності у режимі очікування, щоб запустити камеру</string>
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">Макрос "Що далі"</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">Показати макрос "Що далі" на екрані блокування</string>
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <string name="select_shortcut_ap_title" description="Select App as shortcut" maxwidth="-1">Встановити застосунок швидкого доступу</string>
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Темний</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Світлий</string>
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Версія стилуса</string>
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">Встановіть PIN</string>
+    <string name="lockpassword_setup_your_password_header">Встановіть пароль</string>
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">Версія батареї</string>
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Надсилайте діагностичні дані до компанії ASUS, щоб допомогти нам покращити якість і продуктивність наших виробів.</string>
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">Клавіша останнього застосунку</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Завжди показувати останні застосунки</item>
+        <item>Натисніть і утримуйте скріншот</item>
+        <item>Натиснути і утримувати, щоб показати меню</item>
+    </string-array>
+    <string name="touch_key_light_title">Сенсорна клавіша</string>
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">Попередньо завантажено</string>
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">Цей застосунок активовано</string>
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">Версія мікропрограми ІА</string>
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">Версія контролера мікропрограми ІС клавіатури</string>
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">Показувати заряд батареї у %</string>
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Режим рукавички</string>
+    <string name="glove_mode_setting_summary">Підсильте сенсорну чутливість, коли носите рукавички</string>
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS Cover</string>
+    <string name="asus_transcover_category_title">Аксесуари</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Активувати ASUS Cover</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Підвісити екран, коли кришка закрита</string>
+    <string name="asus_cover_settings">Налаштування ASUS Cover</string>
+    <string name="asus_cover_automatic_unlock_tittle">Автоматичне розблокування</string>
+    <string name="asus_cover_automatic_unlock_summary">Коли блокування екрану вимкнене, відкрийте кришку, щоб автоматично розблокувати екран безпеки</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <string name="app_installation_category">ІНСТАЛЯЦІЯ ЗАСТОСУНКУ</string>
+    <string name="app_installation_title">Налаштування інсталяції застосунку</string>
+    <string name="app_installation_summary">Пристосуйте потрібні налаштування при інсталяції застосунку</string>
+    <string name="app_installation_settings_category">РОЗТАШУВАННЯ ІНСТАЛЯЦІЇ ЗА ПРОМОВЧАННЯМ</string>
+    <string name="app_installation_settings_preferinternal_title">Пріоритет внутрішній пам\'яті</string>
+    <string name="app_installation_settings_preferinternal_summary">Інсталювати застосунки у внутрішню пам\'ять. Деякі застосунки можна інсталювати у зовнішню пам\'ять, коли місця у внутрішній пам\'яті лишається мало</string>
+    <string name="app_installation_settings_preferexternal_title">Пріоритет зовнішньої пам\'яті</string>
+    <string name="app_installation_settings_preferexternal_summary">Інсталюйте задачі в зовнішню пам\'ять, якщо дозволено</string>
+    <string name="app_installation_settings_forceexternal_title">Змусити інсталяцію зовнішньої пам\'яті</string>
+    <string name="app_installation_settings_forceexternal_description">Експертне налаштування\n\nІнсталюйте задачі з невизначеного розташування в зовнішній пам\'яті\n\n
+Це може спричинити неправильну роботу застосунків з наступними дизайнами, такими як послуги тла, сигналізація, двигун метода введення, запускач, "живі шпалери", макрос застосунку, диспетчер облікового запису, адаптер синхронізації, адміністратор пристрою, слухання сигналу завантаження тощо.</string>
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+    <string name="memory_system_reserved_usage">Зарезервована система</string>
+<!-- bruce1_li, AT&T DMAgent -->
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">Світлодіодний індикатор</string>
+    <string name="asus_lockscreen_camera_settings">Камера</string>
+    <string name="lockscreen_enable_camera_widget_title">Başlatmak için kaydırın</string>
+    <string name="lockscreen_enable_camera_widget">Kamerayı başlatmak için kilit ekranının sağ kenarından sola kaydırın</string>
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">Селфі порушника</string>
+    <string name="lockscreen_intruder_selfie_summary">Зняти фото того, хто ввів неправильний код</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Селфі порушника</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Зробити фото порушника, коли він вводить неправильний пароль на екрані блокування</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Неправильні введення коду</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Двічі</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Зберегти фото автоматично</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Зберегти фото в папці Intruder Selfie (Селфі Порушника) в Gallery (Галерея)</string>
+    <string name="lockscreen_enable_slide_widget_title">Пропустіть сторінку проведення</string>
+    <string name="lockscreen_enable_slide_widget">Пропустіть сторінку екрану блокування проведенням, коли пробуджуєте</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Легкий режим</string>
+    <string name="asus_easy_launcher_intro">Легкий режим надає дружній інтуїтивно зрозумілий інтерфейс з простою композицією і основними функціями</string>
+    <!-- AMAX AT&T issue -->
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Пароль мусить містити щонайменше %d наборів знаків у 4 групах: верхній регістр, нижній регістр, цифри, символи"</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">Опції авто яскравості</string>
+    <string name="auto_brightness_settings_gain">Приріст</string>
+    <string name="auto_brightness_settings_sensor">Сенсор освітлення</string>
+    <string name="auto_brightness_settings_adjustment">Дозволити змінити пристріст</string>
+    <string name="auto_brightness_settings_reset_gain">Скинути на фабричні</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Скинути значення приросту на фабричне?</string>
+    <string name="auto_brightness_settings_indark">У темному оточенні</string>
+    <string name="auto_brightness_settings_indark_title">Зменшити яскравість</string>
+    <string name="auto_brightness_settings_indark_slow">Повільно</string>
+    <string name="auto_brightness_settings_indark_immediate">Негайно</string>
+    <string name="auto_brightness_settings_indark_dynamic">Динамічно</string>
+    <string name="show_sensor_usage">Показати значення сенсора освітлення</string>
+    <string name="show_sensor_usage_summary">Накладання екрану показує поточний статус сенсора освітлення</string>
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Режим однієї руки</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Швидкий запуск</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Двічі клацніть по клавіші "головна", щоб активувати режим роботи однією рукою</string>
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">Рінгтон і повідомлення</string>
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Стиль шрифту</string>
+    <string name="monotype_preference_summary">Встановити шрифт</string>
+    <string name="monotype_dialog_button">Отримати шрифти он-лайн</string>
+    <string name="monotype_dialog_set_font_question">Встановити шрифт %s?</string>
+    <string name="monotype_dialog_revert_question">Скинути на шрифт за промовчанням?</string>
+    <string name="monotype_dialog_no_fonts_installed">Додаткові шрифти недоступні</string>
+    <string name="monotype_restart_dialog_text_1">Перезапустити телефон</string>
+    <string name="monotype_restart_dialog_text_2">Перезапустити телефон, щоб застосувати налаштування</string>
+    <string name="monotype_restart_dialog_button_1">Перезапустити зараз</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Шрифт1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Шрифт2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Шрифт3</string>
+    <string name="monotype_default_font">Шрифт за промовчанням</string>
+    <string name="monotype_loading_list">Завантаження списку шрифтів...</string>
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">Особистий Режим</string>
+    <string name="user_snapview_summary">Можна створити Особистий Режим, щоб захистити фото, файли і програми.</string>
+    <string name="user_snapview_message_Notice">Примітка</string>
+    <string name="user_snapview_message_created">Замало пам\'яті системи.</string>
+    <string name="user_snapview_message_with_normal_lock">В Особистому Режимі можна фотографувати, зберігати файли, встановлювати програми.  Ці файли й програми безпечно лишатимуться в Особистому Режимі, і їх не буде видно, коли ви вийдете з Особистого Режиму.\n\nПерш ніж створити Особистий Режим, слід встановити блокування екрану для Особистого Режиму.\n\nПримітка: Блокування екрану Особистий Режим мусить не співпадати з екраном блокування Власника.</string>
+    <string name="user_snapview_message_without_normal_lock">В Особистому Режимі можна фотографувати, зберігати файли, встановлювати програми.  Ці файли й програми безпечно лишатимуться в Особистому Режимі, і їх не буде видно, коли ви вийдете з Особистого Режиму.\n\nПерш ніж створити Особистий Режим, слід встановити блокування екрану для Власника.</string>
+    <string name="user_snapview_settings">Налаштування Особистого Режиму</string>
+    <string name="user_snapview_settings_category_lockscreen">Безпека екрана блокування</string>
+    <string name="user_snapview_settings_category_visualhint">Зорова підказка</string>
+    <string name="user_snapview_settings_category_dummy">Порожнє повідомлення</string>
+    <string name="user_snapview_settings_category_account">Обліковий запис Особистий Режим</string>
+    <string name="user_snapview_settings_hint_lock">Прикраса екрану блокування</string>
+    <string name="user_snapview_settings_hint_notify">Прикраса Особистий Режим</string>
+    <string name="user_snapview_settings_dummy_notify">Текст</string>
+    <string name="user_snapview_settings_dummy_default">Поновлено послугу Google Play</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Піктограма</string>
+    <string name="user_snapview_settings_set_lock">Встановити блокування екрана</string>
+    <string name="user_snapview_settings_change_info">Змінити інфо профілю</string>
+    <string name="user_snapview_settings_delete_self">Видалити Особистий Режим</string>
+    <string name="user_snapview_settings_item1">Незначна</string>
+    <string name="user_snapview_settings_item2">Помітна</string>
+    <string name="user_snapview_settings_item3">Жодного</string>
+    <string name="user_snapview_settings_item_color">Колір</string>
+    <string name="user_snapview_settings_item_icon">Піктограма</string>
+    <string name="user_snapview_settings_item_none">Жодного</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Рятівний обліковий запис електронної пошти особистий режим</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Перед створенням особистий режим радимо призначити обліковий запис %s рятівний обліковий запис електронної пошти.\n\nВаш рятівний обліковий запис електронної пошти допоможе скинути пароль особистий режим, якщо ви забудете його.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Підтвердіть обліковий запис %s</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Ми\u0027 зараз перевіримо ваш обліковий запис %1$s.\n\nКоли перевірка пройде успішно, можна почати скидати пароль блокування екрана.\n\nПримітка: Наступний екран належить перевірці облікового запису %2$s Account Verification, і ми не \u0027 збираємо інформацію вашого облікового запису.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Пароль особистий режим скинуто</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Вітаємо! Ви скинули пароль особистий режим.\n\nДалі ви можете призначити новий пароль для особистий режим або видалити свій поточний особистий режим.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Щоб видалити особистий режим, слід ввести пропуск блокування екрану і довільний PIN.\n\nПісля підтвердження особистий режим буде видалено з вашого пристрою. Ви втратите фото, програми і дані у особистий режим.\n\nЦе - незворотна дія. Бажаєте продовжити?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Змініть рятівний обліковий запис електронної пошти</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Користуйтеся цим, щоб скинути пароль до особистий режим</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Будь ласка, призначте обліковий запис %s як рятівний обліковий запис електронної пошти для особистий режим.\n\nВаш рятівний обліковий запис електронної пошти допоможе скинути пароль особистий режим, якщо ви забудете його.</string>
+    <string name="user_snapview_reset_confirm">Витерти всі ваші дані в режимі Особистий?\nЦе незворотня дія!</string>
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">Виберіть новий пароль власника</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Виберіть новий PIN власника</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Підтвердіть пароль власника</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Підтвердіть PIN власника</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Намалюйте новий шаблон розблокування власника</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Знову намалюйте шаблон власника на підтвердження</string>
+    <string name="lockpattern_choose_private_mode">Намалюйте новий шаблон розблокування Особистий Режим</string>
+    <string name="lockpattern_confirm_private_mode">Знову намалюйте шаблон Особистий Режим на підтвердження</string>
+    <string name="lockpassword_choose_private_mode">Виберіть новий пароль Особистий Режим</string>
+    <string name="lockpassword_confirm_private_mode">Підтвердіть пароль Особистий Режим</string>
+    <string name="lockpin_choose_private_mode">Виберіть новий PIN Особистий Режим</string>
+    <string name="lockpin_confirm_private_mode">Підтвердіть PIN Особистий Режим</string>
+    <string name="lockpattern_pattern_same_to_normal">Шаблон співпадає зі звичайним</string>
+    <string name="select_account">Виберіть дію</string>
+    <string name="owner_account">Змінити блокування екрана власника</string>
+    <string name="personal_space">Змінити блокування екрана Особистий Режим</string>
+    <string name="both">Змінити тип блокування екрана</string>
+    <string name="notice">Примітка</string>
+    <string name="pmode_pattern_same_to_normal">Блокування екрана Особистий Режим мусить не співпадати з Власниковим. Повторити спробу.</string>
+    <string name="pmode_pattern_same_to_private">Блокування екрану Власника мусить не співпадати з Особистий Режим. Повторити спробу.</string>
+    <string name="pmode_created">Круто: створено Особистий Режим!  Спробуйте увійти до Особистого Режиму через блокування екрана Особистий Режим.</string>
+    <string name="pmode_created_title">Створено Особистий Режим</string>
+    <string name="pmode_set_personal_space_title">Встановіть блокування екрана Особистий Режим</string>
+    <string name="pmode_set_personal_space">Далі встановіть блокування екрану для Особистого Режиму.\n\nПримітка: Блокування екрану Особистий Режим мусить не співпадати з блокуванням Власника.</string>
+    <string name="pmode_pattern_cannot_same">Шаблон розблокування Особистий Режим мусить не співпадати з шаблоном власника</string>
+    <string name="pmode_pin_cannot_same">PIN Особистого Режиму мусить не співпадати з Власниковим</string>
+    <string name="pmode_password_cannot_same">Пароль Особистий Режим мусить не співпадати з паролем Власника</string>
+    <string name="pmode_set_lock">Встановити блокування</string>
+    <string name="pmode_set_owner_lock_title">Встановіть блокування екрана власника</string>
+    <string name="pmode_set_owner_lock">Спочатку встановіть блокування екрану для власника.</string>
+    <string name="pmode_pin_length_must_same">Довжина PIN Особистого Режиму і PIN Власника мусять бути однаковими</string>
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">Увага</string>
+    <string name="asus_master_clear_check_backup_message">Ви зберігли дані у внутрішній пам\'яті. Будь ласка, перемістіть їх у зовнішню пам\'ять перш ніж продовжити, інакше дані будуть витерті з внутрішньої пам\'яті. Бажаєте продовжити скидання?</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">Швидке зарядження (змінний струм)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> до повного зарядження зі змінним струмом (Швидке зарядження)</string>
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">Не дозволяти</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Пристосований швидкий доступ</string>
+    <string name="change_short_cut_message">Натисніть програму, щоб пристосувати, і перетягніть програму, щоб переорганізувати</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">Диспетчер автозапуску</string>
+    <string name="autostart_summary">"Звільніть більше пам'яті і збережіть живлення"</string>
+    <!-- Kevin_Chiou for ANT build -->
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Застосувати дизайн матеріалу</string>
+    <string name="notification_material_summary">Піктограми повідомлень деяких програм стають білими під час застосування, щоб відповідати цілісному дизайну.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Далі"</string>
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Дитячий режим"</string>
+    <string name="asus_kids_launcher_settings_message">"Увімкніть Дитячий режим, щоб облаштувати безпечну "пісочницю" для ваших дітей."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">Деякі програми можуть неправильно відображати текст із дуже великим шрифтом.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">"Дуже великий текст"</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Натисніть і утримуйте клавішу затвора камери або клавішу відеокамери, щоб запустити камеру, коли увімкнено екран"</string>
+    <string name="lockscreen_longpress_screen_off">"Натисніть і утримуйте клавішу затвора камери або клавішу відеокамери, щоб запустити камеру, коли вимкнено екран"</string>
+    <string name="lockscreen_longpress_screen_on_title">"Запустити камеру, коли екран увімкнено"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Запустити камеру, коли екран вимкнено"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Новий текст</string>
+
+    <!-- Willie Huang, 2013/07/23, Stylus settings -->
+    <string name="asus_pen_settings" description="Title for setting Stylus" maxwidth="-1" tools:ignore="UnusedResources">Стилус</string>
+    <string name="asus_pen_category_stylus_tools" description="Category title for Stylus tools" maxwidth="-1" tools:ignore="UnusedResources">Інструменти стилуса</string>
+    <string name="airview_settings_switch_title" description="Title for setting smart peek" maxwidth="-1" tools:ignore="UnusedResources">Інтелектуальний сигнал</string>
+    <string name="airview_settings_switch_summary" description="Summary for setting smart peek" maxwidth="-1" tools:ignore="UnusedResources">Надавати додаткову інформацію під час зависання стилуса</string>
+    <string name="airview_settings_nib_cursor_title" description="Title for setting Stylus cursor" maxwidth="-1" tools:ignore="UnusedResources">Курсор стилуса</string>
+    <string name="airview_settings_information_preview_title" description="Title for setting content preview" maxwidth="-1" tools:ignore="UnusedResources">Попередній перегляд вмісту</string>
+    <string name="airview_settings_actionbar_hint_title" description="Title for setting action bar hint" maxwidth="-1" tools:ignore="UnusedResources">Підказка щодо рядку дії</string>
+    <string name="asus_pen_general_autoscrolling_title" description="Title for setting auto-scroll" maxwidth="-1" tools:ignore="UnusedResources">Автопрокручування</string>
+    <string name="asus_pen_general_autoscrolling_summary" description="Summary for setting auto-scroll" maxwidth="-1" tools:ignore="UnusedResources">Автопрокручування під час зависання стилуса над краєм прокручуваних вікон</string>
+    <string name="z_stylus_title" description="Title for setting Z Stylus" maxwidth="-1" tools:ignore="UnusedResources">Z Stylus</string>
+    <string name="quickpanel_settings_switch_title" description="Title for setting quick panel" maxwidth="-1" tools:ignore="UnusedResources">Панель Швидкого запуску</string>
+    <string name="quickpanel_settings_switch_summary" description="Summary for setting quick panel" maxwidth="-1" tools:ignore="UnusedResources">Наведіть і клацніть кнопку 1&lt;sup&gt;st&lt;/sup&gt; на Z Stylus, щоб розширити панель Швидкого запуску.</string>
+    <string name="quickpanel_category_shortcuts" description="Category title for QuickPanel shortcuts" maxwidth="-1" tools:ignore="UnusedResources">Ярлики</string>
+    <string name="quickpanel_app_instant_page" description="Name for InstantPage shortcuts" maxwidth="-1" tools:ignore="UnusedResources">Миттєва сторінка</string>
+    <string name="quickpanel_app_stylus_setting" description="Name for Stylus Setting shortcuts" maxwidth="-1" tools:ignore="UnusedResources">Налаштування Z Stylus</string>
+    <string name="stylus_only_mode_title" description="Stylus only mode title" maxwidth="-1" tools:ignore="UnusedResources">"Режим лише стилуса"</string>
+    <string name="stylus_only_mode_summary" description="Stylus only mode summary" maxwidth="-1" tools:ignore="UnusedResources">"Поставити на паузу сенсорний режим після того, як Z Stylus полишає екран"</string>
+    <string name="stylus_only_time_title" description="Stylus only time title" maxwidth="-1" tools:ignore="UnusedResources">"Час лише стилуса"</string>
+
+    <!--Jesson_Yi for LockScreen CMWeather  -->
+    <string name="lockscreen_disable_weather_info_page_widget_title">"Вимкнути сторінку інфо погоди"</string>
+    <string name="lockscreen_disable_weather_info_page">"Повністю вимкнути сторінку інфо погоди (на платформі Cheetah Mobile) праворуч на екрані Блокування"</string>
+
+    <!-- BEGIN: Gary_Hsu@asus.com, 20160329, CellBroadcast Settings -->
+    <string name="cmas_title" description="" maxwidth="-1">"Екстрені сповіщення"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Налаштуйте екстрені сповіщення"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"Розсилка SMS оператора"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Налаштувати параметри розсилки SMS оператора"</string>
+    <!-- END: Gary_Hsu@asus.com, 20160329, CellBroadcast Settings -->
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"Екстрені сповіщення"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Налаштуйте екстрені сповіщення"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"Розсилка SMS оператора"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Налаштувати параметри розсилки SMS оператора"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Вимкнути сторінку інфо погоди"</string>
+    <string name="lockscreen_disable_weather_info_page">"Повністю вимкнути сторінку інфо погоди (на платформі Cheetah Mobile) праворуч на екрані Блокування"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

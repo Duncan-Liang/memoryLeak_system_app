@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Брзо отворете ја камерата без да го отклучувате екранот</string>
+  <string name="camera_double_tap_power_gesture_title">Прит. копче за напој. двапати за камера</string>
+  <string name="camera_gesture_desc">Завртете го зглобот двапати за да ја отворите апликација за камера</string>
+  <string name="camera_gesture_title">Завртете двапати за камерата</string>
+  <string name="keywords_color_mode">динамично rgb srgb боја природно стандардно</string>
+  <string name="manual">Упатство</string>
+  <string name="picture_color_mode">Режим на боја на слика</string>
+  <string name="picture_color_mode_desc">Користи sRGB</string>
+  <string name="settings_manual_activity_title">Упатство</string>
+  <string name="settings_manual_activity_unavailable">Постои проблем со вчитување на упатството.</string>
+</resources>

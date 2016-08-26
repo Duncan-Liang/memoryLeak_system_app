@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/asus_lockscreen_settings_title" >
+
+    <com.android.settings.LockscreenIntruderselfieSwitch
+        android:id="@+id/asus_lockscreen_intruder_selfie_setting"
+        android:key="Intruder_selfie"
+        android:summary="@string/lockscreen_intruder_selfie_setting_summary"
+        android:title="@string/lockscreen_intruder_selfie_setting_title" />
+
+    <ListPreference
+        android:id="@+id/asus_lockscreen_incorrect_code_entries_setting"
+        android:entries="@array/lock_incorrect_code_entries"
+        android:entryValues="@array/lock_incorrect_code_entries_values"
+        android:key="Incorrect_code_entries"
+        android:persistent="false"
+        android:summary="@string/lockscreen_incorrect_code_entries_setting_summery"
+        android:title="@string/lockscreen_incorrect_code_entries_setting_title" />
+
+    <com.android.settings.LockscreenIntruderSaveAutoSwitch
+        android:id="@+id/asus_lockscreen_save_the_photo_automatically_setting"
+        android:key="Save_the_photo_automatically"
+        android:summary="@string/lockscreen_save_the_photo_automatically_setting_summary"
+        android:title="@string/lockscreen_save_the_photo_automatically_setting_title" />
+
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Teisalda seadme kandjale</string>
+    <string name="move_error_unknow">Rakendust ei saa teisaldada. Proovige uuesti.</string>
+    <string name="processing">Töötlemine...</string>
+    <string name="dialog_hint">See võib kesta üsna kaua.\n\nÄrge seadet sulgege ega kasutage ka valitud liikumisrakendusi. Ärge eemaldage sel ajal välist mäluseadet.\n\nKas soovite jätkata?</string>
+</resources>

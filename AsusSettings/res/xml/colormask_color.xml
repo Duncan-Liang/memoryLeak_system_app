@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <colormask name="1" >#eda00b</colormask>
+    <colormask name="1i" >#ff83d0</colormask>
+    <colormask name="3" >#71d7ff</colormask>
+    <colormask name="4" >#00eade</colormask>
+    <colormask name="5" >#fdf300</colormask>
+    <colormask name="1c" >#ff9aa5</colormask>
+    <colormask name="7" >#d800cd</colormask>
+    <colormask name="1b" >#6baef5</colormask>
+    <colormask name="1d" >#0086a8</colormask>
+    <colormask name="1e" >#999999</colormask>
+    <colormask name="1a" >#e71a29</colormask>
+    <colormask name="1f" >#85009d</colormask>
+    <colormask name="2b" >#4084d2</colormask>
+    <colormask name="2a" >#0e0b0a</colormask>
+    <colormask name="15" >#83a444</colormask>
+    <!-- same color value -->
+    <colormask name="2c" >#33e71a29</colormask>
+    <colormask name="1g" >#40dd9c00</colormask>
+    <colormask name="2d" >#4d0086a8</colormask>
+    <colormask name="1j" >#335592ae</colormask>
+    <colormask name="1k" >#3300c1d7</colormask>
+</resources>

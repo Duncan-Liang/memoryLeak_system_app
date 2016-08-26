@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Jakaminen &amp; Mobiili verkkopiste"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Näyt Gt:nä"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Näytä Mt:nä"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobiilidata"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Rajoita mobiilidatan käyttöä"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Ilmoita mobiilidatan käytöstä"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Datankäyttöilmoitus"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"<xliff:g example="tablet" id="device_type">%s</xliff:g> ilmoittaa, kun mobiilidatan käyttö saavuttaa valitsemasi määrän."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Datankäyttöraja"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Mobiilidatayhteys katkaistaan, kun datankäyttö saavuttaa valitsemasi rajan.\n\n<xliff:g example="tablet" id="device_type">%s</xliff:g>-sovellus mittaa datankäyttösi. Palveluntarjoajasi voi laskuttaa eri perusteella, joten kannattaa harkita sopimustasi pienemmän rajan asettamista. Aseta päivämäärät vastaamaan laskutusjaksoasi."</string>
+    <string name="vzw_phone">"puhelin"</string>
+    <string name="vzw_tablet">"tablet-tietokone"</string>
+    <string name="vzw_data_usage_disclaimer">"<xliff:g example="tablet" id="device_type">%s</xliff:g>-sovellus mittaa datankäyttösi. Palveluntarjoaja voi laskuttaa käyttöä ei perusteella. Aseta päivämäärät vastaamaan laskutusjaksoasi."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Napauta nähdäksesi käytön ja asetukset"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobiilidata on nyt pois käytöstä."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Olet saavuttanut määritetyn datankäyttörajan, joten mobiilidata on kytketty pois päältä.\n\nJos kytket mobiilidatan takaisin päälle, palveluntarjoaja voi laskuttaa sinua datan käytöstä."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Kytke data päälle"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobiilidata on pois käytöstä"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Kosketa ottaaksesi käyttöön"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Mobiilidatan raja ylitetty"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> ylitti määritetyn rajan"</string>
+</resources>

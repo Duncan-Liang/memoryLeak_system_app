@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_analytics_summary">Hantar data diagnostik kepada ASUS untuk meningkatkan kualiti dan prestasi produk kami.</string>
+  <string name="asus_app2sd_blacklist_warning">Sila alihkan ke storan peranti untuk pengalaman penggunaan yang lebih baik</string>
+  <string name="asus_app2sd_notif_title">Sesetengah aplikasi perlu dialihkan semula ke storan peranti</string>
+  <string name="asus_call_lock_detail">"Apabila anda mendayakan ciri kunci panggilan masuk, anda mesti mengimbas cap jari anda untuk menjawab panggilan. Panggilan akan disambungkan secara automatik apabila cap jari berjaya dikenal pasti.\nSila ambil perhatian bahawa:\n1.Anda boleh menjawab panggilan secara terus daripada set kepala Bluetooth yang dipasangkan atau jam pintar tanpa mengimbas cap jari anda.\n2.Anda masih perlu menggunakan cap jari anda untuk menjawab panggilan apabila menggunakan set kepala berwayar.\n3.Anda tidak akan dapat menjawab panggilan daripada skrin panggilan masuk pihak ketiga.\n4.Untuk panggilan Suara melalui IP (VoIP). cth. panggilan suara WhatsApp, anda masih perlu menjawab panggilan daripada aplikasi itu sendiri."</string>
+  <string name="asus_fingerprint_answer_call_summary">Jawab panggilan masuk dengan cap jari anda</string>
+  <string name="asus_fingerprint_camera_title">Lancarkan kamera</string>
+  <string name="asus_fingerprint_id_category_title">ID Cap Jari</string>
+  <string name="asus_fingerprint_incoming_call_title">Kunci panggilan masuk</string>
+  <string name="asus_fingerprint_launch_camera_summary">Ketik dua kali pada penderia cap jari untuk melancarkan kamera apabila peranti dikunci.</string>
+  <string name="asus_fingerprint_launch_camera_title">Lancarkan kamera</string>
+  <string name="asus_fingerprint_long_press_summary">Ketik dan tahan pada penderia cap jari untuk menjawab panggilan masuk.</string>
+  <string name="asus_fingerprint_long_press_title">Jawab panggilan masuk</string>
+  <string name="asus_fingerprint_snap_call_summary">Dayakan panggilan sekelip mata dengan cap jari anda</string>
+  <string name="asus_fingerprint_snap_call_title">Panggilan sekelip mata</string>
+  <string name="asus_fingerprint_take_photo_summary">Ketik pada penderia cap jari untuk menangkap foto apabila kamera aktif.</string>
+  <string name="asus_fingerprint_take_photo_title">Tangkap foto</string>
+  <string name="asus_fingerprint_touch_control_category_title">Kawalan Sentuh</string>
+    <string name="asus_long_tap_warning">"Apabila ciri kunci panggilan masuk didayakan, menjawab telefon melalui ketik dan tahan akan dinyahdayakan."</string>
+  <string name="asus_storage_menu_migrate">Ubah jenis storan</string>
+  <string name="asus_storage_sd_warning_content">Pastikan untuk memasang kad SD berkualiti tinggi untuk storan data yang lancar. Untuk menyimpan data dengan selamat, sila gunakan kad SD daripada pengeluar bereputasi.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[<xliff:g id="name" example="SD card">^1</xliff:g> ini nampak perlahan.<br><br>Pertimbangkan penggunaan <xliff:g id="name" example="SD card">^1</xliff:g> yang lebih pantas untuk prestasi yang lebih baik.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">Papan Kekunci Bluetooth ASUS</string>
+  <string name="button_ok">OK</string>
+  <string name="gesture_wake_up_screen">Skrin bangun</string>
+  <string name="get_real_time_notification">Dapatkan pemberitahuan masa sebenar</string>
+  <string name="get_real_time_notification_detail">Biarkan aplikasi berjalan di latar supaya anda boleh mendapat pemberitahuan dan kemas kini pada masanya.</string>
+  <string name="incompatible_apps">Aplikasi tidak serasi</string>
+  <string name="incompatible_detail">Sistem telah mengesan aplikasi tidak serasi dalam versi Android OS ini. Hubungi pembangun aplikasi untuk maklumat atau nyahpasang aplikasi tersebut.</string>
+  <string name="incompatible_notify_title">Aplikasi tidak serasi dikesan</string>
+  <string name="inspire_asus_title">Data diagnostik</string>
+  <string name="large_and_huge_font_size_warning">Beberapa aplikasi mungkin tidak memaparkan teks dengan saiz fon besar/sangat besar dengan betul.</string>
+  <string name="notification_remind_user_to_set_bt">Luncurkan suiz ke kanan, tahan ia selama 5 saat, kemudian ketik pemberitahuan untuk memulakan perpasangan.</string>
+  <string name="notify_off">Jangan tunjukkan lagi.</string>
+  <string name="optimize_battery_usage">Optimumkan penggunaan bateri</string>
+  <string name="optimize_battery_usage_detail">Mengurangkan penggunaan kuasa. Sesetengah pemberitahuan dan kemas kini mungkin tidak diterima dalam masa sebenar.</string>
+  <string name="power_management_setting_title">Pengurusan kuasa</string>
+  <string name="power_settings_title">Pengurusan kuasa</string>
+  <string name="powersaver_app_name">Penjimat kuasa</string>
+  <string name="quickpanel_app_instant_page">Halaman segera</string>
+  <string name="quickpanel_app_stylus_setting">Tetapan Z Stylus</string>
+  <string name="quickpanel_category_shortcuts">Pintasan</string>
+  <string name="quickpanel_settings_switch_summary">Apung dan klik butang pertama pada Z Stylus untuk mengembangkan panel lancar Cepat.</string>
+  <string name="quickpanel_settings_switch_title">Panel lancar cepat</string>
+  <string name="real_time_notification">Pemberitahuan masa sebenar</string>
+  <string name="storage_wizard_benchmark_content">Ia mengambil beberapa minit. Sila tunggu.</string>
+  <string name="storage_wizard_benchmark_tittle">Penanda aras</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>Saiz kad SD terlalu kecil. Sila gunakan kad SD berkelajuan tinggi yang lebih besar</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Gunakan sebagai storan luaran untuk kedua-dua aplikasi dan data</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Untuk pemasangan aplikasi ke storan luaran. Ini memerlukan pemformatan yang mencegahnya daripada berfungsi dengan peranti lain.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Gunakan sebagai storan luaran untuk aplikasi sahaja</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[lihkan data ke <xliff:g example="SD card" id="name">^1</xliff:g> baharu untuk mendapatkan lebih banyak storan yang tersedia untuk menyimpan foto, fail dan beberapa aplikasi anda. Anda juga boleh memilih untuk menyimpan ruang pada <xliff:g example="SD card" id="name">^1</xliff:g> untuk pemasangan aplikasi.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[<xliff:g example="SD card" id="name">^1</xliff:g> baharu anda berfungsi.]]></string>
+  <string name="stylus_only_mode_summary">Jedakan mod sentuh selepas Stilus Z meninggalkan skrin</string>
+  <string name="stylus_only_mode_title">Mod stilus sahaja</string>
+  <string name="stylus_only_time_title">Masa untuk Stilus sahaja</string>
+  <string name="swipe_up_to_wake_up_summary">Leret ke atas skrin untuk membangunkan peranti anda daripada mod melahu.</string>
+  <string name="swipe_up_to_wake_up_title">Leret ke atas untuk membangunkan</string>
+  <string name="title_remind_user_to_set_bt">Perpasangan pertama Papan Kekunci Bluetooth ASUS</string>
+  <string name="usb_hint_option_dialog_title">Pengecasan USB</string>
+  <string name="usb_hint_option_got_it">FAHAM</string>
+  <string name="usb_hint_option_message">Untuk melihat pilihan USB yang lain, leret ke bawah dari bahagian atas skrin, kemudian ketik pemberitahuan USB.</string>
+  <string name="z_stylus_title">Z Stylus</string>
+</resources>

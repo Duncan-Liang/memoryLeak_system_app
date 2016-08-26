@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Тетеринг &amp; Мобильная "горячая" точка"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Отображать в ГБ"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Отображать в МБ"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Мобильные данные"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Ограничить использование мобильных данных"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Предупреждать об использовании данных"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Предупреждение об использовании данных"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Ваш планшет <xliff:g example="tablet" id="device_type">%s</xliff:g> предупредит вас, когда использование мобильных данных достигнет выбранного значения."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Предел использования данных"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Подключение для передачи мобильных данных будет отключено, когда использование данных достигнет выбранного предела.\n\nИспользование данных измеряется вашим планшетом <xliff:g example="tablet" id="device_type">%s</xliff:g>. Ваш оператор может начислять различные суммы за использование, поэтому подумайте об установке предела, который должен быть немного меньше значения вашего тарифного плана. Установите даты, соответствующие периоду в вашем счете."</string>
+    <string name="vzw_phone">"Телефон"</string>
+    <string name="vzw_tablet">"Планшет"</string>
+    <string name="vzw_data_usage_disclaimer">"Использование данных, измеренное вашим планшетом <xliff:g example="tablet" id="device_type">%s</xliff:g>. Ваш оператор может начислять различные суммы за использование. Установите даты, соответствующие            периоду в вашем счете."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Нажмите для просмотра использования и настроек"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Мобильные данные сейчас отключены."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Вы достигли указанного предела использования данных, поэтому мобильные данные были отключены.\n\nПри повторном включении мобильных данных оператор может начислить плату за использование данных."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Включить данные"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Мобильные данные отключены"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Коснитесь для включения"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Предел мобильных данных превышен"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> на <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> выше указанного предела"</string>
+</resources>

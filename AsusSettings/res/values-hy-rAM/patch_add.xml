@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Խցիկի արագ բացում առանց էկրանը ապակողպելու</string>
+  <string name="camera_double_tap_power_gesture_title">Խցիկ - սնուցման կոճակի կրկնակի սեղմամբ</string>
+  <string name="camera_gesture_desc">Տեսախցիկի բացում դաստակի կրկնակի պտտման միջոցով</string>
+  <string name="camera_gesture_title">Տեսախցիկի բացում կրկնակի պտտման միջոցով</string>
+  <string name="keywords_color_mode">vibrant rgb srgb գույն բնական սովորական</string>
+  <string name="manual">Ձեռքով</string>
+  <string name="picture_color_mode">Նկարի գունային ռեժիմ</string>
+  <string name="picture_color_mode_desc">Օգտագործել sRGB</string>
+  <string name="settings_manual_activity_title">Ձեռքով</string>
+  <string name="settings_manual_activity_unavailable">Ձեռնարկը բեռնելու խնդիր կա:</string>
+</resources>

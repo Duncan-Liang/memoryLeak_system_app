@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Quando ativa a funcionalidade de bloqueio de chamadas recebidas, deve ler a impressão digital para atender uma chamada. A chamada será ligada automaticamente quando a impressão digital for identificada com sucesso.\nNote que:\n1. Pode atender a chamada recebida diretamente a partir de um auricular Bluetooth emparelhado ou smart watch sem ler a impressão digital.\n2. Continua a ser necessário utilizar a impressão digital para atender a chamada ao utilizar o auricular com fios.\n3. Não poderá atender a chamada a partir do ecrã de chamadas recebidas de terceiros.\n4. Para chamadas Voice over IP (VoIP), por exemplo, chamada de voz por WhatsApp, deve continuar a atender a chamada a partir da aplicação."</string>
+    <string name="asus_long_tap_warning">"Quando a função de bloqueio de chamadas está ativada, o atendimento de chamadas ao manter premido será desativada."</string>
+</resources>

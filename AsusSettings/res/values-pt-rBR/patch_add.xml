@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_analytics_summary">Enviar dados de diagnósticos para a ASUS melhorar a qualidade e desempenho de nosso produto</string>
+  <string name="asus_app2sd_blacklist_warning">Mova para a armazenagem do aparelho para uma melhor experiência de uso</string>
+  <string name="asus_app2sd_notif_title">Alguns aplicativos precisam retornar para a armazenagem do aparelho</string>
+  <string name="asus_call_lock_detail">"Quando você ativa o recurso do bloqueio de chamadas, é necessário usar sua digital para atender uma chamada. A chamada será completada após a digital ser identificada com sucesso.\nObserve que:\n1.Você pode atender uma chamada recebida diretamente de um fone de ouvido pareado via Bluetooth ou de um relógio inteligente sem escanear sua digital.\n2.Você ainda precisará usar sua digital para atender uma chamada quando o fone de ouvido com fio estiver ligado.\n3.Você não conseguirá atender uma chamada usando uma tela de chamada recebida de terceiros.\n4.Para chamada de voz sobre IP (VoIP), isto é, chamada de voz via WhatsAppl, você deve atender a chamada diretamente do aplicativo."</string>
+  <string name="asus_fingerprint_answer_call_summary">Atender chamada recebida com a digital</string>
+  <string name="asus_fingerprint_camera_title">Iniciar câmera</string>
+  <string name="asus_fingerprint_id_category_title">Id de digital</string>
+  <string name="asus_fingerprint_incoming_call_title">Bloqueio de chamada recebida</string>
+  <string name="asus_fingerprint_launch_camera_summary">Toque duas vezes no sensor de digital para iniciar a câmera quando o dispositivo é desbloqueado.</string>
+  <string name="asus_fingerprint_launch_camera_title">Iniciar câmera</string>
+  <string name="asus_fingerprint_long_press_summary">Toque e segure no sensor de digital para atender chamadas recebidas.</string>
+  <string name="asus_fingerprint_long_press_title">Atender chamadas recebidas</string>
+  <string name="asus_fingerprint_snap_call_summary">Ativar chamada sem registro com sua digital</string>
+  <string name="asus_fingerprint_snap_call_title">Chamada sem registro</string>
+  <string name="asus_fingerprint_take_photo_summary">Toque no sensor de digital para capturar uma foto quando a câmera estiver ativa.</string>
+  <string name="asus_fingerprint_take_photo_title">Capturar foto</string>
+  <string name="asus_fingerprint_touch_control_category_title">Controles de toque</string>
+  <string name="asus_long_tap_warning">"Quando o recurso de bloqueio de recebimento de chamada está ativo, atender chamadas por toque ou pressionar de teclas ficará desativado."</string>
+  <string name="asus_storage_menu_migrate">Alterar tipo de armazenagem</string>
+  <string name="asus_storage_sd_warning_content">Certifique-se de instalar cartão SD alta qualidade para armazenagem perfeita. Armazene dados seguramente usando cartão SD de fonte confiável.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[Este <xliff:g id="name" example="SD card">^1</xliff:g> parece estar lento.<br><br>Use um mais rápido <xliff:g id="name" example="SD card">^1</xliff:g> com melhor desempenho.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">Teclado Bluetooth da ASUS</string>
+  <string name="button_ok">OK</string>
+  <string name="camera_double_tap_power_gesture_desc">Abrir a câmera rapidamente sem desbloquear a tela</string>
+  <string name="camera_double_tap_power_gesture_title">Press. o botão liga/desliga duas vezes p/ abrir a câmera</string>
+  <string name="camera_gesture_desc">Abrir o app Câmera girando o pulso duas vezes</string>
+  <string name="camera_gesture_title">Girar duas vezes para abrir a câmera</string>
+  <string name="gesture_wake_up_screen">Tela despertar</string>
+  <string name="get_real_time_notification">Obter notificações em tempo real</string>
+  <string name="get_real_time_notification_detail">Matem o aplicativo executando no plano de fundo para que você possa receber as notificações e atualizações em tempo real.</string>
+  <string name="incompatible_apps">Aplicativo incompatível</string>
+  <string name="incompatible_detail">O sistema detectou aplicativos incompatíveis nesta versão OS e Android. Entre em contato com os desenvolvedores de aplicativos para informações ou desinstale o aplicativo.</string>
+  <string name="incompatible_notify_title">Aplicativos incompatíveis detectados</string>
+  <string name="inspire_asus_title">Dados de diagnósticos</string>
+  <string name="keywords_color_mode">cor vibrante RGB sRGB natural padrão</string>
+  <string name="large_and_huge_font_size_warning">Alguns aplicativos podem não exibir corretamente os textos com tamanho de fonte grande/super grande.</string>
+  <string name="manual">Manual</string>
+  <string name="notification_remind_user_to_set_bt">Deslize o botão para a direita, segure por 5 segundos. Em seguida, toque notificação para iniciar o pareamento.</string>
+  <string name="notify_off">Não mostrar novamente.</string>
+  <string name="optimize_battery_usage">Otimizar o uso da bateria</string>
+  <string name="optimize_battery_usage_detail">Reduz o consumo de energia. Algumas notificações e atualizações podem não ser recebidas em tempo real.</string>
+  <string name="picture_color_mode">Modo de cor da imagem</string>
+  <string name="picture_color_mode_desc">Usar sRGB</string>
+  <string name="power_management_setting_title">Gestão de energia</string>
+  <string name="power_settings_title">Gestão de energia</string>
+  <string name="powersaver_app_name">Economizador de energia</string>
+  <string name="quickpanel_app_instant_page">Página instantânea</string>
+  <string name="quickpanel_app_stylus_setting">Configuração da Z Stylus</string>
+  <string name="quickpanel_category_shortcuts">Atalhos</string>
+  <string name="quickpanel_settings_switch_summary">Passe o mouse e clique em um botão &lt;sup&gt;st&lt;/sup&gt; nas Z Stylus para expandir o painel de inicialização rápida.</string>
+  <string name="quickpanel_settings_switch_title">Painel de inicialização rápida</string>
+  <string name="real_time_notification">Notificações em tempo real</string>
+  <string name="settings_manual_activity_title">Manual</string>
+  <string name="settings_manual_activity_unavailable">Ocorreu um problema ao carregar o manual.</string>
+  <string name="storage_wizard_benchmark_content">Levará alguns minutos. Por favor, aguarde.</string>
+  <string name="storage_wizard_benchmark_tittle">Benchmark</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>O tamanho do cartão SD é muito pequeno. Use um cartão SD maior e com mais velocidade.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Use com armazenagem interna para ambos aplicativos e dados</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Para instalar aplicativos para armazenagem externa. Isto requer formatação para evitar que ele funcione com outros aparelhos.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Use como armazenagem interna para aplicativos somente</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Mova os dados para novo <xliff:g example="SD card" id="name">^1</xliff:g> para mais espaço de armazenagem para suas fotos, arquivos e alguns aplicativos. Você pode também escolher reservar espaço em <xliff:g example="SD card" id="name">^1</xliff:g> para instalação de aplicativos.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Seu novo <xliff:g example="SD card" id="name">^1</xliff:g> está funcionando.]]></string>
+  <string name="stylus_only_mode_summary">Pause o modo de toque depois da Z Stylus deixar a tela</string>
+  <string name="stylus_only_mode_title">Modo caneta apenas</string>
+  <string name="stylus_only_time_title">Caneta única vez</string>
+  <string name="swipe_up_to_wake_up_summary">Deslize a tela para cima para despertar se aparelho do modo espera.</string>
+  <string name="swipe_up_to_wake_up_title">Deslize para cima para despertar</string>
+  <string name="title_remind_user_to_set_bt">1º pareamento do teclado Bluetooth da ASUS</string>
+  <string name="usb_hint_option_dialog_title">Carregando USB</string>
+  <string name="usb_hint_option_got_it">ENTENDIDO</string>
+  <string name="usb_hint_option_message">Para ver outras opções de USB, deslize a partir da parte superior da tela; em seguida toque em notificação USB.</string>
+  <string name="z_stylus_title">Z Stylus</string>
+</resources>

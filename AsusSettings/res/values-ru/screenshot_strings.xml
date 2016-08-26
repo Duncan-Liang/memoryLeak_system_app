@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Настройка кнопок быстрого вызова"</string>
+    <string name="screenshot_hot_key_title">"Кнопка вызова последних приложений"</string>
+    <string name="screenshot_hot_key_summary">"Чтобы сделать снимок, нажмите и удерживайте кнопку вызова последних приложений"</string>
+    <string name="screenshot_format_setting_title">"Настройка формата файла"</string>
+    <string name="screenshot_format_title">"Формат файла снимка экрана"</string>
+    <string name="screenshot_sound_setting_title">"Настройка звука"</string>
+    <string name="screenshot_sound_title">"Включить звук снимков экрана"</string>
+    <string name="screenshot_notify_setting_title">"Настройка уведомления"</string>
+    <string name="screenshot_notify_title">"Включить уведомление"</string>
+</resources>

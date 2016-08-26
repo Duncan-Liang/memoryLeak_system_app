@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:title="@string/auto_brightness_settings_title"
+android:key="parent">
+
+    <Preference
+        android:enabled="false"
+        android:visibility="invisible"/>
+
+    <PreferenceCategory android:title="@string/auto_brightness_settings_indark">
+        <ListPreference
+            android:key="in_dark"
+            android:entries="@array/indark_entries"
+            android:entryValues="@array/indark_values"
+            android:title="@string/auto_brightness_settings_indark_title"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/auto_brightness_settings_gain">
+        <CheckBoxPreference
+            android:key="use_adjustment"
+            android:title="@string/auto_brightness_settings_adjustment"/>
+
+        <Preference
+            android:key="reset_gain"
+            android:title="@string/auto_brightness_settings_reset_gain"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/auto_brightness_settings_sensor">
+        <CheckBoxPreference
+            android:key="show_sensor_usage"
+            android:title="@string/show_sensor_usage"
+            android:summary="@string/show_sensor_usage_summary"/>
+    </PreferenceCategory>
+</PreferenceScreen>

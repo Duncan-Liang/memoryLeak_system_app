@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"ホットキー設定"</string>
+    <string name="screenshot_hot_key_title">"マルチタスクボタン"</string>
+    <string name="screenshot_hot_key_summary">"マルチタスクボタンを長押しして、スクリーンショットを保存します"</string>
+    <string name="screenshot_format_setting_title">"ファイルフォーマット設定"</string>
+    <string name="screenshot_format_title">"ファイルフォーマット"</string>
+    <string name="screenshot_sound_setting_title">"サウンド設定"</string>
+    <string name="screenshot_sound_title">"サウンドを有効にする"</string>
+    <string name="screenshot_notify_setting_title">"通知設定"</string>
+    <string name="screenshot_notify_title">"通知の表示を有効にする"</string>
+</resources>

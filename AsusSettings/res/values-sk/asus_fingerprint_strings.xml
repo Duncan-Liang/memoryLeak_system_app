@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"Dotykové ovládanie"</string>
+    <string name="asus_fingerprint_long_press_title">"Prijatie prichádzajúcich hovorov"</string>
+    <string name="asus_fingerprint_long_press_summary">"Ťuknutím a podržaním na snímači odtlačkov prsta prijmete prichádzajúce hovory."</string>
+    <string name="asus_fingerprint_camera_title">"Spustenie fotoaparátu"</string>
+    <string name="asus_fingerprint_launch_camera_title">"Spustenie fotoaparátu"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"Dvojitým ťuknutím na snímač odtlačkov prsta spustíte fotoaparát, keď je zariadenie odomknuté."</string>
+    <string name="asus_fingerprint_take_photo_title">"Nasnímanie fotografie"</string>
+    <string name="asus_fingerprint_take_photo_summary">"Ťuknutím na snímač odtlačkov prsta nasnímate fotografiu, keď je fotoaparát aktívny."</string>
+    <string name="asus_fingerprint_id_category_title">"ID odtlačku prsta"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"Prijatie hovoru na uzamknutej obrazovke"</string>
+    <string name="asus_fingerprint_answer_call_summary">"Prijať prichádzajúci hovor odtlačkom prsta"</string>
+    <string name="asus_fingerprint_snap_call_title">"Prehodiť hovor"</string>
+    <string name="asus_fingerprint_snap_call_summary">"Povoliť prehodenie hovoru odtlačkom prsta"</string>
+</resources>

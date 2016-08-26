@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Cung cấp mã nguồn chung</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">"Cài đặt tùy chỉnh ASUS"</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Wayne2_Chen: UI required-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <!-- Harrison for power settings -->
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <!-- MikeHsu for clear app data -->
+
+    <string name="asus_sd_eject">Ngắt thiết bị lưu trữ ngoài</string>
+    <string name="asus_sd_eject_summary">Tháo thiết bị lưu trữ ngoài an toàn</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">Tùy chọn cài đặt nhanh</string>
+    <string name="quick_setting_description">Chọn các mục hiện trên cửa sổ cài đặt nhanh</string>
+    <string name="quick_setting_reset_title">Cài lại cài đặt nhanh</string>
+    <string name="quick_setting_reset_message">Tùy chọn cài đặt nhanh sẽ được cài đặt lại.</string>
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Hiện thanh tình trạng</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <!-- Harrison Chen, recent app key long press_control-->
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <!-- ashan_yang@asus.com, show battery -->
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Chế độ găng tay</string>
+    <string name="glove_mode_setting_summary">Tăng độ nhạy cảm ứng khi bạn đeo găng tay</string>
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- flipcover setting item title and summary -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">Nắp đậy ASUS</string>
+    <string name="asus_transcover_category_title">Phụ kiện</string>
+    <string name="asus_transcover_title">Cho phép ASUS Cover</string>
+    <string name="asus_transcover_summary">Tắt màn hình khi đã đóng nắp</string>
+    <string name="asus_cover_settings">Cài đặt Nắp ASUS</string>
+    <string name="asus_cover_automatic_unlock_tittle">Mở khóa tự động</string>
+    <string name="asus_cover_automatic_unlock_summary">Khi khóa màn hình tắt, hãy mở nắp để tự động mở khóa màn hình bảo mật</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+<!-- bruce1_li, AT&T DMAgent -->
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">Đèn báo LED</string>
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">Ảnh selfie người thâm nhập</string>
+    <string name="lockscreen_intruder_selfie_summary">Chụp ảnh của người đã nhập sai mật khẩu</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Ảnh selfie người thâm nhập</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Chụp ảnh của người thâm nhập khi hắn nhập sai mật khẩu vào màn hình khóa</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Lần nhập sai mật khẩu</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Hai lần</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Lưu ảnh chụp tự động</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Lưu ảnh chụp vào thư mục Ảnh selfie người thâm nhập trong Thư viện</string>
+    <string name="lockscreen_enable_slide_widget_title">Bỏ qua trang trượt</string>
+    <string name="lockscreen_enable_slide_widget">Bỏ qua trang trượt màn hình khóa khi khởi động</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Chế tiện dụng</string>
+    <string name="asus_easy_launcher_intro">Chế độ tiện dụng mang lại cho bạn trải nghiệm giao diện thân thiện nhưng trực quan với cách bố trí đơn giản và các chức năng quan trọng</string>
+    <!-- AMAX AT&T issue -->
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Mật khẩu phải chứa ít nhất %d bộ ký tự trong 4 nhóm: chữ hoa, chữ thường, số, biểu tượng"</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">Tùy chọn độ sáng tự động</string>
+    <string name="auto_brightness_settings_gain">T.cường</string>
+    <string name="auto_brightness_settings_sensor">C.biến á.sáng</string>
+    <string name="auto_brightness_settings_adjustment">Cho phép đổi t.cường</string>
+    <string name="auto_brightness_settings_reset_gain">Cài về mặc định</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Cài về giá trị t.cường m.định?</string>
+    <string name="auto_brightness_settings_indark">Trong môi trường tối</string>
+    <string name="auto_brightness_settings_indark_title">Giảm bớt độ sáng</string>
+    <string name="auto_brightness_settings_indark_slow">Chậm</string>
+    <string name="auto_brightness_settings_indark_immediate">Ngay lập tức</string>
+    <string name="auto_brightness_settings_indark_dynamic">Năng động</string>
+    <string name="show_sensor_usage">Hiện giá trị c.biến ánh sáng</string>
+    <string name="show_sensor_usage_summary">Lớp phủ màn hình hiển thị t.trạng c.biến á.sáng hiện hành</string>
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Chế độ một tay</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Khởi động nhanh</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Chạm đôi phím home để bật chế độ hoạt động một tay</string>
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">N.chuông &amp; thông báo</string>
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Kiểu chữ</string>
+    <string name="monotype_preference_summary">Cài p.chữ</string>
+    <string name="monotype_dialog_button">Tải p.chữ trực tuyến</string>
+    <string name="monotype_dialog_set_font_question">Cài p.chữ làm %s?</string>
+    <string name="monotype_dialog_revert_question">Cài về p.chữ mặc định?</string>
+    <string name="monotype_dialog_no_fonts_installed">Chưa có sẵn p.chữ bổ sung</string>
+    <string name="monotype_restart_dialog_text_1">Khởi động lại ĐT</string>
+    <string name="monotype_restart_dialog_text_2">Khởi động lại ĐT để áp dụng các cài đặt</string>
+    <string name="monotype_restart_dialog_button_1">Khởi động lại ngay</string>
+    <string name="monotype_dialog_font_oem_font1">P.chữ OEM 1</string>
+    <string name="monotype_dialog_font_oem_font2">P.chữ OEM 2</string>
+    <string name="monotype_dialog_font_oem_font3">P.chữ OEM 3</string>
+    <string name="monotype_default_font">P.chữ mặc định</string>
+    <string name="monotype_loading_list">Đang tải DS p.chữ...</string>
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">Chế độ cá nhân</string>
+    <string name="user_snapview_summary">Bạn có thể tạo Chế độ cá nhân để bảo vệ ảnh chụp, file và ứ.dụng của mình.</string>
+    <string name="user_snapview_message_Notice">Chú ý</string>
+    <string name="user_snapview_message_created">Thiếu bộ nhớ hệ thống.</string>
+    <string name="user_snapview_message_with_normal_lock">Trong Chế độ cá nhân, bạn có thể chụp ảnh, lưu file, cài đặt ứng dụng.  Những file và ứng dụng này vẫn an toàn trong Chế độ cá nhân và sẽ\'không được nhìn thấy một khi bạn thoát Chế độ cá nhân.\n\nTrước khi có thể tạo Chế độ cá nhân, bạn cần thiết lập khóa màn hình cho Chế độ cá nhân.\n\nLưu ý: Khóa màn hình Chế độ cá nhân của bạn không được trùng với khóa màn hình Chủ sở hữu\'.</string>
+    <string name="user_snapview_message_without_normal_lock">Trong Chế độ cá nhân, bạn có thể chụp ảnh, lưu file, cài đặt ứng dụng.  Những file và ứng dụng này vẫn an toàn trong Chế độ cá nhân và sẽ\'không được nhìn thấy một khi bạn thoát Chế độ cá nhân.\n\nTrước khi có thể tạo Chế độ cá nhân, bạn\'ll cần thiết lập khóa màn hình cho Chủ sở hữu.</string>
+    <string name="user_snapview_settings">Cài đặt Chế độ cá nhân</string>
+    <string name="user_snapview_settings_category_lockscreen">Bảo mật màn hình khóa</string>
+    <string name="user_snapview_settings_category_visualhint">Hình gợi ý</string>
+    <string name="user_snapview_settings_category_dummy">Thông báo giả</string>
+    <string name="user_snapview_settings_category_account">Tài khoản Chế độ cá nhân</string>
+    <string name="user_snapview_settings_hint_lock">Trang trí màn hình khóa</string>
+    <string name="user_snapview_settings_hint_notify">Trang trí Chế độ cá nhân</string>
+    <string name="user_snapview_settings_dummy_notify">Văn bản</string>
+    <string name="user_snapview_settings_dummy_default">Đã cập nhật dịch vụ Google Play</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Biểu tượng</string>
+    <string name="user_snapview_settings_set_lock">Cài khóa màn hình</string>
+    <string name="user_snapview_settings_change_info">Đổi thông tin hồ sơ</string>
+    <string name="user_snapview_settings_delete_self">Xóa Chế độ cá nhân</string>
+    <string name="user_snapview_settings_item1">Phụ đề</string>
+    <string name="user_snapview_settings_item2">Rõ ràng</string>
+    <string name="user_snapview_settings_item3">Không có</string>
+    <string name="user_snapview_settings_item_color">Màu</string>
+    <string name="user_snapview_settings_item_icon">Biểu tượng</string>
+    <string name="user_snapview_settings_item_none">Không có</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Tài khoản email cứu nguy chế độ riêng tư</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Trước khi bạn tạo chế độ riêng tư, chúng tôi đề nghị bạn gán tài khoản %s làm tài khoản email cứu nguy.\n\nTài khoản email cứu nguy sẽ giúp bạn cài lại mật khẩu chế độ riêng tư trong trường hợp bạn quên nó.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Xác nhận tài khoản %s của bạn</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Chúng tôi\'chuẩn bị xác nhận tài khoản %1$s của bạn.\n\nMột khi xác nhận thành công, bạn có thể bắt đầu cài lại mật khẩu màn hình khóa.\n\nLưu ý: Màn hình kế tiếp thuộc về quy trình Xác nhận Tài khoản %2$s, và chúng tôi không\' thu thập thông tin tài khoản của bạn.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Đã cài lại mật khẩu chế độ riêng tư</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Xin chúc mừng! Mật khẩu chế độ riêng tư của bạn đã được cài lại.\n\nLần sau, bạn có thể gán mật khẩu chế độ riêng tư mới, hoặc xóa chế độ riêng tư hiện hành.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Để xóa Chế độ cá nhân, bạn cần nhập mã khóa màn hình và mã PIN ngẫu nhiên.\n\nKhi đã xác nhận, Chế độ cá nhân sẽ bị xóa khỏi thiết bị của bạn. Nếu bạn làm mất ảnh chụp, ứng dụng, và dữ liệu trong chế độ riêng tư.\n\nThao tác này không thể phục hồi. Bạn muốn tiến hành?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Đổi tài khoản email cứu nguy</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Dùng tùy chọn này để cài lại mật khẩu chế độ riêng tư của bạn</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Hãy gán tài khoản %s làm tài khoản email cứu nguy chế độ riêng tư của bạn.\n\nTài khoản email cưu nguy sẽ giúp bạn cài lại mật khẩu chế độ riêng tư trong trường hợp bạn quên nó.</string>
+    <string name="user_snapview_reset_confirm">Xoá mọi dự liệu ở Chế độ cá nhân?\nBạn không thể phục hồi thao tác này!</string>
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">Chọn mật khẩu mới của Chủ sở hữu</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Chọn mã PIN mới của Chủ sở hữu</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Xác nhận mật khẩu của Chủ sở hữu</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Xác nhận mã PIN của Chủ sở hữu</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Vẽ hình mở khóa mới của Chủ sở hữu</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Vẽ lại hình của Chủ sở hữu để xác nhận</string>
+    <string name="lockpattern_choose_private_mode">Vẽ hình mở khóa mới cho Chế độ cá nhân</string>
+    <string name="lockpattern_confirm_private_mode">Chọn mã PIN mới của Chế độ cá nhân</string>
+    <string name="lockpassword_choose_private_mode">Chọn mật khẩu mới cho Chế độ cá nhân</string>
+    <string name="lockpassword_confirm_private_mode">Xác nhận mật khẩu của Chế độ cá nhân</string>
+    <string name="lockpin_choose_private_mode">Chọn mã PIN mới của SnapView</string>
+    <string name="lockpin_confirm_private_mode">Xác nhận mã PIN của Chế độ cá nhân</string>
+    <string name="lockpattern_pattern_same_to_normal">Hình vẽ giống bình thường</string>
+    <string name="select_account">Chọn thao tác của bạn</string>
+    <string name="owner_account">Đổi khóa màn hình Chủ sở hữu</string>
+    <string name="personal_space">Đổi khóa màn hình Chế độ cá nhân</string>
+    <string name="both">Đổi kiểu khóa màn hình</string>
+    <string name="notice">Chú ý</string>
+    <string name="pmode_pattern_same_to_normal">Khóa màn hình Chế độ cá nhân không được trùng với khóa màn hình Chủ sở hữu. Hãy thử lại.</string>
+    <string name="pmode_pattern_same_to_private">Khóa màn hình Chủ sở hữu không được trùng với khóa màn hình Chế độ cá nhân. Hãy thử lại.</string>
+    <string name="pmode_created">Tuyệt, Chế độ cá nhân của bạn đã được tạo!  Giờ hãy thử vào Chế độ cá nhân bằng khóa màn hình Chế độ cá nhân của bạn.</string>
+    <string name="pmode_created_title">Đã tạo Chế độ cá nhân</string>
+    <string name="pmode_set_personal_space_title">Cài khóa màn hình Chế độ cá nhân</string>
+    <string name="pmode_set_personal_space">Trước tiên, hãy cài đặt khóa màn hình cho Chế độ cá nhân.\n\nLưu ý: Khóa màn hình Chế độ cá nhân không được trùng với khóa màn hình Chủ sở hữu.</string>
+    <string name="pmode_pattern_cannot_same">Hình mở khóa Chế độ cá nhân không được trùng với hình mở khóa Chủ sở hữu</string>
+    <string name="pmode_pin_cannot_same">Mã PIN Chế độ cá nhân không được trùng với mã PIN Chủ sở hữu</string>
+    <string name="pmode_password_cannot_same">Mật khẩu của Chế độ cá nhân không được trùng với mật khẩu của Chủ sở hữu</string>
+    <string name="pmode_set_lock">Cài khóa</string>
+    <string name="pmode_set_owner_lock_title">Cài khóa màn hình Chủ sở hữu</string>
+    <string name="pmode_set_owner_lock">Trước tiên, hãy cài đặt khóa màn hình cho Chủ sở hữu.</string>
+    <string name="pmode_pin_length_must_same">Độ dài mã PIN Chế độ cá nhân và Chủ sở hữu phải trùng nhau</string>
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">Cảnh báo</string>
+    <string name="asus_master_clear_check_backup_message">Bạn đã lưu các dữ liệu vào bộ nhớ trong. Hãy chuyển chúng sang bộ nhớ ngoài trước khi bạn tiếp tục; nếu không, các dữ liệu này sẽ bị xóa khỏi bộ nhớ trong. Bạn vẫn muốn tiếp tục cài lại?</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">Sạc nhanh (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> cho đến khi đầy bằng AC (Sạc nhanh)</string>
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">Không cho phép</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Truy cập nhanh tùy chỉnh</string>
+    <string name="change_short_cut_message">Chạm ứng dụng để tùy chỉnh và kéo nó để sắp xếp lại</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">Tr.quản lý tự khởi động</string>
+    <string name="autostart_summary">"Làm trống thêm bộ nhớ và tiết kiệm pin"</string>
+    <!-- Kevin_Chiou for ANT build -->
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Áp dụng thiết kế chất liệu</string>
+    <string name="notification_material_summary">Khi áp dụng, một số biểu tượng th.báo ứng dụng sẽ trở thành hình màu trắng để tuân theo kiểu thiết kế này.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Tiếp theo"</string>
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"C.độ trẻ em"</string>
+    <string name="asus_kids_launcher_settings_message">"Bật C.độ trẻ em để thiết lập sân chơi an toàn cho con bạn sử dụng."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">Một vài ứng dụng có thể không hiển thị văn bản đúng cách với kích thước phông chữ quá lớn.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">Văn bản quá lớn</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Chạm và giữ nút chụp ảnh hoặc nút quay phim trên camera để bật camera khi màn hình mở."</string>
+    <string name="lockscreen_longpress_screen_off">"Chạm và giữ nút chụp ảnh hoặc nút quay phim trên camera để bật camera khi màn hình tắt."</string>
+    <string name="lockscreen_longpress_screen_on_title">"Bật camera khi màn hình mở"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Bật camera khi màn hình tắt"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Văn bản mới</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"T.báo khẩn cấp"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Định cấu hình t.báo khẩn cấp"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMS quảng cáo"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Định cấu hình SMS quảng cáo"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Tắt trang thông tin thời tiết"</string>
+    <string name="lockscreen_disable_weather_info_page">"Ngưng kích hoạt hoàn toàn trang thông tin thời tiết (do Cheetah Mobile cung cấp) ở bên phải Màn Hình Khóa"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

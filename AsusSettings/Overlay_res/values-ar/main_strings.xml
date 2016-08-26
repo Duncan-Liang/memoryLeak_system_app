@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      تمت مقاطعة التشفير ولا يمكن أن يكتمل. ونتيجةً لذلك لم يعد من الممكن الوصول إلى البيانات الموجودة على جهازك. \n\n لاستئناف استخدام جهازك؛ عليك إجراء إعادة ضبط جهازك على إعدادات المصنع. عندما تقوم بإعداد جهازك بعد إعادة الضبط, ستكون لديك فرصة لاستعادة أي بيانات تم نسخها احتياطيًا على حساب  الخاص بك.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      كلمة المرور التي أدخلتها صحيحية, لكن لسوء الحظ بياناتك تالفة. \n\n لاستئناف استخدام جهازك؛ عليك إجراء إعادة ضبط جهازك على إعدادات المصنع. عندما تقوم بإعداد جهازك بعد إعادة الضبط, ستكون لديك فرصة لاستعادة أي بيانات تم نسخها احتياطيًا على حساب  الخاص بك.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"سيمسح ذلك كل البيانات الموجودة على التخزين الداخلي الخاص بجهازك <b>والتي تشمل:</b>\n\n<li>حساب  الخاص بك, </li>\n<li>وبيانات وإعدادات النظام والتطبيق, </li>\n<li>والتطبيقات التي تم تنزيلها</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">سيتم نسخ أي تغييرات تجريها على حساباتك على الويب تلقائيًا على جهازك.\n\nكما قد تنسخ تلقائيًا بعض الحسابات أي تغييرات تجريها على جهازك إلى الويب. وتلك هي الطريقة التي يعمل بها حساب.</string>
+</resources>

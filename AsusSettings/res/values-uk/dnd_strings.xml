@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Не турбувати</string>
+    <string name="zen_mode_option_off2">Завжди дозволяти</string>
+    <string name="zen_mode_option_important_interruptions2">Застосувати правила турбування</string>
+    <string name="zen_mode_option_no_interruptions2">Не дозволяти</string>
+    <string name="zen_mode_important_category2">Правила турбування</string>
+    <string name="zen_mode_from2">Дозволити виклики/повідомлення від</string>
+    <string name="zen_mode_from_anyone2">Будь-хто</string>
+    <string name="zen_mode_from_contacts2">Лише Контакти</string>
+    <string name="zen_mode_from_starred2">Лише Улюблені</string>
+    <string name="zen_mode_from_vip2">Лише VIP</string>
+    <string name="zen_mode_downtime_category2">Час за розкладом (Застосування правила турбування)</string>
+    <string name="zen_mode_alarms_priority">Сигналізаційні пристрої</string>
+    <string name="zen_mode_repeated_calls">Повторювані виклики</string>
+    <string name="zen_mode_repeated_calls_desc">Другий виклик протягом двох хвилин не буде заглушено</string>
+    <string name="zen_mode_add_downtime">Новий розклад</string>
+    <string name="zen_mode_meeting_mode_category">Розклад задіяно подіями календаря</string>
+    <string name="zen_mode_weekend">Вихідні</string>
+    <string name="zen_mode_everyday">Щодня</string>
+    <string name="zen_mode_remove_dialog_title">Видалити розклад</string>
+    <string name="zen_mode_remove_dialog_message">Видалити цей розклад?</string>
+    <string name="zen_mode_limit_dialog_title">Новий розклад</string>
+    <string name="zen_mode_limit_dialog_message">Можна мати до %d налаштувань розкладу.</string>
+    <string name="zen_mode_downtime_title">розклад</string>
+    <string name="zen_mode_downtime_title_new">Новий розклад</string>
+    <string name="zen_mode_downtime_title_edit">Редагувати розклад</string>
+    <string name="zen_mode_downtime_title_meeting">Редагувати розклад </string>
+    <string name="zen_mode_others">Налаштування</string>
+    <string name="zen_mode_send_notifications">Повідомлення</string>
+    <string name="zen_mode_send_notifications_desc">Надіслати повідомлення, коли активовано Не турбувати</string>
+    <string name="zen_mode_no_interruptions_warning">"Коли встановлено на \"повна тиша\", будильники будуть без звуку."</string>
+    <string name="zen_mode_from_anyone3">"Від будь-кого"</string>
+    <string name="zen_mode_from_favorites_only">"Від улюблених контактів"</string>
+    <string name="zen_mode_from_contacts_only">"Лише від контактів"</string>
+    <string name="zen_mode_repeat_callers2">"Повторювати виклики"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Якщо виклик здійснюється з цього ж номера не пізніше ніж за <xliff:g id="MINUTES">%d</xliff:g> хв, його буде дозволено."</string>
+    <string name="zen_mode_option_important_interruptions3">"Застосувати правила турбування"</string>
+    <string name="zen_mode_selected_callers2">"вибрані виклики"</string>
+    <string name="zen_mode_dnd_is_on">"Увімкнуто режим «Не турбувати». Ви можете вимкнути його вручну."</string>
+    <string name="zen_mode_turn_off_now">"Вимкнути зараз"</string>
+    <string name="zen_mode_custom_name">"Користувацький"</string>
+    <string name="zen_mode_manual_turn_on">"Увімкнути режим «Не турбувати» вручну"</string>
+    <string name="zen_mode_turn_off">"Вимкнути режим «Не турбувати»"</string>
+    <string name="zen_mode_in_activity">"Увімкнуто: "</string>
+    <string name="zen_mode_forever2">"на невизначений час"</string>
+</resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"အျခားျပဳလုပ္ခ်က္မ်ား"</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">app တစ်ခုသည် သင့်ကိရိယာအား အခြားဘလူးတုသ်ကိရိယာများမှ <xliff:g id="timeout">%1$d</xliff:g> စက္ကန့် မြင်တွေ့ရန် ပြုလုပ်လိုသည်။</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">app တစ်ခုသည် သင့်ကိရိယာအား အခြားဘလူးတုသ်ကိရိယာများမှ %1$d စက္ကန့် မြင်တွေ့ရန် ပြုလုပ်လိုသည်။ သင်သည် ဤအရာကို နောက်မှ ဘလူးတုသ်ဆက်တင်များတွင် ပြောင်းနိုင်သည်။</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">app တစ်ခုသည် သင့်ကိရိယာအား အခြားဘလူးတုသ်ကိရိယာများမှ <xliff:g id="timeout">%1$d</xliff:g> စက္ကန့် မြင်တွေ့ရန် ပြုလုပ်လိုသည်။</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">app တစ်ခုသည် ဘလူးတုသ်ကို ဖွင့်ပြီး သင့်ကိရိယာအား အခြားဘလူးတုသ်ကိရိယာများမှ မြင်တွေ့ရန် ပြုလုပ်လိုသည်။ သင်သည် ဤအရာကို နောက်မှ ဘလူးတုသ်ဆက်တင်များတွင် ပြောင်းနိုင်သည်။</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">လက်ကိုင် မိုဘိုင်းကိရိယာ အချက်အလက်</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">ဒေတာရွမ်းမင်းကို ခွင့်ပြုသောအခါ ရွမ်းမင်းအခကြေးငွေ သိသိသာသာ ကုန်ကျနိုင်သည်။\n\nဤဆက်တင်သည် ဤလက်ကိုင်မိုဘိုင်းကိရိယာရှိ အသုံးပြုသူများအားလုံးကို သက်ရောက်စေသည်။</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">ကိရိယာကို ဝှက်စာသိမ်းပြီး ထားပါ</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">သင့်အကောင့်များ၊ ဆက်တင်များ၊ ဒေါင်းလုဒ်လုပ်ထားသော app များနှင့် သူတို့၏အချက်အလက်များ၊ မီဒီယာများနှင့် အခြားဖိုင်များကို ဝှက်စာဖြင့် သိမ်းနိုင်သည်။ သင့်ကိရိယာကို ဝှက်စာဖြင့်သိမ်းပြီးသောအခါ သင်သည် စခရင်သော့တစ်ခုကို တည်ဆောက်ပြီးဖြစ်သည်ဟု ယူဆပြီး သင်သည် ကိရိယာကို ပါဝါပြန်ဖွင့်သည့်အခါတိုင်း ၎င်းကို ဝှက်စာပြန်ဖြည်ရန် စခရင်အား သော့ဖွင့်ရန် လိုအပ်လိမ့်မည်။ ဝှက်စာပြန်ဖြည်ရန် တစ်ခုတည်းသောနည်းလမ်းသည် သင့်ဒေတာများအားလုံးကို ဖျက်ပြီး စက်ရုံဒေတာအတိုင်း ပြန်သတ်မှတ်ခြင်းကို ဆောင်ရွက်ရန်ဖြစ်သည်။\n\nဝှက်စာပြန်ဖြည်ခြင်းသည် တစ်နာရီ သို့မဟုတ် ပိုမို၍ ကြာလိမ့်မည်။ သင်သည် အားသွင်းထားသောဘက်ထရီဖြင့် စတင်ရမည်ဖြစ်ပြီး လုပ်ဆောင်နေစဉ်တလျှောက်လုံး သင့်ကိရိယာကို ပလပ်တပ်ထားရမည်။ ၎င်းကို ကြားဖြတ်နှောင့်ယှက်ပါက သင့်ဒေတာအချို့ သို့မဟုတ် အားလုံး ဆုံးရှုံးလိမ့်မည်</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">ကိရိယာကို ဝှက်စာသိမ်းပြီး ထားပါ</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">ဝှက်စာဖြင့်သိမ်းခြင်း လုပ်ဆောင်ချက်ကို နောက်ပြန်မဆုတ်နိုင်ပါ၊ ၎င်းကို ကြားဖြတ်နှောင့်ယှက်ပါက သင့်ဒေတာများ ဆုံးရှုံးလိမ့်မည်။ ဝှက်စာဖြင့်သိမ်းခြင်းသည် တစ်နာရီ သို့မဟုတ် ပိုမို၍ ကြာလိမ့်မည်၊ ထိုအချိန်အတွင်း ကိရိယာသည် ကြိမ်ဖန်များစွာ ပြန်စတင်လိမ့်မည်။</string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">သင့်ကိရိယာအား ဝှက်စာဖြင့်သိမ်းနေစဉ် စောင့်ပါ။ <xliff:g example="50" id="percent">^1</xliff:g>% ပြီးပြီ။</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">သင့်ကိရိယာအား ဝှက်စာဖြင့်သိမ်းနေစဉ် စောင့်ပါ။ ကျန်နေသေးသော အချိန်- <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">ဒေါင်းလုဒ် ပျက်သွားပြီးပြန်မစနိုင်ပါ။ ရလဒ်အနေဖြင့် သင့်ကိရိယာရှိ ဒေတာကို အသုံးမပြုနိုင်တော့ပါ။ \n\n သင့်ကိရိယာဆက်လက်အသုံးပြုရန် စက်ရုံဒေတာအတိုင်း ပြန်သတ်မှတ်ခြင်းကို ဆောင်ရွက်ရန် လိုအပ်သည်။ ပြန်သတ်မှတ်ပြီး သင့်ကိရိယာကို တည်ဆောက်သောအခါ သင်၏ Google အကောင့်တွင် ဘက်ခ်အပ်လုပ်ထားသော မည်သည့်ဒေတာကိုမဆို မူလအတိုင်းပြန်ထားရန် အခွင့်အလမ်းတစ်ခု သင့်တွင် ရှိသည်။</string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">သင်ထည့်လိုက်သော စကားဝှက်မှန်သော်လည်း ကံမကောင်းစွာ သင့်ဒေတာများ ပျက်စီးနေသည်။ \n\n သင့်ကိရိယာဆက်လက်အသုံးပြုရန် စက်ရုံဒေတာအတိုင်း ပြန်သတ်မှတ်ခြင်းကို ဆောင်ရွက်ရန် လိုအပ်သည်။ ပြန်သတ်မှတ်ပြီး သင့်ကိရိယာကို တည်ဆောက်သောအခါ သင်၏ Google အကောင့်တွင် ဘက်ခ်အပ်လုပ်ထားသော မည်သည့်ဒေတာကိုမဆို မူလအတိုင်းပြန်ထားရန် အခွင့်အလမ်းတစ်ခု သင့်တွင် ရှိသည်။</string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">ဤကိရိယာ၏အင်တာနက်ချိတ်ဆက်မှုကို ဝေမျှခြင်းမှ <xliff:g id="device_name">%1$s</xliff:g> ကို ချိတ်ဆက်မှုဖြတ်လိမ့်မည်။</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">ကိရိယာသည် အခြားကိရိယာတစ်ခုနှင့် တို့ထိသောအခါ ဒေတာဖလှယ်ခြင်းကို ခွင့်ပြုပါ</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">သတိပေးချက်-သင်သည် Wi\u2011Fi ကို မသုံးပါက သင့်ကိရိယာသည် အစဒေါင်းလုဒ်များနှင့် အပ်ဒိတ်များအတွက် ဆယ်လူလာဒေတာကိုသာ အသုံးပြုလိမ့်မည်။ ဖြစ်နိုင်သော ဒေတာအခကြေးငွေများကို ရှောင်ကျဉ်ရန် Wi\u2011Fi ကို ချိတ်ဆက်ပါ။</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">သတိပေးချက်- သင်သည် Wi\u2011Fi ကို မသုံးပါက သင့်ကိရိယာတွင် အစဒေါင်းလုဒ်များနှင့် အပ်ဒိတ်များအတွက် အသုံးပြုရန် အင်တာနက်ချိတ်ဆက်မှု ရှိမည်မဟုတ်ပါ။</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">ကိရိယာသည် ဤ Wi\u2011Fi ကွန်ရက်သို့ မချိတ်ဆက်နိုင်ပါ။</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">ကိရိယာကို စင်မတင်ထားပါ</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">စင်မှ အသံကို ဆက်တင်မလုပ်မီ ကိရိယာကို စင်တွင်ထားရန် လိုအပ်သည်။</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">ကိရိယာကို စင်သို့ ထည့်သည့်အခါ သို့မဟုတ် စင်မှ ဖယ်ရှားသည့်အခါ အသံဖွင့်ပါ။</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">ကိရိယာကို စင်သို့ ထည့်သည့်အခါ သို့မဟုတ် စင်မှ ဖယ်ရှားသည့်အခါ အသံမဖွင့်ပါနှင့်။</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">ကိရိယာလည်သောအခါ အနေအထားကို အလိုအလျောက် ပြောင်းပါ</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">ကိရိယာလည်သောအခါ အနေအထားကို အလိုအလျောက် ပြောင်းပါ</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">ကိရိယာကို အသုံးပြုရန် PIN လိုအပ်သည်</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">ကိရိယာကို အသုံးပြုရန် PIN လိုအပ်သည်</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">ကိရိယာအခြေအနေ</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">ဘက်ထရီ အခြေအနေ၊ ကွန်ရက်နှင့် အခြားအချက်အလက်များ</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">ကိရိယာရှိ ဒေတာအားလုံးကို ဖယ်ရှားပစ်သည်</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">ဤအရာသည် သင့်ကိရိယာ၏ \n\n<li>Your Google account</li>\n<li>System and app data and settings</li>\n<li>Downloaded apps</li> အပါအဝင် <b>internal storage</b>မှ ဒေတာများအားလုံးကို ဖယ်ရှားလိမ့်မည်။</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">ကိရိယာကို ပြန်သတ်မှတ်ပါ</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">ဤကိရိယာ၏အင်တာနက်ချိတ်ဆက်မှုကို ဝေမျှခြင်း</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">ဤကိရိယာ၏အင်တာနက်ချိတ်ဆက်မှုကို ကိရိယာ ၁ ခု သို့ ဝေမျှခြင်း</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">ဤကိရိယာ၏အင်တာနက်ချိတ်ဆက်မှုကို ကိရိယာ ၁ ခု သို့ ဝေမျှခြင်း</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">ဤကိရိယာ၏အင်တာနက်ချိတ်ဆက်မှုကို မဝေမျှခြင်း</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">သင့်တည်နေရာကို ညွှန်ပြရန် app အား သင့်ကိရိယာရှိ GPS ကို အသုံးပြုခွင့်ပေးပါ</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">ကိရိယာအကြောင်း</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">သင့်ကိရိယာနှင့် ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မသိသောရင်းမြစ်များမှ app များမှ ပိုမို၍ တိုက်ခိုက်နိုင်သည်။  ဤ app များအသုံးပြုခြင်းဖြင့် ဖြစ်ပေါ်နိုင်သော သင့်ကိရိယာ ပျက်စီးခြင်း သို့မဟုတ် ဒေတာဆုံးရှုံးခြင်းများအတွက် သင့်တွင်သာ တာဝန်ရှိကြောင်း သင် သဘောတူပါသည်။</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">ဤ app သည် သင့်ကိရိယာရှိ အောက်ပါတို့ကို အသုံးပြုနိုင်သည်-</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">ဤ app သည် သင့်ကိရိယာရှိ အောက်ပါတို့ကို အသုံးပြုနိုင်သည်-</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">ကိရိယာသို့ ရွှေ့ပါ</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">ဤဝန်ဆောင်မှုကို ရပ်တန့်လိုက်ပါက ကိရိယာကို ပါဝါပိတ်ပြီး ပြန်မဖွင့်မီအထိ သင့်ကိရိယာ၏အင်္ဂါရပ်အချို့သည် မှန်ကန်စွာ အလုပ်လုပ်ခြင်း ရပ်တန့်နိုင်သည်။</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">ကိရိယာ အချက်အလက်</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">ကိရိယာ အားနေသည်။</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">ကိရိယာ</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">ကိရိယာ အားနေသောအခါ အသုံးပြုသောဘက်ထရီ</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">ဤအကောင့်ကို ဖျက်ခြင်းသည် ကိရိယာမှ ၎င်း၏မက်ဆေ့ချ်များ၊ အဆက်အသွယ်များနှင့် အခြားဒေတာများအားလုံးကို ဖျက်လိမ့်မည်။</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">ဝက်ဘ်ပေါ်ရှိ သင့်အကောင့်များသို့ ပြုလုပ်သော ပြောင်းလဲမှုများအားလုံးကို သင့်ကိရိယာသို့ အလိုအလျောက် ကူးယူလိမ့်မည်။ \n\nအချို့အကောင့်များသည်လည်း သင့်ကိရိယာတွင် ပြုလုပ်သော မည်သည့်ပြောင်းလဲမှုကိုမဆို ဝက်ဘ်သို့ အလိုအလျောက် ကူးယူလိမ့်မည်။ Google အကောင့်တစ်ခုသည် ဤနည်းအတိုင်း အလုပ်လုပ်သည်။</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">သင့်ကိရိယာသည် ဆယ်လူလာ ဒေတာကို သတ်မှတ်ထားသည့် ကန့်သတ်ချက်သို့ ရောက်သောအခါ ပိတ်လိမ့်မည်။\n\nဒေတာသုံးစွဲမှုကို သင့်ကိရိယာဖြင့် တိုင်းတာထားသောကြောင့် သင်၏မိုဘိုင်းကွန်ရက်ထောက်ပံ့သူသည် သုံးစွဲမှုအတွက် မတူညီစွဲ တွက်ချက်နိုင်သည်၊ သင့်တင့်သော ကန့်သတ်ချက်တစ်ခု ချိန်ဆသတ်မှတ်ပါ။</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">နောက်ခံ ဆယ်လူလာဒေတာကို ကန့်သတ်ပါက Wi\u2011Fi သို့ မချိတ်ဆက်ထားပါလျှင် အချို့app များနှင့် ဝန်ဆောင်မှုများ အလုပ်မလုပ်နိုင်ပါ။ ဤဆက်တင်သည် ဤကိရိယာရှိ အသုံးပြုသူများအားလုံးကို သက်ရောက်စေသည်။</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>- <xliff:g example="128KB" id="total">%1$s</xliff:g> ခန့် အသုံးပြုပြီး၊ သင့်ကိရိယာဖြင့် တိုင်းတာသည်။ သင့်မိုဘိုင်းကွန်ရက်ထောက်ပံ့သူ၏ သုံးစွဲမှု တွက်ချက်ခြင်းသည် ကွဲပြားနိုင်သည်၊ </string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">ကိရိယာ၏ပိုင်ရှင်သာလျှင် အသုံးပြုသူများကို စီမံနိုင်သည်။</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">ဤကိရိယာရှိ သင်၏နေရာနှင့် ဒေတာများ ဆုံးရှုံးလိမ့်မည်။ ဤလုပ်ဆောင်မှုကို နောက်ပြန်မဆုတ်နိုင်ပါ။</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">ဤဆက်တင်သည် ဤကိရိယာရှိ အသုံးပြုသူများအားလုံးကို သက်ရောက်စေသည်။</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">ကိရိယာသည် အခြားကိရိယာတစ်ခုနှင့် တို့ထိသောအခါ ဒေတာဖလှယ်ခြင်းကို ခွင့်ပြုပါ</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">GPS သာလျှင်</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">ဖွင့်ထားသောအခါ လက်ရှိစခရင်ကို ပြန်မလုပ်မီအထိ မြင်ကွင်းတွင် ထားရှိရန် စခရင်ကို အသုံးပြုနိုင်သည်။\n\nစခရင်ပင်ထည့်ခြင်းကို အသုံးပြုရန် -\n\n၁။ စခရင်ပင်ထည့်ခြင်းကို ဖွင့်ထားကြောင်း သေချာအောင်ပြုလုပ်ပါ။\n\n၂။ သင်ပင်ထည့်လိုသော စခရင်ကို ဖွင့်ပါ။ \n\n၃။ လတ်တလော app များခလုတ်ကို ပုတ်ပါ။\n\n၄။ အိုင်ကွန်ကို ပုတ်ပါ။</string>
+
+    <string name="zenui_update">ZenUI APP အပ်ဒိတ်များ</string>
+    <string name="c_launch_title">app ဖွင့်ရန် "C"</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">နောက်ထပ်မပြပါနှင့်</string>
+    <string name="double_tap_mode_confirm_dialog_message">စခရင်သည် ပိတ်ထားသောကြောင့် စခရင်ကိုလှုံ့ဆော်ရန် နေရာတူကို နှစ်ခါနှိပ်ပါ။ ပွတ်ဆွဲ၍ သော့ခတ်ရန် သော့ခတ်စခရင်တွင် စခရင်ပိတ်ရန် နေရာလွတ်တွင် နှစ်ခါနှိပ်ပါ။ အခြေအနေပြဘားနှင့် ဖွင့်သည့်နေရာတွင် စခရင်ပိတ်ရန် နေရာလွတ်တွင် နှစ်ခါနှိပ်ပါ။</string>
+    <string name="double_tap_mode_confirm_dialog_title">လှုံ့ဆော်ရန် နှစ်ခါနှိပ်/\nဆိုင်းငံရန် နှစ်ခါနှိပ်</string>
+    <string name="doubletap_mode_setting_summary">လှုံ့ဆော်ရန် နှစ်ခါနှိပ်/"\n"ဆိုင်းငံရန် နှစ်ခါနှိပ်</string>
+    <string name="doubletap_mode_setting_title">စခရင် ဖွင့်/ပိတ်</string>
+    <string name="e_launch_title">app ဖွင့်ရန် "e"</string>
+    <string name="motion_gesture_category_title">ရွေ့လျားမှု ကိုယ်ဟန်အမူအရာ</string>
+    <string name="s_launch_title">app ဖွင့်ရန် "S"</string>
+    <string name="shake_sensitivity_title">အကဲဆတ်မှုကို လှုပ်ခါပါ</string>
+    <string name="shake_title">လှုပ်ခါ လှုပ်ခါ</string>
+    <string name="touch_gesture_category_title">ကိုယ်ဟန်အမူအရာကို ထိပါ</string>
+    <string name="v_launch_title">app ဖွင့်ရန် "V"</string>
+    <string name="w_launch_title">app ဖွင့်ရန် "W"</string>
+    <string name="z_launch_title">app ဖွင့်ရန် "Z"</string>
+    <string name="app_disable">ပိတ်</string>
+    <string name="shake_sensitivity_entries_high">အမြင့်</string>
+    <string name="shake_sensitivity_entries_low">အနိမ့်</string>
+    <string name="shake_sensitivity_entries_normal">ပုံမှန်</string>
+    <string name="double_tap_off_confirm_dialog_message">သော့ဖွင့်ရန် ပွတ်ဆွဲမည့် သော့ခတ်စခရင်တွင် စခရင်ကို ပိတ်ရန် လွတ်နေသောနေရာ၌ နှစ်ချက်နှိပ်ပါ။ အခြေအနေပြဘားနှင့် လောင်ချာတွင် စခရင်ကို ပိတ်ရန် လွတ်နေသောနေရာ၌ နှစ်ချက်နှိပ်ပါ။</string>
+    <string name="double_tap_off_confirm_dialog_title">ဆိုင်းငံ့ထားရန် နှစ်ချက်နှိပ်ပါ။</string>
+    <string name="double_tap_on_confirm_dialog_message">စခရင် ပိတ်သွားသောကြောင့် စခရင် နိုးထရန် စခရင်ပေါ်ရှိ တစ်နေရာတည်းတွင် နှစ်ချက်နှိပ်ပါ။</string>
+    <string name="double_tap_on_confirm_dialog_title">နိုးထရန် နှစ်ချက်နှိပ်ပါ</string>
+    <string name="doubletap_off_setting_summary">ဆိုင်းငံ့ထားရန် နှစ်ချက်နှိပ်ပါ</string>
+    <string name="doubletap_off_setting_title">စခရင် ပိတ်</string>
+    <string name="doubletap_on_setting_summary">နိုးထရန် နှစ်ချက်နှိပ်ပါ</string>
+    <string name="doubletap_on_setting_title">စခရင် ဖွင့်</string>
+    <string name="cpu_frequency_title">CPU</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="shake_summary">အက်ပ်တစ်ခုကို သုံးသောအခါ မျက်နှာပြင်အားပုံရိုက်ရန် နှစ်ကြိမ်လှုပ်ရမ်းပါ၊ နောက်မှ လုပ်ပါထဲတွင် အလုပ်အသစ်ကို ဖန်တီးပါ။</string>
+    <string name="sleep_touch_gesture_category_title">ဆိုင်းငံ့မုဒ်</string>
+    <string name="wake_up_touch_gesture_category_title">နိုးထမုဒ်</string>
+    <string name="motion_double_click_summary">ဖုန်းကိုယ်ထည်ကို နှစ်ချက် နှိပ်ပါ။</string>
+    <string name="motion_double_click_title">နှစ်ကြိမ်နှိပ်ပါ</string>
+    <string name="motion_flip_summary">ကိရိယာကို ပြောင်းပြန်လှန်ပါ။</string>
+    <string name="motion_flip_title">လှုပ်ခါပါ</string>
+    <string name="motion_hand_up_summary">ဖုန်းကို ဒေါင်လိုက်ပုံစံကိုင်ပြီး နားနှင့်ထိရန် မပါ။</string>
+    <string name="motion_hand_up_title">မတင်ပါ</string>
+    <string name="motion_walking_summary">လက်ထဲတွင် သို့မဟုတ် အိတ်ထဲတွင် ဖုန်းရှိနေစဉ် ဖုန်းသည် သင် လမ်းလျှောက်နေသည် သို့မဟုတ် ရွေ့လျားနေသည်ကို သိသည်။</string>
+    <string name="motion_walking_title">ရွေ့လျားနေသည်</string>
+    <string name="app_asus_front_camera_name">"ကင်မရာ - အရှေ့မှန်ဘီလူး"</string>
+    <string name="done" description="The button label for finish the tutorial guide" maxwidth="-1">ပြီးပါပြီ</string>
+    <string name="tutorial_double_click_summary">ခေါ်ဆိုမှု ဝင်လာသောအခါ ဆိတ်ငြိမ်မုဒ်သို့ ပြောင်းရန် ဖုန်းကိုယ်ထည်ကို နှစ်ချက် နှိပ်ပါ။</string>
+    <string name="tutorial_e_launch_summary">စခရင် ပိတ်ထားသောကြောင့် app ကိုဖွင့်ရန် “e” ရေးဆွဲခြင်း</string>
+    <string name="tutorial_flip_down_summary"> အဝင်ခေါ်ဆိုမှုတစ်ခုအတွင်း ဆိတ်ငြိမ်မုဒ်သို့ ပြောင်းရန် ကိရိယာကို ထက်အောက်ပြောင်းပြန် လှုပ်ခါပါ။ မီဒီယာ ပြန်ဖွင့်စဉ်အတွင်း ပလေယာကို ခေတ္တရပ်ရန် ကိရိယာကို ထက်အောက်ပြောင်းပြန် လှုပ်ခါပါ။</string>
+    <string name="tutorial_flip_down_title">လှုပ်ခါပါ( အောက်သို့ လှုပ်ခါပါ)</string>
+    <string name="tutorial_flip_up_summary">မီဒီယာပလေယာ ခေတ္တရပ်နေစဉ်အတွင်း ပလေယာကို ခေတ္တရပ်ရန် ကိရိယာကို အထက်သို့ လှုပ်ခါပါ။</string>
+    <string name="tutorial_flip_up_title">လှုပ်ခါပါ( အထက်သို့ လှုပ်ခါပါ)</string>
+    <string name="tutorial_hands_up_summary">စခရင်ကို အသာမပုတ်ပဲခေါ်ဆိုမှုများကို အလိုအလျောက်ဖြေကြားရန် ဖုန်းကို သင့်နားသို့ မတင်ပါ။</string>
+    <string name="tutorial_moving_summary">အဝင်ခေါ်ဆိုမှုများ ရှိသောအခါ လမ်းလျှောက်နေစဉ် သို့မဟုတ် ရွေ့လျားနေစဉ် တီးလုံးသံကို ကျယ်ထားပါ။</string>
+    <string name="tutorial_s_launch_summary">စခရင် ပိတ်ထားသောကြောင့် app ကိုဖွင့်ရန် “S” ရေးဆွဲခြင်း</string>
+    <string name="tutorial_v_launch_summary">စခရင် ပိတ်ထားသောကြောင့် app ကိုဖွင့်ရန် “V” ရေးဆွဲခြင်း</string>
+    <string name="tutorial_w_launch_summary">စခရင် ပိတ်ထားသောကြောင့် app ကိုဖွင့်ရန်“W” ရေးဆွဲခြင်း</string>
+    <string name="tutorial_z_launch_summary">စခရင် ပိတ်ထားသောကြောင့် app ကိုဖွင့်ရန် “Z” ရေးဆွဲခြင်း</string>
+    <string name="zenmotion_tutorial_title">ကျူတိုရီရယ်</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"နောက်ဆုံးပြုလုပ်ခဲ့သော စက်ရုံ ဒေတာအတိုင်း
+        ပြန်သတ်မှတ်မှု"
+    </string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"ဖွဲ့စည်းတည်ဆောက်ပုံ ဗားရှင်း"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"AudioWizard"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">သင်းမ်</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"စိတ်ကြိုက် ID"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"ဖိုင်ရွှေ့ရန် USB ကိုသုံးမလား?"</string>
+    <string name="usb_change_config_dialog_title">"ဖိုင်ရွှေ့ရန် USB ကိုသုံးမလား?"</string>
+    <string name="usb_change_config_dialog_message">ချိတ်ဆက်သည့်အခါ သင်ယုံကြည်သည့် ကွန်ပျူတာများကိုသုံးပြီး ဖိုင်များ ရွှေ့ခွင့်ပေးပါ။</string>
+    <string name="usb_change_config_dialog_checkbox_message">"ဤကွန်ပျူတာအတွက် အမြဲခွင့်ပြုပါ"
+    </string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 end-->
+</resources>

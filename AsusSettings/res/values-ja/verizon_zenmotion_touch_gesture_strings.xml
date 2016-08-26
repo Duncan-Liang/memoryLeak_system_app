@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"アプリ開始のジェスチャーと画面のオン/オフを許可"</string>
+    <string name="vzw_doubletap_off_setting_title">"画面をオフにするにはダブルタップします"</string>
+    <string name="vzw_doubletap_off_setting_summary">"画面をオフにするにはダブルタップします"</string>
+    <string name="vzw_doubletap_on_setting_title">"再起動するにはダブルタップします"</string>
+    <string name="vzw_doubletap_on_setting_summary">"オンにするには暗い画面をダブルタップします"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"ジェスチャー"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"関連アプリを開くのに画面をオフにする場合文字を描画します。下のアプリをタップしてアプリを変更できます"</string>
+    <string name="vzw_w_launch_title">"“W”はこのアプリを開きます"</string>
+    <string name="vzw_s_launch_title">"“S”はこのアプリを開きます"</string>
+    <string name="vzw_e_launch_title">"“e”はこのアプリを開きます"</string>
+    <string name="vzw_c_launch_title">"“C”はこのアプリを開きます"</string>
+    <string name="vzw_z_launch_title">"“Z”はこのアプリを開きます"</string>
+    <string name="vzw_v_launch_title">"“V”はこのアプリを開きます"</string>
+</resources>

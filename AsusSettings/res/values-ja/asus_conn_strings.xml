@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">非アクティブのときWi-Fiホットスポットを無効にする</string>
+    <string name="wifi_disable_hotspot_selection_never">無効にしない</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">5分後</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">10分後</string>
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">接続中のユーザー情報</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Wi-Fiホットスポットに接続中のユーザーはいません。</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">\u30a4\u30fc\u30b5\u30cd\u30c3\u30c8</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">IP\u30a2\u30c9\u30ec\u30b9\u304c\u672a\u8a2d\u5b9a\u3067\u3059\u3002</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30d7\u30ea\u30d5\u30a3\u30c3\u30af\u30b9\u306e\u9577\u3055\u304c\u672a\u8a2d\u5b9a\u3067\u3059\u3002</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u30a2\u30c9\u30ec\u30b9\u304c\u672a\u8a2d\u5b9a\u3067\u3059\u3002</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">DNS1\u30a2\u30c9\u30ec\u30b9\u304c\u672a\u8a2d\u5b9a\u3067\u3059\u3002</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">DNS2\u30a2\u30c9\u30ec\u30b9\u304c\u672a\u8a2d\u5b9a\u3067\u3059\u3002</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">IP\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u307e\u3059\u3002</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30d7\u30ea\u30d5\u30a3\u30c3\u30af\u30b9\u306e\u9577\u3055\u3092\u5165\u529b\u3057\u307e\u3059\u3002</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u307e\u3059\u3002</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">DNS1\u306e\u8a2d\u5b9a</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">DNS2\u3092\u8a2d\u5b9a</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">\u30b9\u30ea\u30fc\u30d7\u6642\u306b\u30a4\u30fc\u30b5\u30cd\u30c3\u30c8\u63a5\u7d9a\u3092\u7dad\u6301</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">\u9078\u629e\u3059\u308b\u3068\u30d0\u30c3\u30c6\u30ea\u30fc\u6d88\u8cbb\u91cf\u304c\u5897\u3048\u307e\u3059\u3002</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u8a2d\u5b9a</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">接続品質を確保するために、ワイヤレスディスプレイ(Miracast)やWi-Fi Directを再接続してください。</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">再接続するには、キーボードの任意キーを押します。</string>
+</resources>

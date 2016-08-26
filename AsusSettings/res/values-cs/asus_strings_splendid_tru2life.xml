@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Javid Change Title "About Phone" to "About" -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Barevný režim displeje</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Režim Vyvážení</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Filtr modrého světla</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Režim Živý</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Režim Vlastní</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Nerozmazaný pohyb"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Vysoká</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Střední</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Nízká</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Deaktivováno</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Vysoký efekt</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Střední efekt</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Nízký efekt</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Deaktivováno</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Vyhladí kvalitu přehrávání videa.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Režim filtru modrého světla"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Úroveň 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Úroveň 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Úroveň 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Úroveň 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Úroveň 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"VYP"</string>
+    <string name="splendid_bluelight_filter_mode_on">"ZAP"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Storno"</string>
+    <string name="notification_bluelight_filter_title">"Režim filtru modrého světla byl povolen"</string>
+    <string name="notification_bluelight_filter_summary">"Upravíte klepnutím"</string>
+    <!-- end -->
+</resources>

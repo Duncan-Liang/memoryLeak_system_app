@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="error_apn_not_allowed" description="error message for setting apn that is not allowed">이 APN은 이 장치에 허용되지 않습니다. 다른 장치를 시도하십시오.</string>
+</resources>

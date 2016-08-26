@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Lancez rapidement l\'appareil photo sans déverrouiller l\'écran</string>
+  <string name="camera_double_tap_power_gesture_title">App. 2x sur interr. pr activ. app. photo</string>
+  <string name="camera_gesture_desc">Ouvrez l\'application de l\'appareil photo en pivotant votre poignet deux fois</string>
+  <string name="camera_gesture_title">Pivot. poignet deux fois pour app. photo</string>
+  <string name="keywords_color_mode">vibrantes rvb srvb couleur naturelle standard</string>
+  <string name="manual">Manuel</string>
+  <string name="picture_color_mode">Mode couleur des images</string>
+  <string name="picture_color_mode_desc">Utiliser sRGB</string>
+  <string name="settings_manual_activity_title">Manuel</string>
+  <string name="settings_manual_activity_unavailable">Problème lors du chargement du manuel.</string>
+</resources>

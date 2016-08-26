@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Hvis du vil styre, hvad der sker, når enheden sættes i en dockingstation og/eller går i dvale, skal du slå Dagdrøm til."</string>
+</resources>

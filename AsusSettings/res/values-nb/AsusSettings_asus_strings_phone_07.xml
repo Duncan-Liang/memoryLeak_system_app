@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Når du har aktivert innkommende samtalelås, må du skanne fingeravtrykket ditt for å svare på et anrop. Samtalen blir opprettet automatisk når fingeravtrykket er identifisert.\nVær oppmersom på at:\n1.Du kan svare på et innkommende anrop direkte fra parede Bluetooth-hodetelefoner eller -smartklokke uten å skanne fingeravtrykket ditt.\n2.Du må fortsatt bruke fingeravtrykk til å svare på anropet ved bruk av kablede hodetelefoner.\n3.Du kan ikke svare på anrop på skjermen for innkommende samtaler på tredjepartsenheter.\n4.For Voice over IP-anrop (VoIP)l, f.eks. WhatsApp-taleanrop, må du fortsatt svare på anropet i selve appen."</string>
+    <string name="asus_long_tap_warning">"Når innkommende anropslås er aktivert, kan du ikke svare på anrop ved å trykke og holde inne."</string>
+</resources>

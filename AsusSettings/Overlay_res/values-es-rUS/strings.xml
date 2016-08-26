@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Para controlar qué sucede cuando el dispositivo está conectado o inactivo, activa el protector de pantalla."</string>
+</resources>

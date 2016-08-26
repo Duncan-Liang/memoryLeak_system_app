@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Die Verschlüsselung wurde unterbrochen und kann nicht abgeschlossen werden. Dadurch sind die Daten auf Ihrem Gerät nicht länger zugänglich. \n\n Wenn Sie das Gerät weiter nutzen möchten, müssen Sie eine Werksrücksetzung durchführen. Wenn Sie Ihr Gerät nach der Rücksetzung einrichten, erhalten Sie die Möglichkeit, in Ihrem Konto gesicherten Daten wiederherzustellen.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Das von Ihnen eingegebene Kennwort ist richtig, doch leider sind Ihre Daten beschädigt. \n\nWenn Sie das Gerät weiter nutzen möchten, müssen Sie eine Werksrücksetzung durchführen. Wenn Sie Ihr Gerät nach der Rücksetzung einrichten, erhalten Sie die Möglichkeit, in Ihrem Konto gesicherten Daten wiederherzustellen.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Dies löscht alle Daten von dem <b>internen Speicher</b>Ihres Gerätes, einschließlich:\n\n<li>Ihr Konto</li>\n<li>System- und App-Daten und -Einstellungen</li>\n<li>Heruntergeladene Apps</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Jegliche Änderungen an Ihren Konten im Internet werden automatisch auf Ihr Gerät kopiert.\n\nEinige Konten können zudem am Gerät vorgenommene Änderungen automatisch in das Internet kopieren. Dies funktioniert beispielsweise bei einem Konto.</string>
+</resources>

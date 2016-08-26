@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TT-606009 -->
+    <!-- Copy from @style/Theme.Settings and remove "@*android:preferenceFragmentStyle" item -->
+    <style name="apn_editor_theme" parent="@style/Theme.SettingsBase">
+        <item name="apnPreferenceStyle">@style/ApnPreference</item>
+        <item name="ic_menu_add">@drawable/ic_menu_add_dark</item>
+        <item name="ic_menu_moreoverflow">@*android:drawable/ic_menu_moreoverflow_holo_dark</item>
+        <item name="ic_wps">@drawable/ic_wps_light</item>
+        <!-- 
+        <item name="wifi_signal">@drawable/wifi_signal_light</item>
+         -->
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="switchBarTheme">@style/Phone.Theme.SwitchBar.Settings</item>
+        <item name="preferenceBackgroundColor">@drawable/preference_background</item>
+
+        <!-- For all Alert Dialogs -->
+        <item name="android:alertDialogTheme">@style/Theme.AlertDialog</item>
+
+        <!-- LockPatternView colors -->
+        <item name="@*android:regularColor">@color/lock_pattern_view_regular_color</item>
+        <item name="@*android:successColor">@color/lock_pattern_view_success_color</item>
+        <item name="@*android:errorColor">@color/lock_pattern_view_error_color</item>
+
+        <!-- For the TimePicker -->
+        <item name="@android:timePickerStyle">@style/Phone.Widget.TimePicker</item>
+
+        <!-- for status bar color -->
+        <item name="@android:colorPrimaryDark">#0dafed</item>
+    </style>
+
+    <style name="Phone.Widget.TimePicker" parent="@*android:style/Widget.Material.Light.TimePicker">
+        <item name="@android:numbersBackgroundColor">@android:color/white</item>
+    </style>
+
+    <style name="Phone.Theme.SwitchBar.Settings" parent="@android:style/Theme.DeviceDefault">
+        <item name="switchBarMarginStart">@dimen/switchbar_margin_start</item>
+        <item name="switchBarMarginEnd">@dimen/switchbar_margin_end</item>
+    </style>
+</resources>

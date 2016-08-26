@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Користувачі точки доступуWi\u2011Fi</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Жоден користувач не підключений до точки доступу Wi-Fi.</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">IP address is not assigned.</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">Network prefix length is not assigned.</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">Gateway address is not assigned.</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">DNS1 address is not assigned.</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">DNS2 address is not assigned.</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">Enter the IP address.</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">Enter the network prefix length.</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Enter the gateway address.</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">Set DNS1</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">Set DNS2</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">Keep Ethernet connection during sleep</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">Request extra power consumption</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">NETWORK SETTINGS</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">Для забезпечення якості підключення спробуйте ще раз підключитися до бездротового дисплея (Miracast) або Wi-Fi Direct.</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Натисніть будь-яку клавішу на клавіатурі, щоб перепідключитися</string>
+</resources>

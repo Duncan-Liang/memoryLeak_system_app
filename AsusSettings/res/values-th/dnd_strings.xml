@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">อย่ารบกวน</string>
+    <string name="zen_mode_option_off2">อนุญาตเสมอ</string>
+    <string name="zen_mode_option_important_interruptions2">ใช้กฎการรบกวน</string>
+    <string name="zen_mode_option_no_interruptions2">ไม่อนุญาต</string>
+    <string name="zen_mode_important_category2">กฎการรบกวน</string>
+    <string name="zen_mode_from2">อนุญาตสาย/ข้อความจาก</string>
+    <string name="zen_mode_from_anyone2">ทุกคน</string>
+    <string name="zen_mode_from_contacts2">รายชื่อเท่านั้น</string>
+    <string name="zen_mode_from_starred2">รายการโปรดเท่านั้น</string>
+    <string name="zen_mode_from_vip2">VIP เท่านั้น</string>
+    <string name="zen_mode_downtime_category2">เวลาของตารางเวลา (ใช้กฎการรบกวน)</string>
+    <string name="zen_mode_alarms_priority">การปลุกเตือน</string>
+    <string name="zen_mode_repeated_calls">การโทรซ้ำ</string>
+    <string name="zen_mode_repeated_calls_desc">การโทรที่สองภายในสองนาทีจะไม่เงียบเสียง</string>
+    <string name="zen_mode_add_downtime">ตารางเวลาใหม่</string>
+    <string name="zen_mode_meeting_mode_category">ตารางเวลาถูกทริกเกอร์โดยเหตุการณ์ปฏิทิน</string>
+    <string name="zen_mode_weekend">สุดสัปดาห์</string>
+    <string name="zen_mode_everyday">ทุกวัน</string>
+    <string name="zen_mode_remove_dialog_title">ลบตารางเวลา</string>
+    <string name="zen_mode_remove_dialog_message">ลบตารางเวลานี้?</string>
+    <string name="zen_mode_limit_dialog_title">ตารางเวลาใหม่</string>
+    <string name="zen_mode_limit_dialog_message">คุณสามารถมีการตั้งค่าตารางเวลาได้สูงสุด %d รายการ</string>
+    <string name="zen_mode_downtime_title">ตารางเวลา</string>
+    <string name="zen_mode_downtime_title_new">ตารางเวลาใหม่</string>
+    <string name="zen_mode_downtime_title_edit">แก้ไขตารางเวลา</string>
+    <string name="zen_mode_downtime_title_meeting">แก้ไขตารางเวลา </string>
+    <string name="zen_mode_others">การตั้งค่า</string>
+    <string name="zen_mode_send_notifications">การแจ้งเตือน</string>
+    <string name="zen_mode_send_notifications_desc">ส่งการแจ้งเตือน เมื่อเปิดใช้งาน อย่ารบกวน</string>
+    <string name="zen_mode_no_interruptions_warning">"เมื่อตั้งค่าเป็น \"เงียบทั้งหมด\" เสียงเตือนจะถูกปิดเสียง"</string>
+    <string name="zen_mode_from_anyone3">"จากใครก็ได้"</string>
+    <string name="zen_mode_from_favorites_only">"จากรายการโปรดเท่านั้น"</string>
+    <string name="zen_mode_from_contacts_only">"จากรายชื่อผู้ติดต่อเท่านั้น"</string>
+    <string name="zen_mode_repeat_callers2">"โทรซ้ำ"</string>
+    <string name="zen_mode_repeat_callers_summary2">"อนุญาตหมายเลขโทรศัพท์เดียวกันที่โทรมาอีกครั้งภายในเวลา <xliff:g id="MINUTES">%d</xliff:g> นาที"</string>
+    <string name="zen_mode_option_important_interruptions3">"ใช้กฎห้ามรบกวน"</string>
+    <string name="zen_mode_selected_callers2">"เฉพาะบางสาย"</string>
+    <string name="zen_mode_dnd_is_on">"โหมดห้ามรบกวนถูกเปิดใช้งานแล้วในตอนนี้ คุณสามารถปิดใช้งานด้วยตนเองได้"</string>
+    <string name="zen_mode_turn_off_now">"ปิดใช้งานตอนนี้"</string>
+    <string name="zen_mode_custom_name">"กำหนดเอง"</string>
+    <string name="zen_mode_manual_turn_on">"เปิดใช้งานโหมดห้ามรบกวนด้วยตนเอง"</string>
+    <string name="zen_mode_turn_off">"ปิดใช้งานโหมดห้ามรบกวน"</string>
+    <string name="zen_mode_in_activity">"เปิดใช้งานแล้ว:"</string>
+    <string name="zen_mode_forever2">"อย่างไม่มีกำหนด"</string>
+</resources>

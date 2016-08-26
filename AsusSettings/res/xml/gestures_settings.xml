@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Filename : gestures_settings.xml
+   Detail description
+   
+   
+   Author:xuyongfeng@wind-mobi.com, created at 2014/04/28
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/gesture_title" >
+
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_double_click"
+            android:title="@string/gesture_unlock_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_double_click.png"
+            settings:default_hint="@string/gesture_dc_introduction_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+            
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_c"
+            android:title="@string/gesture_c_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_c.png"
+            settings:default_hint="@string/gesture_apps_hint_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+            
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_e"
+            android:title="@string/gesture_e_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_e.png"
+            settings:default_hint="@string/gesture_apps_hint_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+            
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_w"
+            android:title="@string/gesture_w_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_w.png"
+            settings:default_hint="@string/gesture_apps_hint_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+            
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_s"
+            android:title="@string/gesture_s_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_s.png"
+            settings:default_hint="@string/gesture_apps_hint_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+            
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_z"
+            android:title="@string/gesture_z_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_z.png"
+            settings:default_hint="@string/gesture_apps_hint_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+            
+        <com.android.settings.gestures.GestureSwitchPreference
+            android:key="gesture_v"
+            android:title="@string/gesture_v_title"
+            settings:packageName=""
+            settings:className=""
+            settings:path="ic_gesture_v.png"
+            settings:default_hint="@string/gesture_apps_hint_info"
+            android:fragment="com.android.settings.gestures.GestureInfoFragment" />
+    
+</PreferenceScreen>

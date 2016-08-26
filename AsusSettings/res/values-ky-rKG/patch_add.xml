@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Камераны экраныңыздын кулпусун ачпастан, тез эле ачып алыңыз</string>
+  <string name="camera_double_tap_power_gesture_title">Камера үчүн кубат баскычын эки басыңыз</string>
+  <string name="camera_gesture_desc">Колуңузду эки айлантып, камера колдонмосун ачыңыз</string>
+  <string name="camera_gesture_title">Колду эки айлантып камераны ачуу</string>
+  <string name="keywords_color_mode">толкундуу rgb srgb түсү табигый кадимки</string>
+  <string name="manual">Нускама</string>
+  <string name="picture_color_mode">Сүрөт түсү режими</string>
+  <string name="settings_manual_activity_title">Нускама</string>
+  <string name="settings_manual_activity_unavailable">Нускаманы жүктөөдө көйгөй чыкты.</string>
+</resources>

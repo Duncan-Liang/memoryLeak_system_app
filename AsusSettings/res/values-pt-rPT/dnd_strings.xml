@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Não Interromper</string>
+    <string name="zen_mode_option_off2">Permitir sempre</string>
+    <string name="zen_mode_option_important_interruptions2">Aplicar regras de interrupções</string>
+    <string name="zen_mode_option_no_interruptions2">Não permitir</string>
+    <string name="zen_mode_important_category2">Regras de interrupções</string>
+    <string name="zen_mode_from2">Permitir chamadas/mensagens de</string>
+    <string name="zen_mode_from_anyone2">Todos</string>
+    <string name="zen_mode_from_contacts2">Apenas Contactos</string>
+    <string name="zen_mode_from_starred2">Apenas Favoritos</string>
+    <string name="zen_mode_from_vip2">Apenas VIP</string>
+    <string name="zen_mode_downtime_category2">Hora agendada (Aplicar regras de interrupções)</string>
+    <string name="zen_mode_alarms_priority">Alarmes</string>
+    <string name="zen_mode_repeated_calls">Chamadas repetidas</string>
+    <string name="zen_mode_repeated_calls_desc">Uma segunda chamada num período de dois minutos não será silenciada</string>
+    <string name="zen_mode_add_downtime">Novo agendamento</string>
+    <string name="zen_mode_meeting_mode_category">Agendamento ativado por eventos de calendário</string>
+    <string name="zen_mode_weekend">Fim de semana</string>
+    <string name="zen_mode_everyday">Todos os dias</string>
+    <string name="zen_mode_remove_dialog_title">Remover agendamento</string>
+    <string name="zen_mode_remove_dialog_message">Remover este agendamento?</string>
+    <string name="zen_mode_limit_dialog_title">Novo agendamento</string>
+    <string name="zen_mode_limit_dialog_message">Pode definir até %d definições de agendamento.</string>
+    <string name="zen_mode_downtime_title">agendamento</string>
+    <string name="zen_mode_downtime_title_new">Novo agendamento</string>
+    <string name="zen_mode_downtime_title_edit">Editar agendamento</string>
+    <string name="zen_mode_downtime_title_meeting">Editar agendamento </string>
+    <string name="zen_mode_others">Definições</string>
+    <string name="zen_mode_send_notifications">Notificação</string>
+    <string name="zen_mode_send_notifications_desc">Enviar notificação quando o modo Não Interromper estiver ativado</string>
+    <string name="zen_mode_no_interruptions_warning">"Quando definido para \"silêncio total\", os alarmes serão silenciados."</string>
+    <string name="zen_mode_from_anyone3">"A partir de qualquer pessoa"</string>
+    <string name="zen_mode_from_favorites_only">"Apenas a partir dos favoritos"</string>
+    <string name="zen_mode_from_contacts_only">"Apenas a partir dos contactos"</string>
+    <string name="zen_mode_repeat_callers2">"Repetir chamadas"</string>
+    <string name="zen_mode_repeat_callers_summary2">"O mesmo número que ligar novamente num período de <xliff:g id="MINUTES">%d</xliff:g> minutos será permitido"</string>
+    <string name="zen_mode_option_important_interruptions3">"Aplicar regras de não incomodar"</string>
+    <string name="zen_mode_selected_callers2">"chamadas selecionadas"</string>
+    <string name="zen_mode_dnd_is_on">"Não incomodar está agora ativado. Pode desligá-lo manualmente."</string>
+    <string name="zen_mode_turn_off_now">"Desligar agora"</string>
+    <string name="zen_mode_custom_name">"Personalizar"</string>
+    <string name="zen_mode_manual_turn_on">"Ativar Não incomodar manualmente"</string>
+    <string name="zen_mode_turn_off">"Desativar Não incomodar"</string>
+    <string name="zen_mode_in_activity">"Ativado"</string>
+    <string name="zen_mode_forever2">"Indefinidamente"</string>
+</resources>

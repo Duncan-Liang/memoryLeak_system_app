@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">ကိရိယာသိမ်းဆည်းနေရာသို့ ရွှေ့ပါ</string>
+    <!-- Manage applications, text for move error messages -->
+    <string name="move_error_unknow">အက်ပ်မရွှေ့ပြောင်းနိုင်ပါ။ ကျေးဇူးပြု၍ ထပ်ကြိုးစားပါ။</string>
+    <string name="dialog_hint">ထိုလုပ်ဆောင်ချက်သည် အချိန်အနည်းငယ် ကြာနိုင်သည်။ \n\n ကျေးဇူးပြု၍ သင့်ကိရိယာကို မပိတ်ပါနှင့် သို့မဟုတ် ရွေးထားသော ရွေ့နေသော အပလီကေးရှင်းများကို မသုံးပါနှင့်။ ကျေးဇူးပြု၍ ပြင်ပသိမ်းဆည်းကိရိယာကို ဤအချိန်တွင် မဖယ်ရှားပါနှင့်။ \n\nဆက်လုပ်ဆောင်လိုပါသလား။</string>
+    <string name="processing">လုပ်ဆောင်နေသည်...</string>
+</resources>

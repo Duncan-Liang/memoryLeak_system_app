@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="error_apn_not_allowed" description="error message for setting apn that is not allowed">APN (اسم نقطة الوصول) هذا غير مسموح به على هذا الجهاز. يُرجَى تجربة واحد آخر.</string>
+</resources>

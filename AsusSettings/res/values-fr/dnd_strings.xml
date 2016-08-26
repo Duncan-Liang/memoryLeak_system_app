@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Ne pas déranger</string>
+    <string name="zen_mode_option_off2">Toujours autoriser</string>
+    <string name="zen_mode_option_important_interruptions2">Appliquer des règles de dérangement</string>
+    <string name="zen_mode_option_no_interruptions2">Ne pas autoriser</string>
+    <string name="zen_mode_important_category2">Règles de dérangement</string>
+    <string name="zen_mode_from2">Autoriser les appels/les messages provenant de</string>
+    <string name="zen_mode_from_anyone2">Tout le monde</string>
+    <string name="zen_mode_from_contacts2">Contacts uniquement</string>
+    <string name="zen_mode_from_starred2">Favoris uniquement</string>
+    <string name="zen_mode_from_vip2">VIP uniquement</string>
+    <string name="zen_mode_downtime_category2">Heure planifiée (Appliquer les règles de dérangement)</string>
+    <string name="zen_mode_alarms_priority">Alarmes</string>
+    <string name="zen_mode_repeated_calls">Appels r\u00e9p\u00e9t\u00e9s</string>
+    <string name="zen_mode_repeated_calls_desc">Un deuxi\u00e8me appel re\u00e7u sous deux minutes ne sera pas interrompu</string>
+    <string name="zen_mode_add_downtime">Nouvelle planification</string>
+    <string name="zen_mode_meeting_mode_category">Planification déclenchée par les événements du calendrier</string>
+    <string name="zen_mode_weekend">Weekend</string>
+    <string name="zen_mode_everyday">Tous les jours</string>
+    <string name="zen_mode_remove_dialog_title">Supprimer planification</string>
+    <string name="zen_mode_remove_dialog_message">Supprimer cette planification ?</string>
+    <string name="zen_mode_limit_dialog_title">Nouvelle planification</string>
+    <string name="zen_mode_limit_dialog_message">Vous pouvez avoir jusqu\'à %d paramètres de planification.</string>
+    <string name="zen_mode_downtime_title">planification</string>
+    <string name="zen_mode_downtime_title_new">Nouvelle planification</string>
+    <string name="zen_mode_downtime_title_edit">Éditer planification</string>
+    <string name="zen_mode_downtime_title_meeting">Éditer planification </string>
+    <string name="zen_mode_others">Paramètres</string>
+    <string name="zen_mode_send_notifications">Notification</string>
+    <string name="zen_mode_send_notifications_desc">Envoyer une notification une fois que Ne pas déranger est activé</string>
+    <string name="zen_mode_no_interruptions_warning">"Lorsqu'elles sont réglées sur \"silence total\", les alarmes passent en mode muet."</string>
+    <string name="zen_mode_from_anyone3">"De tous"</string>
+    <string name="zen_mode_from_favorites_only">"Uniquement des favoris"</string>
+    <string name="zen_mode_from_contacts_only">"Uniquement des contacts"</string>
+    <string name="zen_mode_repeat_callers2">"Répéter les appels"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Le même numéro qui rappelle dans un intervalle de <xliff:g id="MINUTES">%d</xliff:g> minutes sera autorisé"</string>
+    <string name="zen_mode_option_important_interruptions3">"Appliquer les règles de dérangement"</string>
+    <string name="zen_mode_selected_callers2">"appels sélectionnés"</string>
+    <string name="zen_mode_dnd_is_on">"Ne pas déranger est activé. Vous pouvez le désactiver manuellement."</string>
+    <string name="zen_mode_turn_off_now">"Désactiver maintenant"</string>
+    <string name="zen_mode_custom_name">"Personnaliser"</string>
+    <string name="zen_mode_manual_turn_on">"Activer manuellement Ne pas déranger"</string>
+    <string name="zen_mode_turn_off">"Désactiver Ne pas déranger"</string>
+    <string name="zen_mode_in_activity">"Activé : "</string>
+    <string name="zen_mode_forever2">"Indéfiniment"</string>
+</resources>

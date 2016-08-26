@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Az alkalmazások megnyithatók és a képernyő be-ki kapcsolható kézmozdulatokkal"</string>
+    <string name="vzw_doubletap_off_setting_title">"Képernyő kikapcsolása dupla érintéssel"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Érintse meg duplán a képernyőt, ha ki szeretné kapcsolni"</string>
+    <string name="vzw_doubletap_on_setting_title">"Felébresztés dupla érintéssel"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Érintse meg duplán a sötét képernyőt, ha be szeretné kapcsolni"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Kézmozdulatok"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Rajzoljon rá egy betűt a kikapcsolt képernyőre a társított alkalmazás megnyitásához. Az alkalmazást lent leérintve módosíthatja."</string>
+    <string name="vzw_w_launch_title">"Az alkalmazás a „W” betűre indul"</string>
+    <string name="vzw_s_launch_title">"Az alkalmazás az „S” betűre indul"</string>
+    <string name="vzw_e_launch_title">"Az alkalmazás az „e” betűre indul"</string>
+    <string name="vzw_c_launch_title">"Az alkalmazás a „C” betűre indul"</string>
+    <string name="vzw_z_launch_title">"Az alkalmazás a „Z” betűre indul"</string>
+    <string name="vzw_v_launch_title">"Az alkalmazás a „V” betűre indul"</string>
+</resources>

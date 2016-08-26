@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="error_apn_not_allowed" description="error message for setting apn that is not allowed">這組APN不允許在這台機器上使用。請嘗試另一組。</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Nie przeszkadzać</string>
+    <string name="zen_mode_option_off2">Zawsze zezwalaj</string>
+    <string name="zen_mode_option_important_interruptions2">Zastosuj reguły przerywania</string>
+    <string name="zen_mode_option_no_interruptions2">Nie zezwalaj</string>
+    <string name="zen_mode_important_category2">Reguły przerywania</string>
+    <string name="zen_mode_from2">Zezwalaj na połączenia/wiadomości od</string>
+    <string name="zen_mode_from_anyone2">Wszyscy</string>
+    <string name="zen_mode_from_contacts2">Tylko kontakty</string>
+    <string name="zen_mode_from_starred2">Tylko ulubione</string>
+    <string name="zen_mode_from_vip2">Tylko VIP</string>
+    <string name="zen_mode_downtime_category2">Harmonogram (zastosuj reguły przerywania)</string>
+    <string name="zen_mode_alarms_priority">Alarmy</string>
+    <string name="zen_mode_repeated_calls">Powtórzone połączenia</string>
+    <string name="zen_mode_repeated_calls_desc">Drugie połączenie w ciągu dwóch minut nie zostanie wyciszone</string>
+    <string name="zen_mode_add_downtime">Nowy harmonogram</string>
+    <string name="zen_mode_meeting_mode_category">Harmonogram na podstawie zdarzeń kalendarza</string>
+    <string name="zen_mode_weekend">Weekend</string>
+    <string name="zen_mode_everyday">Codziennie</string>
+    <string name="zen_mode_remove_dialog_title">Usuń harmonogram</string>
+    <string name="zen_mode_remove_dialog_message">Usunąć ten harmonogram?</string>
+    <string name="zen_mode_limit_dialog_title">Nowy harmonogram</string>
+    <string name="zen_mode_limit_dialog_message">Maksymalna liczba harmonogramów, które można ustawić wynosi %d.</string>
+    <string name="zen_mode_downtime_title">harmonogram</string>
+    <string name="zen_mode_downtime_title_new">Nowy harmonogram</string>
+    <string name="zen_mode_downtime_title_edit">Edytuj harmonogram</string>
+    <string name="zen_mode_downtime_title_meeting">Edytuj harmonogram </string>
+    <string name="zen_mode_others">Ustawienia</string>
+    <string name="zen_mode_send_notifications">Powiadomienie</string>
+    <string name="zen_mode_send_notifications_desc">Wyślij powiadomienie po uaktywnieniu trybu Nie przeszkadzać</string>
+    <string name="zen_mode_no_interruptions_warning">"Wybór opcji \"całkowitego wyciszenia\" spowoduje wyciszenie alarmów."</string>
+    <string name="zen_mode_from_anyone3">"Od każdego"</string>
+    <string name="zen_mode_from_favorites_only">"Tylko od ulubionych"</string>
+    <string name="zen_mode_from_contacts_only">"Tylko od kontaktów"</string>
+    <string name="zen_mode_repeat_callers2">"Powtórne połączenia"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Ten sam numer, który zadzwoni ponownie w okresie <xliff:g id="MINUTES">%d</xliff:g> minut będzie dozwolony"</string>
+    <string name="zen_mode_option_important_interruptions3">"Zastosuj reguły Nie przeszkadzać"</string>
+    <string name="zen_mode_selected_callers2">"wybrane rozmowy"</string>
+    <string name="zen_mode_dnd_is_on">"Funkcja Nie przeszkadzać jest włączona. Można ją wyłączyć ręcznie."</string>
+    <string name="zen_mode_turn_off_now">"Wyłącz teraz"</string>
+    <string name="zen_mode_custom_name">"Niestandardowe"</string>
+    <string name="zen_mode_manual_turn_on">"Włącz Nie przeszkadzać ręcznie"</string>
+    <string name="zen_mode_turn_off">"Wyłącz Nie przeszkadzać"</string>
+    <string name="zen_mode_in_activity">"Włączone: "</string>
+    <string name="zen_mode_forever2">"Bez końca"</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">Wi-Fi hotspot letiltása üresjáratban</string>
+    <string name="wifi_disable_hotspot_selection_never">Soha</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">5 perc múlva</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">10 perc múlva</string>
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Wi-Fi hotspot felhasználók</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Egyetlen felhasználó sem csatlakozik a Wi-Fi-hotspothoz.</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">Az IP-cím nincs hozzárendelve.</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">A hálózati előtag hosszúsága nincs hozzárendelve.</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">Az átjárócím nincs hozzárendelve.</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">A DNS1-cím nincs hozzárendelve.</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">A DNS2-cím nincs hozzárendelve.</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">Adja meg az IP-címet.</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">Adja meg a hálózati előtag hosszúságát.</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Adja meg az átjáró címét.</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">DNS1 beállítása</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">DNS2 beállítása</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">Ethernet-kapcsolat megőrzése alvó üzemmódban</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">Plusz energiafogyasztás igénylése</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">HÁLÓZATI BEÁLLÍTÁSOK</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">A kapcsolat minőségének javítása érdekében próbálja meg újracsatlakoztatni a vezeték nélküli kijelzőt (Miracast) vagy a Wi-Fi Direct-et.</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Nyomjon meg egy tetszőleges billentyűt a billentyűzeten az újracsatlakozáshoz</string>
+</resources>

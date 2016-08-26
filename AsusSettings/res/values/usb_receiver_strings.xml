@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- JimCC_Yu Verizon hint USB options -->
+    <string name="usb_hint_option_dialog_title">"USB Charging"</string>
+    <string name="usb_hint_option_message">To see other USB options, swipe down from the top of the screen, then tap the USB notification.</string>
+    <string name="usb_hint_option_got_it">"GOT IT"</string>
+</resources>

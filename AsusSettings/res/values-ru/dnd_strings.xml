@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Не беспокоить</string>
+    <string name="zen_mode_option_off2">Всегда разрешать</string>
+    <string name="zen_mode_option_important_interruptions2">Применить правила беспокойства</string>
+    <string name="zen_mode_option_no_interruptions2">Не разрешать</string>
+    <string name="zen_mode_important_category2">Правила беспокойства</string>
+    <string name="zen_mode_from2">Разрешить вызовы/сообщения от</string>
+    <string name="zen_mode_from_anyone2">Всем</string>
+    <string name="zen_mode_from_contacts2">Только контактам</string>
+    <string name="zen_mode_from_starred2">Только избранным</string>
+    <string name="zen_mode_from_vip2">Только VIP</string>
+    <string name="zen_mode_downtime_category2">Запланированное время (Применить правила беспокойства)</string>
+    <string name="zen_mode_alarms_priority">\u0411\u0443\u0434\u0438\u043b\u044c\u043d\u0438\u043a\u0438</string>
+    <string name="zen_mode_repeated_calls">\u041f\u043e\u0432\u0442\u043e\u0440\u044f\u044e\u0449\u0438\u0435\u0441\u044f \u0432\u044b\u0437\u043e\u0432\u044b</string>
+    <string name="zen_mode_repeated_calls_desc">\u0412\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0437\u043e\u0432 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u0432\u0443\u0445 \u043c\u0438\u043d\u0443\u0442 \u043d\u0435 \u043f\u0440\u0438\u0433\u043b\u0443\u0448\u0430\u0435\u0442\u0441\u044f</string>
+    <string name="zen_mode_add_downtime">Новое расписание</string>
+    <string name="zen_mode_meeting_mode_category">Расписание активировано событиями календаря</string>
+    <string name="zen_mode_weekend">\u0412\u044b\u0445\u043e\u0434\u043d\u044b\u0435</string>
+    <string name="zen_mode_everyday">\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e</string>
+    <string name="zen_mode_remove_dialog_title">Удалить расписание</string>
+    <string name="zen_mode_remove_dialog_message">Удалить это расписание?</string>
+    <string name="zen_mode_limit_dialog_title">Новое расписание</string>
+    <string name="zen_mode_limit_dialog_message">Можно настроить до %d параметров расписания.</string>
+    <string name="zen_mode_downtime_title">расписание</string>
+    <string name="zen_mode_downtime_title_new">Новое расписание</string>
+    <string name="zen_mode_downtime_title_edit">Редактировать расписание</string>
+    <string name="zen_mode_downtime_title_meeting">Редактировать расписание </string>
+    <string name="zen_mode_others">Настройки</string>
+    <string name="zen_mode_send_notifications">Оповещение</string>
+    <string name="zen_mode_send_notifications_desc">Отправить оповещение после активации режима "Не беспокоить"</string>
+    <string name="zen_mode_no_interruptions_warning">"При установленном параметре \"Полная тишина\" звуковые сигналы отключаются."</string>
+    <string name="zen_mode_from_anyone3">"Ото всех"</string>
+    <string name="zen_mode_from_favorites_only">"Только от избранных"</string>
+    <string name="zen_mode_from_contacts_only">"Только от контактов"</string>
+    <string name="zen_mode_repeat_callers2">"Повторные вызовы"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Будет разрешен тот же номер, который звонит снова в течение <xliff:g id="MINUTES">%d</xliff:g> минут"</string>
+    <string name="zen_mode_option_important_interruptions3">"Применить правила оповещения"</string>
+    <string name="zen_mode_selected_callers2">"выбранные вызовы"</string>
+    <string name="zen_mode_dnd_is_on">"Включена функция "Не беспокоить". Вы можете отключить ее вручную."</string>
+    <string name="zen_mode_turn_off_now">"Выключить сейчас"</string>
+    <string name="zen_mode_custom_name">"Пользовательские"</string>
+    <string name="zen_mode_manual_turn_on">"Включить "Не беспокоить" вручную"</string>
+    <string name="zen_mode_turn_off">"Отключить "Не беспокоить""</string>
+    <string name="zen_mode_in_activity">"Включено: "</string>
+    <string name="zen_mode_forever2">"Неопределенно"</string>
+</resources>

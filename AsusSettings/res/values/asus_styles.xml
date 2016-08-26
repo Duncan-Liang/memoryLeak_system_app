@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AsusFingerprintLayoutTheme">
+        <item name="suwBackgroundTile">@drawable/asus_security_setup_illustration_tile</item>
+        <item name="suwIllustrationImage">@drawable/asus_security_setup_illustration_lock_screen</item>
+        <item name="suwIllustrationHorizontalTile">@drawable/asus_security_setup_illustration_horizontal_tile</item>
+    </style>
+    <style name="AsusSetupWizardFingerprintLayoutTheme">
+        <item name="suwBackgroundTile">@drawable/asus_security_setup_illustration_tile</item>
+        <item name="suwIllustrationImage">@drawable/asus_security_setup_illustration_lock_screen</item>
+        <item name="suwIllustrationHorizontalTile">@drawable/asus_security_setup_illustration_horizontal_tile</item>
+    </style>
+    <style name="AsusSuwContentFrame" parent="@style/SuwContentFrame">
+        <item name="android:paddingRight">@dimen/suw_common_context_padding</item>
+        <item name="android:paddingLeft">@dimen/suw_common_context_padding</item>
+    </style>
+</resources>

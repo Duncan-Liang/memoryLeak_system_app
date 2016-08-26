@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Kad iespējojat ienākošā zvana bloķēšanas funkciju, nepieciešams noskenēt pirksta nospiedumu, lai atbildētu uz zvanu. Zvans tiek automātiski savienots, kad nospiedums tiek sekmīgi identificēts.\nŅemiet vērā tālāk norādīto.\n1. Varat atbildēt uz ienākošo tieši, izmantojot pārī savienotās Bluetooth austiņas vai viedo pulksteni, neskenējot pirksta nospiedumu.\n2. Joprojām nepieciešams skenēt pirksta nospiedumu, lai atbildētu uz zvanu, izmantojot vadu austiņas.\n3. Nevar atbildēt uz zvanu, izmantojot trešās puses ienākošā zvana ekrānu.\n4. Balss pārraides, izmantojot IP (VoIP), zvaniem, piemēram, lietotnes WhatsApp balss zvaniem, joprojām nepieciešams atbildēt uz zvanu tieši lietotnē."</string>
+    <string name="asus_long_tap_warning">"Kad ir iespējota ienākošā zvana bloķēšanas funkcija, atbildēšana uz zvanu, pieskaroties un turot, ir atspējota."</string>
+</resources>

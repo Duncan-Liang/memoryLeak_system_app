@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">C.độ màu màn hình</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">C.độ cân bằng</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Bộ lọc đèn xanh</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">C.độ s.động</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Chế độ tùy chỉnh</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Ch.động ko bị nhòe"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Cao</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Trung bình</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Thấp</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Đã tắt</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Hiệu quả cao</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Hiệu quả t.bình</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Hiệu quả thấp</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Đã tắt</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Làm mượt chất lượng phát video.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Chế độ lọc ánh sáng xanh dương"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Mức 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Mức 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Mức 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Mức 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Mức 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"TẮT"</string>
+    <string name="splendid_bluelight_filter_mode_on">"BẬT"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Hủy"</string>
+    <string name="notification_bluelight_filter_title">"Đã bật chế độ lọc ánh sáng xanh dương"</string>
+    <string name="notification_bluelight_filter_summary">"Chạm để chỉnh sửa"</string>
+    <!-- end -->
+</resources>

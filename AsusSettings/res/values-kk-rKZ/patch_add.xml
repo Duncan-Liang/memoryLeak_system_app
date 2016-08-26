@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Экран құлпын ашпастан камераны жылдам ашу</string>
+  <string name="camera_double_tap_power_gesture_title">Камера үшін қуат түймес. екі рет басыңыз</string>
+  <string name="camera_gesture_desc">Білекті екі рет бұру арқылы камера қолданбасын ашу</string>
+  <string name="camera_gesture_title">Камера үшін екі рет бұру</string>
+  <string name="keywords_color_mode">жарқын RGB SRGB түс табиғи стандартты</string>
+  <string name="manual">Қолмен</string>
+  <string name="picture_color_mode">Сурет түс режимі</string>
+  <string name="settings_manual_activity_title">Қолмен</string>
+  <string name="settings_manual_activity_unavailable">Нұсқаулықты жүктеу кезінде мәселе болды.</string>
+</resources>

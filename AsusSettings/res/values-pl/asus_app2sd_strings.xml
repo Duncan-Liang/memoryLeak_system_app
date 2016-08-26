@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Przenieś do pamięci urządzenia</string>
+    <string name="move_error_unknow">Nie można przenieść aplikacji. Spróbuj ponownie.</string>
+    <string name="processing">Przetwarzanie...</string>
+    <string name="dialog_hint">Proces  może  potrwać  jakiś  czas.\n\nNie  należy  wyłączać  urządzenia  ani  używać  wybranych  ruchomych  aplikacji. W  tym  czasie  nie  należy  odłączać  zewnętrznego  urządzenia  pamięci  masowej.\n\nCzy  chcesz  kontynuować?</string>
+</resources>

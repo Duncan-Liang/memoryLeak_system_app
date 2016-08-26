@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- flipcover setting item title and summary -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS အဖုံး</string>
+    <string name="asus_transcover_category_title">တြဲဖက္အသံုးအေဆာင္ပစၥည္းမ်ား</string>
+    <string name="asus_transcover_title">ASUS Cover ကို စတင်ပါ</string>
+    <string name="asus_transcover_summary">ကာဗာပိတ်သည့်နှင့်စခရင်ကိုရပ်ပါ</string>
+    <string name="asus_cover_settings">ASUS ကာဗာဆက်တင်များ</string>
+    <string name="asus_cover_automatic_unlock_tittle">အလိုအလျောက် သော့ဖွင့်</string>
+    <string name="asus_cover_automatic_unlock_summary">စခရင်သော့ကို ပိတ်ထားသောအခါ လုံခြုံရေးစခရင်ကို အလိုအလျောက်ဖွင့်ရန် ကာဗာကို ဖွင့်ပါ</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">အကြောင်း</string>
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">ဘယ်တော့မှ</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">စခရင် အမြဲဖွင့်</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title" maxwidth="-1">Pad EC ဗားရှင်း</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">ကင်မရာဗားရှင်း</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">တို့ထိပန်နယ်လ်ဗားရှင်း</string>
+
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">MobileDock ဗားရှင်း</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">မရရှိနိုင်</string>
+
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">စခရင်ရှော့တ်</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">စခရင်ကို ရိုက်ယူရန် လမ်းညွှန်ဘားပေါ်မှ လတ်တလော အပလီကေးရှင်းများ ခလုတ်ကို ဖိကိုင်ပါ။</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">စခရင်ရှော့တ်ဖိုင်ပုံစံ</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Wi-Fi ဗားရှင်း</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Bluetooth ဗားရှင်း</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">GPS ဗားရှင်း</string>
+
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">ယေဘုယျ အရင်းအမြစ် ကုဒ် ပေးခြင်း</string>
+
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">ASUS စိတ်ကြိုက်ဆက်တင်များ</string>
+
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">အပြင်သိမ်းဆည်းနေရာကို ပြန်ဖြုတ်ပါ</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">အပြင်သိမ်းဆည်းနေရာကို ဘေးကင်းစွာ ဖယ်ရှားပါ</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">တင်ရန်အတွက် အပြင်သိမ်းဆည်းနေရာကို ထည့်သွင်းပါ</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">အပြင်သိမ်းဆည်းနေရာကို တင်ပါ</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">အပြင်သိမ်းဆည်းနေရာကို ပြန်ဖြုတ်ပါ</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">သိမ်းဆည်းနေရာကို ပြန်ဖြုတ်ပါက သင်သုံးနေသော အချို့အပလီကေးရှင်းများကို ရပ်တန့်နိုင်ပြီး သိမ်းဆည်းနေရာကို ပြန်မတင်သေးမီအထိ မရနိုင်ပါ။</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">အပြင်သိမ်းဆည်းနေရာကို ပြန်ဖြုတ်ခြင်း မအောင်မြင်ပါ</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">အပြင်သိမ်းဆည်းနေရာကို ပြန်မဖြုတ်နိုင်ပါ။ နောက်မှ ထပ်ကြိုးစားပါ။</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">အပြင်သိမ်းဆည်းနေရာကို ပြန်ဖြုတ်လိမ့်မည်။</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">အပြင်သိမ်းဆည်းနေရာကို ဖျက်ပါ</string>
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">Trackpad ပွိုင်တာစတိုင်လ်</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">လက်ဟန်ခြေဟန်မုဒ်</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">မောက်စ်ကာဆာမုဒ်</string>
+
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">ညာဘက်ခလုတ် အပြုအမူ</string>
+    <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">အလယ်ခလုတ် အပြုအမူ</string>
+    <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">context မီနူးကို ပြပါ</string>
+    <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Android အလယ်ခလုတ်ကဲ့သို့ ပြုမူပါ</string>
+    <string name="button_back" description="right button setting: it is like press back key" width="-1">နောက်သို့ခလုတ်ကဲ့သို့ ပြုမူပါ</string>
+    <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">မီနူးခလုတ်ကဲ့သို့ ပြုမူပါ</string>
+
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">ပါဝါစီမံခန့်ခွဲမှု</string>
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">စကေလာ ဗားရှင်း</string>
+
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">အမြန်ဆက်တင်များ</string>
+
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">ပါဝါစီမံခန့်ခွဲမှု</string>
+    <string name="powerstatistics_app_name">ပါဝါသုံးစွဲမှုဇယား</string>
+
+    <string name="powersaver_app_name">ပါဝါချွေတာသည့်အရာ</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage">ကျေးဇူးပြု၍ ထည့်ပါ</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">အပလီကေးရှင်းများအားလုံး၏ ကက်ရှ်များကို ရှင်းပါ</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">အပလီကေးရှင်းများအားလုံး၏ ကက်ရှ်ကို ရှင်းမလား။</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">ဤအရာသည် အပလီကေးရှင်းများအားလုံး၏ ကက်ရှ်ကို ရှင်းလိမ့်မည်။ ရှင်းထားသောကက်ရှ်နေရာလွတ်ကို အတွင်းသိမ်းဆည်းနေရာအတွက် သုံးနိုင်သည်။</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">ကက်ရှ်ကို ရှင်းပါ</string>
+    <string name="clear_apps_cache_info">လုပ်ဆောင်နေသည်...</string>
+    <string name="clear_apps_cache_toast">ကက်ရှ်ကို ရှင်းထားသည်။</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">ပြန်လည်ရယူသည့် အပလီကေးရှင်းများ</string>
+    <string name="clear_apps_data_account">\n\n"ဤအကောင့်များကို ဖယ်ရှားလိမ့်မည်။”</string>
+    <string name="clear_apps_data_title">အပလီကေးရှင်းဒေတာအားလုံးကို ရှင်းမလား။</string>
+    <string name="clear_apps_data_desc">"အပလီကေးရှင်းဒေတာအားလုံးကို အပြီးတိုင် ဖျက်လိမ့်မည်။ ဤအရာတွင် ပါဝင်သည်။"\n\n<li>"ဖိုင်များအားလုံး"</li>\n<li>"ဆက်တင်များ"</li>\n<li>"အကောင့်များ"</li>\n<li>"ဒေတာဘေ့စ်များ"</li>\n<li>"ကက်ရှ်"</li>
+    </string>
+    <string name="clear_apps_data_final_desc">အပလီကေးရှင်းဒေတာအားလုံးကို ဖျက်မလား။ ၎င်းကို ပြန်စလိမ့်မည်။ ဤလုပ်ဆောင်ချက်ကို ပြန်နောက်မဆုတ်နိုင်ပါ။</string>
+    <string name="clear_apps_data_button">ဒေတာကို ရှင်းပါ</string>
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title">စက်ရုံမှအတိုင်း ပြန်သတ်မှတ်ရန် စကားဝှက်</string>
+    <string name="att_factory_reset_password_header_no_sim_card">ကျေးဇူးပြု၍ စက်ရုံမှအတိုင်း ပြန်သတ်မှတ်ရန် စကားဝှက်ကို ထည့်ပါ</string>
+    <string name="att_factory_reset_password_header_enter_old">ကျေးဇူးပြု၍ စကားဝှက်အဟောင်းကို ထည့်ပါ</string>
+    <string name="att_factory_reset_password_header_enter_new">ကျေးဇူးပြု၍ စကားဝှက်အသစ်ကို ထည့်ပါ</string>
+    <string name="att_factory_reset_password_header_confirm_new">စကားဝှက်အသစ်ကို အတည်ပြုပါ</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">SD ကဒ်ကို ဖျက်ပါ</string>
+    <string name="erase_mircosd_storage_description">SD ကဒ်ရှိ ဂီတ သို့မဟုတ် ဓာတ်ပုံများကဲ့သို့ ဒေတာအားလုံးကို ဖျက်ပါ</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- harrison  -->
+    <string name="alarm_times">အကြိမ်များ</string>
+    <string name="alarm_wakeup_total">စုစုပေါင်းနိုးထအကြိမ်ပေါင်း</string>
+    <string name="wakeupalarm_label">@string/power_management_setting_title</string>
+    <string name="app_wakeupalarm_switch_label">ကိရိယာကို နိုးထနေခြင်းမှ ကာကွယ်ပါ</string>
+    <string name="app_wakelock_switch_label">ကိရိယာကို နိုးနေခြင်းမှ ကာကွယ်ပါ</string>
+    <string name="powermanagement_options_dialog">အပလီကေးရှင်းကို ပြန်စပြီးသောအခါ သို့မဟုတ် ကိရိယာကို ပြန်စပြီးသောအခါ ဤဆက်တင်သည် သက်ရောက်မှုဖြစ်စေမည်။</string>
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">မေးလ်အသစ်</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">ပို့ပြီးမေးလ်</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">ပြက္ခဒိန် သတိပေးချက်များ</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">ပုံသေနှိုးစက်</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="50">ရွေးထားသော ကီးဘုတ်အရေအတွက် အများဆုံးသို့ ရောက်ပြီ</string>
+    <!-- Ferdinand_kao@asus.com -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">အပလီကေးရှင်းကို အသုံးပြုရန် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်သည်။ ကျေးဇူးပြု၍ ဆက်တင်များတွင် မိုဘိုင်းကွန်ရက် သို့မဟုတ် WiFi ကို ဖွင့်ပါ။ </string>
+    <string name="load_suspended_title">ကွန်ရက်ချိတ်ဆက်မှု မရှိ</string>
+    <string name="button_label_settings">ဆက်တင်များ</string>
+    <string name="button_label_cancel">ပယ်ဖျက်ပါ</string>
+    <!-- Ken_yu -->
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">အမြန်ဆက်တင်များ ရွေးစရာများ</string>
+    <string name="quick_setting_description">အမြန်ဆက်တင်များပန်နယ်လ်တွင် ပြရန် အရာများကို ရွေးပါ</string>
+    <string name="quick_setting_reset_title">အမြန်ဆက်တင်များ ပြန်သတ်မှတ်ပါ</string>
+    <string name="quick_setting_reset_message">အမြန်ဆက်တင်များ ရွေးစရာများကို ပြန်သတ်မှတ်လိမ့်မည်။</string>
+    <!-- end -->
+
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display Pad EC version of padfone station" maxwidth="-1">PadFone Station ဗားရှင်း</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">PadFone Station တို့ထိပန်နယ်လ် ဗားရှင်း</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">PadFone Station ကင်မရာ ဗားရှင်း</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">သော့ခတ်စခရင်</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">သော့ခတ်စခရင်တွင် အပလီကေးရှင်းများကို ဖွင့်တင်ပါ</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">အမြန်အသုံးပြုခြင်း</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">ချက်ချင်းကင်မရာ</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">ကင်မရာကို ဆိုင်းငံ့ထားခြင်းမှ ပြန်ဖွင့်ရန် အသံအတိုးအကျယ်ခလုတ်ကို နှစ်ကြိမ်နှိပ်ပါ</string>
+
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">ဖော်ပြမှု</string> -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">နောက်ထပ်ဝစ်ဂျက်က ဘာလဲ</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">လော့ခ်စရင်တွင် နောက်ထပ်ဝစ်ဂျက်က ဘာလဲကို ပြပါ</string>
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">အသုံးပြုသူများစွာ</string> -->
+    <string name="select_shortcut_ap_title" description="Select App as shortcut" maxwidth="-1">အပလီကေးရှင်းကို ရှော့ကတ်အဖြစ် ရွေးပါ</string>
+
+
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">မှောင်သော</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">တောက်ပသော</string>
+
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Stylus ဗားရှင်း</string>
+
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">သင်၏ PIN ကို တည်ဆောက်ပါ</string>
+    <string name="lockpassword_setup_your_password_header">သင်၏ စကားဝှက်ကို တည်ဆောက်ပါ</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">ဘက်ထရီဗားရှင်း</string>
+
+
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">ထုတ်ကုန်များနှင့် အသုံးပြုသူအတွေ့အကြုံများ တိုးတက်စေရန် ASUS သို့ အချက်အလက်ဒေတာများကို ပို့ပါ</string>
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">လက်တလော အပလီကေးရှင်းများ ခလုတ်</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>လက်တလော အပလီကေးရှင်းများကို အမြဲပြပါ</item>
+        <item>စခရင်ကို ရိုက်ယူရန် ပုတ်ပြီးကိုင်ထားပါ</item>
+        <item>မီနူးကို ပြရန် ပုတ်ပြီးကိုင်ထားပါ</item>
+    </string-array>
+    <string-array name="recent_apps_key_long_press_control_values">
+       <item>၂</item>
+       <item>၀</item>
+       <item>၁</item>
+    </string-array>
+    <string name="touch_key_light_title">တို့ထိခလုတ်</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">ကြိုတင် တင်ထားသော</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">ဤအပလီကေးရှင်းကို ဖွင့်ထားသည်</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">IA ဖမ်းဝဲ ဗားရှင်း</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">ကီးဘုတ်ထိန်းချုပ်သည့် IC ဖမ်းဝဲဗားရှင်း</string>
+
+    <!-- sheng-en_fann@asus.com, show light sensor usage -->
+    <string name="show_sensor_usage">အလင်းအာရုံခံကိရိယာကို ပြပါ</string>
+    <string name="show_sensor_usage_summary">လက်ရှိ အလင်းအာရုံခံကိရိယာအခြေအနေကို အလွှာထပ်၍ပြနေသော စခရင်</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">ဘက်ထရီရာခိုင်နှုန်းကို ပြပါ</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">လက်အိပ်စွပ်မုဒ်</string>
+    <string name="glove_mode_setting_summary">လက်အိပ်များဝတ်ဆင်ထားသောအခါ တို့ထိမှုကို တိုးပါ</string>
+
+
+
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <string name="app_installation_category">အပလီကေးရှင်း အင်စတောလုပ်ခြင်း</string>
+    <string name="app_installation_title">အပလီကေးရှင်း အင်စတောလုပ်ခြင်း ဆက်တင်များ</string>
+    <string name="app_installation_summary">အပလီကေးရှင်း အင်စတောလုပ်ခြင်းတွင် ပတ်သက်သော ဆက်တင်များကို စိတ်ကြိုက်ပြုလုပ်ပါ</string>
+    <string name="app_installation_settings_category">ပုံသေ အင်စတောလုပ်သည့်နေရာ</string>
+    <string name="app_installation_settings_preferinternal_title">အတွင်း သိမ်းဆည်းနေရာကို ပိုနှစ်သက်သည်</string>
+    <string name="app_installation_settings_preferinternal_summary">အပလီကေးရှင်းများကို အတွင်းသိမ်းဆည်းနေရာတွင် အင်စတောလုပ်ပါ။ သိမ်းဆည်းနေရာလွတ် မရှိသောအခါ အချို့အပလီကေးရှင်းများသည် ပြင်ပသိမ်းဆည်းနေရာတွင် အင်စတောလုပ်လိမ့်မည်</string>
+    <string name="app_installation_settings_preferexternal_title">ပြင်ပသိမ်းဆည်းနေရာကို ပိုနှစ်သက်သည်</string>
+    <string name="app_installation_settings_preferexternal_summary">ခွင့်ပြုပါက အပလီကေးရှင်းများကို ပြင်ပသိမ်းဆည်းနေရာတွင် အင်စတောလုပ်ပါ။</string>
+    <string name="app_installation_settings_forceexternal_title">ပြင်ပသိမ်းဆည်းနေရာတွင် အင်စတောလုပ်ခြင်းကို ဖိအားပေးပါ</string>
+    <string name="app_installation_settings_forceexternal_description">ကျွမ်းကျင်သူဆက်တင်များ\n\နေရာမသတ်မှတ်ရသေးသော အပလီကေးရှင်းများကို ပြင်ပသိမ်းဆည်းနေရာတွင် အင်စတောလုပ်ပါ\n\n ၎င်းသည် အောက်ပါဒီဇိုင်းများနှင့် အပလီကေးရှင်းများအတွက် ပုံမှန်မဟုတ်သော လုပ်ဆောင်ချက်များ သက်ရောက်နိုင်သည်-နောက်ခံဝန်ဆောင်မှု၊ နှိုးစက်ဝန်ဆောင်မှု၊ အသွင်းနည်းလမ်းအင်ဂျင်၊ ဖွင့်တင်မှု၊ သက်ဝင်လှုပ်ရှားနေသာ ဝေါလ်ပေပါ၊ အပလီကေးရှင်းဝစ်ဂျက်၊ အကောင့်မန်နေဂျာ၊ ချိန်ညှိခြင်းအဒက်ပ်တာ၊ ကိရိယာ စီမံခန့်ခွဲသူ၊ စတင်သည့်အချက်ပေးသံနားထောင်ခြင်းနှင့် စသည်များ။</string>
+
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+    <string name="memory_system_reserved_usage">စနစ် သီးသန့်ထားပြီး</string>
+
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">LED ညွှန်ပြသည့်အရာ</string>
+    <string name="asus_lockscreen_camera_settings">ကင်မရာ</string>
+    <string name="lockscreen_enable_camera_widget_title">ဖွင့်တင်ရန် ပွတ်ဆွဲပါ</string>
+    <string name="lockscreen_enable_camera_widget">ကင်မရာဖွင့်ရန် လော့ခ်စရင်၏ ဘယ်ဘက်အနားစွန်းမှ ညာဘက်အနားစွန်းသို့ ပွတ်ဆွဲပါ</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="display_personalize" discription="settings_display_personalize group name" maxwidth="">ကိုယ်ပိုင်ပြုလုပ်ပါ</string>
+
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">လွယ်ကူသောမုဒ်</string>
+    <string name="asus_easy_launcher_intro">လွယ်ကူသောမုဒ်သည် ရိုးရှင်းသောပုံစံပြားနှင့် အဓိကလုပ်ဆောင်ချက်များပါသော ရင်းနှီးကျွမ်းဝင်ပြီး ထင်ထင်ရှားရှားဖြစ်သော ကြားခံအတွေ့အကြုံကို ပေးသည်။</string>
+
+    <!-- AMAX AT&T issue -->
+    <string name="invalid_pin_for_eas" discription="invalid pin for eas(ex:1111,1234,4321)" maxwidth="-1">မမှန်သော pin</string>
+    <string name="invalid_password_for_eas" discription="invalid password for eas(ex:1111,1234,4321,aaaa,abcd)" maxwidth="-1">မမှန်သော စကားဝှက်</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">စကားဝှက်တွင် အုပ်စု ၄ခု ဖြစ်သော စာလုံးအကြီး၊ စာလုံးအသေး၊ ဂဏန်း၊ သင်္ကေတများမှ အနည်းဆုံး အက္ခရာအစု %d ခု ပါဝင်ရမည်။</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">လက်တစ်ဖက်သုံး ပုံစံ</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">မြန်ဆန်သော ခလုတ်</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">လက်တစ်ဘက်တည်းဖြင့် လုပ်ဆောင်သောမုဒ်ကို သက်ဝင်ရန် ဟုမ်းကီးကို နှစ်ချက်နှိပ်ပါ</string>
+    
+    <string name="detect_drain_apps">ဘက်ထရီစစ်ထုတ်သော ပရိုဂရမ်များ ရှာတွေ့သည်</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">သတိပေးချက်</string>
+    <string name="user_snapview_message_created">စနစ်သိမ်းဆည်းနေရာ မလုံလောက်ပါ။</string>
+    <string name="user_snapview_message_with_normal_lock">ကိုယ်ပိုင် မုဒ် တွင် သင်သည် ဓာတ်ပုံရိုက်ခြင်း၊ ဖိုင်သိမ်းခြင်း၊ app များ အင်စတောလုပ်ခြင်း ပြုလုပ်နိုင်သည်။  ထိုဖိုင်များနှင့် app များကို ကိုယ်ပိုင် မုဒ် တွင် ဆက်လက်သိမ်းဆည်းထားပြီး သင် ကိုယ်ပိုင် မုဒ် မှ ထွက်လိုက်သည်နှင့် မြင်ရတော့မည်မဟုတ်ပါ။\n\nကိုယ်ပိုင် မုဒ် ကို မဖန်တီးနိုင်မီ ကိုယ်ပိုင် မုဒ် အတွက် သော့ခတ်စခရင်ကို တည်ဆောက်ရန်လိုသည်။\n\nမှတ်ချက်- သင့် ကိုယ်ပိုင် မုဒ် သော့ခတ်စခရင်သည် ပိုင်ရှင်၏ သော့ခတ်စခရင်နှင့် မတူရပါ။</string>
+    <string name="user_snapview_message_without_normal_lock">&gt;ကိုယ်ပိုင် မုဒ် တွင် သင်သည် ဓာတ်ပုံရိုက်ခြင်း၊ ဖိုင်သိမ်းခြင်း၊ app များ အင်စတောလုပ်ခြင်း ပြုလုပ်နိုင်သည်။  ထိုဖိုင်များနှင့် app များကို ကိုယ်ပိုင် မုဒ် တွင် ဆက်လက်သိမ်းဆည်းထားပြီး သင် ကိုယ်ပိုင် မုဒ် မှ ထွက်လိုက်သည်နှင့် မြင်ရတော့မည်မဟုတ်ပါ။\n\nကိုယ်ပိုင် မုဒ် ကို မဖန်တီးနိုင်မီ ပိုင်ရှင်အတွက် သော့ခတ်စခရင်ကို တည်ဆောက်ရန်လိုသည်။</string>
+    <string name="user_snapview_settings">ကိုယ်ပိုင် မုဒ် ဆက်တင်များ</string>
+    <string name="user_snapview_settings_category_account">ကိုယ်ပိုင် မုဒ် အကောင့်</string>
+    <string name="user_snapview_settings_category_dummy">အကြိုသတိပေးချက်</string>
+    <string name="user_snapview_settings_category_lockscreen">သော့ခတ်စခရင်လုံခြုံရေး</string>
+    <string name="user_snapview_settings_category_visualhint">မြင်ရသော အညွန်း</string>
+    <string name="user_snapview_settings_change_info">ပရိုဖိုင် အချက်အလက်ကို ပြောင်းပါ</string>
+    <string name="user_snapview_settings_delete_self">ကိုယ်ပိုင် မုဒ် ဖျက်ပါ</string>
+    <string name="user_snapview_settings_dummy_default">Google Play ဝန်ဆောင်မှု အပ်ဒိတ်လုပ်ပြီး</string>
+    <string name="user_snapview_settings_dummy_notify">စာသား</string>
+    <string name="user_snapview_settings_dummy_notify_icon">အိုင်ကွန်</string>
+    <string name="user_snapview_settings_hint_notify">ကိုယ်ပိုင် မုဒ် အလှဆင်ထားမှု</string>
+    <string name="user_snapview_settings_item1">နူးညံ့သော</string>
+    <string name="user_snapview_settings_item2">ထင်ရှားမြင်သာသော</string>
+    <string name="user_snapview_settings_item3">ဘာမှမရှိ</string>
+    <string name="user_snapview_settings_item_color">အရောင်</string>
+    <string name="user_snapview_settings_item_icon">အိုင်ကွန်</string>
+    <string name="user_snapview_settings_item_none">ဘာမှမရှိ</string>
+    <string name="user_snapview_settings_set_lock">စခရင်သော့ သတ်မှတ်ပါ</string>
+    <string name="user_snapview_summary">သင့်ဓာတ်ပုံ၊ ဖိုင်နှင့် app များကို ကာကွယ်ရန် ကိုယ်ပိုင် မုဒ် တစ်ခုကို ဖန်တီးနိုင်သည်။</string>
+    <string name="user_snapview_title">ကိုယ်ပိုင် မုဒ်</string>
+    <string name="user_snapview_settings_hint_lock">သော့ခတ်စခရင် မွမ်းမံဆင်ယင်ခြင်း</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1"> ကျေးဇူးပွု၍ %s အကောငျ့တဈခုအား သငျ၏ကယျဆယျပေးမညျ့ ကိုယျပိုငျမုဒျ အီးမေးလျအကောငျ့အဖွဈ သတျမှတျပါ။\n\nသငျ၏ ကိုယျပိုငျမုဒျ  စကားဝှကျကို မေ့သှားသညျ့အခါ သငျ၏ကယျဆယျပေးမညျ့ အီးမေးလျအကောငျ့သညျ ၎င်းငျးကို ပွနျသတျမှတျရနျ ကူညီလိမျ့မညျ။</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">ကိုယ်ပိုင်မုဒ်ကို ဖျက်ရန် စခရင်သော့ဖြတ်ကျော်မှုတစ်ခုနှင့် ကျပန်း PIN ကို ထည့်ရန် လိုအပ်သည်။\n\nအတည်ပြုပြီးသောအခါ ကိုယ်ပိုင်မုဒ်ကို သင့်ကိရိယာမှ ဖျက်လိမ့်မည်။  ကိုယျပိုငျမုဒျ တှငျ သငျ၏ဓာတျပုံများ၊ app များနှငျ့ ဒတောများ ဆုံးရှုံးလိမျ့မညျ။\n\nဤလုပျဆောငျခကျြကို ပွနျမလုပျနိုငျပါ။ ဆကျလုပျလိုပါသလား။</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1"> ဂုဏျယူပါသညျ။ သငျ၏ ကိုယျပိုငျမုဒျ စကားဝှကျကို ပွနျသတျမှတျပွီးပွီ။\n\nနောကျထပျ ကိုယျပိုငျမုဒျ စကားဝှကျအသဈတဈခုကို သတျမှတျနိုငျသညျ၊ သို့မဟုတျ သငျ၏လကျရှိ  ကိုယျပိုငျမုဒျ ကို ဖကျြနိုငျသညျ။</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">ကိုယျပိုငျမုဒျ စကားဝှကျကို ပွနျသတျမှတျသညျ</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">ကိုယျပိုငျမုဒျ ကို မဖနျတီးမီ %s အကောငျ့တဈခုအား ကယျဆယျပေးမညျ့ အီးမေးလျအကောငျ့အဖွဈ သတျမှတျရနျ အကွံပွုပါသညျ။\n\nသငျ၏ ကိုယျပိုငျမုဒျ  စကားဝှကျကို မေ့သှားသညျ့အခါ သငျ၏ကယျဆယျပေးမညျ့ အီးမေးလျအကောငျ့သညျ ၎င်းငျးကို ပွနျသတျမှတျရနျ ကူညီလိမျ့မညျ။</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">ကိုယျပိုငျမုဒျ ကယျဆယျရေး အီးမေးလျအကောငျ့</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1"> သငျ၏ %1$s အကောငျ့ကို စီစဈနသေညျ။ \n\nစီစဈခွငျး အောငျမွငျသညျနှငျ့တဈပွိုငျနကျ သငျ၏သော့ခတျစခရငျစကားဝှကျ ပွနျသတျမှတျခွငျးကို စတငျနိုငျသညျ။\n\nမှတျခကျြ-နောကျထပျစခရငျသညျ %2$s အကောငျ့စီစဈခွငျး ဖွဈပွီး သငျ့အကောငျ့၏အခကျြအလကျများကို မစုဆောငျးပါ။</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1"> သငျ၏ %s အကောငျ့ကို စီစဈပါ</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1"> ကယျဆယျပေးမညျ့ အီးမေးလျအကောငျ့ကို ပွောငျးပါ</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1"> ဤအရာကို သငျ၏ ကိုယျပိုငျမုဒျ စကားဝှကျ ပွနျသတျမှတျရနျ အသုံးပွုပါ</string>
+    <string name="user_snapview_reset_confirm">ကိုယ်ပိုင်မုဒ်ရှိ သင့်ဒေတာအားလုံးကို ဖျက်မလား။\nဤလုပ်ဆောင်ချက်ကို နောက်ပြန်မဆုတ်နိုင်ပါ။</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="select_account">သင်လုပ်ဆောင်ချက်ကို ရွေးပါ</string>
+    <string name="both">စခရင်သော့ အမျိုးအစားကို ပြောင်းပါ</string>
+    <string name="lockpassword_choose_private_mode">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်အသစ်ကို ရွေးချယ်ပါ</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">ပိုင်ရှင်၏စကားဝှက်အသစ်ကို ရွေးပါ</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">ပိုင်ရှင်၏ PIN အသစ်ကို ရွေးပါ</string>
+    <string name="lockpassword_confirm_private_mode">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်အသစ်ကို အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">ပိုင်ရှင်၏စကားဝှက်ကို အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">ပိုင်ရှင်၏ PIN ကို အတည်ပြုပါ</string>
+    <string name="lockpattern_choose_private_mode">ကိုယ်ပိုင် မုဒ် ၏ သော့ဖွင့်ပုံစံအသစ်ကို ဆွဲပါ</string>
+    <string name="lockpattern_confirm_private_mode">အတည်ပြုရန် ကိုယ်ပိုင် မုဒ် ၏ သော့ဖွင့်ပုံစံအသစ်ကို ထပ်မံဆွဲပါ</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">အတည်ပြုရန် ပိုင်ရှင်၏သော့ဖွင့်ပုံစံကို ထပ်မံဆွဲပါ</string>
+    <string name="lockpattern_pattern_same_to_normal">ပုံမှန်နှင့်တူသောပုံစံ</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">ပိုင်ရှင်၏သော့ဖွင့်ပုံစံအသစ်ကို ဆွဲပါ</string>
+    <string name="lockpin_choose_private_mode">ကိုယ်ပိုင် မုဒ် ၏ PIN အသစ်ကို ရွေးချယ်ပါ</string>
+    <string name="lockpin_confirm_private_mode">ကိုယ်ပိုင် မုဒ် ၏ PIN အသစ်ကို အတည်ပြုပါ</string>
+    <string name="notice">သတိပေးခြင်း</string>
+    <string name="owner_account">ပိုင်ရှင်၏စခရင်သော့ကို ပြောင်းပါ</string>
+    <string name="personal_space">&gt;ကိုယ်ပိုင် မုဒ် ၏စခရင်သော့ကို ပြောင်းပါ</string>
+    <string name="pmode_created">သင့် ကိုယ်ပိုင် မုဒ် ကို ဖန်တီးပြီးပြီ။  ယခု သင့်ကိုယ်ပိုင် မုဒ် ၏ စခရင်သော့ကို အသုံးပြုပြီး ကိုယ်ပိုင် မုဒ် သို့ ဝင်ရန် ကြိုးစားပါ။</string>
+    <string name="pmode_created_title">ကိုယ်ပိုင် မုဒ် ဖန်တီးပြီး</string>
+    <string name="pmode_password_cannot_same">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်သည် ပိုင်ရှင်၏စကားဝှက်နှင့် မတူရပါ</string>
+    <string name="pmode_pattern_cannot_same">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်သည် ပိုင်ရှင်၏စကားဝှက်နှင့် မတူရပါ</string>
+    <string name="pmode_pattern_same_to_normal">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်သည် ပိုင်ရှင်၏စကားဝှက်နှင့် မတူရပါ။ ထပ်မံ ကြိုးစားပါ။</string>
+    <string name="pmode_pattern_same_to_private">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်သည် ပိုင်ရှင်၏စကားဝှက်နှင့် မတူရပါ။ ထပ်မံ ကြိုးစားပါ။</string>
+    <string name="pmode_pin_cannot_same">ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်သည် ပိုင်ရှင်၏စကားဝှက်နှင့် မတူရပါ</string>
+    <string name="pmode_pin_length_must_same">ကိုယ်ပိုင် မုဒ် ၏ PIN နှင့် ပိုင်ရှင်၏ PIN အလျားတို့ တူရမည်</string>
+    <string name="pmode_set_lock">သော့ သတ်မှတ်ပါ</string>
+    <string name="pmode_set_owner_lock">ကျေးဇူးပြု၍ ပထမဦးဆုံး ပိုင်ရှင်အတွက် စခရင်သော့တစ်ခု တည်ဆောက်ပါ။</string>
+    <string name="pmode_set_owner_lock_title">ပိုင်ရှင်၏စခရင်သော့ သတ်မှတ်ပါ</string>
+    <string name="pmode_set_personal_space">နောက်ထပ်၊ ကိုယ်ပိုင် မုဒ် အတွက် သော့ခတ်စခရင်ကို ကျေးဇူးပြု၍ တည်ဆောက်ပါ။\n\nမှတ်ချက်- ကိုယ်ပိုင် မုဒ် ၏ စကားဝှက်သည် ပိုင်ရှင်၏စကားဝှက်နှင့် မတူရပါ။</string>
+    <string name="pmode_set_personal_space_title">ကိုယ်ပိုင် မုဒ် ၏ သော့ခတ်စခရင် သတ်မှတ်ပါ</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_default_font">ပုံသေဖောင့်</string>
+    <string name="monotype_dialog_button">ဖောင့်များကို အွန်လိုင်းဖြင့် ရယူပါ</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_dialog_no_fonts_installed">နောက်ထပ် ဖောင့်များ မရနိုင်ပါ</string>
+    <string name="monotype_dialog_revert_question">ပုံသေဖောင့်သို့ ပြန်သတ်မှတ်မလား။</string>
+    <string name="monotype_dialog_set_font_question">ဖောင့်ကို %s အဖြစ် သတ်မှတ်မလား။</string>
+    <string name="monotype_loading_list">ဖောင့်စာရင်းကို တင်နေသည်…</string>
+    <string name="monotype_preference_summary">ဖောင့် သတ်မှတ်ပါ</string>
+    <string name="monotype_preference_title">ဖောင့်စတိုင်လ်</string>
+    <string name="monotype_restart_dialog_button_1">ယခု ပြန်စတင်ပါ</string>
+    <string name="monotype_restart_dialog_text_1">ဖုန်းကို ပြန်စတင်ပါ</string>
+    <string name="monotype_restart_dialog_text_2">ဆက်တင်များ အသုံးချရန် ဖုန်းကို ပြန်စတင်ပါ</string>
+    <string name="asus_master_clear_check_backup_message">ဒေတာကို သင့်အတွင်းသိမ်းဆည်းနေရာတွင် သိမ်းပြီးပြီ။  သင်မလုပ်ဆောင်မီ ကျေးဇူးပြု၍ ၎င်းတို့ကို သင့်ပြင်ပသိမ်းဆည်းနေရာသို့ ရွှေ့ပါ၊ သို့မဟုတ်ပါက ဤဒေတာများကို သင့်အတွင်းသိမ်းဆည်းနေရာမှ ဖျက်ပစ်လိမ့်မည်။  ပြန်သတ်မှတ်ခြင်းကို ဆက်လက်လုပ်ဆောင်လိုပါသလား။</string>
+    <string name="asus_master_clear_check_backup_title">သတိပေးခြင်း</string>
+    <string name="change_short_cut_message">စိတ်ကြိုက်ပြုလုပ်ရန် app ကို နှိပ်၍ ပြန်လည်စီစဉ်ရန် app ကို ပွတ်ဆွဲပါ</string>
+    <string name="lockscreen_enable_slide_widget">နှိုးထပါက ဆလိုက်ဒ်သော့ခတ်စခရင် စာမျက်နှာကို ကျော်ပါ</string>
+    <string name="lockscreen_enable_slide_widget_title">ဆလိုက်ဒ်စာမျက်နှာကို ကျော်ပါ</string>
+    <string name="quick_access_message">စိတ်ကြိုက်လုပ်ထားသော လျင်မြန်သည့် သုံးစွဲမှု</string>
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">အလိုအလျောက် စတင်သည့် မန်နေဂျာ</string>
+    <string name="autostart_summary">"နောက်ထပ်မင်မိုရီ လွတ်အောင်ပြုလုပ်ပြီး ပါဝါ ချွေတာပါ"</string>
+
+    <!-- Wilson_Chen@asus.com, quick charging -->
+    <string name="battery_info_status_quick_charging">အမြန်အားသွင်းခြင်း (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g>AC (အမြန်အားသွင်းခြင်း) မပြည့်မီအထိ</string>
+    <string name="zen_mode_dont_interrupt_category">ခွင့်မပြုပါနှင့်</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">အခြေအနေပြဘားကို ပြပါ</string>
+    <string name="notification_material_summary">အသုံးပြုလိုက်သောအခါ အချို့ app သတိပေးချက်အိုင်ကွန်များသည် ဤဒီဇိုင်းစတိုင်နှင့် လိုက်လျောညီထွေရှိရန် အဖြုရောင်ပုံသဏ္ဍာန်ဖြစ်သွားမည်။</string>
+    <string name="notification_material_title"> ပစ္စည်း ဒီဇိုင်းကို အသုံးပြုပါ</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"ကလေးများမုဒ်"</string>
+    <string name="asus_kids_launcher_settings_message">"သင့်ကလေးများ သုံးရန်အတွက် စိတ်ချရသောကစားကွင်းတစ်ခု တည်ဆောက်ရန် ကလေးများမုဒ်ကို ဖွင့်ပါ။"</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">ဖောင့်အရွယ်အစားပိုကြီးသော စာသားများကို အက်ပ်အချို့က မှန်မှန်ကန်ကန်ပြသမည်မဟုတ်ပါ။</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">ပိုကြီးသောစာသား</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"စခရင် ဖွင့်ထားသောအခါ ကင်မရာကို ဖွင့်ရန် ကင်မရာအပိတ်ခလုတ် သို့မဟုတ် ဗီဒီယိုကင်မရာခလုတ်ကို ဖိကိုင်ထားပါ"</string>
+    <string name="lockscreen_longpress_screen_off">"စခရင် ပိတ်ထားသောအခါ ကင်မရာကို ဖွင့်ရန် ကင်မရာအပိတ်ခလုတ် သို့မဟုတ် ဗီဒီယိုကင်မရာခလုတ်ကို ဖိကိုင်ထားပါ"</string>
+    <string name="lockscreen_longpress_screen_on_title">"စခရင် ဖွင့်ထားသောအခါ ကင်မရာကို စတင်ပါ"</string>
+    <string name="lockscreen_longpress_screen_off_title">"စခရင် ပိတ်ထားသောအခါ ကင်မရာကို စတင်ပါ"</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"အရေးပေါ် သတိပေးနှိုးဆော်ချက်များ"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"အရေးပေါ် သတိပေးနှိုးဆော်ချက်များကို ဖွဲ့စည်းတည်ဆောက်ပါ"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMS ဆဲလ် ထုတ်လွှင့်ချက်"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"SMS ဆဲလ် ထုတ်လွှင့်ချက်ကို ဖွဲ့စည်းတည်ဆောက်ပါ"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"ရာသီဥတု အချက်အလက် စာမျက်နှာကို ပိတ်ပါ"</string>
+    <string name="lockscreen_disable_weather_info_page">"သော့ခတ်စခရင်၏ ညာဘက်တွင်ရှိသော ရာသီဥတု အချက်အလက် စာမျက်နှာ (Cheetah မိုဘိုင်းမှ ပိုင်ဆိုင်သော) ကို လုံးဝပိတ်ပြီးပြီ"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

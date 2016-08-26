@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Menambatkan &amp; Hotspot Seluler"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Tampilkan dalam GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Tampilkan dalam MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Data seluler"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Batasi penggunaan data Seluler"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Peringatkan saya soal penggunaan data"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Peringatan penggunaan data"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"<xliff:g example="tablet" id="device_type">%s</xliff:g> Anda akan memberi peringatan ketika penggunaan data seluler mencapai jumlah yang Anda pilih."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Batas penggunaan data"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Sambungan data seluler Anda akan dinonaktifkan ketika penggunaan data Anda mencapai batas yang Anda pilih.\n\nPenggunaan data diukur oleh <xliff:g example="tablet" id="device_type">%s</xliff:g> Anda. Operator Anda mungkin mungkin memperhitungkan penggunaan secara berbeda, jadi pertimbangkan untuk mengatur batas yang lebih lebih kecil dibandingkan dengan paket data Anda. Atur tanggal untuk menyesuaikan periode dalam tagihan Anda."</string>
+    <string name="vzw_phone">"telepon"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"Penggunaan data diukur oleh <xliff:g example="tablet" id="device_type">%s</xliff:g> Anda. Operator Anda mungkin mungkin memperhitungkan penggunaan secara berbeda. Atur tanggal untuk menyesuaikan periode dalam tagihan Anda."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Ketuk untuk melihat penggunaan dan pengaturan"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Data seluler sekarang mati."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Anda telah mencapai batas penggunaan data yang ditetapkan, jadi data seluler telah dinonaktifkan.\n\nJika Anda mengaktifkan data seluler, mungkin Anda dikenai biaya penggunaan data oleh operator Anda."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Aktifkan Data"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Data seluler sekarang mati"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Sentuh untuk mengaktifkan"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Batas data seluler telah melampaui batas"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> melebihi batas yang ditetapkan"</string>
+</resources>

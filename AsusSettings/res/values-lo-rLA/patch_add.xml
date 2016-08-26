@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">ເປີດ​ກ້ອງ​ຖ່າຍ​ຮູບ​ດ່ວນ​ໂດຍ​ບໍ່​ຕ້ອງ​ປົດ​ລັອກໜ້າຈໍ​ຂອງ​ທ່ານ</string>
+  <string name="camera_double_tap_power_gesture_title">ກົດ​ປຸ່ມ​ປິດ​ເປີດ​ສອງ​ຄັ້ງ​ສຳ​ລັບ​ກ້ອງ​ຖ່າຍ​ຮູບ</string>
+  <string name="camera_gesture_desc">ເປີດ​ກ້ອງ​ຖ່າຍ​ຮູບ​ໂດຍ​ການ​ບິດ​ຂໍ້​ມື​ຂອງ​ທ່ານ​ສອງ​ຄັ້ງ</string>
+  <string name="camera_gesture_title">ບິດ​ສອງ​ຄັ້ງ​ສຳ​ລັບ​ກ້ອງ​ຖ່າຍ​ຮູບ</string>
+  <string name="keywords_color_mode">ມາດ​ຕະ​ຖານ​ທຳ​ມະ​ຊາດ​ສີ rgb srgb ຕົວ​ສັ່ນ</string>
+  <string name="manual">ຄູ່​ມື</string>
+  <string name="picture_color_mode">ໂໝດ​ສີ​ຮູບ</string>
+  <string name="picture_color_mode_desc">ໃຊ້ sRGB</string>
+  <string name="settings_manual_activity_title">ຕັ້ງຄ່າເອງ</string>
+  <string name="settings_manual_activity_unavailable">ເກີດບັນຫາໃນການໂຫລດຄູ່​ມື.</string>
+</resources>

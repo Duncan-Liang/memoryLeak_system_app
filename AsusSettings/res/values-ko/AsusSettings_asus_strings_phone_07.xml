@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"수신 전화 잠금 기능을 활성화한 경우, 전화를 받으려면 지문을 스캔해야 합니다. 지문이 성공적으로 확인되면 통화가 자동으로 연결됩니다. \n다음을 유념하십시오:\n1. 지문을 스캔하지 않고 페어링된 Bluetooth 헤드셋 또는 스마트 와치에서 직접 수신 전화를 받을 수 있습니다.\n2. 유선 헤드셋을 사용할 경우, 전화를 받으려면 여전히 지문을 사용해야 합니다.\n3. 타사 수신 전화 화면에서는 전화를 받을 수 없습니다.\n4. VoIP(Voice over IP) 통화(예: WhatsApp 음성 통화)의 경우, 앱 자체에서 전화를 받아야 합니다."</string>
+    <string name="asus_long_tap_warning">"수신 전화 잠금 기능이 활성화된 경우, 탭해서 누르면 전화 응답이 비활성화됩니다."</string>
+</resources>

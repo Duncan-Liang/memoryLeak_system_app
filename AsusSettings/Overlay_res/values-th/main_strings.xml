@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      การเข้ารหัสถูกขัดจังหวะ และไม่สามารถดำเนินการให้แล้วเสร็จได้ เป็นผลให้ข้อมูลบนอุปกรณ์ของคุณไม่สามารถเข้าถึงได้อีก \n\n หากต้องการทำต่อโดยใช้อุปกรณ์ของคุณ คุณจะต้องรีเซ็ตการตั้งค่าจากโรงงาน  เมื่อคุณตั้งค่าอุปกรณ์หลังจากรีเซ็ต คุณมีโอกาสที่จะกู้คืนข้อมูลต่างๆ ที่สำรองไว้ใน  ของคุณ
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      รหัสผ่านที่คุณป้อนถูกต้อง แต่โชคดีข้อมูลของคุณสูญหายไปแล้ว \n\nหากต้องการทำต่อโดยใช้อุปกรณ์ของคุณ คุณจะต้องรีเซ็ตการตั้งค่าจากโรงงาน เมื่อคุณตั้งค่าอุปกรณ์หลังจากรีเซ็ต คุณมีโอกาสที่จะกู้คืนข้อมูลต่างๆ ที่สำรองไว้ใน  ของคุณ
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"การดำเนินการนี้จะลบข้อมูลทั้งหมดออกจาก <b>ที่เก็บข้อมูลภายในของอุปกรณ์ของคุณ</b>โดยประกอบด้วย:\n\n<li>บัญชี </li>\n<li>ระบบและข้อมูลแอป และการตั้งค่า</li>\n<li>แอปที่ดาวน์โหลด</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">การเปลี่ยนแปลงใด ๆ ที่คุณกระทำในบัญชีของคุณบนเว็บไไซต์จะถูกคัดลอกไปยังอุปกรณ์โดยอัตโนมัติ\n\nนอกจากนี้บางบัญชีอาจจะคัดลอกการเปลี่ยนแปลงต่าง ๆ ที่คุณกระทำในอุปกรณ์ไปยังเว็บไซต์  บัญชี จะทำงานวิธีนี้</string>
+</resources>

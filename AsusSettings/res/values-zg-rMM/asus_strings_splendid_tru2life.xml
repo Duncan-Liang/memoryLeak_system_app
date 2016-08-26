@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Screen color mode</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">မွ်တေသာမုဒ္</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Bluelight Filter</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Vivid mode</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">စိတ္ႀကိဳက္ျပဳလုပ္ထားေသာမုဒ္</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">Blur-Free Motion</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">အျမင့္</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Middle</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">အနိမ့္</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">ပိတ္ၿပီးၿပီ</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Effect High</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Effect Middle</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Effect Low</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">ပိတ္ၿပီးၿပီ</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Smoothen the video play quality.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"အလင္းျပာ စစ္ထုတ္မုဒ္"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"အဆင့္ ၁"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"အဆင့္ ၂"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"အဆင့္ ၃"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"အဆင့္ ၄"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"အဆင့္ ၅"</string>
+    <string name="splendid_bluelight_filter_mode_off">"ပိတ္"</string>
+    <string name="splendid_bluelight_filter_mode_on">"ဖြင့္"</string>
+    <string name="splendid_bluelight_ok">"အုိေက"</string>
+    <string name="splendid_bluelight_cancel">"ပယ္ဖ်က္ပါ"</string>
+    <string name="notification_bluelight_filter_title">"အလင္းျပာစစ္ထုတ္ခ်က္ကုိ ဖြင့္ထားသည္"</string>
+    <string name="notification_bluelight_filter_summary">"မြမ္းမံရန္ ထိပါ"</string>
+    <!-- end -->
+</resources>

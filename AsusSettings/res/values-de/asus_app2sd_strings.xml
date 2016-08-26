@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Auf Gerätespeicher verschieben</string>
+    <string name="move_error_unknow">Verschieben der App nicht möglich. Bitte noch einmal versuchen.</string>
+    <string name="dialog_hint">Der Vorgang kann eine Weile dauern. \n\nBitte weder Ihr Gerät ausschalten noch die zum Verschieben ausgewählten Applikationen verwenden. Bitte entfernen Sie das externe Speichergerät in diesem Moment nicht. \n\nMöchten Sie fortfahren?</string>
+    <string name="processing">Wird verarbeitet...</string>
+</resources>

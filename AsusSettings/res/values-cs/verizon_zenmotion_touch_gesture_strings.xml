@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Povolit gesta pro otevírání aplikací a zapínání nebo vypínání obrazovky"</string>
+    <string name="vzw_doubletap_off_setting_title">"Dvojitým klepnutím vypnout obrazovku"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Dvojitým klepnutím vypnout obrazovku"</string>
+    <string name="vzw_doubletap_on_setting_title">"Dvojitým klepnutím probudit"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Dvojitým klepnutím na tmavou obrazovku zapnout"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Gesta"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Napsáním písmena při vypnuté obrazovce otevřete související aplikaci. Aplikaci změníte klepnutím níže."</string>
+    <string name="vzw_w_launch_title">"Písmeno “W” otevře tuto aplikaci"</string>
+    <string name="vzw_s_launch_title">"Písmeno “S” otevře tuto aplikaci"</string>
+    <string name="vzw_e_launch_title">"Písmeno “e” otevře tuto aplikaci"</string>
+    <string name="vzw_c_launch_title">"Písmeno “C” otevře tuto aplikaci"</string>
+    <string name="vzw_z_launch_title">"Písmeno “Z” otevře tuto aplikaci"</string>
+    <string name="vzw_v_launch_title">"Písmeno “V” otevře tuto aplikaci"</string>
+</resources>

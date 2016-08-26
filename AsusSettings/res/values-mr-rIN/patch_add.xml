@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">आपली स्क्रीन अनलॉक न करता कॅमेरा दृतपणे उघडा</string>
+  <string name="camera_double_tap_power_gesture_title">कॅमेर्‍यासाठी उर्जा बटण दोनदा दाबा</string>
+  <string name="camera_gesture_desc">आपले मनगट दोनदा वळवून कॅमेरा अॅप उघडा</string>
+  <string name="camera_gesture_title">कॅमेर्‍यासाठी दोनदा वळवा</string>
+  <string name="keywords_color_mode">सशक्त rgb srgb रंग नैसर्गिक मानक</string>
+  <string name="manual">व्यक्तिचलित</string>
+  <string name="picture_color_mode">चित्र रंग मोड</string>
+  <string name="settings_manual_activity_title">व्यक्तिचलित</string>
+  <string name="settings_manual_activity_unavailable">व्यक्तिचलित लोड करताना समस्या आली.</string>
+</resources>

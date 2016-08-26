@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">閒置時停用 Wi\u2011Fi 熱點</string>
+    <string name="wifi_disable_hotspot_selection_never">永遠不要</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">5 分鐘後</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">10 分鐘後</string>
+
+    <!-- List of clients connected to Wifi Access Point -->
+    <string name="wifi_tether_users">Wi\u2011Fi 無線基地台使用者</string>
+    <string name="wifi_tether_user_empty">尚無使用者連線至無線基地台。</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">為了確保您的連線品質, 請重新連結無線螢幕分享(Miracast)或Wi-Fi Direct。</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">按鍵盤上任何一個鍵以重新連接</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">Deaktivovat Wi-Fi hotspot při nečinnosti</string>
+    <string name="wifi_disable_hotspot_selection_never">Nikdy</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">Po 5 minutách</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">Po 10 minutách</string>
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Uživatelé hotspotu Wi\u2011Fi</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">K Wi-Fi hotspotu není připojen žádný uživatel.</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">Není přiřazena IP adresa.</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">Není přiřazena délka síťové předpony.</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">Není přiřazena adresa brány.</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">Není přiřazena adresa DNS1.</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">Není přiřazena adresa DNS2.</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">Zadejte IP adresu.</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">Zadejte délku síťové předpony.</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Zadejte adresu brány.</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">Nastavit DNS1</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">Nastavit DNS2</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">Zachovat ethernetové připojení během spánku</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">Vyžádat zvýšenou spotřebu energie</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">NASTAVENÍ SÍTĚ</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">Pro lepší kvalitu připojení zkuste znovu připojit bezdrátový přenos obrazu (Miracast) nebo Wi-Fi Direct.</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Stisknutím libovolné klávesy na klávesnici se znovu připojte</string>
+</resources>

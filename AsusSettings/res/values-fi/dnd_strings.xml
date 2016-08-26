@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Älä häiritse</string>
+    <string name="zen_mode_option_off2">Salli aina</string>
+    <string name="zen_mode_option_important_interruptions2">Käytä häiriösääntöjä</string>
+    <string name="zen_mode_option_no_interruptions2">Älä salli</string>
+    <string name="zen_mode_important_category2">Häiriösäännöt</string>
+    <string name="zen_mode_from2">Salli puhelut/viestit kohteesta</string>
+    <string name="zen_mode_from_anyone2">Kuka tahansa</string>
+    <string name="zen_mode_from_contacts2">Vain yhteystiedot</string>
+    <string name="zen_mode_from_starred2">Vain suosikit</string>
+    <string name="zen_mode_from_vip2">Vain VIP</string>
+    <string name="zen_mode_downtime_category2">Aikataulunmukainen aika (Käytä häiriösääntöjä)</string>
+    <string name="zen_mode_alarms_priority">Hälytykset</string>
+    <string name="zen_mode_repeated_calls">Toistetut puhelut</string>
+    <string name="zen_mode_repeated_calls_desc">Toista puhelua kahden minuutin sisällä ei hiljennetä</string>
+    <string name="zen_mode_add_downtime">Uusi aikataulu</string>
+    <string name="zen_mode_meeting_mode_category">Aikataulu kalenteritapahtumien aktivoima</string>
+    <string name="zen_mode_weekend">Viikonloppu</string>
+    <string name="zen_mode_everyday">Joka päivä</string>
+    <string name="zen_mode_remove_dialog_title">Poista aikataulu</string>
+    <string name="zen_mode_remove_dialog_message">Poistetaanko tämä aikataulu?</string>
+    <string name="zen_mode_limit_dialog_title">Uusi aikataulu</string>
+    <string name="zen_mode_limit_dialog_message">Sinulla voi olla enintään %d aikatauluasetusta.</string>
+    <string name="zen_mode_downtime_title">aikataulu</string>
+    <string name="zen_mode_downtime_title_new">Uusi aikataulu</string>
+    <string name="zen_mode_downtime_title_edit">Muokkaa aikataulua</string>
+    <string name="zen_mode_downtime_title_meeting">Muokkaa aikataulua </string>
+    <string name="zen_mode_others">Asetukset</string>
+    <string name="zen_mode_send_notifications">Ilmoitus</string>
+    <string name="zen_mode_send_notifications_desc">Lähetä ilmoitus, kun Älä häiritse on aktivoitu</string>
+    <string name="zen_mode_no_interruptions_warning">"Asetettuna tilaan \"täydellinen hiljaisuus\", hälytykset asetetaan mykistystilaan."</string>
+    <string name="zen_mode_from_anyone3">"Keltä tahansa"</string>
+    <string name="zen_mode_from_favorites_only">"Vain suosikeissa olevilta"</string>
+    <string name="zen_mode_from_contacts_only">"Vain yhteystiedoissa olevilta"</string>
+    <string name="zen_mode_repeat_callers2">"Toistuvat puhelut"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Sama numero, joka soittaa uudestaan <xliff:g id="MINUTES">%d</xliff:g> minuutin sisään, sallitaan"</string>
+    <string name="zen_mode_option_important_interruptions3">"Sovella häiriösääntöjä"</string>
+    <string name="zen_mode_selected_callers2">"valitut puhelut"</string>
+    <string name="zen_mode_dnd_is_on">"Älä häiritse -ominaisuus on päällä. Voit sammuttaa sen manuaalisesti."</string>
+    <string name="zen_mode_turn_off_now">"Sammuta nyt"</string>
+    <string name="zen_mode_custom_name">"Mukautettu"</string>
+    <string name="zen_mode_manual_turn_on">"Ota Älä häiritse -ominaisuus käyttöön manuaalisesti"</string>
+    <string name="zen_mode_turn_off">"Ota Älä häiritse -ominaisuus pois käytöstä"</string>
+    <string name="zen_mode_in_activity">"Käytössä: "</string>
+    <string name="zen_mode_forever2">"Määrittelemättömän ajan"</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Ha engedélyezi a bejövő hívás zárolása funkciót, hívás fogadásához be kell olvasnia az ujjlenyomatát. A hívás automatikusan csatlakozik, ha az ujjlenyomat azonosítása sikeres volt.\nNe feledje a következőket:\n1. A bejövő hívást közvetlenül fogadhatja párosított Bluetooth-headsetről vagy okosóráról, az ujjlenyomata beolvasása nélkül.\n2. Továbbra is használnia kell az ujjlenyomatát a hívás fogadásához, ha vezetékes headset csatlakozik.\n3. Harmadik felek által biztosított bejövő hívás képernyőn nem fogja tudni fogadni a hívást.\n4. Voice over IP (VoIP) hívás, például WhatsApp-hanghívás esetén továbbra is tudja fogadni a hívást közvetlenül az alkalmazásból."</string>
+    <string name="asus_long_tap_warning">"Ha a bejövő hívás zárolása funkció engedélyezve van, a hívásokat nem lehet hosszú érintéssel fogadni."</string>
+</resources>

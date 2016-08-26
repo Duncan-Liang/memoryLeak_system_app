@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="cpu_frequency_title">CPU</string>
+  <string name="memory_size_title">RAM</string>
+  <string name="shake_summary">Kada koristite neku aplikaciju, dvaput protresite za snimanje zaslona i izradite novi zadataka u Do It Later.</string>
+  <string name="sleep_touch_gesture_category_title">Obustavljeni način rada</string>
+  <string name="wake_up_touch_gesture_category_title">Način rada za buđenje</string>
+    <string name="motion_double_click_summary">Dvaput kliknite kućište telefona.</string>
+    <string name="motion_double_click_title">Dvostruki klik</string>
+    <string name="motion_flip_summary">Preokrenite uređaj.</string>
+    <string name="motion_flip_title">Okreni</string>
+    <string name="motion_hand_up_summary">Držite telefon u uspravnom načinu rada i dignite ga da dodirnete uho.</string>
+    <string name="motion_hand_up_title">Podignute ruke</string>
+    <string name="motion_walking_summary">Dok se telefon nalazi u rukama ili u džepu, on će prepoznati hodanje ili kretanje.</string>
+    <string name="motion_walking_title">Kretanje</string>
+    <string name="app_asus_front_camera_name">"Kamera - prednji objektiv"</string>
+    <string name="tutorial_c_launch_summary">"Dok je zaslon isključen, nacrtajte “C” za pokretanje aplikacije"</string>
+    <string name="tutorial_double_click_summary">"Kod dolaznog poziva, dvaput kliknite na telefon za prijelaz u utišani način rada."</string>
+    <string name="tutorial_e_launch_summary">"Dok je zaslon isključen, nacrtajte “e” za pokretanje aplikacije"</string>
+    <string name="tutorial_flip_down_summary">"Za vrijeme dolaznog poziva, preokrenite uređaj radi prijelaza u tihi način rada. Za vrijeme izvođenja medija, preokrenite uređaj za pauziranje reprodukcije."</string>
+    <string name="tutorial_flip_down_title">"Preokreni (preokreni dolje)"</string>
+    <string name="tutorial_flip_up_summary">"Za vrijeme stanke u izvođenju, preokrenite uređaj za radi pauziranja reproduktora."</string>
+    <string name="tutorial_flip_up_title">"Preokreni (preokreni gore)"</string>
+    <string name="tutorial_hands_up_summary">"Prinesite telefon uhu da se automatski javite na poziv bez dodirivanja zaslona."</string>
+    <string name="tutorial_moving_summary">"Pri pojavi dolaznog poziva, povećajte glasnoću melodije zvona tijekom hodanja ili u kretanju."</string>
+    <string name="tutorial_s_launch_summary">"Dok je zaslon isključen, nacrtajte “S” za pokretanje aplikacije"</string>
+    <string name="tutorial_v_launch_summary">"Dok je zaslon isključen, nacrtajte “V” za pokretanje aplikacije"</string>
+    <string name="tutorial_w_launch_summary">"Dok je zaslon isključen, nacrtajte “W” za pokretanje aplikacije"</string>
+    <string name="tutorial_z_launch_summary">"Dok je zaslon isključen, nacrtajte “Z” za pokretanje aplikacije"</string>
+    <string name="zenmotion_tutorial_title">"Vodič"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"Zadnje vraćanje na tvrničke podatke"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"Verzija konfiguracije"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"AudioWizard</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">Teme</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"ID korisnika"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"Koristiti USB za prijenos datoteke?"</string>
+    <string name="usb_change_config_dialog_title">"Koristiti USB za prijenos datoteke?"</string>
+    <string name="usb_change_config_dialog_message">Omogućiti prijenos datoteke korištenjem računala kojem vjerujete prilikom povezivanja.</string>
+    <string name="usb_change_config_dialog_checkbox_message">"Uvijek dopusti ovom računalu"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 end-->
+</resources>

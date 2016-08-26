@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/display_personalize">
+        <PreferenceScreen
+            android:key="home"
+            android:title="@string/set_home_screen"
+            android:persistent="false" />
+
+        <PreferenceScreen
+            android:key="lock_screen"
+            android:title="@string/set_lock_screen"
+            android:persistent="false" />
+
+        <PreferenceScreen
+            android:key="home_lockscreen"
+            android:title="@string/set_both_home_lockscreen"
+            android:persistent="false" />
+</PreferenceScreen>

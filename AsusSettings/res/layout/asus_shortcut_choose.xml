@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shortcut_list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        <ImageView
+            android:id="@+id/shortcut_first_background"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_shortcut"
+            android:visible="true" />
+        <ImageView
+            android:id="@+id/shortcut_first_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center" />
+        <ImageView
+            android:id="@+id/edit_first_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_note" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/asus_shortcut_choose_marginleft" >
+        <ImageView
+            android:id="@+id/shortcut_second_background"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_shortcut"
+            android:visible="true" />
+        <ImageView
+            android:id="@+id/shortcut_second_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center" />
+        <ImageView
+            android:id="@+id/edit_second_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_note" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/asus_shortcut_choose_marginleft" >
+        <ImageView
+            android:id="@+id/shortcut_third_background"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_shortcut"
+            android:visible="true" />
+        <ImageView
+            android:id="@+id/shortcut_third_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center" />
+        <ImageView
+            android:id="@+id/edit_third_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_note" />
+        </FrameLayout>
+  </LinearLayout>

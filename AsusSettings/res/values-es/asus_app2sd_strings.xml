@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Mover al dispositivo de almacenamiento</string>
+    <string name="move_error_unknow">No se puede mover la aplicación. Inténtelo de nuevo.</string>
+    <string name="processing">Procesando...</string>
+    <string name="dialog_hint">El proceso puede tardar.\n\nNo apague el dispositivo ni utilice las aplicaciones móviles seleccionadas. No quite el dispositivo de almacenamiento externo en este momento.\n\n¿Desea continuar?</string>
+
+</resources>

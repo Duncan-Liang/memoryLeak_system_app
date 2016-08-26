@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">נא לא להפריע</string>
+    <string name="zen_mode_option_off2">התר תמיד</string>
+    <string name="zen_mode_option_important_interruptions2">החל חוקי הפרעה</string>
+    <string name="zen_mode_option_no_interruptions2">אל תאפשר</string>
+    <string name="zen_mode_important_category2">חוקי הפרעה</string>
+    <string name="zen_mode_from2">התר שיחות/הודעות מאת</string>
+    <string name="zen_mode_from_anyone2">כולם</string>
+    <string name="zen_mode_from_contacts2">אנשי קשר בלבד</string>
+    <string name="zen_mode_from_starred2">מועדפים בלבד</string>
+    <string name="zen_mode_from_vip2">VIP בלבד</string>
+    <string name="zen_mode_downtime_category2">מועד שתוזמן (החל חוקי הפרעה)</string>
+    <string name="zen_mode_alarms_priority">התראות</string>
+    <string name="zen_mode_repeated_calls">שיחות חוזרות</string>
+    <string name="zen_mode_repeated_calls_desc">לא ניתן להשתיק שיחה שנייה תוך שתי דקות</string>
+    <string name="zen_mode_add_downtime">לוח זמנים חדש</string>
+    <string name="zen_mode_meeting_mode_category">לוח הזמנים הופעל על ידי אירועי לוח השנה</string>
+    <string name="zen_mode_weekend">סוף השבוע</string>
+    <string name="zen_mode_everyday">יומי</string>
+    <string name="zen_mode_remove_dialog_title">הסר לוח זמנים</string>
+    <string name="zen_mode_remove_dialog_message">להסיר לוח זמנים זה?</string>
+    <string name="zen_mode_limit_dialog_title">לוח זמנים חדש</string>
+    <string name="zen_mode_limit_dialog_message">ייתכן שיש לך עד %d הגדרות לוח זמנים.</string>
+    <string name="zen_mode_downtime_title">לוח זמנים</string>
+    <string name="zen_mode_downtime_title_new">לוח זמנים חדש</string>
+    <string name="zen_mode_downtime_title_edit">ערוך לוח זמנים</string>
+    <string name="zen_mode_downtime_title_meeting">ערוך לוח זמנים </string>
+    <string name="zen_mode_others">הגדרות</string>
+    <string name="zen_mode_send_notifications">הודעה</string>
+    <string name="zen_mode_send_notifications_desc">שלח הודעה לאחר הפעלה של \'נא לא להפריע\'</string>
+    <string name="zen_mode_no_interruptions_warning">"כאשר בוחרים באפשרות \"שקט מוחלט\" גם השעון המעורר יושתק."</string>
+    <string name="zen_mode_from_anyone3">"מכל אחד"</string>
+    <string name="zen_mode_from_favorites_only">"ממועדפים בלבד"</string>
+    <string name="zen_mode_from_contacts_only">"מאנשי קשר בלבד"</string>
+    <string name="zen_mode_repeat_callers2">"שיחות חוזרות"</string>
+    <string name="zen_mode_repeat_callers_summary2">"יותרו שיחות חוזרות במספר זה במשך <xliff:g id="MINUTES">%d</xliff:g> דקות"</string>
+    <string name="zen_mode_option_important_interruptions3">"החל כללי הפרעה"</string>
+    <string name="zen_mode_selected_callers2">"שיחות נבחרות"</string>
+    <string name="zen_mode_dnd_is_on">"מצב "ללא הפרעה" פעיל כעת. ניתן להפסיק אותו ידנית."</string>
+    <string name="zen_mode_turn_off_now">"הפסק כעת"</string>
+    <string name="zen_mode_custom_name">"מותאם"</string>
+    <string name="zen_mode_manual_turn_on">"הפעל את מצב "ללא הפרעה" ידנית"</string>
+    <string name="zen_mode_turn_off">"הפסק את מצב "ללא הפרעה""</string>
+    <string name="zen_mode_in_activity">"מאופשר: "</string>
+    <string name="zen_mode_forever2">"ללא הגבלת זמן"</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Cho phép các thao tác mở ứng dụng và tắt hoặc bật màn hình"</string>
+    <string name="vzw_doubletap_off_setting_title">"Chạm đúp để tắt màn hình"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Chạm đúp vào màn hình để tắt nó"</string>
+    <string name="vzw_doubletap_on_setting_title">"Chạm đúp để mở màn hình"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Chạm đúp vào màn hình tối để bật nó"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Thao tác"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Viết một ký tự khi màn hình tắt dể mở ứng dụng liên kết. Bạn có thể thay đổi ứng dụng bằng cách chạm vào dưới đây."</string>
+    <string name="vzw_w_launch_title">"“W” mở ứng dụng này"</string>
+    <string name="vzw_s_launch_title">"“S” mở ứng dụng này"</string>
+    <string name="vzw_e_launch_title">"“e” mở ứng dụng này"</string>
+    <string name="vzw_c_launch_title">"“C” mở ứng dụng này"</string>
+    <string name="vzw_z_launch_title">"“Z” mở ứng dụng này"</string>
+    <string name="vzw_v_launch_title">"“V” mở ứng dụng này"</string>
+</resources>

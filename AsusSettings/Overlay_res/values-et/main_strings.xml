@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Krüptimine katkestati ja seda ei saa lõpule viia. Seetõttu ei ole andmed teie seadmes enam ligipääsetavad. \n\n Seadme kasutamise jätkamiseks peate lähtestama selle tehaseseadetele. Kui seadistate seadme pärast lähtestamist, saate taastada kõik andmed, mis olid varundatud teie kontol.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Sisestatud parool on õige, kuid kahjuks on andmed rikutud. \n\nSeadme kasutamise jätkamiseks peate lähtestama selle tehaseseadetele. Kui seadistate seadme pärast lähtestamist, saate taastada kõik andmed, mis olid varundatud teie kontol.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"See kustutab kõik andmed teie seadme <b>sisemälust</b>, kaasa arvatud:\n\n<li>teie konto</li>\n<li>Süsteemi ja rakenduse andmed ja sätted</li>\n<li>Allalaaditud rakendused</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Kõik muudatused, mis te teete oma kontodel veebis, kopeeritakse automaatselt teie seadmesse.\n\nMõned kontod võivad ka automaatselt kõik seadmes tehtud muudatused veebi kopeerida. konto töötab nii.</string>
+</resources>

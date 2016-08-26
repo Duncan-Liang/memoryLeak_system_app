@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">Disabilita hotspot Wi-Fi nei periodi di inattività</string>
+    <string name="wifi_disable_hotspot_selection_never">Mai</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">Dopo 5 minuti</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">Dopo 10 minuti</string>
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Utenti hotspot Wi-Fi</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Nessun utente connesso all\'hotspot Wi-Fi.</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">Indirizzo IP non assegnato.</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">Lungh. prefisso di rete non assegnata.</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">Indirizzo gateway non assegnato.</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">Indirizzo DNS1 non assegnato.</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">Indirizzo DNS2 non assegnato.</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">Inserisci indirizzo IP.</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">Inserisci lungh. prefisso rete.</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Inserisci gateway</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">Imposta DNS1</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">Imposta DNS2</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">Mantieni conn Ethernet in sospensione</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">Richiede maggiore energia.</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">IMPOSTAZ. RETE</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">Per garantire la qualità di connessione, provare a ristabilire la connessione del display wireless (Miracast) o Wi-Fi Direct.</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Premi un tasto sulla tastiera per la riconnessione</string>
+</resources>

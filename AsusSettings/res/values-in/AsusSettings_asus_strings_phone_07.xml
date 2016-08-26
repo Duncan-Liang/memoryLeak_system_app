@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Ketika mengaktifkan fitur kunci panggilan masuk, Anda harus memindai sidik jari untuk menjawab panggilan. Panggilan akan disambungkan secara otomatis saat sidik jari berhasil diidentifikasi.\nHarap diingat bahwa:\n1.Anda dapat menjawab panggilan masuk langsung dari headset Bluetooth yang dipasangkan atau jam pintar tanpa memindai sidik jari.\n2.Anda tetap harus menggunakan sidik jari untuk menjawab panggilan saat menggunakan headset kabel.\n3.Anda tidak dapat menjawab panggilan dari layar panggilan masuk pihak ketiga.\n4.Untuk panggilan Voice over IP (VoIP), misalnya panggilan suara WhatsApp, Anda harus tetap menjawab panggilan dari aplikasi itu sendiri."</string>
+    <string name="asus_long_tap_warning">"Ketika fitur kunci panggilan masuk diaktifkan, menjawab panggilan melalui ketuk dan tahan akan dinonaktifkan."</string>
+</resources>

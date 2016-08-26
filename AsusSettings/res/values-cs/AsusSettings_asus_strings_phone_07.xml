@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Pokud povolíte funkci zámku příchozího hovoru, musíte přijmout hovor načtením otisku prstu. Po úspěšném načtení otisku prstu bude hovor automaticky spojen.\nPoznámka:\n1.Hovor můžete zvednout přímo pomocí spárované náhlavní soupravy Bluetooth nebo chytrých hodinek bez nutnosti načtení otisku prstu.\n2.Při používání drátově připojené náhlavní soupravy bude pro přijmutí hovoru taktéž vyžadován otisk prstu.\n3.Nebudete moci přijmout hovor pomocí obrazovky příchozích hovorů třetí strany.\n4.V případě hovorů Voice over IP (VoIP), např. hlasového hovoru WhatsApp, byste měli hovor přijmout přímo z aplikace."</string>
+    <string name="asus_long_tap_warning">"Pokud povolíte funkci zámku příchozích hovorů, bude zvedání hovorů klepnutím a podržením zakázáno."</string>
+</resources>

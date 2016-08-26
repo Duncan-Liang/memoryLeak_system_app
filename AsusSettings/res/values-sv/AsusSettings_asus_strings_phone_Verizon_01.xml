@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Internetdelning &amp; Mobil surfpunkt"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Visa i GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Visa i MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobil data"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Begränsning för mobil dataanvändning"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Meddela mig om dataanvändning"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Meddelande om dataanvändning"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Din <xliff:g example="tablet" id="device_type">%s</xliff:g> meddelar dig när din mobila dataanvändning uppnått den begränsning som valts."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Begränsning för dataanvändning"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Din mobila dataanslutning inaktiveras när din dataanvändning uppnått den begränsning som valts.\n\nDataanvändning mäts av din <xliff:g example="tablet" id="device_type">%s</xliff:g>. Din mobiloperatör kan beräkna användningen på ett annat sätt, överväg därför att ställa in en begränsning som är något under ditt mobilabonnemangs begränsning. Ställ in datum efter din mobilräknings tidsperiod."</string>
+    <string name="vzw_phone">"telefon"</string>
+    <string name="vzw_tablet">"surfplatta"</string>
+    <string name="vzw_data_usage_disclaimer">"Dataanvändningen uppmäts av din <xliff:g example="tablet" id="device_type">%s</xliff:g>. Din mobiloperatör kan beräkna användningen på ett annat sätt. Ställ in datum efter din mobilräknings tidsperiod."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Tryck för att visa användning och inställningar"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobil data är nu inaktiverad."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Du har uppnått din angivna begränsning för dataanvändning, mobil data har inaktiverats.\n\nOm du aktiverar mobil data igen kan du faktureras för extra dataanvändning av din mobiloperatör."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Aktivera Data"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobil data är inaktiverad"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Tryck för att aktivera"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Begränsning för mobil data överskriden"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> över angiven begränsning"</string>
+</resources>

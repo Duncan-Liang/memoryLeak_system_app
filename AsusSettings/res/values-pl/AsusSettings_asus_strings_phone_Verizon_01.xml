@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Tethering i mobilny hotspot"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Wyświetl w GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Wyświetl w MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Dane komórkowe"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Ogranicz użycie danych komórkowych"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Wyświetlaj alert o użyciu danych"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Alert o użyciu danych"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Gdy osiągnięty zostanie ustawiony limit użycia danych komórkowych, <xliff:g example="tablet" id="device_type">%s</xliff:g> wyświetli odpowiedni alert."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Limit użycia danych"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Gdy osiągnięty zostanie ustawiony limit użycia danych, połączenie danych komórkowych zostanie wyłączone.\n\nUżycie danych jest mierzone przez <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operator może określać użycie danych w inny sposób, dlatego też należy rozważyć ustawienie limitu nieco poniżej wartości pakietu danych. Daty należy ustawić zgodnie z okresem rozliczeniowym."</string>
+    <string name="vzw_phone">"telefon"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"Użycie danych jest mierzone przez <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operator może określać użycie danych w inny sposób. Daty należy ustawić zgodnie z okresem rozliczeniowym."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Stuknij, aby wyświetlić informacje o użyciu i ustawienia"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Dane komórkowe są teraz wyłączone."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Osiągnięto ustawiony limit użycia danych, dlatego też dane komórkowe zostały wyłączone.\n\nPonowne włączenie danych komórkowych może wiązać się z opłatami za transmisję danych naliczanymi przez operatora."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Włącz transmisję danych"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Dane komórkowe zostały wyłączone"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Dotknij, aby włączyć"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Przekroczono limit danych komórkowych"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> powyżej ustawionego limitu"</string>
+</resources>

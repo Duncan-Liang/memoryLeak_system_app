@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Flyt til enhedens lager</string>
+    <string name="move_error_unknow">Kunne ikke flytte appen. Prøv igen.</string>
+    <string name="processing">Behandler...</string>
+    <string name="dialog_hint">Denne proces kan godt tage noget tid.\n\nDu må ikke lukke din enhed ned, eller bruge de valgte apps. Du bedes venligst undgå at fjerne den eksterne lagerenhed på dette tidspunkt.\n\nØnsker du at fortsætte?</string>
+</resources>

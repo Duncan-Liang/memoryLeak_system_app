@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"デバイス端末のホルダー装着時やスリープ時の動作を管理するにはスクリーンセーバーをONにします。"</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Asus Lock Screen Weather Animation Effect -->
+    <string name="asus_lockscreen_enable_weather_animation">"Animation météo"</string>
+    <string name="asus_lockscreen_enable_weather_effect_on_lockscreen">"Activer l'animation météo sur l'écran de verrouillage"</string>
+    <!-- Asus Lock Screen Theme -->
+    <string name="asus_lockscreen_change_lockscreen_theme">"Changer le thème de l'écran de verrouillage"</string>
+    <!-- Asus Lock Screen Wallpaper -->
+    <string name="asus_lockscreen_change_lockscreen_wallpaper">"Changer le fond d'écran de l'écran de verrouillage"</string>
+    <!-- BEGIN: For Lock screeen widget settings string -->
+    <string name="asus_lock_screen_show_clock_widget">"Afficher le widget de l'horloge"</string>
+    <!-- END: For Lock screeen widget settings string -->
+    <!-- BEGIN: For fingerprint settings string -->
+    <string name="security_settings_manage_fingerprint_preference_title">"Gérer les empreintes digitales"</string>
+    <string name="secure_with_fingerprint_category">"Utiliser les empreintes digitales pour"</string>
+    <string name="secure_unlock_with_fingerprint_item">"Débloquer l'appareil"</string>
+    <string name="secure_unlock_with_fingerprint_summary">"Utiliser les empreintes digitales pour débloquer l'écran."</string>
+    <string name="fingerprint_management_category">"Stocker les empreintes digitales"</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature[CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_title">"Ajouter une empreinte digitale"</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_message">"Utilisez les empreintes digitales pour déverrouiller l'appareil ou accéder aux appels et aux données de votre téléphone. Vous devrez configurer une méthode de verrouillage de l'écran avec les empreintes digitales."</string>
+    <!-- Introduction title shown in fingerprint enrollment dialog to locate the sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_title">"Localiser le capteur d'empreintes digitales"</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_front">"Recherchez le capteur d'empreintes digitales à l'avant de votre appareil. Réglez Ajustez le doigt et essayez de recouvrir les différentes portions de votre doigt."</string>
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_back">"Recherchez le capteur d'empreintes digitales à l'arrière de votre appareil. Réglez Ajustez le doigt et essayez de recouvrir les différentes portions de votre doigt."</string>
+    <!-- Title shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=29]-->
+    <string name="asus_security_settings_fingerprint_enroll_start_title">"Placer et soulever"</string>
+    <!-- Message shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_start_message">"Placez le doigt sur le capteur d'empreintes digitales et soulevez-le lorsque vous ressentez les vibrations."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_title">"Répéter maintenant"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_message">"Répétez cette action « placer et soulever » jusqu'à ce que la totalité de l'empreinte digitale soit capturée."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_title">"Capturer davantage"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_message">"Ajustez votre prise et enregistrez les différentes parties de votre doigt."</string>
+    <string name="asus_security_settings_fingerprint_enroll_hint">"[Appuyez sur la touche retour pour revenir en arrière. Le bouton Accueil est désactivé pendant l'inscription.]"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is completed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_title">"Terminé"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is completed -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_message">"Votre empreinte est prête. Toutes les empreintes stockées peuvent être utilisées pour déverrouiller l'appareil, répondre à un appel et accéder aux données."</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is failed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_title">"Échec"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is failed -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_message">"Échec de l'enregistrement de l'empreinte. Réessayez plus tard."</string>
+    <string name="asus_fingerprint_acquied_too_similar">"Déplacez et ajustez légèrement le doigt pour balayer différentes zones de votre empreinte."</string>
+    <string name="asus_security_settings_fingerprint_enroll_lift_touch_again">"Placez le doigt à plusieurs reprises sur le scanner d'empreintes, puis soulevez-le."</string>
+    <!-- Text shown in fingerprint settings explaining what the fingerprint can be used for in the case unlocking is disabled [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_disabled_on_lockscreen">"Option de verrouillage de l'écran désactivée."</string>
+    <!-- END: For fingerprint settings string -->
+</resources>

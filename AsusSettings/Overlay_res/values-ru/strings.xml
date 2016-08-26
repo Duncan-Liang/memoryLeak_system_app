@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Чтобы знать, что происходит с устройством, когда оно подключено к док-станции или находится в спящем режиме, включите заставку."</string>
+</resources>

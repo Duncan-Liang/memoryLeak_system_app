@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_info">Oplysninger om softwaren</string>
+ <string name="hardware_info">Oplysninger om hardwaren</string>
+ <string name="software_info_summary">Baseband, Kernel version, Build-nummer, osv.</string>
+ <string name="hardware_info_summary">Wi-Fi, Bluetooth, Firmwareversion, osv.</string>
+ <string name="asus_encrypt_phone_title">Krypter telefon</string>
+ <string name="asus_encrypt_phone_description">Tag venligst din telefon ud af din PadFone Station for at kryptere den</string>
+ <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">Der er ikke nok plads på enheden til at kryptere den</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"Flere indstillinger"</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">En app ønsker at gøre din enhed synlig for andre Bluetooth-enheder i <xliff:g id="timeout">%1$d</xliff:g> sekunder.</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">En app ønsker at gøre din enhed synlig for andre Bluetooth-enheder. Du kan ændre dette senere i Bluetooth-indstillingerne.</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">En app ønsker at tænde for din Bluetooth-funktion, og gøre din enhed synlig for andre enheder i <xliff:g id="timeout">%1$d</xliff:g> sekunder.</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">En app ønsker at tænde for din Bluetooth-funktion, og gøre din enhed synlig for andre enheder. Du kan ændre dette senere i Bluetooth-indstillingerne.</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">Info om håndhåldt mobilenhed</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">Når du tillader dataroaming, skal du muligvis betale høje roamingtakster!\n\nDenne indstilling påvirker alle brugere af denne håndholdte mobilenhed.</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">Krypter enhed</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">
+    Du kan kryptere dine konti, indstillinger, downloadede apps og deres data, medier og andre filer. Når du krypterer din enhed, forudsat du brugeren skærmlås (dvs. et mønster eller en pinkode eller adgangskode), skal skærmen låses op for at dekryptere enheden, hver gang du tænder for den. Den eneste anden måde at dekryptere enheden på, er at nulstille den til fabriksindstillingerne, hvilket sletter alle dine data.\n\nKrypteringen tager en time eller mere. Du skal starte med et opladet batteri, og enheden skal være tilsluttet under hele processen. Hvis du afbryder den, mister du muligvis nogle eller alle dine data</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">Krypter enhed</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">
+    Den kryptering kan ikke fortrydes, og hvis du afbryder den, mister du evt. dine data. Krypteringen tager en time eller mere, hvor enheden genstarter op til flere gange.
+    </string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Vent mens enheden krypteres. <xliff:g example="50" id="percent">^1</xliff:g>% udført.</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Vent mens enheden krypteres. Tid tilbage: <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Krypteringen blev afbrudt, og kan ikke fuldføres. På grund af dette, er dataene på din enhed ikke længere tilgængelig. \n\n For at bruge enheden igen, skal den først nulstilles til fabriksindstillingerne. Når enheden indstilles efter nulstillingen, får du mulighed for at gendanne data, som du evt. har sikkerhedskopieret til din Google-konto.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Den indtastede adgangskode er rigtig, men dine data er desværre ødelagte. \n\nFor at bruge enheden igen, skal den først nulstilles til fabriksindstillingerne. Når enheden indstilles efter nulstillingen, får du mulighed for at gendanne data, som du evt. har sikkerhedskopieret til din Google-konto.
+    </string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g> afbrydes, og kan ikke længere bruge denne enheds internetforbindelse.</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">Tillad dataudveksling, når enheden rører ved en anden enhed</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">ADVARSEL: Hvis du springer over Wi\u2011Fi, bruger din enhed kun mobildata til indledende downloads og opdateringer. For at undgå ekstra dataudgifter, skal du oprette en forbindelse til Wi\u2011Fi.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">ADVARSEL: Hvis du springer over Wi\u2011Fi, har enheden ikke nogen internetforbindelse til de indledende downloads og opdateringer.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">Enheden kunne ikke oprette forbindelse til dette Wi\u2011Fi-netværk.</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">Enheden sidder ikke i docken</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">Du skal sætte enheden i docken, inden du kan indstille dock-lyden.</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">Afspil lyd, når enden sættes i og tages ud af docken</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">Afspil ikke lyd, når enden sættes i og tages ud af docken</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">Skift automatisk retning, når enheden drejes</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">Skift automatisk retning, når enheden drejes</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">Bed om en pinkode, før enheden kan bruges</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">Bed om en pinkode, før enheden kan bruges</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">Enhedsstatus</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">Status for batteri, netværk og andre oplysninger</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">Sletter alle dataene på enheden.</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Dette sletter alle dataene fra din enheds <b>interne lager</b>, herunder:\n\n<li>Din Google-konto</li>\n<li>System- og app-data og indstillinger</li>\n<li>Downloadede apps</li>"</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">Nulstil enheden</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">Deling af denne enheds internetforbindelse</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">Deling af denne enheds internetforbindelse til 1 enhed</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">Deling af denne enheds internetforbindelse til <xliff:g id="connectedDeviceCount">%1$d</xliff:g> enheder</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">Del ikke denne enheds internetforbindelse</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">Lad apps bruge GPS-funktionen på din enhed, for at finde din placering</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">Om enheden</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">Din enheden og personlige data er mere sårbare over for angreb fra apps fra ukendte kilder. Du accepterer, at du alene er ansvarlig for eventuelle skader på din enhed og tab af data, der kan skyldes brug af disse apps.</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">Denne app har adgang til følgende på din enhed:</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">Denne app har adgang til følgende på din enhed.</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">Flyt til enhed</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">Hvis du stopper denne tjeneste, holder nogle funktioner på din enhed op med at virke, før du slukker og tænder for den.</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">Enhedsoplysninger</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">Inaktiv enhed</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">Enhed</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">Batteriet bruges, når enheden er inaktiv</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">Hvis denne konto fjernes, slettes alle sine beskeder, kontakter og andre data fra enheden!</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Eventuelle ændringer, du laver på dine konti på nettet, kopieres automatisk til din enhed.\n\nNogle konti kopierer også automatisk de ændringer, du laver på enheden til internettet. En Google-konto fungerer på denne måde.</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">Enheden slukker for mobildata, når den når til grænsen, som du har indstillet.\nDa din enhed muligvis måler dit dataforbrug anderles end din teleudbyder, anbefales det at du indstiller en sikker grænse.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">Hvis du slår dataforbrug i baggrunden fra, virker nogle apps og tjenester muligvis ikke, medmindre du er forbundet til et Wi\u2011Fi-netværk.\n\nDenne indstilling påvirker alle brugere af denne enhed.</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>: Om <xliff:g example="128KB" id="total">%1$s</xliff:g> bruges, som målt af din enhed. Din teleudbyder måler muligvis dit dataforbrug anderledes.</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">Det er kun enhedens ejer, der kan administrere brugerne.</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">Du mister din plads og data på denne enhed. Denne handling kan ikke fortrydes.</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">Denne indstilling påvirker alle brugere af denne enhed.</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">Tillad dataudveksling, når enheden rører ved en anden enhed</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">Kun GPS</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">Når denne funktion er slået til, kan skærmen fastgøres og frigøres.\n\nSådan bruges skærmfastgørelsen:\n\n1. Sørg for at skærmfastgørelsesfunktionen er slået til.\n\n2. Åbn skærmen, som du ønsker at fastgøre.\n\n3. Tryk på seneste apps-knappen.\n\n4. Tryk på nål-ikonet.</string>
+
+    <string name="zenui_update">Opdateringer til APP ZenUI</string>
+ <string name="c_launch_title">"C" for at åbne app\'en</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">Vis ikke denne besked igen.</string>
+    <string name="double_tap_mode_confirm_dialog_message">Hvis skærmen er slukket, skal du dobbelttrykke på skærmen for at tænde den. På en låseskærm, der låses ved at stryge med fingeren, skal du dobbelttrykke for at slukke for skærmen. På en statuslinje og et opstartsprogram, skal du dobbelttrykke for at slukke for skærmen.</string>
+    <string name="double_tap_mode_confirm_dialog_title">Dobbelttryk for at aktivere/\ndobbelttryk for at deaktivere</string>
+    <string name="doubletap_mode_setting_summary">Dobbelttryk for at aktivere/"\n"Dobbelttryk for at deaktivere</string>
+    <string name="doubletap_mode_setting_title">Skærm til/fra</string>
+    <string name="e_launch_title">"e" for at åbne app\'en</string>
+    <string name="motion_gesture_category_title">Håndbevægelser</string>
+    <string name="s_launch_title">"S" for at åbne app\'en</string>
+    <string name="shake_sensitivity_title">Rystefølsomhed</string>
+    <string name="shake_title">Ryste ryste</string>
+    <string name="touch_gesture_category_title">Håndbevægelser</string>
+    <string name="v_launch_title">"V" for at åbne app\'en</string>
+    <string name="w_launch_title">"W" for at åbne app\'en</string>
+    <string name="z_launch_title">"Z" for at åbne app\'en</string>
+    <string name="app_disable">Deaktiver</string>
+    <string name="shake_sensitivity_entries_high">Høj</string>
+    <string name="shake_sensitivity_entries_low">Lav</string>
+    <string name="shake_sensitivity_entries_normal">Normal</string>
+    <string name="double_tap_off_confirm_dialog_message">Stryg på låseskærmen, for at låse den op. Dobbelttryk på et ledigt sted, for at slukke skærmen. Når statuslinjen og startprogrammet vises, kan du trykke på et ledigt sted på skærmen, for at slukke den.</string>
+    <string name="double_tap_off_confirm_dialog_title">Dobbelttryk for at afbryde</string>
+    <string name="double_tap_on_confirm_dialog_message">Når skærmen er slukket, skal du dobbelttrykke på det samme sted, for at vække skærmen.</string>
+    <string name="double_tap_on_confirm_dialog_title">Dobbelttryk for at vække skærmen</string>
+    <string name="doubletap_off_setting_summary">Dobbelttryk for at afbryde</string>
+    <string name="doubletap_off_setting_title">Skærm slukket</string>
+    <string name="doubletap_on_setting_summary">Dobbelttryk for at vække skærmen</string>
+    <string name="doubletap_on_setting_title">Skærm tændt</string>
+    <string name="cpu_frequency_title">CPU</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="shake_summary">Når du bruger en app, skal du ryste enheden to gange for at tage et skærmudklip, og opret en ny opgave i Do It Later.</string>
+    <string name="sleep_touch_gesture_category_title">Suspenderet</string>
+    <string name="wake_up_touch_gesture_category_title">Wakeup</string>
+    <string name="motion_double_click_summary">Klik to gange på selve telefonen.</string>
+    <string name="motion_double_click_title">Dobbeltklik</string>
+    <string name="motion_flip_summary">Vend enheden.</string>
+    <string name="motion_flip_title">Vend om</string>
+    <string name="motion_hand_up_summary">Hold telefonen på højkant, og hold den for øret.</string>
+    <string name="motion_hand_up_title">Hænderne op</string>
+    <string name="motion_walking_summary">Mens telefonen er i hånden eller lommen, ved den at du går eller bevæger dig.</string>
+    <string name="motion_walking_title">Bevæger sig</string>
+    <string name="app_asus_front_camera_name">"Kamera - objektiv foran"</string>
+    <string name="tutorial_c_launch_summary">"Når skærmen er slukket, skal du tegne et "C" for at starte app'en"</string>
+    <string name="tutorial_double_click_summary">"Når et opkald modtages, skal du dobbeltklikke på telefonen, for at stille den på lydløs."</string>
+    <string name="tutorial_e_launch_summary">"Når skærmen er slukket, skal du tegne et "e" for at starte app'en"</string>
+    <string name="tutorial_flip_down_summary">"Når et opkald modtages, skal enheden vendes på hovedet for at stille den på lydløs. Under en medieafspilning, skal enheden vendes på hovedet for at sætte afspilningen på pause."</string>
+    <string name="tutorial_flip_down_title">"Vend på hovedet (nedad)"</string>
+    <string name="tutorial_flip_up_summary">"Når medieafspilningen er sat på pause, skal enheden vendes på hovedet for at starte afspilningen igen."</string>
+    <string name="tutorial_flip_up_title">"Vend op igen"</string>
+    <string name="tutorial_hands_up_summary">"Hold telefonen mod øret for at besvare et opkald automatisk, uden at trykke på skærmen."</string>
+    <string name="tutorial_moving_summary">"Når du modtager en opkald, kan du skrue op for ringtonen, mens du går eller bevæger dig."</string>
+    <string name="tutorial_s_launch_summary">"Når skærmen er slukket, skal du tegne et "S" for at starte app'en"</string>
+    <string name="tutorial_v_launch_summary">"Når skærmen er slukket, skal du tegne et "V" for at starte app'en"</string>
+    <string name="tutorial_w_launch_summary">"Når skærmen er slukket, skal du tegne et "W" for at starte app'en"</string>
+    <string name="tutorial_z_launch_summary">"Når skærmen er slukket, skal du tegne et "Z" for at starte app'en"</string>
+    <string name="zenmotion_tutorial_title">"Vejledning"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"Seneste nulstilling til fabriksindstillingerne"
+    </string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"Konfigurationversion"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"Lydguide"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">Temaer</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"Kunde-id"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"Brug USB til filoverførsel?"</string>
+    <string name="usb_change_config_dialog_title">"Brug USB til filoverførsel?"</string>
+    <string name="usb_change_config_dialog_message">Tillad filoverførsel vha. computere, som du stoler på, når de er tilsluttet.</string>
+    <string name="usb_change_config_dialog_checkbox_message">"Tillad altid for denne computer"
+    </string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 2016/6/27 end-->
+</resources>

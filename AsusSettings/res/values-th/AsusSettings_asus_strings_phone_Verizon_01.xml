@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"เทเธอริ่ง &amp; โมบายล์ฮ็อตสป็อต"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"แสดงในหน่วย GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"แสดงในหน่วย MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"ข้อมูลมือถือ"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"จำกัดการใช้ข้อมูลมือถือ"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"แจ้งฉันเกี่ยวกับการใช้ข้อมูล"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"แจ้งการใช้ข้อมูล"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"<xliff:g example="tablet" id="device_type">%s</xliff:g> จะแจ้งคุณเมื่อการใช้ข้อมูลมือถือของคุณถึงปริมาณที่คุณเลือก"</string>
+    <string name="vzw_data_usage_limit_dialog_title">"ขีดจำกัดการใช้ข้อมูล"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"การเชื่อมต่อข้อมูลมือถือของคุณจะถูกปิด เมื่อการใช้ข้อมูลของคุณถึงขีดจำกัดที่คุณเลือก\n\nการใช้ข้อมูลถูกวัดโดย <xliff:g example="tablet" id="device_type">%s</xliff:g> ของคุณ ผู้ให้บริการของคุณอาจคำนวณการใช้แตกต่างออกไป ดังนั้นให้พิจารณาตั้งค่าขีดจำกัดที่ต่ำกว่าแผนข้อมูลของคุณเล็กน้อย ตั้งวันที่ให้ตรงกับรอบการชำระเงินของคุณ"</string>
+    <string name="vzw_phone">"โทรศัพท์"</string>
+    <string name="vzw_tablet">"แท็บเล็ต"</string>
+    <string name="vzw_data_usage_disclaimer">"การใช้ข้อมูลถูกวัดโดย <xliff:g example="tablet" id="device_type">%s</xliff:g> ของคุณ ผู้ให้บริการของคุณอาจคำนวณการใช้แตกต่างออกไป ตั้งวันที่ให้ตรงกับรอบการชำระเงินของคุณ"</string>
+    <string name="vzw_data_usage_warning_notification_message">"แทปเพื่อดูการใช้และการตั้งค่าต่าง ๆ"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"ขณะนี้ข้อมูลมือถือปิด"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"คุณใช้ข้อมูลถึงขีดจำกัดข้อมูลที่ระบุของคุณแล้ว ดังนั้นข้อมูลมือถือจึงถูกปิด\n\nถ้าคุณเปิดข้อมูลมือถือกลับขึ้นมา คุณอาจถูกคิดค่าบริการการใช้ข้อมูลจากผู้ให้บริการของคุณ"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"เปิดข้อมูล"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"ข้อมูลมือถือปิด"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"แตะเพื่อเปิดทำงาน"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"เกินขีดจำกัดข้อมูลมือถือแล้ว"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> เหนือขีดจำกัดที่ระบุ"</string>
+</resources>

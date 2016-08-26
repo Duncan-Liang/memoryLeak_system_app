@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Quando você ativa o recurso do bloqueio de chamadas, é necessário usar sua digital para atender uma chamada. A chamada será completada após a digital ser identificada com sucesso.\nObserve que:\n1.Você pode atender uma chamada recebida diretamente de um fone de ouvido pareado via Bluetooth ou de um relógio inteligente sem escanear sua digital.\n2.Você ainda precisará usar sua digital para atender uma chamada quando o fone de ouvido com fio estiver ligado.\n3.Você não conseguirá atender uma chamada usando uma tela de chamada recebida de terceiros.\n4.Para chamada de voz sobre IP (VoIP), isto é, chamada de voz via WhatsAppl, você deve atender a chamada diretamente do aplicativo."</string>
+    <string name="asus_long_tap_warning">"Quando o recurso de bloqueio de recebimento de chamada está ativo, atender chamadas por toque ou pressionar de teclas ficará desativado."</string>
+</resources>

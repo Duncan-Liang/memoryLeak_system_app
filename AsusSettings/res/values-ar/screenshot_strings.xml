@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"إعداد المفتاح السريع"</string>
+    <string name="screenshot_hot_key_title">"مفتاح التطبيقات الأخيرة"</string>
+    <string name="screenshot_hot_key_summary">"انقر مع الاستمرار فوق مفتاح التطبيقات الأخيرة لالتقاط صورة للشاشة"</string>
+    <string name="screenshot_format_setting_title">"إعداد تنسسيق الملف"</string>
+    <string name="screenshot_format_title">"صيغة ملف صورة الشاشة"</string>
+    <string name="screenshot_sound_setting_title">"إعداد الصوت"</string>
+    <string name="screenshot_sound_title">"تمكين صوت لقطات الشاشة"</string>
+    <string name="screenshot_notify_setting_title">"إعداد الإشعار"</string>
+    <string name="screenshot_notify_title">"تمكين الإشعار"</string>
+</resources>

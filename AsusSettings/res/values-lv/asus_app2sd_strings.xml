@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Pārvietot uz ierīces atmiņu</string>
+    <!-- Manage applications, text for move error messages -->
+    <string name="move_error_unknow">Lietotni nav iespējams pārvietot. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="dialog_hint">Šim procesam var būt vajadzīgs zināms laiks. \n\nLūdzu, neizslēdziet ierīci un nelietojietpārvietošanai atlasītās lietotnes. Lūdzu, šobrīd nenoņemiet ārējo atmiņas ierīci. \n\nVai vēlaties turpināt?</string>
+    <string name="processing">Notiek apstrāde...</string>
+</resources>

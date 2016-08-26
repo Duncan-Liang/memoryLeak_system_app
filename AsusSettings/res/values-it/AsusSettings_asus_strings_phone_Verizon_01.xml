@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Hotspot tethering e mobile"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Visualizza in GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Visualizza in MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Dati mobili"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Limita uso dati mobili"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Avvisa sull'uso dei dati"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Avviso Uso dati"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Il <xliff:g example="tablet" id="device_type">%s</xliff:g> avviserà quando l'uso dei dati mobili raggiunge la soglia selezionata."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Limite Uso dati"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"La connessione con dati mobili sarà disattivata quano l'uso dei dati raggiunge la soglia selezionata.\n\nL'uso dei dati viene misurato dal proprio <xliff:g example="tablet" id="device_type">%s</xliff:g>. Il provider potrebbe calcolare l'uso in modo diverso, pertanto si consiglia di impostare il limite su una soglia leggermente inferiore a quella prevista dal proprio piano dati. Impostare le date in modo che corrispondano a quelle della fatturazione."</string>
+    <string name="vzw_phone">"telefono:"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"L'uso dei dati viene misurato dal proprio <xliff:g example="tablet" id="device_type">%s</xliff:g>. Il providewr potrebbe calcolare l'uso in modo diverso. Impostare le date in modo che corrispondano a quelle della fatturazione."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Toccare per visualizzare uso e impostazioni"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"I dati mobili sono disattivati."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"È stata raggiunto il limite definito oper l'uso dei dati, quindi i dati mobili sono stati disattivati.\n\nSe si riattivano i dati mobili, il provider potrebbe addebitare dei costi per l'uso dei dati."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Attiva dati"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"I dati mobili sono disattivati."</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Toccare per attivare"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Superato il limite dati mobili"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> oltre il limite specificato"</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Tillåt gester för att öppna appar och slå av och på skärmen"</string>
+    <string name="vzw_doubletap_off_setting_title">"Dubbeltryck för att stänga av skärmen"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Dubbeltryck på skärmen för att stänga av den"</string>
+    <string name="vzw_doubletap_on_setting_title">"Dubbeltryck för att väcka"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Dubbeltryck på en mörk skärm för att slå på den"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Gester"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Rita en bokstav när skärmen är av för att öppna den associerade appen. Du kan ändra appen genom att trycka här nedanför."</string>
+    <string name="vzw_w_launch_title">"”W” öppnar den här appen"</string>
+    <string name="vzw_s_launch_title">"”S” öppnar den här appen"</string>
+    <string name="vzw_e_launch_title">"”e” öppnar den här appen"</string>
+    <string name="vzw_c_launch_title">"”C” öppnar den här appen"</string>
+    <string name="vzw_z_launch_title">"”Z” öppnar den här appen"</string>
+    <string name="vzw_v_launch_title">"”V” öppnar den här appen"</string>
+</resources>

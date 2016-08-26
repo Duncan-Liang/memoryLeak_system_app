@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Javid Change Title "About Phone" to "About" -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">永远不要</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">保持屏幕开启</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">平板EC版本</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">相机版本</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">触控屏版本</string>
+<!-- AsusSetupWizard String--> <!-- Guoliang_Lin, 2011/01/07, UI required, new feature -->
+
+<!-- Phone Storage Strings -->
+
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">屏幕截图</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">长按导航栏中的最近应用程序键时进行屏幕截图</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">屏幕截图文件格式</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+<!-- Keyboard Locale Strings --> <!-- Yang, 2011/2/8, UI required, new feature -->
+
+<!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">行动底座版本</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">无法使用</string>
+
+<!-- Javid_Shu, 2011.2.18, , UI required, new feature -->
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">关于</string>
+
+<!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature -->
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">WLAN版本</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">蓝牙版本</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">GPS版本</string>
+
+<!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+
+<!-- Johnson2_Chen, 2011/03/17, UI required, new feature -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">卸除外接设备</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">安全地卸除硬件</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">连接外接设备进行辨识</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">外接设备已辨识</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">卸除外接设备</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">当您卸除外接设备时，使用中的应用程序将被中止，直到再次连接外接设备时才可使用</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">卸除外接设备失败</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">外接设备无法辨识，请稍后再试</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">外接设备将被卸除</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">清除外接设备的数据</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">触控板使用方式</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">手势模式</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">鼠标光标模式</string>
+
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">ASUS个人化设置</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">右键功能设置</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">中键功能设置</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">显示菜单</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">作为Android中键</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">作为后退键</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">作为菜单键</string>
+
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+
+
+
+
+
+
+    <!-- Lance Tung , 2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">电源管理</string>
+
+
+    <!-- Nick_Mou, 2012/08/16 -->
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Scalar 版本</string>
+
+
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">电力管理</string>
+    <string name="powerstatistics_app_name">应用使用详情</string>
+    <string name="powersaver_app_name">节省电力</string>
+
+
+
+    <string name="alarm_wakeup_total">唤醒次数</string>
+    <string name="alarm_times">次</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage">请输入</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">清除所有应用程序缓存</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">清除所有应用程序缓存？</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">所有应用程序缓存将会被清除，并会将缓存空间释放至内置存储空间</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">清除缓存</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">正在处理...</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">缓存已清除</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title" description="The title of ATT factory reset password setting" maxWidth="">出厂数据重置密码</string>
+    <string name="att_factory_reset_password_header_no_sim_card" description="The description for entering factory reset without sim card" maxWidth="">请输入出厂数据重置的密码</string>
+    <string name="att_factory_reset_password_header_enter_old" description="The description for entering the old ATT factory reset password" maxWidth="">请输入旧密码</string>
+    <string name="att_factory_reset_password_header_enter_new" description="The description for entering the new ATT factory reset password" maxWidth="">请输入新密码</string>
+    <string name="att_factory_reset_password_header_confirm_new" description="The description for confirming the new ATT factory reset password" maxWidth="">确认新密码</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"格式化 SD 卡"</string>
+    <string name="erase_mircosd_storage_description">"清除 SD 卡中的全部数据，例如音乐或照片"</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+
+    <!-- MikeHsu for 25th strings -->
+    <string name="clear_apps_data">恢复应用程序</string>
+    <string name="clear_apps_data_account">\n\n"这些帐户将被移除"</string>
+    <string name="clear_apps_data_title">是否清除所有应用程序数据？</string>
+    <string name="clear_apps_data_desc">"所有应用程序数据将永久删除，包括"\n\n<li>"所有文件数据"</li>\n<li>"设置"</li>\n<li>"帐户"</li>\n<li>"数据库"</li>\n<li>"缓存"</li>
+    </string>
+    <string name="clear_apps_data_final_desc">清除所有应用程序数据？装置将重新启动，运行此动作后无法恢复</string>
+    <string name="clear_apps_data_button">清除数据</string>
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">新邮件</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">发送邮件</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">日历通知</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">默认闹钟</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">此应用程序需要网络连接，请由设置中开启移动网络或无线网络</string>
+    <string name="load_suspended_title">无网络连接</string>
+    <string name="button_label_settings">设置</string>
+    <string name="button_label_cancel">取消</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">已达可选择键盘的最大数量</string>
+
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">防止唤醒设备</string>
+    <string name="app_wakelock_switch_label">防止设备保持清醒</string>
+    <string name="powermanagement_options_dialog">此设置可能需要重新启动应用程序或重新启动后才会生效</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">快速设置选项</string>
+    <string name="quick_setting_description">选择快速设置显示项目</string>
+    <string name="quick_setting_reset_title">重置快速设置项目</string>
+    <string name="quick_setting_reset_message">快速设置项目将被重置。</string>
+    <!-- end -->
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">PadFone Station版本</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">PadFone Station 触控面板版本</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">PadFone Station 相机版本</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">快速设置</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">锁定屏幕</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">在锁定屏幕上启动应用程序</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">快速访问</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">\u663e\u793a\u72b6\u6001\u680f</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">手写笔版本</string>
+
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">暗</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">亮</string>
+
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">将诊断资料传送至ASUS，以协助提升产品的品质与效能。</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">设置您的 PIN</string>
+    <string name="lockpassword_setup_your_password_header">设置您的密码</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">最近应用程序键</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>始终显示最近应用程序</item>
+        <item>长按时进行屏幕截图</item>
+        <item>长按时显示菜单</item>
+    </string-array>
+    <string name="touch_key_light_title">按键</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">IA 固件版本</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting transcover" maxwidth="-1">华硕皮套</string>
+    <string name="asus_transcover_category_title" description="category title for setting transcover" maxwidth="-1">配件</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">自动休眠/唤醒</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">关闭和打开皮套时，自动让萤幕休眠和唤醒</string>
+    <string name="asus_cover_settings">华硕皮套设置</string>
+    <string name="asus_cover_automatic_unlock_tittle">锁定/解锁</string>
+    <string name="asus_cover_automatic_unlock_summary">关闭和打开皮套时自动锁定和解锁萤幕</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">键盘控制器 IC 固件版本</string>
+
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">显示电量百分比</string>
+
+    <!-- George Yeh 2014/01/09 for Asus LockScreen Settings -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">What\'s Next 小部件</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">在锁定屏幕上显示 What\'s Next 小部件</string>
+    <string name="select_shortcut_ap_title" description="Set quick access app" maxwidth="-1">设置快速访问应用程序</string>
+
+    <!-- Guoliang Lin, 2014/02/20 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">电池版本</string>
+
+    <!-- yiqiu_huang@asus.com,installation for app2sd -->
+    <string name="app_installation_category">应用程序安装</string>
+    <string name="app_installation_title">应用程序安装设置</string>
+    <string name="app_installation_summary">自定义与应用程序安装相关的设置</string>
+    <string name="app_installation_settings_category">默认安装位置</string>
+    <string name="app_installation_settings_preferinternal_title">首选内部存储空间</string>
+    <string name="app_installation_settings_preferinternal_summary">将应用程序安装在内部存储空间。存储空间不足时，部分应用程序可能安装在外部存储空间</string>
+    <string name="app_installation_settings_preferexternal_title">首选外部存储空间</string>
+    <string name="app_installation_settings_preferexternal_summary">若允许，将应用程序安装在外部存储空间</string>
+    <string name="app_installation_settings_forceexternal_title">强制安装在外部存储空间</string>
+    <string name="app_installation_settings_forceexternal_description">专家设置:\n\n将未指定位置的应用程序安装在外部存储空间\n\n
+对于包含背景服务、闹钟服务、输入法引擎、启动器、动态壁纸、应用程序小工具、帐户管理器、同步服务、设备管理员、监听开机信号等设计的程序，可能导致操作异常</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">手套模式</string>
+    <string name="glove_mode_setting_summary" maxwidth="-1">提高戴手套时的触摸灵敏度</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">已预装</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">此应用程序已启用</string>
+
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+    <string name="memory_system_reserved_usage">系统保留</string>
+
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">快速启动相机</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">当设备休眠时, 快速连按两次音量键以启动相机</string>
+
+    <string name="asus_lockscreen_camera_settings">相机</string>
+    <string name="lockscreen_enable_camera_widget_title">滑动启动</string>
+    <string name="lockscreen_enable_camera_widget">在锁定屏幕上从右到左滑动可以启动相机</string>
+
+    <string name="lockscreen_enable_slide_widget_title">略过滑动页</string>
+    <string name="lockscreen_enable_slide_widget">在唤醒时略过滑动页面</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">主屏幕</string>
+    <string name="set_lock_screen">锁屏幕</string>
+    <string name="set_both_home_lockscreen">主屏幕和锁定屏幕</string>
+
+    <!-- sheng-en_fann@asus.com -->
+    <string name="led_indicator">呼吸灯</string>
+    <string name="auto_brightness_settings_title">自动亮度选项</string>
+    <string name="auto_brightness_settings_gain">增益</string>
+    <string name="auto_brightness_settings_sensor">光感应器</string>
+    <string name="auto_brightness_settings_adjustment">允许改变增益</string>
+    <string name="auto_brightness_settings_reset_gain">恢复默认值</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">恢复至默认增益值?</string>
+    <string name="auto_brightness_settings_indark">在黑暗环境中</string>
+    <string name="auto_brightness_settings_indark_title">降低亮度</string>
+    <string name="auto_brightness_settings_indark_slow">缓慢</string>
+    <string name="auto_brightness_settings_indark_immediate">立即</string>
+    <string name="auto_brightness_settings_indark_dynamic">动态</string>
+    <string name="show_sensor_usage">显示光感应器值</string>
+    <string name="show_sensor_usage_summary">画面重叠显示当前光感应器状态</string>
+
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">简易模式</string>
+    <string name="asus_easy_launcher_intro" maxwidth="">简易模式提供简单的布局和核心功能，让您享受友好直观的界面体验</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">单手模式</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">快速切换</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">双击 home 键切换单手操作</string>
+
+    <!-- Ashen_gu@asus.com@2014/12/9 -->
+    <string name="ring_notification_volume_option_title">铃声和通知音音量</string>
+
+    <string name="detect_drain_apps">发现耗电应用程序</string>
+
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">警告</string>
+    <string name="asus_master_clear_check_backup_message">您已经在内存储器中保存数据。 重置前，请将数据移至外部存储器，否则，将从内存中清除这些数据。 您是否仍然希望继续重置?</string>
+    <!-- END chilung_chen@asus.com-->
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="both">\u66f4\u6539\u9501\u5c4f\u7c7b\u578b</string>
+    <string name="lockpassword_choose_private_mode">\u9009\u62e9隐私模式\u65b0\u5bc6\u7801</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">\u9009\u62e9\u673a\u4e3b\u65b0\u5bc6\u7801</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">\u9009\u62e9\u673a\u4e3b\u65b0 PIN</string>
+    <string name="lockpassword_confirm_private_mode">\u786e\u8ba4隐私模式\u5bc6\u7801</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">\u786e\u8ba4\u673a\u4e3b\u5bc6\u7801</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">\u786e\u8ba4\u673a\u4e3b PIN</string>
+    <string name="lockpattern_choose_private_mode">\u7ed8\u5236隐私模式\u65b0\u7684\u89e3\u9501\u56fe\u5f62</string>
+    <string name="lockpattern_confirm_private_mode">\u518d\u6b21\u7ed8\u5236隐私模式\u89e3\u9501\u56fe\u5f62\u4ee5\u786e\u8ba4</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">\u518d\u6b21\u7ed8\u5236\u673a\u4e3b\u89e3\u9501\u56fe\u5f62\u4ee5\u786e\u8ba4</string>
+    <string name="lockpattern_pattern_same_to_normal">\u56fe\u5f62\u4e0e\u6b63\u5e38\u60c5\u51b5\u76f8\u540c</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">\u7ed8\u5236\u673a\u4e3b\u65b0\u89e3\u9501\u56fe\u5f62</string>
+    <string name="lockpin_choose_private_mode">\u9009\u62e9隐私模式\u65b0 PIN</string>
+    <string name="lockpin_confirm_private_mode">\u786e\u8ba4隐私模式 PIN</string>
+    <string name="notice">\u63d0\u793a</string>
+    <string name="owner_account">改变正常模式的锁屏密码</string>
+    <string name="personal_space">\u6539\u53d8隐私模式\u7684\u9501\u5c4f\u5bc6\u7801</string>
+    <string name="pmode_created">\u60a8\u7684隐私模式\u5e10\u53f7\u5df2\u7ecf\u8bbe\u7f6e\u5b8c\u6bd5\uff01\u73b0\u5728\u8bf7\u4f7f\u7528\u60a8\u7684隐私模式\u9501\u5c4f\u5bc6\u7801\u8fdb\u5165隐私模式\u3002</string>
+    <string name="pmode_created_title">隐私模式\u5e10\u53f7\u5df2\u7ecf\u8bbe\u7f6e\u5b8c\u6bd5</string>
+    <string name="pmode_password_cannot_same">隐私模式密码不可与正常模式密码相同</string>
+    <string name="pmode_pattern_cannot_same">隐私模式解锁图形不可与正常模式解锁图形相同</string>
+    <string name="pmode_pattern_same_to_normal">隐私模式锁屏密码不可与正常模式锁屏密码相同。请再试一次。</string>
+    <string name="pmode_pattern_same_to_private">正常模式锁屏密码不可与隐私模式锁屏密码相同。请再试一次。</string>
+    <string name="pmode_pin_cannot_same">隐私模式 PIN 不可与正常模式 PIN 相同</string>
+    <string name="pmode_pin_length_must_same">隐私模式和正常模式的 PIN 長度要一致</string>
+    <string name="pmode_set_lock">\u8bbe\u7f6e\u9501\u5b9a</string>
+    <string name="pmode_set_owner_lock">\u9996\u5148\uff0c\u8bf7\u4e3a\u673a\u4e3b\u8bbe\u7f6e\u9501\u5c4f\u5bc6\u7801\u3002</string>
+    <string name="pmode_set_owner_lock_title">\u8bbe\u7f6e\u673a\u4e3b\u9501\u5c4f\u5bc6\u7801</string>
+    <string name="pmode_set_personal_space">然后，请为隐私模式设置锁屏密码。\n\n注意：隐私模式锁屏密码不可与正常模式锁屏密码相同。</string>
+    <string name="pmode_set_personal_space_title">\u8bbe\u7f6e隐私模式\u7684\u9501\u5c4f\u5bc6\u7801</string>
+    <string name="select_account">\u9009\u62e9\u60a8\u7684\u64cd\u4f5c</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">\u63d0\u793a</string>
+    <string name="user_snapview_message_created">\u7cfb\u7edf\u5b58\u50a8\u7a7a\u95f4\u4e0d\u8db3</string>
+    <string name="user_snapview_message_with_normal_lock">您可以在隐私模式中拍照、保存文件和安装应用程序。这些文件和应用程序在隐私模式中是安全的，在您退出隐私模式后将不可见。\n\n注意：您的隐私模式锁屏密码不可与正常模式锁屏密码相同。</string>
+    <string name="user_snapview_message_without_normal_lock">您可以在隐私模式中拍照、保存文件和安装应用程序。这些文件和应用程序在隐私模式中是安全的，在您退出隐私模式后将不可见。\n\n在新建隐私模式帐号之前，您必须为正常模式设置一个锁屏密码。</string>
+    <string name="user_snapview_settings">隐私模式\u8bbe\u7f6e</string>
+    <string name="user_snapview_settings_category_account">隐私模式\u5e10\u53f7</string>
+    <string name="user_snapview_settings_category_dummy">隐私模式\u53d1\u51fa\u7684\u865a\u6784\u901a\u77e5</string>
+    <string name="user_snapview_settings_category_lockscreen">\u5c4f\u5e55\u5b89\u5168\u4fdd\u62a4</string>
+    <string name="user_snapview_settings_category_visualhint">\u89c6\u89c9\u63d0\u793a</string>
+    <string name="user_snapview_settings_change_info">\u66f4\u6539\u4e2a\u4eba\u4fe1\u606f</string>
+    <string name="user_snapview_settings_delete_self">\u5220\u9664隐私模式</string>
+    <string name="user_snapview_settings_dummy_default">Google Play \u670d\u52a1\u5df2\u66f4\u65b0</string>
+    <string name="cn_user_snapview_settings_dummy_default">\u534e\u7855\u5e94\u7528\u5546\u57ce\u6709\u4e00\u6761\u66f4\u65b0\u4fe1\u606f</string>
+    <string name="user_snapview_settings_dummy_notify">\u6587\u5b57</string>
+    <string name="user_snapview_settings_dummy_notify_icon">\u56fe\u6807</string>
+    <string name="user_snapview_settings_hint_lock">\u9501\u5c4f\u89c6\u89c9\u63d0\u793a</string>
+    <string name="user_snapview_settings_hint_notify">隐私模式\u5899\u7eb8</string>
+    <string name="user_snapview_settings_item1">\u4e0d\u660e\u663e\u7684</string>
+    <string name="user_snapview_settings_item2">\u660e\u663e\u7684</string>
+    <string name="user_snapview_settings_item3">\u65e0</string>
+    <string name="user_snapview_settings_item_color">\u989c\u8272</string>
+    <string name="user_snapview_settings_item_icon">\u56fe\u6807</string>
+    <string name="user_snapview_settings_item_none">\u65e0</string>
+    <string name="user_snapview_settings_set_lock">\u8bbe\u7f6e\u5c4f\u5e55\u9501\u5b9a\u65b9\u5f0f</string>
+    <string name="user_snapview_summary">\u60a8\u53ef\u4ee5\u65b0\u5efa\u4e00\u4e2a隐私模式\u4ee5\u4fdd\u62a4\u60a8\u7684\u7167\u7247\u3001\u6587\u4ef6\u548c\u5e94\u7528\u7a0b\u5e8f\u3002</string>
+    <string name="user_snapview_title">隐私模式</string>
+    <string name="user_snapview_message_set_account_dlg_title">为隐私模式设置救援电邮帐户</string>
+    <string name="user_snapview_message_set_account_dlg_text">在创建隐私模式前，我们建议您设置一个谷歌帐户，作为隐私模式的救援电邮帐户。\n\n当您忘记隐私模式密码时，您可透过救援帐户重置隐私模式密码。</string>
+    <string name="cn_user_snapview_message_set_account_dlg_text">在创立隐私模式前，我们建议您设定微博或是離線密码救作为隐私模式的救援方式。\n\n当您忘记
+隐私模式密码时，您可透过救援方式重置隐私模式密码。</string>
+    <string name="user_snapview_message_verify_account_dlg_title">验证您的救援密码</string>
+    <string name="user_snapview_message_verify_account_dlg_text">即将要验证您的救援密码。\n\n通过验证后，您可以重置您的锁屏密码。\n\n请注意：下一个画面属于帐户验证页面，我们绝对不会收集您的帐户信息。</string>
+    <string name="user_snapview_message_verify_account_fail_dlg_title" maxwidth="-1">救援账户错误</string>
+    <string name="user_snapview_message_verify_account_fail_dlg_message" maxwidth="-1">您输入的救援账号与当初创建隐私模式时设置的不一致，请输入当初创建隐私模式时所使用的救援账号。</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title">验证成功</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text">恭喜！验证身分成功。\n\n接下来，您可以指定一个新的隐私模式密码，或删除隐私模式。</string>
+    <string name="user_snapview_message_delete_self_dlg_text">如欲删除隐私模式，您需要输入锁屏密码，与一个随机产生的4位数字。\n\n确认完毕后，隐私模式就被删除了。 您将失去在隐私模式的照片，应用程序和数据。\n\n删除后将无法复原此项操作。</string>
+    <string name="user_snapview_settings_rescue_account">更改救援方式</string>
+    <string name="user_snapview_settings_rescue_account_summary">不怕忘记隐私模式密码</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text">建议您指定一个救援方式作为忘記隐私模式密码时使用。\n\n当您忘记隐私模式密码时，您的救援方式将帮助您重置隐私模式密码。</string>
+    <string name="user_snapview_message_set_rescue_account">立即设置</string>
+    <string name="user_snapview_message_later_set_rescue_account">稍后设置</string>
+    <string name="user_snapview_message_none_rescue_account">尚未设置救援账号，轻触即可设定</string>
+    <string name="user_snapview_reset_confirm">您要删除隐私模式的所有资料吗? 您无法复原这个动作!</string>
+    <string name="user_snapview_choose_rescue_method_dlg_title">選擇救援方式</string>
+    <string name="user_snapview_offline_pwd">離線密码</string>
+    <string name="user_snapview_security_question">安全问题</string>
+    <string name="user_snapview_security_page_title">选择一个安全问题并键入您的答案。 若您忘记了隐私模式密码，可键入您提供的答案后重置密码。</string>
+    <string name="user_snapview_your_answer">您的答案</string>
+    <string name="user_snapview_confirm">确认您的答案</string>
+    <string name="user_snapview_invalid_answer">答案错误。 请再试一次。</string>
+    <string name="question1">您的生日?</string>
+    <string name="question2">您在哪里初次见到您的配偶/伴侣？</string>
+    <string name="question3">您的出生年份是？</string>
+    <string name="question4">您儿时的英雄是谁？</string>
+    <string name="question5">您第一间学校叫什么名字？</string>
+    <string name="question6">您小时候梦想成为什么？</string>
+    <string name="user_snapview_answering_question_description">选择安全问题和答案，启用重设您的隐私模式密码。</string>
+    <string name="google">谷歌</string>
+    <string name="weibo">微博</string>
+    <string name="gmail"> Gmail </string>
+    <string name="weibo_account">微博帐户</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_default_font">\u9ed8\u8ba4\u5b57\u4f53</string>
+    <string name="monotype_dialog_button">\u5728\u7ebf\u83b7\u53d6\u5b57\u4f53</string>
+    <string name="monotype_dialog_font_oem_font1">OEM \u5b57\u4f53 1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM \u5b57\u4f53 2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM \u5b57\u4f53 3</string>
+    <string name="monotype_dialog_no_fonts_installed">\u6ca1\u6709\u989d\u5916\u7684\u5b57\u4f53</string>
+    <string name="monotype_dialog_revert_question">\u91cd\u7f6e\u4e3a\u9ed8\u8ba4\u5b57\u4f53\uff1f</string>
+    <string name="monotype_dialog_set_font_question">\u8bbe\u7f6e\u5b57\u4f53\u4e3a %s?</string>
+    <string name="monotype_loading_list">\u6b63\u5728\u52a0\u8f7d\u5b57\u4f53\u5217\u8868......</string>
+    <string name="monotype_preference_summary">\u8bbe\u7f6e\u5b57\u4f53</string>
+    <string name="monotype_preference_title">\u5b57\u4f53\u6837\u5f0f</string>
+    <string name="monotype_restart_dialog_button_1">\u73b0\u5728\u91cd\u65b0\u542f\u52a8</string>
+    <string name="monotype_restart_dialog_text_1">\u91cd\u65b0\u542f\u52a8\u624b\u673a</string>
+    <string name="monotype_restart_dialog_text_2">\u91cd\u65b0\u542f\u52a8\u624b\u673a\uff0c\u5e94\u7528\u8bbe\u7f6e</string>
+
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">\u5feb\u901f\u5145\u7535\uff08AC\uff09</string>
+    <string name="power_charging_duration_ac_quick_charging">"<xliff:g id="LEVEL">%1$d</xliff:g>%% - <xliff:g id="TIME">%2$s
+    </xliff:g> AC \uff08\u5feb\u901f\u5145\u7535\uff09\u5145\u6ee1\u4e4b\u524d</string>
+
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">不允许</string>
+    <!-- END chilung_chen@asus.com-->
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">"自启动管理工具"</string>
+    <string name="autostart_summary">"释放内存，提升电池续航力"</string>
+    <string name="quick_access_message">自定义快速访问</string>
+    <string name="change_short_cut_message">点击应用程序进行自定义设置，或拖曳应用程序重新排列</string>
+    <string name="notification_material_summary">应用时，一些应用程序通知图标变成白色形状，以符合这种设计风格。</string>
+    <string name="notification_material_title">应用材料设计</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">两次</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">密码输入不正确</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">如果闯入者在锁定屏幕中输入的密码不正确，请对其拍照</string>
+    <string name="lockscreen_intruder_selfie_setting_title">闯入者自拍照</string>
+    <string name="lockscreen_intruder_selfie_summary">拍摄密码输入错误的人的照片</string>
+    <string name="lockscreen_intruder_selfie_title">闯入者自拍照</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">将照片保存在图库中的闯入者自拍照文件夹中</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">自动保存照片</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"密码必须包含至少%d个如下字符： 大写、小写、数字、符号"</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"下一步"</string>
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">通用源代码</string>
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"儿童模式"</string>
+    <string name="asus_kids_launcher_settings_message">"开启儿童模式，为您的孩子建立一个安全的运动场。"</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">部分应用可能无法正常显示超大字体的文本。</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">超大文本</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"设备激活时，长按快门键或视频键可以激活相机"</string>
+    <string name="lockscreen_longpress_screen_off">"设备休眠时，长按快门键或视频键可以激活相机"</string>
+    <string name="lockscreen_longpress_screen_on_title">"设备使用中，快速激活相机"</string>
+    <string name="lockscreen_longpress_screen_off_title">"设备休眠时，快速激活相机"</string>
+
+    <!-- nancy_jiang@asus.com wireless charging sound title-->
+    <string name="wireless_charging_sounds_title">"无线充电提示音"</string>
+    <string name="asus_notification_ringtone_title">新信息</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"紧急警报"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"设置紧急警报"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"小区广播"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"设置小区广播"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"禁用天气信息页"</string>
+    <string name="lockscreen_disable_weather_info_page">"彻底停用锁定屏幕右侧的天气信息页（由Cheetah Mobile提供）"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

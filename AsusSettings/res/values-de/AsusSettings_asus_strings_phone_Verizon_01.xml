@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Tethering &amp; mobiler Hotspot"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"In GB anzeigen"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"IN MB anzeigen"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobildaten"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Mobildatennutzung beschränken"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Ich möchte bezüglich der Datennutzung gewarnt werden"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Datennutzungsalarm"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Ihr <xliff:g example="tablet" id="device_type">%s</xliff:g> warnt Sie, sobald Ihre Mobildatennutzung die von Ihnen gewählte Menge erreicht."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Datennutzungslimit"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Ihre Mobildatenverbindung wird abgeschaltet, sobald Ihre Datennutzung das von Ihnen gewählte Limit erreicht.\n\nDie Datennutzung wird von Ihrem <xliff:g example="tablet" id="device_type">%s</xliff:g> gemessen. Möglicherweise berechnet Ihr Mobilfunkanbieter die Nutzung anders; daher sollten Sie möglicherweise ein Limit festlegen, das etwas unterhalb Ihres Datenplans liegt. Stellen Sie die Daten entsprechend Ihrem Abrechnungszeitraum ein."</string>
+    <string name="vzw_phone">"Telefon"</string>
+    <string name="vzw_tablet">"Tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"Die Datennutzung wird von Ihrem <xliff:g example="tablet" id="device_type">%s</xliff:g> gemessen. Möglicherweise berechnet Ihr Mobilfunkanbietern die Nutzung anders. Stellen Sie die Daten entsprechend Ihrem Abrechnungszeitraum ein."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Zur Anzeige von Nutzung und Einstellungen antippen"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobildaten sind jetzt ausgeschaltet."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Sie haben Ihr angegebenes Datennutzungslimit erreicht, weshalb die Mobildatenverbindung ausgeschaltet wurde.\n\nWenn Sie Mobildaten wieder einschalten, berechnet Ihnen Ihr Mobilfunkanbieter die Datennutzung möglicherweise."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Daten einschalten"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobildaten sind ausgeschaltet"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Zum Aktivieren berühren"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Mobildatenlimit überschritten"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> über angegebenem Limit"</string>
+</resources>

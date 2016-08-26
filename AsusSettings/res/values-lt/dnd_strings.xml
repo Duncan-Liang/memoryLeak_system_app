@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Netrukdyti</string>
+    <string name="zen_mode_option_off2">Visada leisti</string>
+    <string name="zen_mode_option_important_interruptions2">Taikyti sutrukdymo taisykles</string>
+    <string name="zen_mode_option_no_interruptions2">Neleisti</string>
+    <string name="zen_mode_important_category2">Sutrukdymo taisyklės</string>
+    <string name="zen_mode_from2">Leisti skambučius / žinutes iš</string>
+    <string name="zen_mode_from_anyone2">bet ko</string>
+    <string name="zen_mode_from_contacts2">tik kontaktų</string>
+    <string name="zen_mode_from_starred2">tik mėgstamų</string>
+    <string name="zen_mode_from_vip2">tik VIP</string>
+    <string name="zen_mode_downtime_category2">Suplanuotas laikas (taikyti sutrukdymo taisykles)</string>
+    <string name="zen_mode_alarms_priority">Įspėjimai</string>
+    <string name="zen_mode_repeated_calls">Pakartotini skambučiai</string>
+    <string name="zen_mode_repeated_calls_desc">Antras skambutis per dvi minutes nebus nutildytas</string>
+    <string name="zen_mode_add_downtime">Naujas tvarkaraštis</string>
+    <string name="zen_mode_meeting_mode_category">Tvarkaraštis sudarytas, atsižvelgiant į kalendoriaus įvykius</string>
+    <string name="zen_mode_weekend">Savaitgaliais</string>
+    <string name="zen_mode_everyday">Kasdien</string>
+    <string name="zen_mode_remove_dialog_title">Pašalinti tvarkaraštį</string>
+    <string name="zen_mode_remove_dialog_message">Pašalinti šį tvarkaraštį?</string>
+    <string name="zen_mode_limit_dialog_title">Naujas tvarkaraštis</string>
+    <string name="zen_mode_limit_dialog_message">Jums gali tekti iki %d tvarkaraščio nuostatų.</string>
+    <string name="zen_mode_downtime_title">tvarkaraštis</string>
+    <string name="zen_mode_downtime_title_new">Naujas tvarkaraštis</string>
+    <string name="zen_mode_downtime_title_edit">Redaguoti tvarkaraštį</string>
+    <string name="zen_mode_downtime_title_meeting">Redaguoti tvarkaraštį </string>
+    <string name="zen_mode_others">Parametrai</string>
+    <string name="zen_mode_send_notifications">Pranešimas</string>
+    <string name="zen_mode_send_notifications_desc">Siųsti pranešimą, jeigu įjungta „Netrukdyti“</string>
+    <string name="zen_mode_no_interruptions_warning">"Nustačius \"visišką nutildymą\", žadintuvo signalai taip pat bus nutildyti."</string>
+    <string name="zen_mode_from_anyone3">"Nuo bet ko"</string>
+    <string name="zen_mode_from_favorites_only">"Tik nuo mėgstamų"</string>
+    <string name="zen_mode_from_contacts_only">"Tik nuo kontaktų"</string>
+    <string name="zen_mode_repeat_callers2">"Kartoti skambučius"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Bus leidžiamas tas pats numeris, kuris vėl skambina po <xliff:g id="MINUTES">%d</xliff:g> min. laikotarpio"</string>
+    <string name="zen_mode_option_important_interruptions3">"Taikyti trukdymo taisykles"</string>
+    <string name="zen_mode_selected_callers2">"pasirinkti skambučiai"</string>
+    <string name="zen_mode_dnd_is_on">"Dabar įjungtas netrukdymo režimas. Galite rankiniu būdu jį išjungti."</string>
+    <string name="zen_mode_turn_off_now">"Išjungti dabar"</string>
+    <string name="zen_mode_custom_name">"Pritaikomas"</string>
+    <string name="zen_mode_manual_turn_on">"Rankiniu būdu įjungti netrukdymo režimą"</string>
+    <string name="zen_mode_turn_off">"Išjungti netrukdymo režimą"</string>
+    <string name="zen_mode_in_activity">"Įjungta: "</string>
+    <string name="zen_mode_forever2">"Neribotai"</string>
+</resources>

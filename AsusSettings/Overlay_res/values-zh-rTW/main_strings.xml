@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary">"加密過程中斷，無法完成，因此您再也不能存取裝置上的資料。\n\n如要恢復使用裝置，請先將裝置重設回原廠設定。完成重設後，您可以在設定裝置時，將先前備份至「帳戶」的資料全部還原。"</string>
+    <string name="asus_crypt_keeper_data_corrupt_summary">"您輸入的密碼正確，不過您的資料已毀損。\n\n您必須讓裝置恢復原廠設定，才能繼續使用。經過重設後，您可以在設定裝置時將已備份到個人帳戶的資料全部還原。"</string>
+    <string name="asus_master_clear_desc">"這會清除您裝置"<b>"內部儲存裝置"</b>"中的所有資料，包括：\n\n"<li>"您的帳戶"</li>\n<li>"系統和應用程式資料及設定"</li>\n<li>"已下載的應用程式"</li></string>
+    <string name="asus_data_usage_auto_sync_on_dialog">"您在網路上對帳戶進行的所有變更都會自動複製到您的裝置。\n\n有些帳戶還可以自動將您在裝置上進行的所有變更複製到網路上，帳戶即是按照這種方式運作。"</string>
+</resources>

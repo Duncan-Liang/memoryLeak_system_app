@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Tawaran kode sumber umum</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">"Pengaturan kustom ASUS"</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Wayne2_Chen: UI required-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <!-- Harrison for power settings -->
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <!-- MikeHsu for clear app data -->
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">Pilihan pengaturan cepat</string>
+    <string name="quick_setting_description">Pilih item untuk menampilkan panel pengaturan cepat</string>
+    <string name="quick_setting_reset_title">Atur ulang pengaturan cepat</string>
+    <string name="quick_setting_reset_message">Pilihan pengaturan cepat akan diatur ulang.</string>
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Tampilkan panel status</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">Kamera cepat</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">Klik dua kali tombol volume untuk mengaktifkan kamera dari kondisi siaga</string>
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <!-- Harrison Chen, recent app key long press_control-->
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <!-- ashan_yang@asus.com, show battery -->
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Mode sarung tangan</string>
+    <string name="glove_mode_setting_summary">Meningkatkan sensitivitas sentuhan saat Anda mengenakan sarung tangan</string>
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- flipcover setting item title and summary -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">Cover ASUS</string>
+    <string name="asus_transcover_title">Aktifkan ASUS Cover</string>
+    <string name="asus_cover_automatic_unlock_tittle">Otomatis buka kunci</string>
+    <string name="asus_cover_automatic_unlock_summary">Bila kunci layar tidak aktif, buka penutup untuk membuka kunci layar pengaman secara otomatis</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+<!-- bruce1_li, AT&T DMAgent -->
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">Indikator LED</string>
+    <string name="asus_lockscreen_camera_settings">Kamera</string>
+    <string name="lockscreen_enable_camera_widget_title">Geser untuk mengaktifkan</string>
+    <string name="lockscreen_enable_camera_widget">Geser ke kiri dari tepi kanan layar kunci untuk mengaktifkan kamera</string>
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">Selfie penyelundup</string>
+    <string name="lockscreen_intruder_selfie_summary">Ambil gambar seseorang yang salah memasukkan kode</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Selfie penyelundup</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Ambil gambar penyelundup bila ia salah memasukkan sandi pada layar penguncian</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Entri kode salah</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Kedua</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Simpan foto secara otomatis</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Simpan foto dalam folder Selfie Penyelundup di Galeri</string>
+    <string name="lockscreen_incorrect_code_entries_twice">Kedua</string>
+    <string name="lockscreen_incorrect_code_entries_third">Ketiga</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">Keempat</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">Kelima</string>
+    <string name="lockscreen_enable_slide_widget_title">Lewati halaman geser</string>
+    <string name="lockscreen_enable_slide_widget">Lewati halaman layar kunci geser saat mengaktifkan</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Mode Praktis</string>
+    <string name="asus_easy_launcher_intro">Kini mode Praktis akan memberikan pengalaman antarmuka intuitif dengan fungsi tata letak dan inti sederhana</string>
+    <!-- AMAX AT&T issue -->
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Sandi sekurangnya harus berisi %d karakter yang diatur dalam 4 kelompok: huruf besar, huruf kecil, angka, simbol"</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">Pilihan kecerahan otomatis</string>
+    <string name="auto_brightness_settings_gain">Penambahan</string>
+    <string name="auto_brightness_settings_sensor">Sensor cahaya</string>
+    <string name="auto_brightness_settings_adjustment">Bolehkan penambahan perubahan</string>
+    <string name="auto_brightness_settings_reset_gain">Atur ulang ke default</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Atur ulang ke nilai penambahan default?</string>
+    <string name="auto_brightness_settings_indark">Di lingkungan gelap</string>
+    <string name="auto_brightness_settings_indark_title">Kurangi kecerahan</string>
+    <string name="auto_brightness_settings_indark_slow">Lambat</string>
+    <string name="auto_brightness_settings_indark_immediate">Langsung</string>
+    <string name="auto_brightness_settings_indark_dynamic">Dinamis</string>
+    <string name="show_sensor_usage">Tampilkan nilai sensor cahaya</string>
+    <string name="show_sensor_usage_summary">Lapisan layar menampilkan status sensor cahaya saat ini</string>
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Mode Satu Tangan</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Pemicu cepat</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Ketuk dua kali tombol awal untuk mengaktifkan mode operasi satu tangan</string>
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">Nada Dering &amp; Notifikasi</string>
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Gaya font</string>
+    <string name="monotype_preference_summary">Atur font</string>
+    <string name="monotype_dialog_button">Dapatkan font secara online</string>
+    <string name="monotype_dialog_set_font_question">Atur font sebagai %s?</string>
+    <string name="monotype_dialog_revert_question">Atur ulang ke font default?</string>
+    <string name="monotype_dialog_no_fonts_installed">Font tambahan tidak tersedia</string>
+    <string name="monotype_restart_dialog_text_1">Aktifkan ulang telepon</string>
+    <string name="monotype_restart_dialog_text_2">Aktifkan ulang telepon untuk menerapkan pengaturan</string>
+    <string name="monotype_restart_dialog_button_1">Aktifkan ulang sekarang</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_default_font">Font default</string>
+    <string name="monotype_loading_list">Memuat daftar font...</string>
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">Mode Privat</string>
+    <string name="user_snapview_summary">Anda dapat membuat Mode Privat untuk melindungi foto, file, dan aplikasi.</string>
+    <string name="user_snapview_message_Notice">Pemberitahuan</string>
+    <string name="user_snapview_message_created">Penyimpanan sistem tidak cukup.</string>
+    <string name="user_snapview_message_with_normal_lock">Pada Mode Privat, Anda dapat mengambil gambar, menyimpan file, menginstal aplikasi.  File dan aplikasi tersebut akan tetap aman di Mode Privat dan tidak akan terlihat setelah Mode Privat ditutup.\n\nAgar dapat membuat Mode Privat, Anda harus mengkonfigurasi kunci layar untuk Mode Privat.\n\nCatatan: Kunci layar Mode Privat tidak boleh sama dengan kunci layar Pemilik.</string>
+    <string name="user_snapview_message_without_normal_lock">Pada Mode Privat, Anda dapat mengambil gambar, menyimpan file, menginstal aplikasi.  File dan aplikasi tersebut akan tetap aman di Mode Privat dan tidak akan terlihat setelah Mode Privat ditutup.\n\nAgar dapat membuat Mode Privat, Anda harus mengkonfigurasi kunci layar untuk Pemilik.</string>
+    <string name="user_snapview_settings">Pengaturan Mode Privat</string>
+    <string name="user_snapview_settings_category_lockscreen">Keamanan layar kunci</string>
+    <string name="user_snapview_settings_category_visualhint">Petunjuk visual</string>
+    <string name="user_snapview_settings_category_dummy">Notifikasi dummy</string>
+    <string name="user_snapview_settings_category_account">Akun Mode Privat</string>
+    <string name="user_snapview_settings_hint_lock">Dekorasi layar kunci</string>
+    <string name="user_snapview_settings_hint_notify">Dekorasi Mode Privat</string>
+    <string name="user_snapview_settings_dummy_notify">Teks</string>
+    <string name="user_snapview_settings_dummy_default">Layanan Google Play diperbarui</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Ikon</string>
+    <string name="user_snapview_settings_set_lock">Atur kunci layar</string>
+    <string name="user_snapview_settings_change_info">Ubah info profil</string>
+    <string name="user_snapview_settings_delete_self">Hapus Mode Privat</string>
+    <string name="user_snapview_settings_item1">Halus</string>
+    <string name="user_snapview_settings_item2">Jelas</string>
+    <string name="user_snapview_settings_item3">Dinonaktifkan</string>
+    <string name="user_snapview_settings_item_color">Warna</string>
+    <string name="user_snapview_settings_item_icon">Ikon</string>
+    <string name="user_snapview_settings_item_none">Tidak ada</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Akun email bantuan Mode Privat</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Sebelum membuat Mode Privat, sebaiknya tetapkan akun %s sebagai akun email bantuan.\n\nAkun email bantuan akan membantu Anda membuat ulang sandi Mode Privat bila Anda lupa.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Verifikasikan akun %s Anda</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Kami sedang memverifikasi akun %1$s Anda.\n\nSetelah verifikasi berhasil, Anda dapat mulai membuat ulang sandi layar kunci.\n\nCatatan: Layar berikutnya adalah Verifikasi Akun %2$s, dan kami tidak mengumpulkan informasi akun Anda.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Sandi Mode Privat dibuat ulang</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Selamat! Sandi Mode Privat telah dibuat ulang.\n\nSelanjutnya, Anda dapat menetapkan sandi Mode Privat atau menghapus Mode Privat yang ada.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Untuk menghapus SnapView, Anda harus memasukkan sandi kunci layar dan PIN acak.\n\nSaat terkonfirmasi, SnapView akan dihapus dari perangkat. Foto, aplikasi, dan data di Mode Privat akan terhapus.\n\nTindakan ini tidak dapat dibatalkan. Lanjutkan?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Ubah akun email bantuan</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Gunakan untuk membuat ulang sandi Mode Privat</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Tetapkan akun %s sebagai akun email bantuan Mode Privat.\n\nAkun email bantuan ini akan membantu Anda membuat ulang sandi Mode Privat bila Anda lupa.</string>
+    <string name="user_snapview_reset_confirm">Hapus semua data dalam Mode Privat?\nAnda tidak dapat membatalkan tindakan ini!</string>
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">Pilih sandi baru Pemilik</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Pilih PIN baru Pemilik</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Konfirmasikan sandi Pemilik</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Konfirmasi PIN Pemilik</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Gambar pola buka kunci baru Pemilik</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Gambar kembali pola Pemilik untuk mengkonfirmasi</string>
+    <string name="lockpattern_choose_private_mode">Buat pola buka kunci baru Mode Privat</string>
+    <string name="lockpattern_confirm_private_mode">Buat kembali pola Mode Privat untuk mengkonfirmasi</string>
+    <string name="lockpassword_choose_private_mode">Pilih sandi baru Mode Privat</string>
+    <string name="lockpassword_confirm_private_mode">Konfirmasikan sandi Mode Privat</string>
+    <string name="lockpin_choose_private_mode">Pilih PIN baru Mode Privat</string>
+    <string name="lockpin_confirm_private_mode">Konfirmasikan PIN Mode Privat</string>
+    <string name="lockpattern_pattern_same_to_normal">Pola sama seperti normal</string>
+    <string name="select_account">Pilih tindakan</string>
+    <string name="owner_account">Mengubah kunci layar Pemilik</string>
+    <string name="personal_space">Mengubah kunci layar Mode Privat</string>
+    <string name="both">Ubah jenis kunci layar</string>
+    <string name="notice">Pemberitahuan</string>
+    <string name="pmode_pattern_same_to_normal">Kunci layar Mode Privat tidak boleh sama dengan kunci Pemilik. Coba lagi.</string>
+    <string name="pmode_pattern_same_to_private">Kunci layar Pemilik tidak boleh sama dengan kunci Mode Privat. Coba lagi.</string>
+    <string name="pmode_created">Mode Privat berhasil dibuat!  Sekarang coba akses Mode Privat menggunakan kunci layar Mode Privat.</string>
+    <string name="pmode_created_title">Mode Privat telah dibuat</string>
+    <string name="pmode_set_personal_space_title">Atur kunci layar Mode Privat</string>
+    <string name="pmode_set_personal_space">Selanjutnya, konfigurasikan kunci layar untuk Mode Privat.\n\nCatatan: Kunci layar Mode Privat tidak boleh sama dengan kunci Pemilik.</string>
+    <string name="pmode_pattern_cannot_same">Pola buka kunci Mode Privat tidak boleh sama dengan pola Pemilik</string>
+    <string name="pmode_pin_cannot_same">PIN Mode Privat tidak boleh sama dengan PIN Pemilik</string>
+    <string name="pmode_password_cannot_same">Sandi Mode Privat tidak boleh sama dengan sandi Pemilik</string>
+    <string name="pmode_set_lock">Atur kunci</string>
+    <string name="pmode_set_owner_lock_title">Atur kunci layar Pemilik</string>
+    <string name="pmode_set_owner_lock">Pertama-tama, konfigurasikan kunci layar untuk Pemilik.</string>
+    <string name="pmode_pin_length_must_same">Panjang PIN Mode Privat dan Pemilik harus sama</string>
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">Peringatan</string>
+    <string name="asus_master_clear_check_backup_message">Anda menyimpan data di penyimpanan internal. Pindahkan data ke penyimpanan eksternal sebelum melanjutkan, atau data tersebut akan terhapus dari penyimpanan internal. Anda tetap ingin melanjutkan pengaturan ulang?</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">Pengisian Daya Cepat (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> hingga AC penuh (Pengisian Daya Cepat)</string>
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">Jangan bolehkan</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Akses cepat yang disesuaikan</string>
+    <string name="change_short_cut_message">Ketuk aplikasi yang akan disesuaikan, lalu tarik aplikasi yang akan disusun ulang</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">Manager Pengaktifan Otomatis</string>
+    <string name="autostart_summary">"Kosongkan lebih banyak memori dan hemat daya"</string>
+    <!-- Kevin_Chiou for ANT build -->
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Terapkan Desain Materi</string>
+    <string name="notification_material_summary">Bila diterapkan, sejumlah ikon notifikasi aplikasi akan berbentuk putih sesuai gaya desain ini.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Berikutnya"</string>
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Mode Anak"</string>
+    <string name="asus_kids_launcher_settings_message">"Aktifkan mode Anak untuk mengkonfigurasi taman bermain aman yang digunakan anak Anda."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">Beberapa aplikasi mungkin tidak menampilkan teks dengan ukuran font ekstra besar sebagaimana mestinya.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">"Teks ekstra besar"</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Ketuk dan tahan tombol rana kamera atau tombol kamera video untuk mengakses kamera saat layar aktif"</string>
+    <string name="lockscreen_longpress_screen_off">"Ketuk dan tahan tombol rana kamera atau tombol kamera video untuk mengakses kamera saat layar tidak aktif"</string>
+    <string name="lockscreen_longpress_screen_on_title">"Mulai kamera saat layar aktif"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Mulai kamera saat layar tidak aktif"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Teks Baru</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"Tanda darurat"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Mengkonfigurasi tanda darurat"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"Siaran SMS seluler"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Mengkonfigurasi siaran SMS seluler"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Nonaktifkan halaman info cuaca"</string>
+    <string name="lockscreen_disable_weather_info_page">"Menonaktifkan halaman info cuaca sepenuhnya (didukung oleh Cheetah Mobile) di sisi kanan Kunci layar"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

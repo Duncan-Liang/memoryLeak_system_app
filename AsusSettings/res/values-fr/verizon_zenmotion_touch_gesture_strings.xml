@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Autorisez les gestes pour ouvrir des applications et allumer ou éteindre l'écran."</string>
+    <string name="vzw_doubletap_off_setting_title">"Appuyez deux fois pour éteindre l'écran."</string>
+    <string name="vzw_doubletap_off_setting_summary">"Appuyez deux fois sur l'écran pour l'éteindre."</string>
+    <string name="vzw_doubletap_on_setting_title">"Appuyez deux fois pour sortir de veille."</string>
+    <string name="vzw_doubletap_on_setting_summary">"Appuyez deux fois sur l'écran noir pour l'allumer."</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Gestes"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Dessinez une lettre lorsque l'écran est éteint pour ouvrir l'application correspondante. Vous pouvez changer d'application en appuyant ci-dessous."</string>
+    <string name="vzw_w_launch_title">"« W » permet d'ouvrir cette application."</string>
+    <string name="vzw_s_launch_title">"« S » permet d'ouvrir cette application."</string>
+    <string name="vzw_e_launch_title">"« e » permet d'ouvrir cette application."</string>
+    <string name="vzw_c_launch_title">"« C » permet d'ouvrir cette application."</string>
+    <string name="vzw_z_launch_title">"« Z » permet d'ouvrir cette application."</string>
+    <string name="vzw_v_launch_title">"« V » permet d'ouvrir cette application."</string>
+</resources>

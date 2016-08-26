@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Tethering og mobilt tilgangspunkt"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Vis i GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Vis i MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobildata"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Begrens mobildatabruk"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Varsle meg om databruk"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Varsling for databruk"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"<xliff:g example="tablet" id="device_type">%s</xliff:g> vil varsle deg når mobildatabruk når grensen du har stilt inn."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Grense for databruk"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Mobildatatilkoblingen vil bli slått av når databruken når grensen du har stilt inn.\n\nDatabruk måles av <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operatøren kan beregne bruken på en annen måte, så du bør vurdere å stille inn en grense som er litt lavere enn dataabonnementet. Angi datoer som samsvarer med fakturaperioden."</string>
+    <string name="vzw_phone">"telefon"</string>
+    <string name="vzw_tablet">"nettbrett"</string>
+    <string name="vzw_data_usage_disclaimer">"Databruk måles av <xliff:g example="tablet" id="device_type">%s</xliff:g>. Leverandøren kan beregne bruken på en annen måte. Angi datoer som samsvarer med fakturaperioden."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Trykk for å se bruk og innstillinger"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobildata er nå slått av"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Du har nådd den angitte databruksgrensen, så mobildata er slått av.\n\nHvis du slår på mobildata igjen, kan leverandøren belaste deg for databruk."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Slå på data"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobildata er slått av"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Trykk for å aktivere"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Mobildatagrensen er overskredet"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> over den angitte grensen"</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">快捷鍵設定</string>
+    <string name="screenshot_hot_key_title">最近使用的應用程式鍵</string>
+    <string name="screenshot_hot_key_summary">長按「最近使用的應用程式鍵」對螢幕截圖</string>
+    <string name="screenshot_format_setting_title">檔案格式設定</string>
+    <string name="screenshot_format_title">截圖檔案格式</string>
+    <string name="screenshot_sound_setting_title">"音效設定"</string>
+    <string name="screenshot_sound_title">"開啟截圖音效"</string>
+    <string name="screenshot_notify_setting_title">"通知設定"</string>
+    <string name="screenshot_notify_title">"開啟通知"</string>
+</resources>

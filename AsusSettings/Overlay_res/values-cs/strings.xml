@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Chcete-li nastavit, co se má stát, když se přístroj ocitne v doku nebo v režimu spánku, zapněte spořič obrazovky."</string>
+</resources>

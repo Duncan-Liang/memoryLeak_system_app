@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<dashboard-categories
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- WIRELESS and NETWORKS -->
+    <dashboard-category
+            android:id="@+id/wireless_section"
+            android:key="@string/category_key_wireless"
+            android:title="@string/header_category_wireless_networks" >
+
+        <!-- Wifi -->
+        <dashboard-tile
+                android:id="@+id/wifi_settings"
+                android:title="@string/wifi_settings_title"
+                android:fragment="com.android.settings.wifi.WifiSettings"
+                android:icon="@drawable/ic_settings_wireless"
+                />
+
+        <!--HetComm-->
+        <dashboard-tile
+                android:id="@+id/hetcomm_settings"
+                android:icon="@drawable/ic_settings_hetcomm"
+                android:title="@string/hetcom_setting_title">
+            <intent android:action="com.android.settings.HETCOMM_SETTINGS" />
+        </dashboard-tile>
+
+        <!-- Bluetooth -->
+        <dashboard-tile
+                android:id="@+id/bluetooth_settings"
+                android:title="@string/bluetooth_settings_title"
+                android:fragment="com.android.settings.bluetooth.BluetoothSettings"
+                android:icon="@drawable/ic_settings_bluetooth2"
+                />
+       <!--M: add Hotknot -->
+        <dashboard-tile
+                android:id="@+id/hotknot_settings"
+                android:title="@string/hotknot_settings_title"
+                android:fragment="com.mediatek.settings.hotknot.HotKnotSettings"
+                android:icon="@drawable/ic_settings_hotknot" 
+                />
+        <!-- SIM Cards -->
+        <dashboard-tile
+                android:id="@+id/sim_settings"
+                android:title="@string/multi_sim_settings_title"
+                android:fragment="com.android.settings.sim.SimSettings"
+                android:icon="@drawable/ic_settings_simmanager"
+                />
+
+        <!--xiongshigui@wind-mobi.com 20160525 add begin-->
+        <!-- Call Settings -->
+        <dashboard-tile
+                android:id="@+id/call_settings"
+                android:title="@string/call_settings_title"
+                android:fragment="com.android.settings.CallSettings"
+                android:icon="@drawable/ic_call_settings"
+                />
+        <!--xiongshigui@wind-mobi.com 20160525 add end-->
+
+        <!-- Data Usage -->
+        <dashboard-tile
+                android:id="@+id/data_usage_settings"
+                android:title="@string/data_usage_summary_title"
+                android:fragment="com.android.settings.DataUsageSummary"
+                android:icon="@drawable/ic_settings_data_usage"
+                />
+
+        <!-- Operator hook -->
+        <dashboard-tile
+                android:id="@+id/operator_settings"
+                android:fragment="com.android.settings.WirelessSettings" >
+            <intent android:action="com.android.settings.OPERATOR_APPLICATION_SETTING" />
+        </dashboard-tile>
+
+        <!-- Other wireless and network controls -->
+        <dashboard-tile
+                android:id="@+id/wireless_settings"
+                android:title="@string/radio_controls_title"
+                android:fragment="com.android.settings.WirelessSettings"
+                android:icon="@drawable/ic_settings_more"
+                />
+
+    </dashboard-category>
+
+    <!-- DEVICE -->
+    <dashboard-category
+            android:id="@+id/device_section"
+            android:key="@string/category_key_device"
+            android:title="@string/header_category_device" >
+
+        <!-- Home -->
+        <dashboard-tile
+                android:id="@+id/home_settings"
+                android:title="@string/home_settings"
+                android:fragment="com.android.settings.HomeSettings"
+                android:icon="@drawable/ic_settings_home"
+                />
+
+        <!-- Display -->
+        <dashboard-tile
+                android:id="@+id/display_settings"
+                android:title="@string/display_settings"
+                android:fragment="com.android.settings.DisplaySettings"
+                android:icon="@drawable/ic_settings_display"
+                />
+
+        <!-- Notifications -->
+        <dashboard-tile
+                android:id="@+id/notification_settings"
+                android:title="@string/notification_settings"
+                android:fragment="com.android.settings.notification.NotificationSettings"
+                android:icon="@drawable/ic_settings_sound"
+                />
+
+        <!--  wangyan@wind-mobi.com add 2016/06/15  for Feature #110122 -s -->
+        <!-- AsusCover Setting -->
+        <dashboard-tile
+                android:id="@+id/asuscover_without_hole_settings"
+                android:title="@string/asus_cover"
+                android:fragment="com.android.settings.AsusCoverSettings"
+                android:icon="@drawable/ic_settings_cover"
+                />
+        <dashboard-tile
+                android:id="@+id/asuscover1_settings"
+                android:title="@string/asus_cover"
+                android:icon="@drawable/ic_settings_cover">
+            <intent
+                android:action="com.asus.flipcover.action.COVER_SETTING"
+                android:category="android.intent.category.DEFAULT"
+                android:targetPackage="com.asus.flipcover" />
+        </dashboard-tile>
+        <dashboard-tile
+                android:id="@+id/asuscover2_settings"
+                android:title="@string/asus_cover"
+                android:icon="@drawable/ic_settings_cover">
+            <intent
+                android:action="com.asus.flipcover2.action.COVER_SETTING"
+                android:category="android.intent.category.DEFAULT"
+                android:targetPackage="com.asus.flipcover2"/>
+        </dashboard-tile>
+        <dashboard-tile
+                android:id="@+id/asuscover3_settings"
+                android:title="@string/asus_cover"
+                android:icon="@drawable/ic_settings_cover3">
+            <intent
+                android:action="com.asus.flipcover3.action.COVER_SETTING"
+                android:category="android.intent.category.DEFAULT"
+                android:targetPackage="com.asus.flipcover3"/>
+        </dashboard-tile>
+        <!--  wangyan@wind-mobi.com add 2016/06/15  for Feature #110122 -e -->
+        <!-- Storage -->
+        <dashboard-tile
+                android:id="@+id/storage_settings"
+                android:title="@string/storage_settings"
+                android:fragment="com.android.settings.deviceinfo.StorageSettings"
+                android:icon="@drawable/ic_settings_storage"
+                />
+        <!-- Downloads -->
+        <dashboard-tile
+                android:id="@+id/downloads_settings"
+                android:title="@string/memory_downloads_usage"
+                android:icon="@drawable/ic_settings_downloads">
+            <intent
+                    android:action="android.intent.action.VIEW_DOWNLOADS"
+                    android:category="android.intent.category.DEFAULT"/>
+        </dashboard-tile>
+        <!-- wangyan@wind-mobi.com add 2016/05/11  for Feature #110152 -s -->
+        <!-- Do Not Disturb -->
+        <dashboard-tile
+            android:id="@+id/asus_dnd_settings"
+            android:title="@string/zen_mode_settings_title2"
+            android:fragment="com.android.settings.notification.ZenModeSettings"
+            android:icon="@drawable/android_do_not_distrub_ic"
+        />
+        <!--  wangyan@wind-mobi.com add 2016/05/11  for Feature #110152 -e -->
+        <!-- Application Settings -->
+        <dashboard-tile
+                android:id="@+id/application_settings"
+                android:title="@string/applications_settings"
+                android:fragment="com.android.settings.applications.ManageApplications"
+                android:icon="@drawable/ic_settings_applications"
+                />
+				
+		<!-- Manage users -->
+        <dashboard-tile
+                android:id="@+id/user_settings"
+                android:title="@string/user_settings_title"
+                android:fragment="com.android.settings.users.UserSettings"
+                android:icon="@drawable/ic_settings_multiuser"
+                />
+        <!-- Zen motion -->
+        <dashboard-tile
+                android:id="@+id/zen_motion_settings"
+                android:title="@string/zen_motion_settings_title"
+                android:fragment="com.android.settings.zenmotion.AsusZenMotionSettings"
+                android:icon="@drawable/ic_settings_gesture"
+                />
+
+        <!-- Battery -->
+        <dashboard-tile
+                android:id="@+id/battery_settings"
+                android:title="@string/power_usage_summary_title"
+                android:fragment="com.android.settings.fuelgauge.PowerUsageSummary"
+                android:icon="@drawable/ic_settings_battery"
+                />
+
+        <!-- wangyan@wind-mobi.com add begin -->
+        <!-- Bruce, Power Setting -->
+        <dashboard-tile
+                android:id="@+id/power_settings"
+                android:fragment="com.android.settings.PowerSettings"
+                android:icon="@drawable/ic_settings_power"
+                android:title="@string/power_settings_title"
+        />
+        <!-- wangyan@wind-mobi.com add end -->
+
+        <!-- Memory -->
+        <dashboard-tile
+                android:id="@+id/manage_memory"
+                android:title="@string/memory_settings_title"
+                android:fragment="com.android.settings.applications.ProcessStatsSummary"
+                android:icon="@drawable/ic_settings_memory"
+                />
+
+        <!-- Manage NFC payment apps -->
+        <dashboard-tile
+                android:id="@+id/nfc_payment_settings"
+                android:title="@string/nfc_payment_settings_title"
+                android:fragment="com.android.settings.nfc.PaymentSettings"
+                android:icon="@drawable/ic_settings_nfc_payment"
+                />
+
+        <!-- Manufacturer hook -->
+        <dashboard-tile
+                android:id="@+id/manufacturer_settings"
+                android:fragment="com.android.settings.WirelessSettings">
+            <intent android:action="com.android.settings.MANUFACTURER_APPLICATION_SETTING" />
+        </dashboard-tile>
+
+        <!--add by sunxiaolong@wind-mobi.com for customize settings begin-->
+        <!-- Customize Setting -->
+        <dashboard-tile
+                android:id="@+id/customize_settings"
+                android:title="@string/customize_settings_title"
+                android:fragment="com.android.settings.CustomizeSettings"
+                android:icon="@drawable/ic_settings_customizesetting"
+        />
+        <!--add by sunxiaolong@wind-mobi.com for customize settings end-->
+    </dashboard-category>
+
+    <!-- PERSONAL -->
+    <dashboard-category
+            android:id="@+id/personal_section"
+            android:key="@string/category_key_personal"
+            android:title="@string/header_category_personal" >
+        <!-- Theme app -->
+        <dashboard-tile
+                android:id="@+id/theme_app_settings"
+                android:title="@string/asus_theme_app_title"
+                android:icon="@drawable/asus_ic_settings_themeapp">
+            <intent android:action="android.settings.ASUS_THEME_APP_SETTINGS"/>
+        </dashboard-tile>
+        <!--A: huangyouzhong@wind-mobi.com 20160525 -s : Asus LockScreen Settings-->
+        <!-- LockScreen -->
+        <dashboard-tile
+                android:id="@+id/asus_lockscreen_settings"
+                android:title="@string/asus_lockscreen_settings_title"
+                android:fragment="com.android.settings.AsusLockScreenSettings"
+                android:icon="@drawable/asus_ic_settings_screenlock"
+                />
+
+        <!-- Location -->
+	<!--A: huangyouzhong@wind-mobi.com 20160525 -e : Asus LockScreen Settings-->
+        <dashboard-tile
+                android:id="@+id/location_settings"
+                android:title="@string/location_settings_title"
+                android:fragment="com.android.settings.location.LocationSettings"
+                android:icon="@drawable/ic_settings_location"
+                />
+		<!--qiancheng@wind-mobi.com 20160701 add start -->
+		<!--asus add 6 -->
+		<!-- Fingerprint -->
+        <dashboard-tile
+                android:id="@+id/asus_fingerprint_settings"
+                android:title="@string/security_settings_fingerprint_preference_title"
+                android:fragment="com.android.settings.fingerprint.AsusFingerprintSettings"
+                android:icon="@drawable/ic_settings_fingerprint"
+                />
+		<!--qiancheng@wind-mobi.com 20160701 add end -->
+        <!-- ASUS Easy Mode-->
+        <dashboard-tile
+                android:id="@+id/asus_easy_launcher_settings"
+                android:title="@string/asus_easy_launcher_settings"
+                android:fragment="com.android.settings.AsusEasyLauncherSettings"
+                android:icon="@drawable/ic_settings_easymode"
+                >
+                <intent
+                    android:action="android.settings.ASUS_EASYMODE_SETTINGS"/>
+        </dashboard-tile>
+        <!-- ASUS Kids Mode-->
+        <dashboard-tile
+                android:id="@+id/asus_kids_launcher_settings"
+                android:title="@string/asus_kids_launcher_settings"
+                android:fragment="com.android.settings.AsusKidsLauncherSettings"
+                android:icon="@drawable/ic_settings_kidsmode"
+                >
+        </dashboard-tile>
+
+        <!-- Security -->
+        <dashboard-tile
+                android:id="@+id/security_settings"
+                android:title="@string/security_settings_title"
+                android:fragment="com.android.settings.SecuritySettings"
+                android:icon="@drawable/ic_settings_security"
+                />
+
+        <!-- Account -->
+        <dashboard-tile
+                android:id="@+id/account_settings"
+                android:title="@string/account_settings_title"
+                android:fragment="com.android.settings.accounts.AccountSettings"
+                android:icon="@drawable/ic_settings_accounts"
+                />
+
+        <!-- Marker for where to place external tiles in this category -->
+        <external-tiles />
+
+        <!-- Language -->
+        <dashboard-tile
+                android:id="@+id/language_settings"
+                android:title="@string/language_settings"
+                android:fragment="com.android.settings.inputmethod.InputMethodAndLanguageSettings"
+                android:icon="@drawable/ic_settings_language"
+                />
+
+        <!-- Backup and reset -->
+        <dashboard-tile
+                android:id="@+id/privacy_settings"
+                android:title="@string/privacy_settings"
+                android:fragment="com.android.settings.PrivacySettings"
+                android:icon="@drawable/ic_settings_backup"
+                />
+        <!--youxiaoyan@wind-mobi.com for ScreenshotSettings  2016/5/24 begin-->
+        <!-- Screenshot -->
+        <dashboard-tile
+                android:id="@+id/screenshot_settings"
+                android:title="@string/screenshot"
+                android:fragment="com.android.settings.ScreenshotSettings"
+                android:icon="@drawable/asus_ic_screenshot_settings"
+        />
+        <!--youxiaoyan@wind-mobi.com for ScreenshotSettings 2016/5/24 end-->
+
+    </dashboard-category>
+
+    <!-- SYSTEM -->
+    <dashboard-category
+        android:id="@+id/system_section"
+        android:key="@string/category_key_system"
+        android:title="@string/header_category_system" >
+
+        <!-- Date & Time -->
+        <dashboard-tile
+                android:id="@+id/date_time_settings"
+                android:title="@string/date_and_time_settings_title"
+                android:fragment="com.android.settings.DateTimeSettings"
+                android:icon="@drawable/ic_settings_date_time"
+                />
+
+        <!--Scheduled power on&off-->
+        <dashboard-tile
+                android:id="@+id/power_settings_off"
+                android:icon="@drawable/ic_settings_schpwronoff"
+                android:title="@string/schedule_power_on_off_settings_title">
+            <intent android:action="com.android.settings.SCHEDULE_POWER_ON_OFF_SETTING" />
+        </dashboard-tile>
+
+        <!-- Accessibility feedback -->
+        <dashboard-tile
+                android:id="@+id/accessibility_settings"
+                android:title="@string/accessibility_settings"
+                android:fragment="com.android.settings.accessibility.AccessibilitySettings"
+                android:icon="@drawable/ic_settings_accessibility"
+                />
+
+        <!-- Print -->
+        <dashboard-tile
+                android:id="@+id/print_settings"
+                android:title="@string/print_settings"
+                android:fragment="com.android.settings.print.PrintSettingsFragment"
+                android:icon="@drawable/ic_settings_print"
+                />
+
+        <!-- ZENUI Update -->
+        <dashboard-tile
+                android:id="@+id/zenui_update"
+                android:title="@string/zenui_update"
+                android:icon="@drawable/ic_settings_store">
+            <intent android:action="android.settings.ZENUI_UPDATE_SETTINGS"/>
+        </dashboard-tile>
+
+        <!-- Development -->
+        <dashboard-tile
+                android:id="@+id/development_settings"
+                android:title="@string/development_settings_title"
+                android:fragment="com.android.settings.DevelopmentSettings"
+                android:icon="@drawable/ic_settings_development"
+                />
+
+        <!-- About Device -->
+        <dashboard-tile
+                android:id="@+id/about_settings"
+                android:title="@string/about_phone_title"
+                android:fragment="com.android.settings.DeviceInfoSettings"
+                android:icon="@drawable/ic_settings_about"
+                />
+
+    </dashboard-category>
+
+</dashboard-categories>

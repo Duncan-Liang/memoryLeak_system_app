@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">ﻦﻘﻟ ﺈﻟﻯ ﻢﺧﺰﻧ ﺎﻠﺠﻫﺍﺯ</string>
+    <string name="move_error_unknow">ﺖﻋﺫﺭ ﻦﻘﻟ ﺎﻠﺘﻄﺒﻴﻗ. ﻱُﺮﺟﻯ ﺎﻠﻤﺣﺍﻮﻟﺓ ﻡﺭﺓ ﺄﺧﺭﻯ.</string>
+    <string name="processing">ﺝﺍﺮﻳ ﺎﻠﻤﻋﺎﻠﺟﺓ…</string>
+    <string name="dialog_hint">ﻕﺩ ﺖﺴﺘﻏﺮﻗ ﻊﻤﻠﻳﺓ ﺍﻼﺴﺘﻋﺍﺩﺓ ﺐﻌﺿ ﺎﻟﻮﻘﺗ.\n\nﻱُﺮﺟﻯ ﻉﺪﻣ ﺈﻄﻓﺍﺀ ﺎﻠﺠﻫﺍﺯ ﺃﻭ ﺎﺴﺘﺧﺩﺎﻣ ﺎﻠﺘﻄﺒﻴﻗﺎﺗ ﺎﻠﻤﺘﺣﺮﻛﺓ ﺎﻠﻤﺣﺩﺩﺓ. ﻱُﺮﺟﻯ ﻉﺪﻣ ﺇﺯﺎﻟﺓ ﺞﻫﺍﺯ ﺎﻠﺘﺧﺰﻴﻧ ﺎﻠﺧﺍﺮﺠﻳ ﻩﺬﻫ ﺎﻠﻣﺭﺓ.\n\nﻪﻟ ﺕﺮﻳﺩ ﺎﻠﻤﺗﺎﺒﻋﺓ؟</string>
+</resources>

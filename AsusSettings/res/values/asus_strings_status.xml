@@ -1,0 +1,4 @@
+﻿<resources>
+    <string name="status_voice">"Voice"</string>
+    <string name="status_data">"Data"</string>
+</resources>

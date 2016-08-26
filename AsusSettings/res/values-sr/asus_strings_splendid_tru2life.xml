@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">Pokreti bez zamućenja</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Visok</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Srednji</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Nizak</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Onemogućeno</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Visoki efekti</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Srednji efekti</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Niski efekti</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Onemogućeno</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Ujednačen je kvalitet video reprodukcije.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Režim Svetloplavi filter"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Nivo 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Nivo 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Nivo 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Nivo 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Nivo 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"ISKLJUČENO"</string>
+    <string name="splendid_bluelight_filter_mode_on">"UKLJUČENO"</string>
+    <string name="splendid_bluelight_ok">"Potvrdi"</string>
+    <string name="splendid_bluelight_cancel">"Otkaži"</string>
+    <string name="notification_bluelight_filter_title">"Svetloplavi filter je omogućen"</string>
+    <string name="notification_bluelight_filter_summary">"Dodirnite za izmenu"</string>
+    <!-- end -->
+</resources>

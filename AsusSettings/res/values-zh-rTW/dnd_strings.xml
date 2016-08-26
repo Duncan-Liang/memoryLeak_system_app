@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">勿擾設定</string>
+    <string name="zen_mode_option_off2">一律接受</string>
+    <string name="zen_mode_option_important_interruptions2">依勿擾規則</string>
+    <string name="zen_mode_option_no_interruptions2">不接受</string>
+    <string name="zen_mode_important_category2">勿擾規則</string>
+    <string name="zen_mode_from2">若來自以下聯絡人，允許通話或訊息</string>
+    <string name="zen_mode_from_anyone2">所有人</string>
+    <string name="zen_mode_from_contacts2">僅限聯絡人</string>
+    <string name="zen_mode_from_starred2">僅限我的最愛</string>
+    <string name="zen_mode_from_vip2">僅限VIP</string>
+    <string name="zen_mode_downtime_category2">勿擾時段設定(啟用勿擾規則)</string>
+    <string name="zen_mode_alarms_priority">鬧鐘</string>
+    <string name="zen_mode_repeated_calls">重複來電</string>
+    <string name="zen_mode_repeated_calls_desc">啟用後，相同的來電者在2分鐘內打來的第二通電話將不會被靜音</string>
+    <string name="zen_mode_add_downtime">新增勿擾時段</string>
+    <string name="zen_mode_meeting_mode_category">根據日曆中活動啟用優先干擾</string>
+    <string name="zen_mode_weekend">週末</string>
+    <string name="zen_mode_everyday">每天</string>
+    <string name="zen_mode_remove_dialog_title">刪除勿擾時段</string>
+    <string name="zen_mode_remove_dialog_message">刪除此筆勿擾時段設定?</string>
+    <string name="zen_mode_limit_dialog_title">新增勿擾時段</string>
+    <string name="zen_mode_limit_dialog_message">您最多可設定 %d 個勿擾時段</string>
+    <string name="zen_mode_downtime_title">勿擾時段</string>
+    <string name="zen_mode_downtime_title_new">新增勿擾時段</string>
+    <string name="zen_mode_downtime_title_edit">編輯勿擾時段</string>
+    <string name="zen_mode_downtime_title_meeting">編輯勿擾時段</string>
+    <string name="zen_mode_others">設定</string>
+    <string name="zen_mode_send_notifications">通知</string>
+    <string name="zen_mode_send_notifications_desc">若勿擾設定被啟用，則傳送通知給我</string>
+    <string name="zen_mode_no_interruptions_warning">若設定為”完全靜音”，鬧鐘也會被靜音</string>
+    <string name="zen_mode_from_anyone3">"所有人"</string>
+    <string name="zen_mode_from_favorites_only">"僅限我的最愛"</string>
+    <string name="zen_mode_from_contacts_only">"僅限聯絡人"</string>
+    <string name="zen_mode_repeat_callers2">"重複來電"</string>
+    <string name="zen_mode_repeat_callers_summary2">"同一號碼在<xliff:g id="MINUTES">%d</xliff:g>分鐘內打來的第二通電話，將不會轉成靜音。"</string>
+    <string name="zen_mode_option_important_interruptions3">"套用勿擾規則"</string>
+    <string name="zen_mode_selected_callers2">"選取的來電"</string>
+    <string name="zen_mode_dnd_is_on">"勿擾模式目前已開啟，您可以手動關閉該功能。"</string>
+    <string name="zen_mode_turn_off_now">"立即關閉"</string>
+    <string name="zen_mode_custom_name">"自訂"</string>
+    <string name="zen_mode_manual_turn_on">"手動啟用勿擾模式"</string>
+    <string name="zen_mode_turn_off">"停用勿擾模式"</string>
+    <string name="zen_mode_in_activity">"已啟用："</string>
+    <string name="zen_mode_forever2">"無限期"</string>
+</resources>

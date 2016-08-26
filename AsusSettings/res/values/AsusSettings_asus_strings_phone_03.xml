@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- ashan_yang@asus.com, show dual sim lock string -->
+    <string name="sim_pin_attempts">\nAttempts Remaining :</string>
+    <!-- <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string> -->
+</resources>

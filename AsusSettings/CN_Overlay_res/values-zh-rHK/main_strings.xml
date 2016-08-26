@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hardware_info_summary">WLAN, 藍牙, 韌體版本等等</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">警告: 如果你跳過WLAN, 你的裝置初始化下載與更新時只會使用手機數據.要避免數據收費, 請連線WLAN.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">裝置未能連線到此WLAN網絡.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">警告:警告: 如果你跳過WLAN, 你的裝置初始化下載與更新時不會有網絡可用.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">如果你限制背景數據，部分應用程式和服務將不能運作除非你接駁到WLAN。這設定影響所有此裝置上的所有用家。</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Ekrano spalvų režimas</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Pusiausvyros režimas</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Skaitymo režimas</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Ryškus režimas</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Suasmenintas režimas</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Nesusilieję judesiai"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Didelis</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Vidutinis</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Mažas</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Išjungtas</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Didelis efektas</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Vidutinis efektas</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Mažas efektas</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Išjungtas</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Išlyginti vaizdo įrašo leidimo kokybę.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Mėlynosios šviesos filtras"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"1 lygis"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"2 lygis"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"3 lygis"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"4 lygis"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"5 lygis"</string>
+    <string name="splendid_bluelight_filter_mode_off">"IŠJUNGTA"</string>
+    <string name="splendid_bluelight_filter_mode_on">"ĮJUNGTA"</string>
+    <string name="splendid_bluelight_ok">"GERAI"</string>
+    <string name="splendid_bluelight_cancel">"Atšaukti"</string>
+    <string name="notification_bluelight_filter_title">"Įjungtas mėlynosios šviesos filtras"</string>
+    <string name="notification_bluelight_filter_summary">"Bakstelėkite norėdami keisti"</string>
+    <!-- end -->
+</resources>

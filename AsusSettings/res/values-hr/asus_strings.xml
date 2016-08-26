@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <!-- JaJa -->
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature  -->
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Općenita ponuda izvornog koda</string>
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+    <!-- Guoliang Lin, 2011/03/01, UI required, new feature -->
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">"ASUS prilagođene postavke"</string>
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    <!--  Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <!-- Lance Tung 2011/12/15 , UI requred , new feature-->
+    <!-- Wayne2_Chen: UI required-->
+    <!-- Lance Tung, 2012/08/01, UI required-->
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <!-- Harrison for power settings -->
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <!-- END MikeHsu -->
+    <!-- MikeHsu for clear cache -->
+    <!-- MikeHsu for clear app data -->
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <!-- END Joey_Lee AT&T factory reset password -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- Joey_Lee for erase micro SD -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com -->
+    <!-- harrison  -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <!-- Ferdinand_kao@asus.com -->
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <!-- Ken_yu -->
+    <!-- yen-hsun_huang for quick settings list -->
+    <!-- end -->
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Prikaži traku stanja</string>
+    <!--  jame1_jiang 2014/03/06 for instant camera -->
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <!-- Ken1_Yu, 2013/07/11 PointerSpeed preference -->
+    <!-- Ken1_Yu, 2013/07/12 trustedcredential -->
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <!-- Alex6 Lin -->
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <!-- Harrison Chen, recent app key long press_control-->
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <!-- ashan_yang@asus.com, show battery -->
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <!-- Jeffrey_Chiang@asus.com, Long press camera setting -->
+    <!-- begin jeson_li@20141121: ViewFlipCover setting -->
+    <!-- end  jeson_li@20141121: ViewFlipCover setting -->
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size-->
+<!-- bruce1_li, AT&T DMAgent -->
+    <!-- sheng-en_fann, LED indicator -->
+    <!--LockScreen Intruder selfie   add by jesson_yi  -->
+    <string name="lockscreen_intruder_selfie_title">Autoportret uljeza</string>
+    <string name="lockscreen_intruder_selfie_summary">Snimite fotografiju nekog tko je unio pogrešan kod.</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Autoportret uljeza</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Snimi fotografiju uljeza kad unese netočnu lozinku na zaključanom zaslonu</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Unosi netočnog koda</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Dva puta</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Automatski snimi fotografiju</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Snimite fotografiju u mapu Intruder Selfie (Autoportret uljeza) u galeriji</string>
+    <string name="lockscreen_incorrect_code_entries_twice">Dva puta</string>
+    <string name="lockscreen_incorrect_code_entries_third">Treći put</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">Četvrti put</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">Peti put</string>
+    <string name="lockscreen_enable_slide_widget_title">Preskoči kliznu stranicu</string>
+    <string name="lockscreen_enable_slide_widget">Preskoči stranicu zaslona za klizno zaključavanje pri pokretanju</string>
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <!-- AMAX AT&T issue -->
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Lozinka mora sadržavati najmanje %d znakova iz 4 skupine: velika slova, mala slova, broj, znak"</string>
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <!-- Ashen_gu@asus.com, ringtone title -->
+    <!-- leo_liao@asus.com, One-hand control -->
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="asus_sd_eject">Odjavi vanjsku memoriju</string>
+    <string name="asus_sd_eject_summary">Sigurno uklanjanje vanjske memorije</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Privatni način rada račun e-pošte za slučaj nužde</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Prije nego izradite SnapView, preporučujemo da dodijelite Google račun kao račun e-pošte za slučaj nužde.\n\nRačun e-pošte za slučaj nužde pomoći će vam u resetiranju privatni način rada lozinke u slučaju da ju zaboravite.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Provjerite vaš Google račun</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Provjerit ćemo vaš Google račun.\n\nNakon uspješne provjere možete pokrenuti resetiranje lozinke zaključanog zaslona.\n\nNapomena: Sljedeći zaslon pripada provjeri Google računa, a mi ne prikupljamo podatke o vašem računu.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Privatni način rada lozinka je resetirana</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Čestitamo! Privatni način rada lozinka je resetirana.\n\nSada možete dodijeliti novu privatni način rada lozinku ili izbrisati trenutni privatni način rada.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Želite li izbrisati Privatni način rada, unesite lozinku za zaključavanje zaslona i nasumični PIN.\n\nNakon potvrde, Privatni način rada će se izbrisati s uređaja. Izgubit ćete fotografije, aplikacije i podatke u privatni način rada.\n\nOva radnja ne može se poništiti. Želite li nastaviti?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Promijenite račun e-pošte za slučaj nužde</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Koristite ovo za resetiranje privatni način rada lozinke</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Dodijelite Gmail račun kao privatni način rada račun e-pošte za slučaj nužde.\n\nRačun e-pošte za slučaj nužde pomoći će vam u resetiranju privatni način rada lozinke u slučaju da ju zaboravite.</string>
+    <string name="user_snapview_reset_confirm">Želite li izbrisati sve vaše podatke u privatnom načinu rada?\nTa radnja se neće moći poništiti!</string>
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <!-- BEGIN chilung_chen@asus.com -->
+    <!-- END chilung_chen@asus.com-->
+    <!-- Wilson_Chen@asus.com -->
+    <!-- BEGIN chilung_chen@asus.com-->
+    <string name="zen_mode_dont_interrupt_category">Ne dopuštaj</string>
+    <!-- END chilung_chen@asus.com-->
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Prilagođeni brzi pristup</string>
+    <string name="change_short_cut_message">Kucnite radi prilagodbe i odvucite aplikaciju radi aranžiranja</string>
+    <!-- END leo_cao@asus.com -->
+    <!-- Archie_Huang@asus.com -->
+    <!-- Kevin_Chiou for ANT build -->
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Primijeni dizajn materijala</string>
+    <string name="notification_material_summary">Kada se postave, neke ikone obavijesti aplikacije postaju bijele radi sukladnosti sa stilom dizajna.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Dalje"</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Način rada za djecu"</string>
+    <string name="asus_kids_launcher_settings_message">"Uključuje se Način rada za djecu radi pripreme sigurnog igrališta za vašu djecu."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">Neke aplikacije možda ne budu pravilno prikazale tekstove s vrlo velikim fontom.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">"Vrlo veliki tekst"</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Dotaknite i držite okidač kamere ili tipku video kamere za pokretanje kamere kada je zaslon uključen"</string>
+    <string name="lockscreen_longpress_screen_off">"Dotaknite i držite okidač kamere ili tipku video kamere za pokretanje kamere kada je zaslon isključen"</string>
+    <string name="lockscreen_longpress_screen_on_title">"Pokreni kameru kada je zaslon uključen"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Pokreni kameru kada je zaslon isključen"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Onemogući stranicu vremenskih prilika"</string>
+    <string name="lockscreen_disable_weather_info_page">"Potpuno deaktivirajte stranicu vremenskih prilika (iz Cheetah Mobile) na desnoj strani zaključanog zaslona"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

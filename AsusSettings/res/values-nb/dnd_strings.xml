@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Ikke forstyrr</string>
+    <string name="zen_mode_option_off2">Tillat alltid</string>
+    <string name="zen_mode_option_important_interruptions2">Bruk regler for forstyrrelse</string>
+    <string name="zen_mode_option_no_interruptions2">Ikke tillat</string>
+    <string name="zen_mode_important_category2">Forstyrr regler</string>
+    <string name="zen_mode_from2">Tillat anrop/meldinger fra</string>
+    <string name="zen_mode_from_anyone2">Hvem som helst</string>
+    <string name="zen_mode_from_contacts2">Kun kontakter</string>
+    <string name="zen_mode_from_starred2">Kun favoritter</string>
+    <string name="zen_mode_from_vip2">Kun VIP</string>
+    <string name="zen_mode_downtime_category2">Planlagt tid (bruk regler for forstyrrelse)</string>
+    <string name="zen_mode_alarms_priority">Alarmer</string>
+    <string name="zen_mode_repeated_calls">Gjentatte anrop</string>
+    <string name="zen_mode_repeated_calls_desc">Et nytt anrop innen tre minutter har lyd på</string>
+    <string name="zen_mode_add_downtime">Ny tidsplan</string>
+    <string name="zen_mode_meeting_mode_category">Tidsplan utløst av kalenderhendelser</string>
+    <string name="zen_mode_weekend">Helg</string>
+    <string name="zen_mode_everyday">Hver dag</string>
+    <string name="zen_mode_remove_dialog_title">Fjern tidsplan</string>
+    <string name="zen_mode_remove_dialog_message">Fjern denne tidsplanen?</string>
+    <string name="zen_mode_limit_dialog_title">Ny tidsplan</string>
+    <string name="zen_mode_limit_dialog_message">Du kan ha opptil %d tidsplaninnstillinger.</string>
+    <string name="zen_mode_downtime_title">tidsplan</string>
+    <string name="zen_mode_downtime_title_new">Ny tidsplan</string>
+    <string name="zen_mode_downtime_title_edit">Rediger tidsplan</string>
+    <string name="zen_mode_downtime_title_meeting">Rediger tidsplan </string>
+    <string name="zen_mode_others">Innstillinger</string>
+    <string name="zen_mode_send_notifications">Varsel</string>
+    <string name="zen_mode_send_notifications_desc">Send varsel når Ikke forstyrr er aktivert</string>
+    <string name="zen_mode_no_interruptions_warning">"Når dette satt til \"total stillhet\", vil alarmer bli lydløse."</string>
+    <string name="zen_mode_from_anyone3">"Fra alle"</string>
+    <string name="zen_mode_from_favorites_only">"Kun fra favoritter"</string>
+    <string name="zen_mode_from_contacts_only">"Kun fra kontakter"</string>
+    <string name="zen_mode_repeat_callers2">"Gjentatte anrop"</string>
+    <string name="zen_mode_repeat_callers_summary2">"At samme nummer ringer igjen i en <xliff:g id="MINUTES">%d</xliff:g>-minuttersperiode blir tillatt"</string>
+    <string name="zen_mode_option_important_interruptions3">"Bruk regler for forstyrrelse"</string>
+    <string name="zen_mode_selected_callers2">"valgte anrop"</string>
+    <string name="zen_mode_dnd_is_on">"Ikke forstyrr er aktivert. Du kan deaktivere den manuelt."</string>
+    <string name="zen_mode_turn_off_now">"Slå av nå"</string>
+    <string name="zen_mode_custom_name">"Egendefinert"</string>
+    <string name="zen_mode_manual_turn_on">"Aktiver Ikke forstyrr manuelt"</string>
+    <string name="zen_mode_turn_off">"Deaktiver Ikke forstyrr"</string>
+    <string name="zen_mode_in_activity">"Aktivert: "</string>
+    <string name="zen_mode_forever2">"Uendelig"</string>
+</resources>

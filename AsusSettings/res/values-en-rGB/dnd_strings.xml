@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Do not disturb</string>
+    <string name="zen_mode_option_off2">Always allow</string>
+    <string name="zen_mode_option_important_interruptions2">Apply disturb rules</string>
+    <string name="zen_mode_option_no_interruptions2">Do not allow</string>
+    <string name="zen_mode_important_category2">Disturb rules</string>
+    <string name="zen_mode_from2">Allow calls/messages from</string>
+    <string name="zen_mode_from_anyone2">Anyone</string>
+    <string name="zen_mode_from_contacts2">Contacts only</string>
+    <string name="zen_mode_from_starred2">Favourites only</string>
+    <string name="zen_mode_from_vip2">VIP only</string>
+    <string name="zen_mode_downtime_category2">Scheduled time (Apply disturb rules)</string>
+    <string name="zen_mode_alarms_priority">Alarms</string>
+    <string name="zen_mode_repeated_calls">Repeated calls</string>
+    <string name="zen_mode_repeated_calls_desc">A second call within two minutes will not be silenced</string>
+    <string name="zen_mode_add_downtime">New schedule</string>
+    <string name="zen_mode_meeting_mode_category">Schedule triggered by calendar events</string>
+    <string name="zen_mode_weekend">Weekend</string>
+    <string name="zen_mode_everyday">Everyday</string>
+    <string name="zen_mode_remove_dialog_title">Remove schedule</string>
+    <string name="zen_mode_remove_dialog_message">Remove this schedule?</string>
+    <string name="zen_mode_limit_dialog_title">New schedule</string>
+    <string name="zen_mode_limit_dialog_message">You may have up to %d schedule settings.</string>
+    <string name="zen_mode_downtime_title">schedule</string>
+    <string name="zen_mode_downtime_title_new">New schedule</string>
+    <string name="zen_mode_downtime_title_edit">Edit schedule</string>
+    <string name="zen_mode_downtime_title_meeting">Edit schedule </string>
+    <string name="zen_mode_others">Settings</string>
+    <string name="zen_mode_send_notifications">Notification</string>
+    <string name="zen_mode_send_notifications_desc">Send notification once Do not disturb is activated</string>
+    <string name="zen_mode_no_interruptions_warning">"When set to \"total silence\", alarms will be set to mute."</string>
+    <string name="zen_mode_from_anyone3">"From anyone"</string>
+    <string name="zen_mode_from_favorites_only">"From favorites only"</string>
+    <string name="zen_mode_from_contacts_only">"From contacts only"</string>
+    <string name="zen_mode_repeat_callers2">"Repeat calls"</string>
+    <string name="zen_mode_repeat_callers_summary2">"The same number that calls again in a <xliff:g id="MINUTES">%d</xliff:g> minute period will be allowed"</string>
+    <string name="zen_mode_option_important_interruptions3">"Apply disturb rules"</string>
+    <string name="zen_mode_selected_callers2">"selected calls"</string>
+    <string name="zen_mode_dnd_is_on">"Do not disturb is turned on now. You can turn it off manually."</string>
+    <string name="zen_mode_turn_off_now">"Turn off now"</string>
+    <string name="zen_mode_custom_name">"Custom"</string>
+    <string name="zen_mode_manual_turn_on">"Enable Do not disturb manually"</string>
+    <string name="zen_mode_turn_off">"Disable Do not disturb"</string>
+    <string name="zen_mode_in_activity">"Enabled: "</string>
+    <string name="zen_mode_forever2">"Indefinitely"</string>
+</resources>

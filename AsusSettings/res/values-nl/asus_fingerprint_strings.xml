@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"Aanraakknoppen"</string>
+    <string name="asus_fingerprint_long_press_title">"Beantwoord inkomende oproepen"</string>
+    <string name="asus_fingerprint_long_press_summary">"Tik en houd de vingerafdruksensor vast om inkomende oproepen te beantwoorden."</string>
+    <string name="asus_fingerprint_camera_title">"Camera starten"</string>
+    <string name="asus_fingerprint_launch_camera_title">"Camera starten"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"Dubbeltik op de vingerafdruksensor om de camera op te starten wanneer het apparaat ontgrendeld is."</string>
+    <string name="asus_fingerprint_take_photo_title">"Een foto vastleggen"</string>
+    <string name="asus_fingerprint_take_photo_summary">"Tik op de vingerafdruksensor om een foto vast te leggen wanneer de camera actief is."</string>
+    <string name="asus_fingerprint_id_category_title">"Vingerafdruk-id"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"Blokkering inkomende oproep"</string>
+    <string name="asus_fingerprint_answer_call_summary">"Beantwoord inkomende oproep met uw vingerafdruk"</string>
+    <string name="asus_fingerprint_snap_call_title">"Oproep opvangen"</string>
+    <string name="asus_fingerprint_snap_call_summary">"Schakel Oproep opvangen in met uw vingerafdruk"</string>
+</resources>

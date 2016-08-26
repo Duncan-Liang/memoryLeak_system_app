@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+      Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">Par</string>
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">Nekad</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">Ekrāns ieslēgts vienmēr</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title" maxwidth="-1">Pad EC versija</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">Kameras versija</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">Skārienpaneļa versija</string>
+
+    <!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">MobileDock versija</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">Nav pieejams</string>
+
+    <!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">Ekrāntvērums</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Pieskarties un turēt neseno lietotņu atslēgu navigācijas joslā, lai tvertu ekrānu</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">Ekrāntvēruma faila formāts</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+    <!-- JaJa -->
+
+
+    <!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature -->
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Wi-Fi versija</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Bluetooth versija</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">GPS versija</string>
+
+    <!-- ShaoChuan_Cheng, 2011/03/30, UI required, new feature -->
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- ShaoChuan_Cheng, 2011/06/30, UI required, new feature -->
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Galvenā pirmkoda piedāvājums</string>
+
+    <!-- John Ho, 2011/09/01, UI required, new feature -->
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">ASUS pielāgotie iestatījumi</string>
+
+    <!-- Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">Nomontējiet ārējo atmiņu</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">Droši varat noņemt ārējo atmiņu</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">Ielieciet ārējo atmiņu montēšanai</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">Montēt ārējo atmiņu</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">Nomontēt ārējo atmiņu</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">Ja jūs nomontējat atmiņu, dažas lietotnes, ko lietojat, apstāsies, un var nebūt pieejamas, līdz uzmontēsiet atmiņu atpakaļ.</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">Ārējās atmiņas nomontēšana neizdevās</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">Nav iespējams nomontēt ārējo atmiņu. Mēģiniet vēlreiz vēlāk.</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">Ārējā atmiņa tiks nomontēta.</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">Dzēst ārējo atmiņu</string>
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">Skārienpaliktņa rādītāja stils</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">Žestu režīms</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">Peles kursora režīms</string>
+
+    <!-- Yufeng Kuo, 2011/12/01, UI required, new feature -->
+    <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">Darbības ar labo pogu</string>
+    <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">Darbības ar vidējo pogu</string>
+    <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">Rādīt kontekstuālo izvēlni</string>
+    <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Darboties kā ar Android vidējo pogu</string>
+    <string name="button_back" description="right button setting: it is like press back key" width="-1">Darboties kā ar taustiņu pāriešanai atpakaļ</string>
+    <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">Darboties kā ar izvēlnes taustiņu</string>
+
+    <!-- Lance Tung, 2012/08/01, UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">Enerģijas pārvaldība</string>
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Skalārā versija</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Ātrie iestatījumi</string>
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">Enerģijas pārvaldība</string>
+    <string name="powerstatistics_app_name">Lietotņu enerģijas patēriņa detaļas</string>
+    <string name="powersaver_app_name">Enerģijas taupītājs</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage">Lūdzu, drukājiet</string>
+    <!-- END MikeHsu -->
+
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">Iztīrīt kešatmiņu visām lietotnēm</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">Iztīrīt kešatmiņu visām lietotnēm?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">Tas iztīrīs visu lietotņu kešatmiņu. Atbrīvoto kešatmiņas vietu var izmantot iekšējai atmiņai.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">Notīrīt kešatmiņu</string>
+    <string name="clear_apps_cache_info">Notiek apstrāde...</string>
+    <string name="clear_apps_cache_toast">Kešatmiņa ir notīrīta.</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Atjaunošanas lietotnes</string>
+    <string name="clear_apps_data_account">\n\n"Šie konti tiks noņemti."</string>
+    <string name="clear_apps_data_title">Notīrīt visu lietotņu datus?</string>
+    <string name="clear_apps_data_desc">"Visi lietotņu dati tiks neatgriezeniski dzēsti. Tas ietver."\n\n<li>"Visus failus"</li>\n<li>"Iestatījumus"</li>\n<li>"Kontus"</li>\n<li>"Datubāzes"</li>\n<li>"Kešatmiņu"</li></string>
+    <string name="clear_apps_data_final_desc">Izdzēst visu lietotņu datus? Notiks pārstartēšana. Jūs nevarat atgriezt šo darbību!</string>
+    <string name="clear_apps_data_button">Notīrīt datus</string>
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title">Rūpnīcas atiestatīšanas parole</string>
+    <string name="att_factory_reset_password_summary">Iestatiet paroli, kad mikro SIM karte nav instalēta</string>
+    <string name="att_factory_reset_password_header_no_sim_card">Lūdzu, ievadiet paroli rūpnīcas datu atiestatīšanai</string>
+    <string name="att_factory_reset_password_header_enter_old">Lūdzu, ievadiet veco paroli</string>
+    <string name="att_factory_reset_password_header_enter_new">Lūdzu, ievadiet jauno paroli</string>
+    <string name="att_factory_reset_password_header_confirm_new">Apstipriniet jauno paroli</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">Dzēst SD karti</string>
+    <string name="erase_mircosd_storage_description">Dzēš visus datus SD kartē, piemēram, mūziku vai fotoattēlus</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+
+    <!-- harrison -->
+    <string name="alarm_times">reizes</string>
+    <string name="alarm_wakeup_total">Kopā modināšanas</string>
+    <string name="wakeupalarm_label">@string/power_management_setting_title</string>
+    <string name="app_wakeupalarm_switch_label">novērst ierīces pamodināšanu</string>
+    <string name="app_wakelock_switch_label">novērst ierīces turēšanu nomodā</string>
+    <string name="powermanagement_options_dialog">Šis iestatījums var sākt darboties pēc lietotnes pārstartēšanas vai atsāknēšanas</string>
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">Jauns pasts</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Nosūtītais pasts</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">Kalendāra brīdinājumi</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Noklusējuma modinātājs</string>
+    <!-- MikeHsu for multiple notification effects -->
+    <!-- Ferdinand_kao@asus.com: ASUS keyboard subtype limit -->
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="50">Maksimālais atlasītas tastatūras skaits sasniegts</string>
+    <!-- Ferdinand_kao@asus.com -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Lai piekļūtu šai lietotnei, nepieciešams interneta savienojums. Lūdzu, iespējojiet mobilo tīklu vai Wi-Fi sadaļā Iestatījumi. </string>
+    <string name="load_suspended_title">Nav tīkla savienojuma</string>
+    <string name="button_label_settings">Iestatījumi</string>
+    <string name="button_label_cancel">Atcelt</string>
+    <!-- Ken_yu -->
+
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title">Ātro iestatījumu opcijas</string>
+    <string name="quick_setting_description">Atlasiet vienumus, ko rādīt ātro iestatījumu panelī</string>
+    <string name="quick_setting_reset_title">Atiestatīt ātros iestatījumus</string>
+    <string name="quick_setting_reset_message">Ātro iestatījumu opcijas tiks atiestatītas.</string>
+    <!-- end -->
+
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display Pad EC version of padfone station" maxwidth="-1">PadFone Station versija</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">PadFone Station skārienpaneļa versija</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">PadFone Station kameras versija</string>
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Ekrāna bloķēšana</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Palaist lietotnes bloķētā ekrānā</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Ātrā piekļuve</string>
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Rādīt stāvokļa joslu</string>
+    <!-- jame1_jiang 2014/03/06 for instant camera -->
+    <string name="lockscreen_display_instant_camera_widget_title" description="Instant Camera" maxwidth="-1">Tūlītējā kamera</string>
+    <string name="lockscreen_display_instant_camera_widget" description="Double click volume key to launch camera from suspension" maxwidth="-1">Izdariet dubultklikšķi uz skaļuma taustiņa, lai palaistu kameru no aiztures</string>
+
+    <!-- George Yeh 2013/11/19 for Asus LockScreen Settings -->
+    <!-- <string name="lockscreen_settings_display_heading" description="Display" maxwidth="-1">Display</string> -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">What\'s Next logrīks</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">Rādīt What\'s Next logrīku bloķēšanas ekrānā</string>
+    <!-- <string name="lockscreen_display_multiple_user_title" description="Multiple user" maxwidth="-1">Multiple user</string> -->
+    <string name="select_shortcut_ap_title" description="Select App as shortcut" maxwidth="-1">Atlasīt lietotni kā saīsni</string>
+
+    <!-- Willie Huang, 2013/07/23, Stylus settings -->
+    <string name="asus_pen_settings" description="Title for setting Stylus" maxwidth="-1">Irbulis</string>
+    <string name="asus_pen_general_dominant_hand_title" description="Title for setting dominant hand" maxwidth="-1">Dominējošā roka</string>
+    <string name="asus_pen_general_dominant_hand_right" description="Selected item for setting dominant hand" maxwidth="-1">Labrocis</string>
+    <string name="asus_pen_general_dominant_hand_left" description="Selected item for setting dominant hand" maxwidth="-1">Kreilis</string>
+    <string name="asus_pen_general_attach_sound_title" description="Title for setting Stylus sound" maxwidth="-1">Irbuļa pievienošanas/atvienošanas skaņa</string>
+    <string name="asus_pen_general_attach_sound_summary" description="Summary for setting Stylus sound" maxwidth="-1">Atskaņo skaņu, kad irbulis ir pievienots vai atvienots</string>
+    <string name="asus_pen_general_pen_keeper_title" description="Title for setting Stylus keeper" maxwidth="-1">Irbuļa glabātājs</string>
+    <string name="asus_pen_general_pen_keeper_summary" description="Summary for setting Stylus keeper" maxwidth="-1">Rādīt brīdinājumu, kad irbulis var tikt nozaudēts</string>
+    <string name="asus_pen_category_stylus_tools" description="Category title for Stylus tools" maxwidth="-1">Irbuļa rīki</string>
+    <string name="airview_settings_switch_title" description="Title for setting smart peek" maxwidth="-1">Smart Peek</string>
+    <string name="airview_settings_switch_summary" description="Summary for setting smart peek" maxwidth="-1">Sniegt papildu informāciju, kad irbulis ir tuvināts</string>
+    <string name="airview_settings_nib_cursor_title" description="Title for setting Stylus cursor" maxwidth="-1">Irbuļa kursors</string>
+    <string name="airview_settings_information_preview_title" description="Title for setting content preview" maxwidth="-1">Satura priekšskatījums</string>
+    <string name="airview_settings_actionbar_hint_title" description="Title for setting action bar hint" maxwidth="-1">Darbības joslas mājiens</string>
+    <string name="asus_pen_general_instant_page_title" description="Title for setting instant page" maxwidth="-1">Instant Page</string>
+    <string name="asus_pen_general_instant_page_summary" description="Summary for setting instant page" maxwidth="-1">Palaist Instant page, kad irbulis ir atvienots</string>
+    <string name="asus_pen_general_autoscrolling_title" description="Title for setting auto-scroll" maxwidth="-1">Automātiskā ritināšana</string>
+    <string name="asus_pen_general_autoscrolling_summary" description="Summary for setting auto-scroll" maxwidth="-1">Ritināt automātiski, kad irbulis tuvināts ritināmu skatījumu malai</string>
+    <string name="asus_pen_general_stylus_page_title" description="Title for setting Stylus page" maxwidth="-1">Irbuļa lapa</string>
+    <string name="asus_pen_general_stylus_page_summary" description="Summary for setting Stylus page" maxwidth="-1">Rādīt irbuļa lapu sākuma ekrānā, kad irbulis ir atvienots</string>
+    <string name="z_stylus_title" description="Title for setting Z Stylus" maxwidth="-1">Z Stylus</string>
+    <string name="quickpanel_settings_switch_title" description="Title for setting quick panel" maxwidth="-1">Ātrās palaišanas panelis</string>
+    <string name="quickpanel_settings_switch_summary" description="Summary for setting quick panel" maxwidth="-1">Tuviniet un noklikšķiniet  uz 1&lt;sup&gt;st&lt;/sup&gt; pogu uz Z Stylus, lai izvērstu ātrās palaišanas paneli</string>
+    <string name="quickpanel_category_shortcuts" description="Category title for QuickPanel shortcuts" maxwidth="-1">Saīsnes</string>
+    <string name="quickpanel_app_instant_page" description="Name for InstantPage shortcuts" maxwidth="-1">Instant Page</string>
+    <string name="quickpanel_app_stylus_setting" description="Name for Stylus Setting shortcuts" maxwidth="-1">Z Stylus iestatījumi</string>
+
+    <!-- Jason Uang, 2013/07/04 Brightness preference -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Tumšs</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Spilgts</string>
+
+    <!-- Tony Hsu, 2013/07/05 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Irbuļa versija</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title -->
+    <string name="lockpassword_setup_your_pin_header">Iestatiet savu PIN</string>
+    <string name="lockpassword_setup_your_password_header">Iestatiet savu paroli</string>
+    <!-- Alex6 Lin -->
+
+
+    <!-- Guoliang Lin, 2013/07/19 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">Akumulatora versija</string>
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Sūtiet uzņēmumam ASUS diagnostikas datus, lai uzlabotu izstrādājuma kvalitāti un veiktspēju</string>
+
+    <!-- Harrison Chen, recent app key long press_control -->
+    <string name="recent_apps_key_long_press_control_title">Neseno lietotņu taustiņš</string>
+
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Vienmēr rādīt nesenās lietotnes</item>
+        <item>Pieskarieties un turiet, lai tvertu ekrānu</item>
+        <item>Pieskarieties un turiet, lai parādītu izvēlni</item>
+    </string-array>
+    <string-array name="recent_apps_key_long_press_control_values">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="touch_key_light_title">Pieskares taustiņi</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">Jau ielādēts</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled -->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">Šī lietotne tika iespējota</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">IA aparātprogrammatūras versija</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">Tastatūras kontrollera IC aparātprogrammatūras versija</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">Rādīt akumulatora uzlādi procentos</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Glove mode</string>
+    <string name="glove_mode_setting_summary">Palieliniet skāriena jutību, lietojot cimdus.</string>
+
+    <!-- begin jeson_li@20141121: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting transcover" maxwidth="-1">ASUS vāks</string>
+    <string name="asus_transcover_category_title" description="category title for setting transcover" maxwidth="-1">Piederumi</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Iespējot ASUS vāku</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Apturēt ekrānu, kad vāks ir aizvērts</string>
+    <string name="asus_cover_settings">ASUS vāka iestatījumi</string>
+    <string name="asus_cover_automatic_unlock_tittle">Automātiska atbloķēšana</string>
+    <string name="asus_cover_automatic_unlock_summary">Kad ekrāna bloķēšana ir atslēgta, atveriet vāku, lai automātiski atslēgtu drošības ekrānu</string>
+    <!-- end  jeson_li@20141121: ViewFlipCover setting -->
+
+
+    <!-- Kelly2_Zhou 2013/12/09 App2SD Installation Settings -->
+    <string name="app_installation_category">Lietotnes instalēšana</string>
+    <string name="app_installation_title">Lietotnes instalācijas iestatījumi</string>
+    <string name="app_installation_summary">Pielāgojiet saistītos iestatījumus, instalējot lietotni.</string>
+    <string name="app_installation_settings_category">Noklusējuma instalēšanas vieta</string>
+    <string name="app_installation_settings_auto_title">Automātiski</string>
+    <string name="app_installation_settings_auto_summary">Automātiski izlemj par instalēšanas vietu, pamatojoties uz lietotnes konfigurāciju un atmiņas pieejamību</string>
+    <string name="app_installation_settings_preferinternal_title">Iekšējā atmiņa vēlamāka</string>
+    <string name="app_installation_settings_preferinternal_summary">Instalēt lietotnes iekšējā atmiņā. Dažas lietotnes var tikt instalētas ārējā atmiņā, kad trūkst vietas atmiņā</string>
+    <string name="app_installation_settings_preferexternal_title">Ārējā atmiņa vēlamāka</string>
+    <string name="app_installation_settings_preferexternal_summary">Instalēt lietotnes ārējā atmiņā, ja atļauts</string>
+    <string name="app_installation_settings_advanced_category">UZLABOTI IESTATĪJUMI</string>
+    <string name="app_installation_settings_forceexternal_title">Piespiest instalēšanu ārējā atmiņā</string>
+    <string name="app_installation_settings_forceexternal_description">Iestatījumi ekspertam:\n\nInstalēt lietotnes bez norādītās vietas ārējā atmiņā\n\n Tas var izraisīt nenormālu lietotnes darbību ar tādiem projektiem, kā fona pakalpojumi, modinātāja pakalpojumi, ievades metodes mašīna, palaidējs, dzīvās tapetes, lietotnes logrīks, konta pārvaldnieks, sinhronizācijas adapters, ierīces administrators, sāknēšanas signāls utt.</string>
+
+    <!-- Kelly2_Zhou 2014/03/07 Dispaly Storage Total Size -->
+    <string name="memory_system_reserved_usage">Sistēma rezervēta</string>
+
+    <!-- bruce1_li, AT&T DMAgent -->
+    <string name="att_software_update">AT&amp;T programmatūras jauninājums</string>
+
+    <!-- sheng-en_fann, LED indicator -->
+    <string name="led_indicator">LED gaismas indikators</string>
+    <string name="asus_lockscreen_camera_settings">Kamera</string>
+    <string name="lockscreen_enable_camera_widget_title">Novelciet, lai palaistu</string>
+    <string name="lockscreen_enable_camera_widget">Lai palaistu kameru, velciet pa kreisi no bloķēšanas ekrāna labās malas</string>
+
+    <!-- LockScreen Intruder selfie   add by jesson_yi -->
+    <string name="lockscreen_intruder_selfie_title">Ložņas selfijs</string>
+    <string name="lockscreen_intruder_selfie_summary">Fotografē kādu, kas ievada nepareizu kodu</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Ložņas selfijs</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Fotografē ložņu, ievadot nepareizu paroli bloķēšanas ekrānā</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Nepareizas koda ievades</string>
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Otrā</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Saglabāt fotoattēlu automātiski</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Saglabāt fotoattēlu galerijas ložņu selfiju mapē</string>
+    <string name="lockscreen_incorrect_code_entries_twice">Otrā</string>
+    <string name="lockscreen_incorrect_code_entries_third">Trešā</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">Ceturtā</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">Piektā</string>
+    <string name="lockscreen_enable_slide_widget_title">Izlaist slidināšanas lapu</string>
+    <string name="lockscreen_enable_slide_widget">Izlaist slidināšanas lapu pamodinot</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">Sākuma ekrāns</string>
+    <string name="set_lock_screen">Bloķējošais ekrāns</string>
+    <string name="set_both_home_lockscreen">Sākuma un bloķējošais ekrāns</string>
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Easy Mode</string>
+    <string name="asus_easy_launcher_intro">Easy mode sniedz draudzīgu un intuitīvu saskarnes pieredzi ar vienkāršu izkārtojumu un galvenajām funkcijām</string>
+    <string name="keywords_easy_mode">"easy ez launcher simple old wiser big elder"</string>
+
+    <!-- AMAX AT&T issue -->
+    <string name="invalid_pin_for_eas" discription="invalid pin for eas(ex:1111,1234,4321)" maxwidth="-1">Nederīgs PIN</string>
+    <string name="invalid_password_for_eas" discription="invalid password for eas(ex:1111,1234,4321,aaaa,abcd)" maxwidth="-1">Nederīga parole</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">Parolei jāsatur vismaz %d rakstzīmju kopas 4 grupās: lielie burti, mazie burti, cipari, simboli</string>
+
+    <!-- sheng-en_fann@asus.com, auto brightness settings -->
+    <string name="auto_brightness_settings_title">Automātiskā spilgtuma opcijas</string>
+    <string name="auto_brightness_settings">Automātisks spilgtums</string>
+    <string name="auto_brightness_settings_gain">Pastiprinājums</string>
+    <string name="auto_brightness_settings_sensor">Gaismas sensors</string>
+    <string name="auto_brightness_settings_adjustment">Atļaut mainīt pastiprinājumu</string>
+    <string name="auto_brightness_settings_adjustment_on">@string/wifi_state_enabled</string>
+    <string name="auto_brightness_settings_adjustment_off">@string/wifi_state_disabled</string>
+    <string name="auto_brightness_settings_reset_gain">Atiestatīt uz noklusējumu</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Atiestatīt uz noklusējuma pastiprinājuma vērtību?</string>
+    <string name="auto_brightness_settings_indark">Tumšā vidē</string>
+    <string name="auto_brightness_settings_indark_title">Samazināt spilgtumu</string>
+    <string name="auto_brightness_settings_indark_slow">Lēni</string>
+    <string name="auto_brightness_settings_indark_immediate">Tūlīt</string>
+    <string name="auto_brightness_settings_indark_dynamic">Dinamiski</string>
+    <string name="show_sensor_usage">Rādīt gaismas sensora vērtību</string>
+    <string name="show_sensor_usage_summary">Ekrāna uzklājums, kas rāda pašreizējo gaismas sensora stāvokli</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Vienrokas režīms</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Ātrais palaidējs</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Divreiz pieskarieties sākuma atslēgai, lai aktivētu vienrokas darba režīmu</string>
+
+    <!-- Sound & notification > Sound section: Title for the option managing ringer volume. [CHAR LIMIT=30] -->
+    <string name="ring_notification_volume_option_title">Zvana tonis un paziņojumi</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Fontu stils</string>
+    <string name="monotype_preference_summary">Iestatīt fontu</string>
+    <string name="monotype_dialog_title">Izvēlieties jaunu fontu</string>
+    <string name="monotype_dialog_button">Saņemiet fontus tiešsaistē</string>
+    <string name="monotype_dialog_set_font_question">Iestatīt fontu kā %s?</string>
+    <string name="monotype_dialog_revert_question">Atiestatīt uz noklusējuma fontu?</string>
+    <string name="monotype_android_market_uri">market://search?q=pub:Monotype Imaging Inc.</string>
+    <string name="monotype_dialog_no_fonts_installed">Nav pieejami papildu fonti</string>
+    <string name="monotype_restart_dialog_text_1">Pārstartējiet tālruni</string>
+    <string name="monotype_restart_dialog_text_2">Pārstartējiet tālruni, lai pielietotu iestatījumus</string>
+    <string name="monotype_restart_dialog_button_1">Pārstartēt tūlīt</string>
+    <string name="monotype_restart_dialog_button_2">Pārstartēt vēlāk</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_default_font">Noklusējuma fonts</string>
+    <string name="monotype_loading_list">Ielādē fontu sarakstu...</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_title">SnapView</string>
+    <string name="user_snapview_summary">Jūs varat izveidot SnapView, lai aizsargātu savu fotoattēlu, failus un lietotnes.</string>
+    <string name="user_snapview_message_Notice">Paziņojums</string>
+    <string name="user_snapview_message_created">Nepietiek sistēmas atmiņas.</string>
+    <string name="user_snapview_message_with_normal_lock">Ar SnapView jūs varat uzņemt attēlus, saglabāt failus, instalēt lietotnes.  Šie faili un lietotnes paliek drošībā SnapView un nebūs redzami, kad iziesiet no SnapView.\n\nPirms SnapView izveidošanas jums jāiestata ekrāna bloķētājs priekš SnapView.\n\nPiezīme: Jūsu SnapView ekrāna bloķētājs nedrīkst būt tas pats, kas ir Īpašnieka ekrāna bloķētājs.</string>
+    <string name="user_snapview_message_without_normal_lock">Ar SnapView jūs varat uzņemt attēlus, saglabāt failus, instalēt lietotnes.  Šie faili un lietotnes paliek drošībā SnapView un nebūs redzami, kad iziesiet no SnapView.\n\nPirms SnapView izveidošanas jums jāiestata Īpašnieka ekrāna bloķētājs.</string>
+    <string name="user_snapview_settings">SnapView iestatījumi</string>
+    <string name="user_snapview_settings_category_lockscreen">Bloķējošā ekrāna drošība</string>
+    <string name="user_snapview_settings_category_visualhint">Vizuāls mājiens</string>
+    <string name="user_snapview_settings_category_dummy">Neīsts paziņojums</string>
+    <string name="user_snapview_settings_category_account">SnapView konts</string>
+    <string name="user_snapview_settings_avatar"> Rādīt iemiesojumus uz bloķējošā ekrāna</string>
+    <string name="user_snapview_settings_hint_lock">Bloķējošā ekrāna dekorācija</string>
+    <string name="user_snapview_settings_hint_notify">SnapView dekorācija</string>
+    <string name="user_snapview_settings_dummy_notify">Teksts</string>
+    <string name="user_snapview_settings_dummy_default">Google Play pakalpojums atjaunināts</string>
+    <string name="cn_user_snapview_settings_dummy_default">ASUS Apps Store pakalpojums atjaunināts</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Ikona</string>
+    <string name="user_snapview_settings_set_lock">Iestatīt ekrāna bloķētāju</string>
+    <string name="user_snapview_settings_change_info">Mainīt profila informāciju</string>
+    <string name="user_snapview_settings_delete_self">Dzēst SnapView</string>
+    <string name="user_snapview_settings_item1">Neuzkrītošs</string>
+    <string name="user_snapview_settings_item2">Skaidrs</string>
+    <string name="user_snapview_settings_item3">Neviens</string>
+    <string name="user_snapview_settings_item_color">Krāsa</string>
+    <string name="user_snapview_settings_item_icon">Ikona</string>
+    <string name="user_snapview_settings_item_none">Neviens</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">SnapView glābšanas e-pasta konts</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Pirms SnapView izveidošanas iesakām nozīmēt Google kontu kā glābšanas e-pasta kontu.\n\nJūsu glābšanas e-pasta konts\'palīdzēs atiestatīt jūsu SnapView paroli, ja to aizmirsīsiet.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Pārbaudiet savu Google kontu</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Tagad mēs pārbaudīsim jūsu Google kontu.\n\nJa pārbaude būs veiksmīga, jūs varēsiet sākt atiestatīt savu bloķēšanas ekrāna paroli.\n\nPiezīme. Nākamais ekrāns pieder Google Account Verification, un mēs neievāksim jūsu konta informāciju.</string>
+    <string name="user_snapview_message_verify_account_fail_dlg_title" maxwidth="-1">Nepareizs glābšanas konts</string>
+    <string name="user_snapview_message_verify_account_fail_dlg_message" maxwidth="-1">Šis glābšanas konts atšķiras no tā, kuru jūs lietojāt, veidojot SnapView. Pārliecinieties, ka lietojat to pašu kontu, ko lietojāt ar SnapView.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">SnapView parole ir atiestatīta.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Apsveicam! Jūsu SnapView parole ir atiestatīta.\n\nTagad jūs varat piešķirt jaunu SnapView paroli vai dzēst jūsu pašreizējo SnapView.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Lai dzēstu SnapView, jums jāievada ekrāna bloķētāja parole un nejaušs PIN kods.\n\nPēc apstiprināšanas, SnapView tiks dzēsts no jūsu ierīces. Jūs zaudēsiet savus fotoattēlus, lietotnes un datus no SnapView.\n\nŠo darbību nevar atsaukt. Vai vēlaties turpināt?</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Mainīt glābšanas e-pasta kontu</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Lietojiet šo, lai atiestatītu SnapView paroli</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Ludzu, nozīmējiet šo Gmail kontu kā sava SnapView glābšanas e-pasta kontu.\n\nJūsu glābšanas e-pasta konts palīdzēs atiestatīt SnapView paroli, ja to aizmirsīsiet.</string>
+    <string name="user_snapview_reset_confirm">Dzēst visus datus SnapView?\nJūs nevarat atsaukt šo darbību!</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_your_password_header_of_pmode">Izvēlieties jaunu Īpašnieka paroli</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Izvēlieties jaunu Īpašnieka PIN kodu</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Apstipriniet Īpašnieka paroli</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Apstipriniet Īpašnieka PIN kodu</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Uzzīmējiet Īpašnieka jauno atbloķēšanas zīmējumu</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Uzzīmējiet Īpašnieka zīmējumu vēlreiz, lai apstiprinātu</string>
+    <string name="lockpattern_choose_private_mode">Uzzīmējiet SnapView jauno atbloķēšanas zīmējumu</string>
+    <string name="lockpattern_confirm_private_mode">Uzzīmējiet SnapView zīmējumu vēlreiz, lai apstiprinātu</string>
+    <string name="lockpassword_choose_private_mode">Izvēlieties jaunu SnapView paroli</string>
+    <string name="lockpassword_confirm_private_mode">Apstipriniet SnapView paroli</string>
+    <string name="lockpin_choose_private_mode">Izvēlieties jaunu SnapView PIN kodu</string>
+    <string name="lockpin_confirm_private_mode">Apstipriniet SnapView PIN kodu</string>
+    <string name="lockpattern_pattern_same_to_normal">Zīmējums tāds pats kā parastais</string>
+    <string name="select_account">Atlasiet savu darbību</string>
+    <string name="owner_account">Mainīt Īpašnieka ekrāna bloķētāju</string>
+    <string name="personal_space">Mainīt SnapView ekrāna bloķētāju</string>
+    <string name="both">Mainīt ekrāna bloķētāja veidu</string>
+    <string name="notice">Paziņojums</string>
+    <string name="pmode_pattern_same_to_normal">SnapView ekrāna bloķētājs nedrīkst būt tas pats, kas Īpašnieka. Mēģiniet vēlreiz.</string>
+    <string name="pmode_pattern_same_to_private">Īpašnieka ekrāna bloķētājs nedrīkst būt tas pats, kas SnapView. Mēģiniet vēlreiz.</string>
+    <string name="pmode_created">Jūsu SnapView ir izveidots!  Tagad mēģiniet ieiet SnapView, izmantojot savu SnapView ekrāna bloķētāju.</string>
+    <string name="pmode_created_title">SnapView izveidots</string>
+    <string name="pmode_set_personal_space_title">Iestatīt SnapView ekrāna bloķētāju</string>
+    <string name="pmode_set_personal_space">Tagad, lūdzu, iestatiet ekrāna bloķētāju priekš SnapView.\n\nPiezīme. SnapView ekrāna bloķētājs nedrīkst būt tas pats, kas Īpašnieka.</string>
+    <string name="pmode_set_two_passwords">Jums jāiestata divas paroles parastajam kontam un personīgajam kontam.</string>
+    <string name="pmode_pattern_cannot_same">SnapView atbloķēšanas zīmējums nedrīkst būt tas pats, kas Īpašnieka.</string>
+    <string name="pmode_pin_cannot_same">SnapView PIN kods nedrīkst būt tas pats, kas Īpašnieka.</string>
+    <string name="pmode_password_cannot_same">SnapView parole nedrīkst būt tā pati, kas Īpašnieka.</string>
+    <string name="pmode_set_lock">Iestatīt bloķētāju</string>
+    <string name="pmode_set_owner_lock_title">Iestatīt Īpašnieka ekrāna bloķētāju</string>
+    <string name="pmode_set_owner_lock">Vispirms, lūdzu, iestatiet ekrāna bloķētāju Īpašniekam.</string>
+    <string name="pmode_pin_length_must_same">SnapView PIN koda un Īpašnieka PIN kodiem jābūt viena garuma</string>
+    <string name="detect_drain_apps">Atrast akumulatoru iztukšojošas lietotnes</string>
+
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="asus_master_clear_check_backup_title">Brīdinājums</string>
+    <string name="asus_master_clear_check_backup_message">Iekšējā atmiņā atrasti ASUS Backup dati.\n\nPirms formatēšanas, lūdzu, pārvietojiet dublējuma datus uz ārēju atmiņu, citādi dati tiks izdzēsti.\n\nVai vēlaties turpināt ar sistēmas atiestatīšanu?</string>
+    <!-- END chilung_chen@asus.com -->
+
+
+    <!-- Wilson_Chen@asus.com -->
+    <string name="battery_info_status_quick_charging">Ātrā uzlāde (ar maiņstrāvu)</string>
+    <string name="power_charging_duration_ac_quick_charging"><xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> līdz pilns, ar maiņstrāvu (Ātrā uzlāde)</string>
+
+    <!-- BEGIN chilung_chen@asus.com -->
+    <string name="zen_mode_dont_interrupt_category">Neatļaut</string>
+    <!-- END chilung_chen@asus.com -->
+
+
+    <!-- BEGIN leo_cao@asus.com -->
+    <string name="quick_access_message">Pielāgota ātrā piekļuve</string>
+    <string name="change_short_cut_message">Pieskarieties lietotnei, lai to pielāgotu un velciet lietotni, lai pārkārtotu</string>
+    <!-- END leo_cao@asus.com -->
+
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">"Automātiskās startēšanas pārvaldnieks"</string>
+    <string name="autostart_summary">"Atbrīvojiet vairāk atmiņas un taupiet enerģiju"</string>
+
+    <!-- Kevin_Chiou for ANT build -->
+    <string name="display_personalize" discription="settings_display_personalize group name" maxwidth="">Privāts</string>
+
+    <!-- Arthur2_Liu@asus.com:Sound & notification > Notification section: Title for the notification material design. -->
+    <string name="notification_material_title">Pielietot Material Design</string>
+    <string name="notification_material_summary">Kad pielietota, dažas lietotņu paziņojuma ikonas kļūst baltas, lai piemērotos šim dizaina stilam.</string>
+
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Tālāk"</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Bērnu režīms"</string>
+    <string name="asus_kids_launcher_settings_message">"Ieslēdziet bērnu režīmu, lai iestatītu drošu spēļu laukumu saviem bērniem."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="remind user the extra-large font size problem" width="-1">Dažas lietotnes, iespējams, nerāda pareizi tekstu ar īpaši lielu fonta izmēru.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="Title of accesibility extra large text" width="-1">Īpaši liels teksts</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Lai palaistu kameru, pieskarieties kameras aizvara taustiņam vai video kameras taustiņam un turiet to nospiestu, kamēr ekrāns ir ieslēgts."</string>
+    <string name="lockscreen_longpress_screen_off">"Lai palaistu kameru, pieskarieties kameras aizvara taustiņam vai video kameras taustiņam un turiet to nospiestu, kamēr ekrāns ir izslēgts."</string>
+    <string name="lockscreen_longpress_screen_on_title">"Palaist kameru, kad ekrāns ir ieslēgts"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Palaist kameru, kad ekrāns ir izslēgts"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Jauns teksts</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"Trauksmes"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"Konfigurēt trauksmes"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"Īsziņu mobilā apraide"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"Konfigurēt īsziņu mobilo apraidi"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Atspējot laikapstākļu informācijas lapu"</string>
+    <string name="lockscreen_disable_weather_info_page">"Bloķēšanas ekrāna labajā pusē pilnībā deaktivizējiet laikapstākļu informācijas lapu (darbina Cheetah Mobile)"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

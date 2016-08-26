@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string name="asus_commonui_cancel_label">"Annulla"</string>
+    <string name="asus_commonui_hour_picker_description" msgid="7586639618712934060">"Dispositivo di scorrimento circolare per le ore"</string>
+    <string name="asus_commonui_minute_picker_description" msgid="6024811202872705251">"Dispositivo di scorrimento per i minuti"</string>
+    <string name="asus_commonui_select_hours" msgid="7651068754188418859">"Seleziona le ore"</string>
+    <string name="asus_commonui_select_minutes" msgid="8327182090226828481">"Seleziona i minuti"</string>
+    <string name="asus_commonui_day_picker_description" msgid="3968620852217927702">"Griglia del mese suddivisa per giorni"</string>
+    <string name="asus_commonui_year_picker_description" msgid="6963340404644587098">"Elenco degli anni"</string>
+    <string name="asus_commonui_select_day" msgid="3973338219107019769">"Seleziona mese e giorno"</string>
+    <string name="asus_commonui_select_year" msgid="2603330600102539372">"Seleziona anno"</string>
+    <string name="asus_commonui_item_is_selected" msgid="2674929164900463786">"Elemento selezionato: <xliff:g id="ITEM">%1$s</xliff:g>"</string>
+    <string name="asus_commonui_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> eliminato"</string>
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"L\'allarme sarà attivato tra meno di 1 minuto."</item>
+        <item msgid="6002066367368421848">"L\'allarme sarà attivato tra <xliff:g id="DAYS">%1$s</xliff:g>."</item>
+        <item msgid="8824719306247973774">"L\'allarme sarà attivato tra <xliff:g id="HOURS">%2$s</xliff:g>."</item>
+        <item msgid="8182406852935468862">"L\'allarme sarà attivato tra <xliff:g id="DAYS">%1$s</xliff:g> e <xliff:g id="HOURS">%2$s</xliff:g>."</item>
+        <item msgid="2532279224777213194">"L\'allarme sarà attivato tra <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="5936557894247187717">"L\'allarme sarà attivato tra <xliff:g id="DAYS">%1$s</xliff:g> e <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="9115697840826129603">"L\'allarme sarà attivato tra <xliff:g id="HOURS">%2$s</xliff:g> e <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="2332583385137381060">"L\'allarme sarà attivato tra <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> e <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+    </string-array>
+    <string name="day" msgid="7984755014526510295">"1 giorno"</string>
+    <string name="days" msgid="2070509222727852210">"<xliff:g id="DAYS">%s</xliff:g> giorni"</string>
+    <string name="hour" msgid="2546819039651509323">"1 ora"</string>
+    <string name="hours" msgid="2071487018566991613">"<xliff:g id="HOURS">%s</xliff:g> ore"</string>
+    <string name="minute" msgid="2486157997434653710">"1 minuto"</string>
+    <string name="minutes" msgid="6115838729146292526">"<xliff:g id="MINUTES">%s</xliff:g> minuti"</string>
+
+    <string name="asus_commonui_terms_of_use_notice">Termini di utilizzo del prodotto</string>
+    <string name="asus_commonui_privacy_policy">Informativa sulla privacy</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/IT/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/IT/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string name="asus_commonui_no_url_handler">"Nessuna applicazione trovata per aprire l'URL"</string>
+
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Condividi con <xliff:g id="APPLICATION_NAME">%s</xliff:g>"
+    </string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Condividi con"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Mostra tutto"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Impossibile avviare l\'applicazione <xliff:g id="APPLICATION_NAME">%s</xliff:g>"
+    </string>
+    <string name="asus_commonui_whichHomeApplication">"Seleziona un\'app home"</string>
+    <string name="asus_commonui_whichApplication">"Completa l\'azione con"</string>
+    <string name="asus_commonui_chooseActivity">"Scegli un\'azione"</string>
+    <string name="asus_commonui_noApplications">"Nessuna applicazione è in grado di eseguire questa azione."</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Sempre"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Solo una volta"</string>
+</resources>

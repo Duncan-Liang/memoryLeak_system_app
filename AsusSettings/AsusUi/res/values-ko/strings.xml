@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_commonui_done_label">"확인"</string>
+    <string name="asus_commonui_cancel_label">"취소"</string>
+    <string name="asus_commonui_hour_picker_description" msgid="7586639618712934060">"시간 원형 슬라이더"</string>
+    <string name="asus_commonui_minute_picker_description" msgid="6024811202872705251">"분 원형 슬라이더"</string>
+    <string name="asus_commonui_select_hours" msgid="7651068754188418859">"시간 선택"</string>
+    <string name="asus_commonui_select_minutes" msgid="8327182090226828481">"분 선택"</string>
+    <string name="asus_commonui_day_picker_description" msgid="3968620852217927702">"월별 바둑판식 날짜 표시"</string>
+    <string name="asus_commonui_year_picker_description" msgid="6963340404644587098">"년"</string>
+    <string name="asus_commonui_select_day" msgid="3973338219107019769">"월/일 선택"</string>
+    <string name="asus_commonui_select_year" msgid="2603330600102539372">"연도 선택"</string>
+    <string name="asus_commonui_item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g>이(가) 선택됨"</string>
+    <string name="asus_commonui_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> 삭제됨"</string>
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"지금부터 1분 이내로 알람이 설정됩니다."</item>
+        <item msgid="6002066367368421848">"지금부터 <xliff:g id="DAYS">%1$s</xliff:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="8824719306247973774">"지금부터 <xliff:g id="HOURS">%2$s</xliff:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="8182406852935468862">"지금부터 <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="2532279224777213194">"지금부터 <xliff:g id="MINUTES">%3$s</xliff:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="5936557894247187717">"지금부터 <xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="9115697840826129603">"지금부터 <xliff:g id="HOURS">%2$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g> 후로 알람이 설정됩니다."</item>
+        <item msgid="2332583385137381060">"지금부터 <xliff:g id="DAYS">%1$s</xliff:g> <xliff:g id="HOURS">%2$s</xliff:g> <xliff:g id="MINUTES">%3$s</xliff:g> 후로 알람이 설정되었습니다."</item>
+    </string-array>
+    <string name="day" msgid="7984755014526510295">"1일"</string>
+    <string name="days" msgid="2070509222727852210">"<xliff:g id="DAYS">%s</xliff:g>일"</string>
+    <string name="hour" msgid="2546819039651509323">"1시간"</string>
+    <string name="hours" msgid="2071487018566991613">"<xliff:g id="HOURS">%s</xliff:g>시간"</string>
+    <string name="minute" msgid="2486157997434653710">"1분"</string>
+    <string name="minutes" msgid="6115838729146292526">"<xliff:g id="MINUTES">%s</xliff:g>분"</string>
+
+    <string name="asus_commonui_terms_of_use_notice">이용 약관</string>
+    <string name="asus_commonui_privacy_policy">개인 정보 보호 정책</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/KR/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/KR/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string name="asus_commonui_no_url_handler">URL을 열 수 있는 앱이 없음</string>
+
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "<xliff:g id="APPLICATION_NAME">%s</xliff:g>와(과) 공유"</string>
+    <string name="asus_commonui_shareactionprovider_share_with">"공유 대상:"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"전체 보기"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"앱 선택"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "<xliff:g id="APPLICATION_NAME">%s</xliff:g>을(를) 실행할 수 없습니다."</string>
+    <string name="asus_commonui_whichHomeApplication">"홈 앱 선택"</string>
+    <string name="asus_commonui_whichApplication">"작업을 수행할 때 사용하는 애플리케이션"</string>
+    <string name="asus_commonui_chooseActivity">"작업 선택"</string>
+    <string name="asus_commonui_noApplications">"작업을 수행할 수 있는 앱이 없습니다."</string>
+    <string name="asus_commonui_activity_resolver_use_always">"항상"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"한 번만"</string>
+</resources>

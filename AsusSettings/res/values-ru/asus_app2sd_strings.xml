@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Переместить в память устройства</string>
+    <string name="move_error_unknow">Невозможно переместить приложение. Повторите попытку.</string>
+    <string name="processing">Обработка...</string>
+    <string name="dialog_hint">Процесс занимает несколько минут.\n\nНе выключайте устройство и не запускайте приложения, выбранные для перемещения. В это время не извлекайте внешний накопитель.\n\nПродолжить?</string>
+</resources>

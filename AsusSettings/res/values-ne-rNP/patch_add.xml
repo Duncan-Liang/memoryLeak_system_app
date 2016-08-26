@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">स्क्रिन अनलक नगरी क्यामेरा चाँडै खोल्नुहोस्</string>
+  <string name="camera_double_tap_power_gesture_title">क्यामेराका लागि दुई पटक पावर बटन थिच्नुहोस्</string>
+  <string name="camera_gesture_desc">दुई पटक आफ्नो नारी बटारेर क्यामेरा अनुप्रयोग खोल्नुहोस्</string>
+  <string name="camera_gesture_title">क्यामेराका लागि दुई पटक बटार्नुहोस्</string>
+  <string name="keywords_color_mode">जोसिलो rgb srgb रङ्ग प्राकृतिक मानक</string>
+  <string name="manual">म्यानुअल</string>
+  <string name="picture_color_mode">चित्र रङ्ग मोड</string>
+  <string name="settings_manual_activity_title">म्यानुअल</string>
+  <string name="settings_manual_activity_unavailable">म्यानुअल लोड गर्दा एउटा समस्या आएको छ।</string>
+</resources>

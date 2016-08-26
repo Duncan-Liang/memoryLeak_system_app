@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_analytics_summary">हमारे उत्पाद की गुणवत्ता और निष्पादन में सुधार के लिए ASUS को नैदानिक डेटा भेजें</string>
+  <string name="asus_app2sd_blacklist_warning">बेहतर उपयोग अनुभव के लिए कृपया डिवाइस के संग्रहण पर स्थानांतरित करें</string>
+  <string name="asus_app2sd_notif_title">कुछ ऐप्स वापस डिवाइस संग्रहण पर स्थानांतरित करने की ज़रूरत है</string>
+  <string name="asus_call_lock_detail">"जब आप आवक कॉल लॉक सुविधा सक्षम करते हैं, कॉल का उत्तर देने के लिए आपको अपना फ़िंगरप्रिंट स्कैन करना होगा। स्कैन किए गए फ़िंगरप्रिंट की सफलतापूर्वक पहचान होने पर, कॉल स्वचालित रूप से कनेक्ट की जाएगी।\nकृपया ध्यान दें कि:\n1.आप युग्मित ब्लूटूथ हेडसेट या स्मार्ट वॉच से, अपना फ़िंगरप्रिंट स्कैन किए बिना आवक कॉल का सीधे जवाब दे सकते हैं।\n2.आपको वायर्ड हेडसेट का इस्तेमाल करते समय कॉल का जवाब देने के लिए अपने फ़िंगरप्रिंट का उपयोग करने की ज़रूरत होगी।\n3.आप 3सरे पक्ष की आवक कॉल स्क्रीन से कॉल का जवाब नहीं दे सकेंगे।\n4.वॉइस ओवर IP (VoIP) कॉल, जैसे WhatsApp वॉयस कॉल, के लिए आपको अभी भी स्वयं ऐप  से कॉल का जवाब देना चाहिए।"</string>
+  <string name="asus_fingerprint_answer_call_summary">अपनी फ़िंगरप्रिंट से आवक कॉल का उत्तर दें</string>
+  <string name="asus_fingerprint_camera_title">कैमरा प्रारंभ करें</string>
+  <string name="asus_fingerprint_id_category_title">फ़िंगरप्रिंट आईडी</string>
+  <string name="asus_fingerprint_incoming_call_title">आवक कॉल लॉक</string>
+  <string name="asus_fingerprint_launch_camera_summary">जब डिवाइस अनलॉक्ड हो तो कैमरा प्रारंभ करने के लिए फ़िंगरप्रिंट सेंसर पर डबल टैप करें।</string>
+  <string name="asus_fingerprint_launch_camera_title">कैमरा प्रारंभ करें</string>
+  <string name="asus_fingerprint_long_press_summary">आवक कॉल का उत्तर करने के लिए फ़िंगरप्रिंट सेंसर पर टैप और होल्ड करें।</string>
+  <string name="asus_fingerprint_long_press_title">आवक कॉल का उत्तर दें</string>
+  <string name="asus_fingerprint_snap_call_summary">अपने फ़िंगरप्रिंट से आवक कॉल स्नैप करें</string>
+  <string name="asus_fingerprint_snap_call_title">कॉल स्नैप करें</string>
+  <string name="asus_fingerprint_take_photo_summary">जब कैमरा सक्रिय है फ़ोटो पर कैप्चर करने के लिए फ़िंगरप्रिंट सेंसर पर टैप करें।</string>
+  <string name="asus_fingerprint_take_photo_title">फ़ोटो कैप्चर करें</string>
+  <string name="asus_fingerprint_touch_control_category_title">टच नियंत्रण</string>
+    <string name="asus_long_tap_warning">"जब आवक कॉल लॉक सुविधा सक्षम होती है, तो टैप और होल्ड करें के जरिए कॉल का जवाब देना अक्षम कर दिया जाएगा।"</string>
+  <string name="asus_storage_menu_migrate">भंडारण का प्रकार बदलें</string>
+  <string name="asus_storage_sd_warning_content">सहज डेटा संग्रहण के लिए उच्च गुणवत्ता का SD कार्ड स्थापित करना सुनिश्चित करें। डेटा सुरक्षित रूप से संगृहीत करने के लिए, कृपया प्रतिष्ठित निर्माता से SD कार्ड का उपयोग करें।</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[यह <xliff:g id="name" example="SD card">^1</xliff:g> धीमा प्रतीत होता है।<br><br>बेहतर निष्पादन के लिए तीव्रतर <xliff:g id="name" example="SD card">^1</xliff:g> का उपयोग करने पर विचार करें।]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">ASUS ब्लूटूथ कुंजीपटल</string>
+  <string name="button_ok">ठीक</string>
+  <string name="camera_double_tap_power_gesture_desc">अपनी स्‍क्रीन को अनलाॅक किए बिना अपना कैमरा तुरंत खोलें</string>
+  <string name="camera_double_tap_power_gesture_title">कैमरे के लिए पावर बटन दो बार दबाएं</string>
+  <string name="camera_gesture_desc">अपनी कलाई को दो बार मोड़कर कैमरा ऐप खोलें</string>
+  <string name="camera_gesture_title">कैमरे के लिए दो बार मोड़ना</string>
+  <string name="gesture_wake_up_screen">वेक अप स्क्रीन</string>
+  <string name="get_real_time_notification">वास्तविक-समय की अधिसूचनाएँ प्राप्त करें</string>
+  <string name="get_real_time_notification_detail">ऐप्स को पृष्ठभूमि में चलाता है ताकि आपको अधिसूचनाएँ और अद्यतन समय पर मिल सकें।</string>
+  <string name="incompatible_apps">असंगत ऐप्स</string>
+  <string name="incompatible_detail">सिस्टम ने Android OS संस्करण असंगत ऐप्स की पहचान की है। जानकारी के लिए ऐप डेवलपर से संपर्क करें या ऐप्स की स्थापना रद्द करें।</string>
+  <string name="incompatible_notify_title">असंगत ऐप्स की पहचान हुई है</string>
+  <string name="inspire_asus_title">नैदानिक डेटा</string>
+  <string name="keywords_color_mode">चमकीला rgb srgb रंग प्राकृतिक मानक</string>
+  <string name="large_and_huge_font_size_warning">हो सकता है कि कुछ ऐप्स  बड़े/भारी फ़ॉन्ट आकार वाले पाठ को ठीक प्रदर्शित न करें।</string>
+  <string name="manual">मैन्युअल</string>
+  <string name="notification_remind_user_to_set_bt">स्विच को दाईं ओर स्लाइड करें, इसे 5 सेकंड के लिए पकड़े रहें, इसके बाद पेयरिंग शुरू करने के लिए अधिसूचना पर टैप करें।</string>
+  <string name="notify_off">फिर न दिखाएँ।</string>
+  <string name="optimize_battery_usage">बैटरी उपयोग इष्टतम करें</string>
+  <string name="optimize_battery_usage_detail">पॉवर खपत कम करता है। हो सकता है कि कुछ अधिसूचनाएँ और अद्यतन वास्तविक समय में प्राप्त न हों।</string>
+  <string name="picture_color_mode">चित्र रंग मोड</string>
+  <string name="power_management_setting_title">पॉवर प्रबंधन</string>
+  <string name="power_settings_title">पॉवर प्रबंधन</string>
+  <string name="powersaver_app_name">पॉवर बचत</string>
+  <string name="quickpanel_app_instant_page">तत्काल पृष्ठ</string>
+  <string name="quickpanel_app_stylus_setting">Z Stylus सेटिंग</string>
+  <string name="quickpanel_category_shortcuts">शॉर्टकट</string>
+  <string name="quickpanel_settings_switch_summary">त्वरित लॉन्च पैनल विस्तारित करने के लिए Z Stylus पर सबसे पहले बटन के ऊपर फिराएँ और क्लिक करें।</string>
+  <string name="quickpanel_settings_switch_title">त्वरित लॉन्च पैनल</string>
+  <string name="real_time_notification">वास्तविक-समय की अधिसूचनाएँ</string>
+  <string name="settings_manual_activity_title">मैन्युअल</string>
+  <string name="settings_manual_activity_unavailable">मैन्युअल को लोड करने में कोई समस्‍या है.</string>
+  <string name="storage_wizard_benchmark_content">इसमें कई मिनट लगते हैं। कृपया प्रतीक्षा करें।</string>
+  <string name="storage_wizard_benchmark_tittle">बेंचमार्क</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>SD कार्ड आकार बहुत छोटा है। कृपया बड़े उच्च-गति वाले SD कार्ड का उपयोग करें।</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">ऐप्स और डेटा दोनों के लिए आंतरिक भंडारण के रूप में उपयोग करें</string>
+  <string name="storage_wizard_init_internal_app_only_summary">बाहरी भंडारण पर ऐप्स स्थापित करने के लिए। इसके लिए फ़ॉरमेटिंग ज़रूरी है जो इसे अन्य डिवाइस पर काम करने से रोकती है।</string>
+  <string name="storage_wizard_init_internal_app_only_title">केवल ऐप्स के लिए आंतरिक भंडारण के रूप में उपयोग करें</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[डेटा नए <xliff:g example="SD card" id="name">^1</xliff:g> पर स्थानांतरित करें ताकि आपकी फ़ोटो, फ़ाइलों, और कुछ ऐप्स स्टोर करने के लिए अधिक संग्रहण उपलब्ध हो सके। आप ऐप्स स्थापित करने के लिए <xliff:g example="SD कार्ड" id="name">^1</xliff:g> पर स्थान आरक्षित करना भी चुन सकते हैं]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[आपका नया <xliff:g example="SD card" id="name">^1</xliff:g> काम कर रहा है।]]></string>
+  <string name="stylus_only_mode_summary">Z Stylus के स्क्रीन छोड़ने के बाद स्पर्श मोड रोके</string>
+  <string name="stylus_only_mode_title">केवल स्टाइलस मोड</string>
+  <string name="stylus_only_time_title">केवल स्टाइलस समय</string>
+  <string name="swipe_up_to_wake_up_summary">अपनी डिवाइस को निष्क्रिय मोड से जगाने के लिए स्क्रीन को ऊपर की ओर स्वाइप करें।</string>
+  <string name="swipe_up_to_wake_up_title">जगाने के लिए ऊपर स्वाइप करें</string>
+  <string name="title_remind_user_to_set_bt">ASUS ब्लूटूथ कुंजीपटल की पहली पेयरिंग</string>
+  <string name="usb_hint_option_dialog_title">USB चार्जिंग</string>
+  <string name="usb_hint_option_got_it">समझ गए</string>
+  <string name="usb_hint_option_message">अन्य USB विकल्प देखने के लिए, स्क्रीन के शीर्ष से नीचे की ओर स्वाइप करें, और फिर USB अधिसूचना पर टैप करें।</string>
+  <string name="z_stylus_title">Z Stylus</string>
+</resources>

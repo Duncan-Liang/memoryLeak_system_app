@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Μην ενοχλείτε</string>
+    <string name="zen_mode_option_off2">Να επιτρέπεται πάντοτε</string>
+    <string name="zen_mode_option_important_interruptions2">Εφαρμογή κανόνων ενόχλησης</string>
+    <string name="zen_mode_option_no_interruptions2">Να μην επιτρέπεται</string>
+    <string name="zen_mode_important_category2">Κανόνες ενόχλησης</string>
+    <string name="zen_mode_from2">Να επιτρέπονται κλήσεις/μηνύματα από</string>
+    <string name="zen_mode_from_anyone2">Οποιοσδήποτε</string>
+    <string name="zen_mode_from_contacts2">μόνο Επαφές</string>
+    <string name="zen_mode_from_starred2">Μόνο Αγαπημένα</string>
+    <string name="zen_mode_from_vip2">μόνο VIP</string>
+    <string name="zen_mode_downtime_category2">Προγραμματισμένος χρόνος (Εφαρμογή κανόνων ενόχλησης)</string>
+    <string name="zen_mode_alarms_priority">Ειδοποιήσεις</string>
+    <string name="zen_mode_repeated_calls">Επαναλαμβανόμενες κλήσεις</string>
+    <string name="zen_mode_repeated_calls_desc">Μια δεύτερη κλήση μέσα σε δύο λεπτά δεν θα τεθεί σε σίγαση</string>
+    <string name="zen_mode_add_downtime">Νέο χρονοδιάγραμμα</string>
+    <string name="zen_mode_meeting_mode_category">Το χρονοδιάγραμμα ενεργοποιείται από τα συμβάντα ημερολογίου</string>
+    <string name="zen_mode_weekend">Σαββατοκύριακο</string>
+    <string name="zen_mode_everyday">Καθημερινά</string>
+    <string name="zen_mode_remove_dialog_title">Αφαίρεση χρονοδιαγράμματος</string>
+    <string name="zen_mode_remove_dialog_message">Να αφαιρεθεί αυτό το χρονοδιάγραμμα;</string>
+    <string name="zen_mode_limit_dialog_title">Νέο χρονοδιάγραμμα</string>
+    <string name="zen_mode_limit_dialog_message">Μπορείτε να έχετε έως %d ρυθμίσεις χρονοδιαγράμματος.</string>
+    <string name="zen_mode_downtime_title">χρονοδιάγραμμα</string>
+    <string name="zen_mode_downtime_title_new">Νέο χρονοδιάγραμμα</string>
+    <string name="zen_mode_downtime_title_edit">Επεξεργασία χρονοδιαγράμματος</string>
+    <string name="zen_mode_downtime_title_meeting">Επεξεργασία χρονοδιαγράμματος</string>
+    <string name="zen_mode_others">Ρυθμίσεις</string>
+    <string name="zen_mode_send_notifications">Ειδοποίηση</string>
+    <string name="zen_mode_send_notifications_desc">Αποστολή ειδοποίησης με την ενεργοποίηση της λειτουργίας "Μην ενοχλείτε"</string>
+    <string name="zen_mode_no_interruptions_warning">"Όταν οριστούν στη λειτουργία \"πλήρης σίγαση\", θα γίνει σίγαση των ειδοποιήσεων."</string>
+    <string name="zen_mode_from_anyone3">"Από οποιονδήποτε"</string>
+    <string name="zen_mode_from_favorites_only">"Μόνο από αγαπημένα"</string>
+    <string name="zen_mode_from_contacts_only">"Μόνο από επαφές"</string>
+    <string name="zen_mode_repeat_callers2">"Επαναλαμβανόμενες κλήσεις"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Εάν ο ίδιος αριθμός καλέσει ξανά σε διάστημα  <xliff:g id="MINUTES">%d</xliff:g> λεπτoύ(-ών), θα επιτρέπεται"</string>
+    <string name="zen_mode_option_important_interruptions3">"Εφαρμογή κανόνων ενόχλησης"</string>
+    <string name="zen_mode_selected_callers2">"επιλεγμένες κλήσεις"</string>
+    <string name="zen_mode_dnd_is_on">"Μόλις ενεργοποιήθηκε η λειτουργία Μην ενοχλείτε. Μπορείτε να την απενεργοποιήσετε μη αυτόματα."</string>
+    <string name="zen_mode_turn_off_now">"Απενεργοποίηση τώρα"</string>
+    <string name="zen_mode_custom_name">"Προσαρμογή"</string>
+    <string name="zen_mode_manual_turn_on">"Μη αυτόματη ενεργοποίηση λειτουργίας Μην ενοχλείτε"</string>
+    <string name="zen_mode_turn_off">"Απενεργοποίηση λειτουργίας Μην ενοχλείτε"</string>
+    <string name="zen_mode_in_activity">"Ενεργοποιήθηκε: "</string>
+    <string name="zen_mode_forever2">"Επ' αόριστον"</string>
+</resources>

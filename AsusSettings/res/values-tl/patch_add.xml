@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Mabilisang buksan ang camera nang hindi ina-unlock ang iyong screen</string>
+  <string name="camera_double_tap_power_gesture_title">Pindutin nang dalawang beses ang power button para sa camera</string>
+  <string name="camera_gesture_desc">Buksan ang camera app sa pamamagitan ng pag-twist sa iyong kamay nang dalawang beses</string>
+  <string name="camera_gesture_title">Dobleng pag-twist para sa camera</string>
+  <string name="keywords_color_mode">vibrant rgb srgb kulay natural standard</string>
+  <string name="manual">Manual</string>
+  <string name="picture_color_mode">Mode ng kulay ng larawan</string>
+  <string name="settings_manual_activity_title">Manual</string>
+  <string name="settings_manual_activity_unavailable">Nagkakaproblema sa paglo-load sa manual.</string>
+</resources>

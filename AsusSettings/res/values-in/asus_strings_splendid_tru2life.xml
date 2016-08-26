@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Mode warna layar</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Mode keseimbangan</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Bluelight Filter</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Mode tajam</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Mode kustom</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Gerakan Bebas Buram"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Tinggi</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Sedang</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Rendah</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Dinonaktifkan</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Efek Tinggi</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Efek Sedang</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Efek Rendah</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Dinonaktifkan</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Memperhalus kualitas pemutaran video.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Mode filter cahaya biru"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Tingkat 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Tingkat 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Tingkat 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Tingkat 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Tingkat 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"MATI"</string>
+    <string name="splendid_bluelight_filter_mode_on">"NYALA"</string>
+    <string name="splendid_bluelight_ok">"OKE"</string>
+    <string name="splendid_bluelight_cancel">"Batalkan"</string>
+    <string name="notification_bluelight_filter_title">"Filter cahaya biru diaktifkan"</string>
+    <string name="notification_bluelight_filter_summary">"Sentuh untuk mengubah"</string>
+    <!-- end -->
+</resources>

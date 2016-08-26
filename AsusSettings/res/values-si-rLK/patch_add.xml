@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">ඔබගේ තිරය අගුලු හැරීමෙන් තොරව ඉක්මනින් කැමරාව විවෘත කරන්න</string>
+  <string name="camera_double_tap_power_gesture_title">කැමරාව සඳහා බල බොත්තම දෙවරක් ඔබන්න</string>
+  <string name="camera_gesture_desc">ඔබේ මැණික් කටුව දෙවරක් කරකවා කැමරා යෙදුම විවෘත කරන්න</string>
+  <string name="camera_gesture_title">කැමරාව සඳහා දෙවරක් කරකවන්න</string>
+  <string name="keywords_color_mode">දීප්තිමත් rgb srgb වර්ණ ස්වභාවික සම්මතය</string>
+  <string name="manual">අත්පොත</string>
+  <string name="picture_color_mode">පින්තූර වර්ණ ප්‍රකාරය</string>
+  <string name="settings_manual_activity_title">අත්පොත</string>
+  <string name="settings_manual_activity_unavailable">අත්පොත පූරණය කිරීමේදී ගැටලුවක් ඇතිවිය.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Gibanje brez zameglitve"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Močan</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Zmeren</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Nizek</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Onemogočeno</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Močan vpliv</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Zmeren vpliv</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Šibek vpliv</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Onemogočeno</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Zgladi kakovost predvajanja videoposnetka.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Način filtra modre lučke"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Raven 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Raven 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Raven 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Raven 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Raven 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"IZKLOPLJENO"</string>
+    <string name="splendid_bluelight_filter_mode_on">"VKLOPLJENO"</string>
+    <string name="splendid_bluelight_ok">"V REDU"</string>
+    <string name="splendid_bluelight_cancel">"Prekliči"</string>
+    <string name="notification_bluelight_filter_title">"Filter modre lučke je omogočen"</string>
+    <string name="notification_bluelight_filter_summary">"Tapnite za modifikacijo"</string>
+    <!-- end -->
+</resources>

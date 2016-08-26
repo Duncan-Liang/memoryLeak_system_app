@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="airview_settings_actionbar_hint_title">Dica de barra de ação</string>
+  <string name="airview_settings_information_preview_title">Visualização de conteúdo</string>
+  <string name="airview_settings_nib_cursor_title">Cursor da caneta</string>
+  <string name="airview_settings_switch_summary">Fornecer informações extra quando a caneta está pairando</string>
+  <string name="airview_settings_switch_title">Ponta inteligente</string>
+  <string name="asus_pen_category_stylus_tools">Ferramentas da caneta</string>
+  <string name="asus_pen_general_autoscrolling_summary">Rolar automaticamente quando a caneta está pairando sobre a borda de visualizações percorríveis</string>
+  <string name="asus_pen_general_autoscrolling_title">Auto rolagem</string>
+  <string name="asus_pen_settings">Caneta</string>
+  <string name="camera_double_tap_power_gesture_desc">Abrir a câmera rapidamente sem desbloquear a tela</string>
+  <string name="camera_double_tap_power_gesture_title">Press. o botão liga/desliga duas vezes p/ abrir a câmera</string>
+  <string name="camera_gesture_desc">Abrir o app Câmera girando o pulso duas vezes</string>
+  <string name="camera_gesture_title">Girar duas vezes para abrir a câmera</string>
+  <string name="keywords_color_mode">cor vibrante RGB sRGB natural padrão</string>
+  <string name="manual">Manual</string>
+  <string name="picture_color_mode">Modo de cor da imagem</string>
+  <string name="picture_color_mode_desc">Usar sRGB</string>
+  <string name="settings_manual_activity_title">Manual</string>
+  <string name="settings_manual_activity_unavailable">Ocorreu um problema ao carregar o manual.</string>
+</resources>

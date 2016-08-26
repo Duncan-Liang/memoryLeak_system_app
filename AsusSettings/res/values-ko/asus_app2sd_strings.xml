@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">장치 저장소로 이동</string>
+    <string name="move_error_unknow">앱을 이동할 수 없습니다. 다시 시도하십시오.</string>
+    <string name="processing">처리 중...</string>
+    <string name="dialog_hint">과정을 마치는 데 시간이 약간 걸릴 수 있습니다.\n\n장치를 끄거나 선택한 이동 애플리케이션을 사용하지 마십시오. 이 때 외부 저장 장치를 제거하지 마십시오.\n\n계속하시겠습니까?</string>
+</resources>

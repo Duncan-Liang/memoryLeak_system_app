@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">ਆਪਣੀ ਸਕ੍ਰੀਨ ਨੂੰ ਅਨਲੌਕ ਕੀਤੇ ਬਗੈਰ ਤਤਕਾਲ ਕੈਮਰਾ ਖੋਲ੍ਹੋ</string>
+  <string name="camera_double_tap_power_gesture_title">ਕੈਮਰੇ ਲਈ ਪਾਵਰ ਬਟਨ ਨੂੰ ਦੋ ਵਾਰੀ ਦਬਾਓ</string>
+  <string name="camera_gesture_desc">ਆਪਣੇ ਗੁੱਟ ਨੂੰ ਦੋ ਵਾਰ ਮੋੜਕੇ ਕੈਮਰਾ ਐਪ ਖੋਲ੍ਹੋ</string>
+  <string name="camera_gesture_title">ਕੈਮਰੇ ਲਈ ਦੋ ਵਾਰ ਮੋੜੋ</string>
+  <string name="keywords_color_mode">ਚਮਕੀਲਾ rgb srgb ਰੰਗ ਕੁਦਰਤੀ ਸਟੈਂਡਰਡ</string>
+  <string name="manual">ਮੈਨੁਅਲ</string>
+  <string name="picture_color_mode">ਤਸਵੀਰ ਰੰਗ ਮੋਡ</string>
+  <string name="picture_color_mode_desc">sRGB ਵਰਤੋਂ ਕਰੋ</string>
+  <string name="settings_manual_activity_title">ਮੈਨੁਅਲ</string>
+  <string name="settings_manual_activity_unavailable">ਮੈਨੁਅਲ ਲੋਡ ਕਰਨ ਵਿੱਚ ਇੱਕ ਸਮੱਸਿਆ ਹੋਈ ਸੀ।</string>
+</resources>

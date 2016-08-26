@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">បើកកាមេរ៉ាបានយ៉ាងឆាប់រហ័សដោយមិនចាំបាច់ដោះសោអេក្រង់របស់អ្នក</string>
+  <string name="camera_double_tap_power_gesture_title">ចុចប៊ូតុងថាមពលពីរដងដើម្បីបើកកាមេរ៉ា</string>
+  <string name="camera_gesture_desc">បើកកម្មវិធីកាមេរ៉ាដោយបង្វិលកដៃរបស់អ្នកពីរដង</string>
+  <string name="camera_gesture_title">បង្វិលពីរដងដើម្បីប្រើកាមេរ៉ា</string>
+  <string name="keywords_color_mode">រស់រវើក rgb srgb ពណ៌ ធម្មជាតិ ស្តង់ដារ</string>
+  <string name="manual">ឯកសារណែនាំ</string>
+  <string name="picture_color_mode">របៀបនៃពណ៌រូបភាព</string>
+  <string name="settings_manual_activity_title">ឯកសារណែនាំ</string>
+  <string name="settings_manual_activity_unavailable">មានបញ្ហាក្នុងការបើកឯកសារណែនាំ</string>
+</resources>

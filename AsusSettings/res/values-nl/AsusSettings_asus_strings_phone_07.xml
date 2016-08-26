@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Door de functie inkomend gesprek-vergrendeling in te schakelen, moet u uw vingerafdruk scannen om een gesprek aan te nemen. Na succesvolle identificatie van de vingerafdruk wordt het gesprek automatisch verbonden.\nDenk eraan:\n1.U kunt het inkomende gesprek direct aannemen via een gekoppelde Bluetooth-koptelefoon of smart watch zonder uw vingerafdruk te scannen.\n2.U zult nog steeds de vingerafdruk moeten gebruiken om een gesprek aan te nemen wanneer u een bedrade koptelefoon gebruikt.\n3.U kunt geen gesprekken aannemen die op het gespreksscherm van derden binnenkomen.\n4.Bij VoIP-gesprekken (Voice over IP), bijv. WhatsApp-gesprekken, zult u nog steeds het gesprek in de app zelf moeten aannemen."</string>
+    <string name="asus_long_tap_warning">"Wanneer de functie inkomende oproep vergrendelen is ingeschakeld, worden oproepen via tikken en aanhouden uitgeschakeld."</string>
+</resources>

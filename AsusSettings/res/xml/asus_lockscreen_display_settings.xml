@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/asus_lockscreen_settings_title">
+
+    <PreferenceScreen
+            android:fragment="com.android.settings.LockscreenIntruderSelfieSwitchPreference"
+            android:key="lockscreen_intruder_selfie"
+            android:id="@+id/asus_lockscreen_intruder_selfie_setting"
+            android:title="@string/lockscreen_intruder_selfie_title"
+            android:summary="@string/lockscreen_intruder_selfie_summary"/>
+    <!-- BEGIN vivian_sun 2014.10.16 skip slid -->
+<!--    <CheckBoxPreference
+        android:key="lockscreen_enable_slide_widget"
+        android:summary="@string/lockscreen_enable_slide_widget"
+        android:title="@string/lockscreen_enable_slide_widget_title" />-->
+    <com.android.settings.LockscreenSkipSlideSwitchPreference
+            android:key="lockscreen_skip_slide"
+            android:id="@+id/asus_lockscreen_skip_slide_setting"
+            android:title="@string/lockscreen_enable_slide_widget_title"
+            android:summary="@string/lockscreen_enable_slide_widget"/>
+    <!-- END　vivian_sun -->
+
+        <com.android.settings.LockscreenStatusBarSwitchPreference
+            android:key="lockscreen_statusbar_display"
+            android:id="@+id/asus_lockscreen_statusbar_display_setting"
+            android:title="@string/lockscreen_statusbar_display_title"/>
+
+        <PreferenceCategory
+            android:key="lockscreen_setting_display"
+            android:title="@string/display_settings" />
+
+    <!--sunhuihui@wind-mobi.com Feature# merge weather patch 2016/7/20 begin-->
+    <!-- [zenFone3] Display Order:
+     LockScreen Theme,
+     LockScreen Wallpaper,
+     Weather Animation,
+     Clock Widget,
+     Shortcut... -->
+    <PreferenceScreen
+            android:fragment="com.android.settings.LockscreenThemePreference"
+            android:key="lockscreen_theme_settings"
+            android:id="@+id/asus_lockscreen_theme_settings"
+            android:title="@string/asus_lockscreen_change_lockscreen_theme"/>
+
+    <PreferenceScreen
+            android:fragment="com.android.settings.LockscreenWallpaperPreference"
+            android:key="lockscreen_wallpaper_settings"
+            android:id="@+id/asus_lockscreen_wallpaper_settings"
+            android:title="@string/asus_lockscreen_change_lockscreen_wallpaper"/>
+
+    <com.android.settings.LockscreenWeatherAnimationSwitchPreference
+            android:key="lockscreen_enable_weather_animation"
+            android:id="@+id/asus_lockscreen_weather_animation_settings"
+            android:title="@string/asus_lockscreen_enable_weather_animation"
+            android:summary="@string/asus_lockscreen_enable_weather_effect_on_lockscreen"/>
+
+    <com.android.settings.LockscreenClockWidgetSwitchPreference
+            android:key="lockscreen_show_clock_widget"
+            android:id="@+id/asus_lockscreen_show_clock_widget_settings"
+            android:title="@string/asus_lock_screen_show_clock_widget"/>
+    <!--sunhuihui@wind-mobi.com Feature# merge weather patch 2016/7/20 end-->
+
+        <com.android.settings.LockscreenShortcutSwitchPreference
+            android:key="lockscreen_shortcuts_display"
+            android:id="@+id/asus_lockscreen_shortcut_display_setting"
+            android:title="@string/lockscreen_shortcuts_display_title"
+            android:summary="@string/lockscreen_shortcuts_display"/>
+
+        <com.android.settings.LockscreenWhatsNextSwitchPreference
+            android:key="lockscreen_whats_next_widget"
+            android:id="@+id/asus_lockscreen_whats_next_display_setting"
+            android:title="@string/lockscreen_display_whats_next_widget_title"
+            android:summary="@string/lockscreen_display_whats_next_widget"/>
+			
+		<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+		<com.android.settings.LockscreenDisableWeatherInfoPageSwitchPreference
+            android:key="lockscreen_disable_weather_info_page"
+            android:id="@+id/asus_lockscreen_disable_weather_info_page_setting"
+            android:title="@string/lockscreen_disable_weather_info_page_widget_title"
+            android:summary="@string/lockscreen_disable_weather_info_page"/>
+		<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+		
+ <!--       <CheckBoxPreference
+            android:key="keyguard_enable_widgets"
+            android:id="@+id/asus_lockscreen_multiple_widget_display_setting"
+            android:title="@string/security_enable_widgets_title"
+            android:summary="@string/security_enable_widgets"/>
+            -->
+
+        <PreferenceCategory
+            android:key="lockscreen_setting_camera"
+            android:title="@string/asus_lockscreen_camera_settings" >
+
+        <com.android.settings.LockscreenInstantCameraSwitchPreference
+            android:key="lockscreen_instant_camera_widget"
+            android:id="@+id/asus_lockscreen_instant_camera_display_setting"
+            android:title="@string/lockscreen_display_instant_camera_widget_title"
+            android:summary="@string/lockscreen_display_instant_camera_widget"/>
+
+        <com.android.settings.LockscreenEnableCameraSwitchPreference
+            android:key="lockscreen_enable_camera_widget"
+            android:id="@+id/asus_lockscreen_enable_camera_widget_setting"
+            android:title="@string/lockscreen_enable_camera_widget_title"
+            android:summary="@string/lockscreen_enable_camera_widget"/>
+
+        </PreferenceCategory>
+
+        <PreferenceScreen
+            android:fragment="com.android.settings.OwnerInfoSettings"
+            android:key="owner_info_settings"
+            android:title="@string/owner_info_settings_title"/>
+
+</PreferenceScreen>

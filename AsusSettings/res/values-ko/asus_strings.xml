@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">시간 제한 없음</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">스크린 켜짐 상태 유지</string>
+
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">MobileDock 버전</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">사용할 수 없음</string>
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">정보</string>
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Wi-Fi 버전</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Bluetooth 버전</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">GPS 버전</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">Eee Pad EC 버전</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">카메라 버전</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">터치 패널 버전</string>
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">스크린샷</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">탐색 표시줄에서 최근 앱 키를 탭핑하여 누르고 있으면 화면을 캡처합니다.</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">스크린샷 파일 형식</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">외부 저장 장치 탑재 해제</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">외부 저장 장치를 안전하게 제거</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">탑재를 위해 외부 저장 장치를 연결</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">외부 저장 장치 탑재</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">외부 저장 장치 탑재 해제</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">저장 장치를 탑재 해제하면, 현재 사용하고 있는 일부 애플리케이션이 중단되고 저장 장치를 다시 탑재할 때까지 사용하지 못할 수도 있습니다.</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">외부 저장 장치를 탑재 해제하는데 실패했습니다.</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">외부 저장 장치를 탑재 해제할 수 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">외부 저장 장치가 탑재 해제될 것입니다.</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">외부 저장 장치 지우기</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">터치패드 포인터 양식</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">제스처 모드</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">마우스 커서 모드</string>
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">ASUS 사용자 지정 설정</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">오른쪽 버튼 작동방식</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">가운데 버튼 작동방식</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">상황에 맞는 메뉴 표시</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">안드로이드 가운데 버튼으로 기능</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">뒤로 키로 기능</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">메뉴 키로 기능</string>
+
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+    
+
+
+
+
+
+
+    <!-- Lance Tung , 2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">전원 관리</string>
+
+
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">스칼라 버전</string>
+
+
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">전원 관리</string>
+    <string name="powerstatistics_app_name">전원 사용량 도표</string>
+    <string name="powersaver_app_name">절전기</string>
+
+
+
+    <string name="alarm_wakeup_total">총 웨이크업 수</string>
+    <string name="alarm_times">횟수</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage" description="hint message" maxwidth="-1">입력하십시오.</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">모든 앱 캐시 지우기</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">모든 앱 캐시를 지우시겠습니까?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">그러면 모든 앱 캐시가 지워집니다. 지워진 캐시 공간을 내부 저장소로 사용할 수 있습니다.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">캐시 지우기</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">처리 중...</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">캐시가 지워졌습니다.</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">복구 애플리케이션</string>
+    <string name="clear_apps_data_title">모든 앱 데이터를 지우시겠습니까?</string>
+    <string name="clear_apps_data_desc">"모든 앱 데이터가 영구적으로 삭제됩니다. 여기에는 다음이 포함됩니다."\n\n<li>"모든 파일"</li>\n<li>"설정"</li>\n<li>"계정"</li>\n<li>"데이터베이스"</li>\n<li>"캐시"</li>
+    </string>
+    <string name="clear_apps_data_button">데이터 지우기</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title" description="The title of ATT factory reset password setting" maxWidth="">공장 데이터 리셋 비밀번호</string>
+    <string name="att_factory_reset_password_header_no_sim_card" description="The description for entering factory reset without sim card" maxWidth="">공장 데이터 리셋 비밀번호를 입력하십시오.</string>
+    <string name="att_factory_reset_password_header_enter_old" description="The description for entering the old ATT factory reset password" maxWidth="">이전 비밀번호를 입력하십시오.</string>
+    <string name="att_factory_reset_password_header_enter_new" description="The description for entering the new ATT factory reset password" maxWidth="">새 비밀번호를 입력하십시오.</string>
+    <string name="att_factory_reset_password_header_confirm_new" description="The description for confirming the new ATT factory reset password" maxWidth="">새 비밀번호 확인</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"SD 카드 지우기"</string>
+    <string name="erase_mircosd_storage_description">"SD 카드에 있는 모든 데이터(예: 음악 또는 사진)를 지웁니다."</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- Start: MikeHsu for 25th strings -->
+    <string name="clear_apps_data_account">\n\n"이 계정들이 제거됩니다."</string>
+    <string name="clear_apps_data_final_desc">모든 애플리케이션 데이터를 지우시겠습니까? 다시 시작됩니다. 이 작업을 취소할 수 없습니다!</string>
+    <!-- End: MikeHsu for 25th strings -->
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">새 메일</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">보낸 메일</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">일정 경보</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">기본 알람</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">애플리케이션에 액세스하는 데 인터넷 연결이 필요합니다. 설정에서 모바일 네트워크 또는 WiFi를 활성화하십시오. </string>
+    <string name="load_suspended_title">네트워크 연결 없음</string>
+    <string name="button_label_settings">설정</string>
+    <string name="button_label_cancel">취소</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">선택한 키보드의 최대 수에 도달함</string>
+    
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">장치가 웨이크업하지 못하도록 합니다.</string>
+    <string name="app_wakelock_switch_label">장치가 계속 웨이크업 상태를 유지하지 못하도록 합니다.</string>
+    <string name="powermanagement_options_dialog">이 설정은 애플리케이션을 다시 시작하거나 부팅해야 적용될 수 있습니다.</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title" description="The title of Quick Settings List." maxWidth="-1">빠른 설정 옵션</string>
+    <string name="quick_setting_description" description="The description of Quick Settings List." maxWidth="-1">항목을 선택하여 빠른 설정창에 표시합니다.</string>
+    <string name="quick_setting_reset_title" description="The item of Quick Settings menu." maxWidth="-1">빠른 설정 초기화</string>
+    <string name="quick_setting_reset_message">빠른 설정 옵션이 초기화됩니다.</string>
+    <!-- end -->
+
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">PadFone Station 버전</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">PadFone 스테이션 터치 패널 버전</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">PadFone 스테이션 카메라 버전</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">빠른 설정</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">잠금 화면</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">잠금 화면에서 앱 시작</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">빠른 액세스</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">스타일러스 버전</string>
+
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">어둡게</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">밝게</string>
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">ASUS가 제품 품질과 성능을 개선할 수 있도록 진단 데이터 보내기</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">PIN 설정</string>
+    <string name="lockpassword_setup_your_password_header">비밀번호 설정</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">최근 앱 키</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>항상 최근 앱 표시</item>
+        <item>탭핑하여 누르고 있으면 화면을 캡처합니다.</item>
+        <item>탭핑하여 누르고 있으면 메뉴가 표시됩니다.</item>
+    </string-array>
+    <string name="touch_key_light_title">터치 키</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">IA 펌웨어 버전</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">키보드 컨트롤러 IC 펌웨어 버전</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">배터리 백분율 표시</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ASUS 커버</string>
+    <string name="asus_transcover_category_title">액세서리</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">ASUS Cover 활성화</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">커버가 닫히면 화면이 일시중단됩니다</string>
+    <string name="asus_cover_settings">ASUS 커버 설정</string>
+    <string name="asus_cover_automatic_unlock_tittle">자동 잠금 해제</string>
+    <string name="asus_cover_automatic_unlock_summary">화면 잠금이 꺼지면 커버를 열어 보안 화면을 자동으로 잠금 해제합니다</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- George Yeh 2014/01/09 for Asus LockScreen Settings -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">다음 단계 위젯</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">잠금 화면에 다음 단계 위젯 표시</string>
+    <string name="select_shortcut_ap_title" description="Set quick access app" maxwidth="-1">빠른 액세스 앱 설정</string>
+
+    <!-- Guoliang Lin, 2014/02/20 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">배터리 버전 </string>
+
+    <!-- yiqiu_huang@asus.com,installation for app2sd -->
+    <string name="app_installation_category">앱 설치</string>
+    <string name="app_installation_title">앱 설치 설정</string>
+    <string name="app_installation_summary">앱 설치 시 관련 설정을 사용자 정의하십시오.</string>
+    <string name="app_installation_settings_category">기본 설치 위치</string>
+    <string name="app_installation_settings_preferinternal_title">내부 스토리지 선호</string>
+    <string name="app_installation_settings_preferinternal_summary">내부 스토리지에 애플리케이션을 설치합니다. 스토리지 공간이 부족한 경우 일부 애플리케이션은 외부 스토리지에 설치될 수 있습니다.</string>
+    <string name="app_installation_settings_preferexternal_title">외부 스토리지 선호</string>
+    <string name="app_installation_settings_preferexternal_summary">허용되는 경우 외부 스토리지에 애플리케이션 설치</string>
+    <string name="app_installation_settings_forceexternal_title">강제로 외부 스토리지 설치</string>
+    <string name="app_installation_settings_forceexternal_description">전문가 설정: \n\n응용 프로그램을 외부 저장장치의 비지정 위치에 설치하십시오\n\n
+배경 서비스, 경고 서비스, 입력 방식 엔진, 시작 관리자, 라이브 배경화면, 앱 위젯, 회계 관리자, 싱크 어댑터, 장치 관리자, 부팅 신호 수신 등과 같은 후속 설계로 인해 애플리케이션이 비정상적으로 작동할 수 있습니다.</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">장갑 모드</string>
+    <string name="glove_mode_setting_summary" maxwidth="-1">장갑을 착용한 경우 터치 감도를 높입니다.</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">미리 로드됨</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">이 응용 프로그램이 활성화되었습니다.</string>
+
+
+    <string name="lockscreen_display_instant_camera_widget_title">인스턴트 카메라</string>
+    <string name="lockscreen_display_instant_camera_widget">볼륨 키를 두 번 클릭하면 일시 중단에서 카메라가 시작됩니다.</string>
+    <string name="asus_lockscreen_camera_settings">카메라</string>
+    <string name="lockscreen_enable_camera_widget_title">살짝 밀어 시작하기</string>
+    <string name="lockscreen_enable_camera_widget">잠금 화면의 오른쪽 가장자리에서 왼쪽을 살짝 밀면 카메라가 시작됩니다.</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">홈 화면</string>
+    <string name="set_lock_screen">잠금 화면</string>
+    <string name="set_both_home_lockscreen">홈 및 잠금 화면</string>
+
+    <!-- sheng-en_fann@asus.com -->
+    <string name="led_indicator">LED 표시등</string>
+    <string name="auto_brightness_settings_title">자동 밝기 옵션</string>
+    <string name="auto_brightness_settings_gain">게인</string>
+    <string name="auto_brightness_settings_sensor">광센서</string>
+    <string name="auto_brightness_settings_adjustment">게인 변경 허용</string>
+    <string name="auto_brightness_settings_reset_gain">기본값으로 초기화</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">기본 게인값으로 초기화하시겠습니까?</string>
+    <string name="auto_brightness_settings_indark">어두운 환경에서</string>
+    <string name="auto_brightness_settings_indark_title">밝기를 낮춥니다.</string>
+    <string name="auto_brightness_settings_indark_slow">천천히</string>
+    <string name="auto_brightness_settings_indark_immediate">즉시</string>
+    <string name="auto_brightness_settings_indark_dynamic">동적으로</string>
+    <string name="show_sensor_usage">광센서값 표시</string>
+    <string name="show_sensor_usage_summary">현재 광센서 상태를 표시하는 화면 오버레이</string>
+
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">이지 모드</string>
+    <string name="asus_easy_launcher_intro" maxwidth="">이지 모드는 간단한 레이아웃과 핵심 기능으로 사용자 친화적인 직관적 인터페이스를 경험할 수 있도록 해줍니다. </string>
+
+    <string name="memory_system_reserved_usage">시스템이 예약됨</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">한 손 모드</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">빠른 시작</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">홈 키를 두 번 누르면 한 손으로 작동 모드를 활성화시킵니다.</string>
+
+    <!-- Ashen_gu@asus.com, Settings-Sounds -->
+    <string name="ring_notification_volume_option_title">벨소리 &amp; 알림</string>
+
+    <string name="detect_drain_apps">배터리 소모 앱 감지</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="both">화면 잠금 유형 변경</string>
+    <string name="lockpassword_choose_private_mode">개인 모드 새 비밀번호 선택</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">소유자 새 비밀번호 선택</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">소유자 새 PIN 선택</string>
+    <string name="lockpassword_confirm_private_mode">개인 모드 비밀번호 확인</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">소유자 비밀번호 확인</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">소유자 PIN 확인</string>
+    <string name="lockpattern_choose_private_mode">개인 모드 새 잠금해제 패턴 그리기</string>
+    <string name="lockpattern_confirm_private_mode">개인 모드 패턴을 다시 그려서 확인</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">소유자 패턴을 다시 그려서 확인</string>
+    <string name="lockpattern_pattern_same_to_normal">일반과 같은 패턴</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">소유자 새 잠금해제 패턴 그리기</string>
+    <string name="lockpin_choose_private_mode">개인 모드 새 PIN 선택</string>
+    <string name="lockpin_confirm_private_mode">개인 모드 PIN 확인</string>
+    <string name="notice">알림</string>
+    <string name="owner_account">소유자 화면 잠금 변경</string>
+    <string name="personal_space">개인 모드 화면 잠금 변경</string>
+    <string name="pmode_created">개인 모드가 만들어 졌습니다!  이제 개인 모드 화면 잠금을 사용하여 SnapView로 가서 시도해 보십시오.</string>
+    <string name="pmode_created_title">개인 모드가 만들어 짐</string>
+    <string name="pmode_password_cannot_same">개인 모드 비밀번호는 소유자의 그것과 달라야 합니다.</string>
+    <string name="pmode_pattern_cannot_same">개인 모드 잠금해제 패턴은 소유자의 그것과 달라야 합니다.</string>
+    <string name="pmode_pattern_same_to_normal">개인 모드 화면 잠금은 소유자의 그것과 달라야 합니다. 다시 시도하십시오.</string>
+    <string name="pmode_pattern_same_to_private">소유자 화면 잠금은 개인 모드의 그것과 달라야 합니다. 다시 시도하십시오.</string>
+    <string name="pmode_pin_cannot_same">개인 모드 PIN은 소유자의 그것과 달라야 합니다.</string>
+    <string name="pmode_pin_length_must_same">개인 모드 PIN 및 소유자 PIN 길이는 같아야 합니다.</string>
+    <string name="pmode_set_lock">잠금 설정</string>
+    <string name="pmode_set_owner_lock">먼저 소유자 화면 잠금을 설정하십시오.</string>
+    <string name="pmode_set_owner_lock_title">소유자 화면 잠금 설정</string>
+    <string name="pmode_set_personal_space">그리고 개인 모드 화면 잠금을 설정합니다.\n\n참조: 개인 모드 화면 잠금은 소유자의 그것과 달라야 합니다.</string>
+    <string name="pmode_set_personal_space_title">개인 모드 화면 잠금 설정</string>
+    <string name="select_account">작업 선택</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">알림</string>
+    <string name="user_snapview_message_created">시스템 저장소가 부족합니다.</string>
+    <string name="user_snapview_message_with_normal_lock">개인 모드에서 사진 촬영, 파일 저장, 앱 설치를 할 수 있습니다.  이들 파일 및 앱은 개인 모드에 보관되어 있으며 개인 모드를 종료하면 볼 수 없습니다.\n\n개인 모드를 만들기 전에 개인 모드에 대한 화면 잠금을 설정해야 합니다.\n\n참고: 개인 모드 화면 잠금은 소유자 화면 잠금과 달라야 합니다.</string>
+    <string name="user_snapview_message_without_normal_lock">개인 모드에서 사진 촬영, 파일 저장, 앱 설치를 할 수 있습니다.  이들 파일 및 앱은 개인 모드에 보관되어 있으며 개인 모드를 종료하면 볼 수 없습니다.\n\n개인 모드를 만들기 전에 소유자에 대한 화면 잠금을 설정해야 합니다.\n\n참고:</string>
+    <string name="user_snapview_settings">개인 모드 설정</string>
+    <string name="user_snapview_settings_category_account">개인 모드 계정</string>
+    <string name="user_snapview_settings_category_dummy">더미 알림</string>
+    <string name="user_snapview_settings_category_lockscreen">잠금 화면 보안</string>
+    <string name="user_snapview_settings_category_visualhint">표시 힌트</string>
+    <string name="user_snapview_settings_change_info">프로필 정보 변경</string>
+    <string name="user_snapview_settings_delete_self">개인 모드 삭제</string>
+    <string name="user_snapview_settings_dummy_default">Google Play 서비스 업데이트됨</string>
+    <string name="user_snapview_settings_dummy_notify">텍스트</string>
+    <string name="user_snapview_settings_dummy_notify_icon">아이콘</string>
+    <string name="user_snapview_settings_hint_lock">잠금 화면 장식</string>
+    <string name="user_snapview_settings_hint_notify">개인 모드 장식</string>
+    <string name="user_snapview_settings_item1">은은한 효과</string>
+    <string name="user_snapview_settings_item2">확실한 효과</string>
+    <string name="user_snapview_settings_item3">없음</string>
+    <string name="user_snapview_settings_item_color">컬러</string>
+    <string name="user_snapview_settings_item_icon">아이콘</string>
+    <string name="user_snapview_settings_item_none">없음</string>
+    <string name="user_snapview_settings_set_lock">화면 잠금 설정</string>
+    <string name="user_snapview_summary">개인 모드를 만들어 사진, 파일, 앱을 보호할 수 있습니다.</string>
+    <string name="user_snapview_title">개인 모드</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">%s 계정을 개인 모드 복구 이메일 계정으로 지정하십시오.\n\n복구 이메일 계정은 비밀번호를 잊은 경우 개인 모드 비밀번호를 재설정하는 데 도움이 됩니다.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">개인 모드를 삭제하려면, 화면 잠금 비밀번호와 임의 PIN을 입력해야 합니다.\n\n확인할 경우, 개인 모드가 장치에서 삭제됩니다. 개인 모드의 사진, 앱, 데이터가 손실됩니다.\n\n이 작업은 실행을 취소할 수 없습니다. 계속하시겠습니까?</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">축하합니다! 개인 모드 비밀번호가 재설정되었습니다.\n\n다음으로, 새 개인 모드 비밀번호를 지정하거나 현재 개인 모드을 삭제할 수 있습니다.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">개인 모드 비밀번호가 재설정되었습니다.</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">개인 모드를 만들기 전에 %s 계정을 복구 이메일 계정으로 지정할 것을 권장합니다.\n\n복구 이메일 계정은 비밀번호를 잊은 경우 개인 모드 비밀번호를 재설정하는 데 도움이 됩니다.</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">개인 모드 복구 이메일 계정</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">%1$s 계정을 확인하려고 합니다.\n\n확인이 성공하면 화면 잠금 비밀번호 재설정을 시작할 수 있습니다.\n\n참고: 다음 화면은 %2$s 계정 확인 화면으로서 당사는 사용자의 계정 정보를 수집하지 않습니다.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">%s 계정 확인</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">복구 이메일 계정 변경</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">이를 사용하여 개인 모드 비밀번호를 재설정합니다.</string>
+    <string name="user_snapview_reset_confirm">개인 모드에 있는 모든 데이터를 지우시겠습니까?\n이 작업은 실행을 취소할 수 없습니다!</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_default_font">기본 글꼴</string>
+    <string name="monotype_dialog_button">온라인으로 글꼴 가져오기</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_dialog_no_fonts_installed">추가 글꼴을 사용할 수 없습니다.</string>
+    <string name="monotype_dialog_revert_question">기본 글꼴로 초기화 하시겠습니까?</string>
+    <string name="monotype_dialog_set_font_question">%s으(로) 글꼴을 설정하시겠습니까?</string>
+    <string name="monotype_loading_list">글꼴 목록 로딩 중...</string>
+    <string name="monotype_preference_summary">글꼴 설정</string>
+    <string name="monotype_preference_title">글꼴 스타일</string>
+    <string name="monotype_restart_dialog_button_1">지금 다시 시작</string>
+    <string name="monotype_restart_dialog_text_1">휴대폰 다시 시작</string>
+    <string name="monotype_restart_dialog_text_2">휴대폰을 다시 시작하여 설정 적용</string>
+    <string name="asus_master_clear_check_backup_message">내부 스토리지에 데이터가 저장되어 있습니다. 계속하기 전에 외부 스토리지로 데이터를 이동하십시오. 그러지 않을 경우 데이터가 내부 스토리지에서 지워집니다. 초기화를 계속 진행하시겠습니까?</string>
+    <string name="asus_master_clear_check_backup_title">경고</string>
+    <string name="change_short_cut_message">앱을 눌러 사용자 지정하고 앱을 끌어서 재 정렬합니다</string>
+    <string name="lockscreen_enable_slide_widget">작동시 슬라이드 잠금 화면 페이지 건너뛰기</string>
+    <string name="lockscreen_enable_slide_widget_title">슬라이드 페이지 건너뛰기</string>
+    <string name="quick_access_message">사용자 지정 빠른 접속</string>
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">자동 시작 관리자</string>
+    <string name="autostart_summary">"사용 가능한 메모리 확보 및 절전"</string>
+
+    <!-- Wilson_Chen@asus.com, quick charging -->
+    <string name="battery_info_status_quick_charging">빠른 충전(AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> AC(빠른 충전)에서 남은 충전 시간</string>
+    <string name="zen_mode_dont_interrupt_category">허용 안 함</string>
+
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">상태 표시줄 표시</string>
+    <string name="notification_material_summary">적용된 경우, 이 디자인 스타일을 따르기 위해 일부 앱 알림 아이콘이 흰색 형태로 바뀝니다.</string>
+    <string name="notification_material_title">머티리얼 디자인 적용</string>
+
+    <string name="lockscreen_incorrect_code_entries_setting_summery">두 번째</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">잘못된 코드 입력 횟수</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">칩입자가 잠금 화면에서 잘못된 비밀번호를 입력하면 사진이 촬영됩니다.</string>
+    <string name="lockscreen_intruder_selfie_setting_title">침입자 셀피</string>
+    <string name="lockscreen_intruder_selfie_summary">잘못된 코드를 입력한 사람이 촬영됩니다.</string>
+    <string name="lockscreen_intruder_selfie_title">침입자 셀피</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">갤러리의 침입자 셀피 폴더에 사진이 저장됩니다.</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">사진이 자동으로 저장됩니다.</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">다섯 번째</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">네 번째</string>
+    <string name="lockscreen_incorrect_code_entries_third">세 번째</string>
+    <string name="lockscreen_incorrect_code_entries_twice">두 번째</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"비밀번호는 대문자, 소문자, 숫자, 기호로 구성된 최소 %d개의 문자 집합이 포함되어야 합니다.</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"다음"</string>
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">일반 소스 코드 제안 </string>
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"키즈 모드"</string>
+    <string name="asus_kids_launcher_settings_message">"키즈 모드를 켜서 어린이들이 사용할 안전한 운동장을 설정하십시오."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">일부 앱은 매우 큰 글꼴 크기로 작성된 텍스트를 제대로 표시하지 못할 수 있습니다.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">매우 큰 텍스트</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"화면이 커져 있을 때 카메라 셔터 키 또는 비디오 카메라 키를 길게 누르면 카메라가 시작됩니다."</string>
+    <string name="lockscreen_longpress_screen_off">"화면이 꺼져 있을 때 카메라 셔터 키 또는 비디오 카메라 키를 길게 누르면 카메라가 시작됩니다."</string>
+    <string name="lockscreen_longpress_screen_on_title">"LED가 켜진 경우 카메라 시작"</string>
+    <string name="lockscreen_longpress_screen_off_title">"LED가 꺼진 경우 카메라 시작"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">새 텍스트</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"긴급 경고"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"긴급 경고 구성"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMS 셀 브로드캐스트"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"SMS 셀 브로드캐스트 구성"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"날씨 정보 페이지 사용 안 함"</string>
+    <string name="lockscreen_disable_weather_info_page">"잠금 화면 오른쪽의 날씨 정보 페이지(Cheetah Mobile에서 탑재)를 완전히 비활성화합니다."</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

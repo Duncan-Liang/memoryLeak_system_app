@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="software_info">軟體資訊</string>
+<string name="hardware_info">硬體資訊</string>
+<string name="software_info_summary">基頻、核心版本、版本號碼等</string>
+<string name="hardware_info_summary">Wi-Fi、藍牙、韌體版本等</string>
+<string name="asus_encrypt_phone_title">加密手機</string>
+<string name="asus_encrypt_phone_description">請從 PadFone Station 上取下手機以進行加密</string>
+<string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">儲存空間不足，無法加密設備</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.11.18-->
+    <string name="easy_mode_more_title">更多設定</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+<string name="asus_bluetooth_ask_discovery">"應用程式要求開放 <xliff:g id="TIMEOUT">%1$d</xliff:g> 秒，讓其他藍牙裝置能搜尋到您的裝置。"</string>
+<string name="asus_bluetooth_ask_lasting_discovery">"應用程式要求讓其他藍牙裝置能搜尋到您的裝置。您日後可在 [藍牙] 設定中變更這項設定。"</string>
+<string name="asus_bluetooth_ask_enablement_and_discovery">"應用程式要求開啟藍牙功能 <xliff:g id="TIMEOUT">%1$d</xliff:g> 秒，讓其他裝置能搜尋到您的裝置。"</string>
+<string name="asus_bluetooth_ask_enablement_and_lasting_discovery">"應用程式要求開啟藍牙功能，讓其他裝置能搜尋到您的裝置。您日後可在 [藍牙] 設定中變更這項設定。"</string>
+<string name="asus_phone_info_label">"裝置資訊"</string>
+<string name="asus_roaming_warning_multiuser">"允許使用數據漫遊服務時，您可能需要支付龐大的漫遊費用！\n\n這項設定會影響這台裝置的所有使用者。"</string>
+<string name="asus_crypt_keeper_encrypt_title">"加密保護裝置"</string>
+<string name="asus_crypt_keeper_desc">"您可以對自己的帳戶、設定、下載的應用程式及其資料、媒體和其他檔案進行加密。加密裝置後，如果您設定了螢幕鎖定 (即圖形、PIN 或密碼)，那麼您必須在每次開機時解鎖螢幕，才能將裝置解密。除此之外，唯一的解密方法是將裝置恢復原廠設定，但這會清除您所有的資料。\n\n加密過程至少需要1個小時的時間。開始執行加密程序前，您必須先將電池充飽，並讓裝置在加密過程中全程連接電源。如果中斷程序，您將遺失部分或所有資料。"</string>
+<string name="asus_crypt_keeper_button_text">"加密保護裝置"</string>
+<string name="asus_crypt_keeper_final_desc">"您無法取消加密操作，如果過程中斷，資料將會遺失。加密過程可能需要 1 個小時以上的時間，您的裝置會在過程中重新啟動數次。"</string>
+<string name="asus_crypt_keeper_setup_description">"裝置正在進行加密，請稍候 (已完成 <xliff:g id="PERCENT">^1</xliff:g>%)。"</string>
+<string name="asus_crypt_keeper_setup_time_remaining">"裝置加密作業正在進行中，請稍候 (剩餘時間：<xliff:g id="DURATION">^1</xliff:g>)"</string>
+<string name="asus_crypt_keeper_failed_summary">"加密過程中斷，無法完成，因此您再也不能存取裝置上的資料。\n\n如要恢復使用裝置，請先將裝置重設回原廠設定。完成重設後，您可以在設定裝置時，將先前備份至「Google 帳戶」的資料全部還原。"</string>
+<string name="asus_crypt_keeper_data_corrupt_summary">"您輸入的密碼正確，不過您的資料已毀損。\n\n您必須讓裝置恢復原廠設定，才能繼續使用。經過重設後，您可以在設定裝置時將已備份到個人 Google 帳戶的資料全部還原。"</string>
+<string name="asus_bluetooth_disconnect_pan_nap_profile">"即將中斷 <xliff:g id="DEVICE_NAME">%1$s</xliff:g> 透過這個裝置取得的網際網路連線。"</string>
+<string name="asus_nfc_quick_toggle_summary">"允許裝置在與其他裝置接觸時交換資料"</string>
+<string name="asus_wifi_skipped_message">"警告：如果略過 Wi-Fi 設定，裝置將只能透過行動數據連線進行初始下載及更新。如要避免產生數據傳輸費用，請連線至 Wi-Fi 網路。"</string>
+<string name="asus_wifi_and_mobile_skipped_message">"警告：如果略過 Wi-Fi 設定，裝置將無法連上網際網路進行任何初始下載或更新。"</string>
+<string name="asus_wifi_connect_failed_message">"您的裝置無法連線至這個 Wi-Fi 網路。"</string>
+<string name="asus_dock_audio_summary_none">"裝置未安置於座架上"</string>
+<string name="asus_dock_not_found_text">"您必須先將裝置安置於座架上，才能設定座架音效。"</string>
+<string name="asus_dock_sounds_enable_summary_on">"將裝置置入座架或移出座架時播放音效"</string>
+<string name="asus_dock_sounds_enable_summary_off">"將裝置置入座架或移出座架時，不要播放音效"</string>
+<string name="asus_accelerometer_summary_on">"旋轉裝置時自動切換瀏覽模式"</string>
+<string name="asus_accelerometer_summary_off">"旋轉裝置時自動切換瀏覽模式"</string>
+<string name="asus_sim_lock_on">"需要 PIN 才能使用裝置"</string>
+<string name="asus_sim_lock_off">"需要 PIN 才能使用裝置"</string>
+<string name="asus_device_info_settings">"裝置狀態"</string>
+<string name="asus_device_status_summary">"電池、網路狀態及其他資訊"</string>
+<string name="asus_status_number">"MDN"</string>
+<string name="asus_master_clear_summary">"清除裝置上的所有資料"</string>
+<string name="asus_master_clear_desc">"這會清除您裝置"<b>"內部儲存裝置"</b>"中的所有資料，包括：\n\n"<li>"您的 Google 帳戶"</li>\n<li>"系統和應用程式資料及設定"</li>\n<li>"已下載的應用程式"</li></string>
+<string name="asus_master_clear_button_text">"重設裝置"</string>
+<string name="asus_bluetooth_tethering_available_subtext">"分享這個裝置的網際網路連線"</string>
+<string name="asus_bluetooth_tethering_device_connected_subtext">"與 1 個裝置分享這個裝置的網際網路連線"</string>
+<string name="asus_bluetooth_tethering_devices_connected_subtext">"與 <xliff:g id="CONNECTEDDEVICECOUNT">%1$d</xliff:g> 個裝置分享這個裝置的網際網路連線"</string>
+<string name="asus_bluetooth_tethering_off_subtext">"未分享這個裝置的網際網路連線"</string>
+<string name="asus_location_street_level">"允許應用程式使用裝置的 GPS 找出您的精確位置"</string>
+<string name="asus_about_settings">"關於裝置"</string>
+<string name="asus_install_all_warning">"來歷不明的應用程式可能會損害您的裝置及個人資料，如因使用這些應用程式導致裝置受損或資料遺失，請自行負責。"</string>
+<string name="asus_security_settings_desc">"這個應用程式可存取您裝置中的下列項目："</string>
+<string name="asus_security_settings_desc_multi">"這個應用程式可存取您裝置上的下列內容。為了增進效能及降低記憶體用量，<xliff:g id="BASE_APP_NAME">%1$s</xliff:g> 可獲得其中的部分權限，因為這個應用程式與 <xliff:g id="ADDITIONAL_APPS_LIST">%2$s</xliff:g> 在同一程序中執行。"</string>
+<string name="asus_move_app_to_internal">"移至裝置"</string>
+<string name="asus_runningservicedetails_stop_dlg_text">"如果您停用這項服務，您的裝置上的某些功能可能無法正常運作，待您重新開機後才會恢復正常。"</string>
+<string name="asus_testing_phone_info">"裝置資訊"</string>
+<string name="asus_power_idle">"裝置閒置"</string>
+<string name="asus_usage_type_phone">"裝置"</string>
+<string name="asus_battery_desc_standby">"裝置閒置時的耗電量"</string>
+<string name="asus_really_remove_account_message">"移除帳戶後，裝置上所有的訊息、聯絡人和其他資料將全部遭到刪除！"</string>
+<string name="asus_data_usage_auto_sync_on_dialog">"您在網路上對帳戶進行的所有變更都會自動複製到您的裝置。\n\n有些帳戶還可以自動將您在裝置上進行的所有變更複製到網路上，Google 帳戶即是按照這種方式運作。"</string>
+<string name="asus_data_usage_limit_dialog_mobile">"一旦裝置達到指定的行動數據上限，將關閉行動數據功能。\n\n由於數據用量是由裝置自行計算，而行動通訊業者對用量的計算方式可能有所不同，建議您在設定上限時保留一些空間。"</string>
+<string name="asus_data_usage_restrict_background_multiuser">"如果您禁止背景行動數據傳輸，部分應用程式和服務只有在裝置連上 Wi-Fi 網路時才能運作。\n\n這項設定適用於這台裝置的所有使用者。"</string>
+<string name="asus_data_usage_total_during_range_mobile">"<xliff:g id="RANGE">%2$s</xliff:g>：根據裝置計算，已使用約 <xliff:g id="TOTAL">%1$s</xliff:g>。您的行動通訊業者對於資料用量的計算方式可能會有所不同。"</string>
+<string name="asus_user_cannot_manage_message">"只有裝置的擁有者可以管理使用者。"</string>
+<string name="asus_user_confirm_remove_self_message">"您在這台裝置上的可用空間和資料將會消失，這個動作無法復原。"</string>
+<string name="asus_global_change_warning">"這項設定會影響這台裝置的所有使用者。"</string>
+<string name="asus_restriction_nfc_enable_summary">"允許裝置與其他裝置接觸時交換資料"</string>
+<string name="asus_location_mode_sensors_only_title">"僅用GPS"</string>
+<string name="asus_screen_pinning_description">"開啟這項設定時，可讓裝置鎖定在目前的螢幕。\n\n如何固定螢幕：\n\n1. 將螢幕固定功能開啟。\n\n2. 開啟某個應用程式。\n\n3. 輕觸最近使用的應用程式鍵。\n\n4. 輕觸圖釘圖示。"</string>
+
+    <!-- Ken1_Yu, Double tap mode -->
+    <string name="double_tap_mode_confirm_dialog_title">雙擊喚醒/雙擊睡眠</string>
+    <string name="double_tap_mode_confirm_dialog_message">螢幕睡眠時, 雙擊螢幕同一個地方, 可以喚醒螢幕. 在解鎖畫面時, 雙擊螢幕, 可以讓螢幕睡眠.</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">不再提醒</string>
+    <!-- END -->
+
+    <!-- wangyan@wind-mobi.com add 2016/06/25 for Feature#110195 start -->
+    <string name="swipe_up_confirm_dialog_title">上滑喚醒</string>
+    <string name="swipe_up_confirm_dialog_message">在屏幕關閉時，上滑屏幕即可喚醒屏幕</string>
+    <!-- wangyan@wind-mobi.com add 2016/06/25 for Feature#110195 end -->
+
+    <!-- Sunny_Yuan, Zen motion setting-->
+    <string name="zen_motion_settings_title">ZenMotion</string>
+    <string name="motion_gesture_category_title">動作手勢</string>
+    <string name="touch_gesture_category_title">觸控手勢</string>
+    <string name="shake_title">搖一搖</string>
+    <string name="shake_sensitivity_title">靈敏度</string>
+    <string name="doubletap_on_setting_title">開螢幕</string>
+    <string name="doubletap_off_setting_title">關螢幕</string>
+    <string name="doubletap_on_setting_summary">雙擊喚醒</string>
+    <string name="doubletap_off_setting_summary">雙擊睡眠</string>
+    <!-- wangyan@wind-mobi.com add 2016/06/25 for Feature#110195 start -->
+    <string name="swipe_up_on_setting_title">上滑亮屏</string>
+    <string name="swipe_up_on_setting_summary">上滑屏幕喚醒</string>
+    <!-- wangyan@wind-mobi.com add 2016/06/25 for Feature#110195 end -->
+    <string name="w_launch_title">“W” 啟動應用程式</string>
+    <string name="s_launch_title">“S” 啟動應用程式</string>
+    <string name="e_launch_title">“e” 啟動應用程式</string>
+    <string name="c_launch_title">“C” 啟動應用程式</string>
+    <string name="z_launch_title">“Z” 啟動應用程式</string>
+    <string name="v_launch_title">“V” 啟動應用程式</string>
+	<string name="shake_sensitivity_entries_high">高</string>
+	<string name="shake_sensitivity_entries_normal">中</string>
+	<string name="shake_sensitivity_entries_low">低</string>
+    <string name="app_disable">不使用</string>
+    <string name="app_asus_boost_name">系統優化</string>
+    <!-- Ken1_Yu, Double tap mode -->
+    <string name="double_tap_on_confirm_dialog_title">雙擊喚醒</string>
+    <string name="double_tap_on_confirm_dialog_message">螢幕關閉時，雙擊螢幕同一個地方可以開啟螢幕。</string>
+    <string name="double_tap_off_confirm_dialog_title">雙擊睡眠</string>
+    <string name="double_tap_off_confirm_dialog_message">在滑動解鎖畫面，雙擊螢幕空白處可以關閉螢幕。在資訊列與桌面畫面，雙擊螢幕空白處可以關閉螢幕。</string>
+    <!-- END -->
+
+    <string name="zenui_update">ZenUI 應用程式更新</string>
+
+    <string name="doubletap_mode_setting_title">開/關螢幕</string>
+    <string name="doubletap_mode_setting_summary">雙擊喚醒/雙擊睡眠</string>
+
+    <!-- Sunny_Yuan, motion gesture -->
+    <string name="shake_summary">使用應用程式時，搖兩下即可截圖，並在Do It Later建立一個新的工作。</string>
+    <string name="motion_flip_title">翻轉</string>
+    <string name="motion_flip_summary">翻轉裝置機身。</string>
+    <string name="motion_hand_up_title">智慧接聽</string>
+    <string name="motion_hand_up_summary">手持裝置，舉起手臂並將裝置靠近耳朵。</string>
+    <string name="motion_double_click_title">雙擊</string>
+    <string name="motion_double_click_summary">雙擊裝置機身。</string>
+    <string name="motion_walking_title">移動中</string>
+    <string name="motion_walking_summary">當裝置握在手中或置於背包內，讓裝置偵測目前正在行走或移動中。</string>
+
+        <!-- Sunny_Yuan, touch gesture,2015.03.26 -->
+    <string name="sleep_touch_gesture_category_title">螢幕休眠</string>
+    <string name="wake_up_touch_gesture_category_title">螢幕醒著</string>
+
+    <!-- Ken_Yu, CPU freq -->
+    <string name="cpu_frequency_title">處理器</string>
+    <string name="memory_size_title">記憶體</string>
+    <!-- Sunny_Yuan, touch gesture,2015.05.27 -->
+    <string name="app_asus_front_camera_name">相機 - 前鏡頭</string>
+
+    <!-- Sunny_Yuan, zenmotion tutorial,2015.05.11 -->
+    <string name="zenmotion_tutorial_title">說明</string>
+    <string name="tutorial_w_launch_summary">螢幕關閉時，於螢幕上寫”W”啟動應用程式。</string>
+    <string name="tutorial_s_launch_summary">螢幕關閉時，於螢幕上寫”S”啟動應用程式。</string>
+    <string name="tutorial_e_launch_summary">螢幕關閉時，於螢幕上寫”e”啟動應用程式。</string>
+    <string name="tutorial_c_launch_summary">螢幕關閉時，於螢幕上寫”C”啟動應用程式。</string>
+    <string name="tutorial_z_launch_summary">螢幕關閉時，於螢幕上寫”Z”啟動應用程式。</string>
+    <string name="tutorial_v_launch_summary">螢幕關閉時，於螢幕上寫”V”啟動應用程式。</string>
+
+    <string name="tutorial_double_click_summary">來電時，雙擊裝置機身進入靜音模式。</string>
+    <string name="tutorial_flip_down_title">翻轉(向下翻轉)</string>
+    <string name="tutorial_flip_up_title">翻轉(向下與向上翻轉)</string>
+    <string name="tutorial_flip_down_summary">來電時，翻轉裝置螢幕朝下進入靜音模式。</string>
+    <string name="tutorial_flip_up_summary">聆聽音樂或是播放媒體時，翻轉裝置螢幕朝下暫停音樂；播放暫停時，翻轉手機螢幕朝上繼續播放。</string>
+    <string name="tutorial_hands_up_summary">來電時，手持裝置，舉起手臂並將裝置靠近耳朵以自動接聽來電。</string>
+    <string name="tutorial_moving_summary">裝置偵測得知目前正在行走或移動中，若有來電，加大來電鈴聲。</string>
+
+    <!-- Jacky_zhou, 2014/10/10 Asus Analytics -->
+    <string name="inspire_asus_title">診斷資料</string>
+	<!--sunhuihui@wind-mobi.com Feature#110139 usb dialog patch 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"前次重設回出廠預設值的時間"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"配置版本"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"音效魔術師"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">\u4e3b\u984c</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"是否使用USB進行檔案傳輸?"</string>
+    <string name="usb_change_config_dialog_title">"是否使用USB進行檔案傳輸?"</string>
+    <string name="usb_change_config_dialog_message">"連接USB後，將允許您信任的電腦進行檔案傳輸作業。"</string>
+    <string name="usb_change_config_dialog_checkbox_message">"永遠允許這台電腦存取"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 usb dialog patch 2016/6/27 end-->
+ </resources>

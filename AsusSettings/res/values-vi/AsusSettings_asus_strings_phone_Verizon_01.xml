@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Tethering &amp; Hotspot Di Động"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Hiển thị bằng GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Hiển thị bằng MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Dữ liệu di động"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Hạn chế dùng dữ liệu di động"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"T.báo cho tôi về việc dùng dữ liệu"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"T.báo dùng dữ liệu"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"<xliff:g example="tablet" id="device_type">%s</xliff:g> sẽ thông báo cho bạn khi việc dùng dữ liệu di động đã đạt mức dung lượng đã chọn."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Giới hạn dùng dữ liệu"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Kết nối dữ liệu di động sẽ được tắt khi việc dùng dữ liệu của bạn đã đạt mức giới hạn đã chọn.\n\nViệc dùng dữ liệu được đo bằng <xliff:g example="tablet" id="device_type">%s</xliff:g> của bạn. Nhà khai thác mạng có thể tính cước sử dụng khác nhau, vì vậy hãy cân nhắc cài giới hạn hơi thấp hơn thuê bao dữ liệu của bạn. Cài số ngày để khớp với thời hạn ghi trên hóa đơn."</string>
+    <string name="vzw_phone">"điện thoại"</string>
+    <string name="vzw_tablet">"MT bảng"</string>
+    <string name="vzw_data_usage_disclaimer">"Việc dùng dữ liệu được đo bằng <xliff:g example="tablet" id="device_type">%s</xliff:g> của bạn. Nhà khai thác mạng có thể tính cước sử dụng khác nhau. Cài số ngày để khớp với thời hạn ghi trên hóa đơn."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Chạm để xem việc sử dụng và cài đặt"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Dữ liệu di động hiện tắt."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Bạn đã đạt mức giới hạn sử dụng dữ liệu đã chọn, vì vậy dữ liệu di động đã được tắt.\n\nNếu bật lại dữ liệu di động, bạn có thể bị tính cước sử dụng dữ liệu bởi nhà khai thác mạng."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Bật dữ liệu"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Dữ liệu di động tắt"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Chạm để bật"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Đã quá giới hạn dữ liệu di động"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> quá giới hạn đã chọn"</string>
+</resources>

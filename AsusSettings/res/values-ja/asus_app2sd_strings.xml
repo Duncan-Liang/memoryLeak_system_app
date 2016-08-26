@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">デバイスストレージに移動</string>
+    <string name="move_error_unknow">アプリを移動できません。 再試行してください。</string>
+    <string name="processing">処理中です...</string>
+    <string name="dialog_hint">プロセスはしばらく時間がかかります。\n\nデバイスを停止したり、選択した作動アプリケーションを使用したりしないでください。 このとき、外部ストレージデバイスを取り外さないでくださ>い。\n\n続行しますか?</string>
+</resources>

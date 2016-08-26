@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Instelling sneltoets"</string>
+    <string name="screenshot_hot_key_title">"Toets Recente apps"</string>
+    <string name="screenshot_hot_key_summary">"Tik en houd de toets Recente apps vast om een schermopname te maken"</string>
+    <string name="screenshot_format_setting_title">"Instelling bestandsformaat"</string>
+    <string name="screenshot_format_title">"Bestandsformaat schermopname"</string>
+    <string name="screenshot_sound_setting_title">"Geluidsinstelling"</string>
+    <string name="screenshot_sound_title">"Geluid schermopname inschakelen"</string>
+    <string name="screenshot_notify_setting_title">"Meldingsinstelling"</string>
+    <string name="screenshot_notify_title">"Melding inschakelen"</string>
+</resources>

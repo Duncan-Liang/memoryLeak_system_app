@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Javid Change Title "About Phone" to "About" -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Képernyőszín mód</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Kiegyensúlyozott mód</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Kékfény-szűrő</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Élénk mód</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Egyéni mód</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Elmosódásmentes mozgás"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Magas</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Közepes</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Alacsony</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Letiltva</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Effektus: magas</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Effektus: közepes</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Effektus: alacsony</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Letiltva</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">A videolejátszás simává tétele.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Kékfényszűrő mód"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"1. szint"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"2. szint"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"3. szint"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"4. szint"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"5. szint"</string>
+    <string name="splendid_bluelight_filter_mode_off">"KI"</string>
+    <string name="splendid_bluelight_filter_mode_on">"BE"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Mégse"</string>
+    <string name="notification_bluelight_filter_title">"A Kékfényszűrő engedélyezve"</string>
+    <string name="notification_bluelight_filter_summary">"Érintse meg a módosításhoz"</string>
+    <!-- end -->
+</resources>

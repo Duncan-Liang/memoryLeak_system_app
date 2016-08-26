@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Šifrovanie bolo prerušené a nemôže sa dokončiť. Preto údaje už nie sú vo vašom zariadení k dispozícii.  \n\n Ak chcete obnoviť používanie vášho zariadenia, musíte obnoviť výrobné nastavenia. Ak zariadenie po obnovení nastavíte, budete môcť obnoviť všetky údaje, ktoré boli zálohované na vaše konto.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Zadali ste správne heslo, ale vaše údaje sú poškodené. \n\n Ak chcete obnoviť používanie vášho zariadenia, musíte obnoviť výrobné nastavenia. Ak zariadenie po obnovení nastavíte, budete môcť obnoviť všetky údaje, ktoré boli zálohované na vaše konto.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">„Vymaže všetky údaje z vnútornej pamäte <b>vášho zariadenia,</b>vrátane:\n\n<li>konta</li>\n<li>údajov systému a aplikácií a nastavení</li>\n<li>prevzatých aplikácií</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Ak vykonáte akékoľvek zmeny svojich kont na internete, automaticky budú skopírované do vášho zariadenia.\n\nNiektoré kontá môžu tiež automaticky skopírovať všetky zmeny, ktoré vykonáte v zariadení a odošlete na internet.  Konto funguje týmto spôsobom.</string>
+</resources>

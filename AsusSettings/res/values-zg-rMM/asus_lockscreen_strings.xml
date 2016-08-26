@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Asus Lock Screen Weather Animation Effect -->
+    <string name="asus_lockscreen_enable_weather_animation">"မုိးေလဝသ အန္နီေမးရွင္း"</string>
+    <string name="asus_lockscreen_enable_weather_effect_on_lockscreen">"ေသာ့ခတ္္စခရင္ေပၚတြင္ မုိးေလဝသအန္နီေမးရွင္းကုိ ဖြင့္ပါ"</string>
+    <!-- Asus Lock Screen Theme -->
+    <string name="asus_lockscreen_change_lockscreen_theme">"ေသာ့ခတ္စခရင္အခင္းအက်င္းကုိ ေျပာင္းပါ"</string>
+    <!-- Asus Lock Screen Wallpaper -->
+    <string name="asus_lockscreen_change_lockscreen_wallpaper">"ေသာ့ခတ္စခရင္ ေနာက္ခံပံုကုိေျပာင္းပါ"</string>
+    <!-- BEGIN: For Lock screeen widget settings string -->
+    <string name="asus_lock_screen_show_clock_widget">"နာရီဝစ္ဂ်စ္ကုိ ျပပါ"</string>
+    <!-- END: For Lock screeen widget settings string -->
+    <!-- BEGIN: For fingerprint settings string -->
+    <string name="security_settings_manage_fingerprint_preference_title">"လက္ေဗြမ်ာကုိ စီမံပါ"</string>
+    <string name="secure_with_fingerprint_category">"အတြက္ လက္ေဗြသံုးပါ"</string>
+    <string name="secure_unlock_with_fingerprint_item">"စက္ကုိ ေသာ့ဖြင့္ပါ"</string>
+    <string name="secure_unlock_with_fingerprint_summary">"စခရင္ကုိေသာ့ဖြင့္ရန္ လက္ေဗြကုိ သံုးပါ။"</string>
+    <string name="fingerprint_management_category">"သိမ္းထားေသာလက္ေဗြမ်ား"</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature[CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_title">"လက္ေဗြတစ္ခု ထည့္ပါ"</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_message">"စက္ကုိ ေသာ့ဖြင့္ရန္ (သုိ႔) သင့္ဖုန္းေခၚဆုိမႈမ်ားႏွင့္ ေဒတာကုိ ရယူသံုးစြဲရန္ လက္ေဗြကုိ သံုးပါ။ လက္ေဗြျဖင့္ စခရင္ေသာ့ခတ္နည္းလမ္းကုိ သတ္မွတ္ရန္လုိသည္။"</string>
+    <!-- Introduction title shown in fingerprint enrollment dialog to locate the sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_title">"လက္ေဗြစကန္ဖတ္စက္ကုိ ေနရာခ်ပါ"</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_front">"သင့္စက္အေရွ႕ပုိင္းတြင္ လက္ေဗြဆင္ဆာကုိ ရွာပါ။ သင့္လက္ေခ်ာင္းကုိညႇိၿပီး လက္ေခ်ာင္း၏ အစိတ္အပုိင္းအားလံုးကုိ ထိမိေအာင္လုပ္ပါ။"</string>
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_back">"သင့္စက္၏ အေနာက္ဖက္တြင္ လက္ေဗြဆင္ဆာကုိရွာပါ။ သင့္လက္ေခ်ာင္းကုိညႇိၿပီး လက္ေခ်ာင္း၏ အစိတ္အပုိင္းအားလံုးကုိ ထိမိေအာင္လုပ္ပါ။"</string>
+    <!-- Title shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=29]-->
+    <string name="asus_security_settings_fingerprint_enroll_start_title">"ေနရာခ်ၿပီး မ ရန္"</string>
+    <!-- Message shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_start_message">"လက္ေဗြဆင္ဆာေပၚတြင္ သင့္လက္ေခ်ာင္းကုိ ေနရာခ်ၿပီး တုန္ခါမႈကုိ ခံစားရပါက မ လုိက္ပါ။"</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_title">"ျပန္ေက်ာ့ပါ"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_message">"လက္ေဗြတစ္ခုလံုးကုိ မွတ္ထားၿပီးသည္အထိ ေနရာခ်ၿပီး မ သည့္လုပ္ေဆာင္ခ်က္ကုိ ျပန္ေက်ာ့လုပ္ပါ။"</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_title">"ေနာက္ထပ္ ဖမ္းယူပါ"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_message">"သင့္လက္ကုိင္ကုိ ညႇိၿပီး သင့္လက္ေခ်ာင္း၏အျခားေနရာမ်ားကုိ မွတ္ပံုတင္ပါ။"</string>
+    <string name="asus_security_settings_fingerprint_enroll_hint">"[ေနာက္ျပန္သြားရန္ ေနာက္ျပန္သြားခလုတ္ကုိႏွိပ္ပါ။ စာရင္းသြင္းေနစဥ္အတြင္း မူလခလုတ္ကုိ ပိတ္ထားသည္။]"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is completed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_title">"ၿပီးပါၿပီ"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is completed -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_message">"သင့္လက္ေဗြက အသင့္ျဖစ္ေနပါသည္။ သိမ္းထားသည့္လက္ေဗြကုိ စက္ကုိ ေသာ့ဖြင့္ရန္၊ ဖုန္းေျဖရန္ႏွင့္ ေဒတာသံုးရန္ အသံုးျပဳႏုိင္ပါသည္။"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is failed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_title">"မေအာင္ျမင္ပါ"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is failed -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_message">"လက္ေဗြမွတ္ပံုတင္၍ မရပါ။ ေနာက္မွထပ္ႀကိဳးစားပါ။"</string>
+    <string name="asus_fingerprint_acquied_too_similar">"သင့္လက္ေခ်ာင္း၏ မတူသည့္ေနရာမ်ားကုိ စကန္ဖတ္ရန္ လက္ေခ်ာင္းကုိအနည္းငယ္ေရႊ႕ၿပီး ညႇိပါ"</string>
+    <string name="asus_security_settings_fingerprint_enroll_lift_touch_again">"လက္ေဗြစကန္ဖတ္စက္ေပၚတြင္ သင့္လက္ေခ်ာင္းကုိ ထပ္ခါထပ္ခါ ေနရာခ်ၿပီးေနာက္ မ လုိက္ပါ"</string>
+    <!-- Text shown in fingerprint settings explaining what the fingerprint can be used for in the case unlocking is disabled [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_disabled_on_lockscreen">"စခရင္ေသာ့ ေရြးခ်ယ္စရာကုိ ပိတ္ထားသည္"</string>
+    <!-- END: For fingerprint settings string -->
+</resources>

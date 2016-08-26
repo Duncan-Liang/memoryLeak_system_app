@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"När du aktiverar funktionen inkommande samtals-lås måste du skanna ditt fingeravtryck för att besvara ett samtal. Samtalet ansluts automatiskt när fingeravtrycket har identiferats med lyckat resultat.\nVänligen observera att:\n1.Du kan besvara det inkommande samtalet direkt från ett parkopplat Bluetooth-headset eller smart klocka utan att skanna ditt fingeravtryck.\n2.Du måste fortfarande använda ditt fingeravtryck för att besvara samtalet när du använder ett trådbundet headset.\n3.Du kommer inte att kunna besvara ett samtal från en tredjepartsskärm för inkommande samtal.\n4.För Voice over IP (VoIP)-samtal, t.ex. WhatsApp-röstsamtal ska du fortfarande besvara samtalen från själva appen."</string>
+    <string name="asus_long_tap_warning">"När inkommande samtals-lås är aktiverat är besvara samtal med tryck och håll kvar inaktiverat."</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Ekran qulfini ochmasdan kamerani tezroq ishga tushirish</string>
+  <string name="camera_double_tap_power_gesture_title">Quvvat tugmasini ikki marta bosish bilan kamerani ochish</string>
+  <string name="camera_gesture_desc">Kamera ilovasini ochish uchun bilagingizni ikki marta buking</string>
+  <string name="camera_gesture_title">Kamera uchun bilakni ikki marta bukish</string>
+  <string name="keywords_color_mode">yorqin rgb srgb rang tabiiy standart</string>
+  <string name="manual">Qo‘llanma</string>
+  <string name="picture_color_mode">Rasm rangi rejimi</string>
+  <string name="settings_manual_activity_title">Qo‘llanma</string>
+  <string name="settings_manual_activity_unavailable">Qo‘llanmani yuklashda muammo yuz berdi.</string>
+</resources>

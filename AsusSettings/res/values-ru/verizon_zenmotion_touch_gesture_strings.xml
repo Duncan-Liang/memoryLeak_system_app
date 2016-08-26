@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Разрешить жесты для открытия приложений и включения и выключения экрана"</string>
+    <string name="vzw_doubletap_off_setting_title">"Дважды нажмите, чтобы выключить экран"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Дважды нажмите экран, чтобы его выключить"</string>
+    <string name="vzw_doubletap_on_setting_title">"Дважды нажмите, чтобы активировать"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Дважды нажмите затемненный экран, чтобы включите его"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Жесты"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Нарисуйте букву при выключенном экране, чтобы открыть связанное приложение. Вы можете изменить приложение, нажав его ниже."</string>
+    <string name="vzw_w_launch_title">"“W” открывает приложение"</string>
+    <string name="vzw_s_launch_title">"“S” открывает приложение"</string>
+    <string name="vzw_e_launch_title">"“e” открывает приложение"</string>
+    <string name="vzw_c_launch_title">"“C” открывает приложение"</string>
+    <string name="vzw_z_launch_title">"“Z” открывает приложение"</string>
+    <string name="vzw_v_launch_title">"“V” открывает приложение"</string>
+</resources>

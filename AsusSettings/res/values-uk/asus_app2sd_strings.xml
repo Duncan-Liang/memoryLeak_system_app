@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Перемістити в пам\'ять пристрою</string>
+    <string name="move_error_unknow">Неможливо перемістити застосунок. Будь ласка, спробуйте знову.</string>
+    <string name="processing">Обробка...</string>
+    <string name="dialog_hint">Процес може тривати певний час.\n\nБудь ласка, не вимикайте пристрій і не користуйтеся вибраними задачами переміщення. Будь ласка, у цей час не знімайте зовнішній пристрій пам\'яті.\n\nБажаєте продовжити?</string>
+</resources>

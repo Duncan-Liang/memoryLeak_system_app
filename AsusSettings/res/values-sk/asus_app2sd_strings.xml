@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Presunúť do pamäťového zariadenia</string>
+    <string name="move_error_unknow">Aplikáciu nemožno presunúť Skúste znovu.</string>
+    <string name="processing">Spracúva sa...</string>
+    <string name="dialog_hint">Tento proces môže chvíľu trvať.\n\nNevypínajte zariadenie ani nepoužívajte vybraný presun aplikácií. Teraz  neodpájajte  vonkajšie  pamäťové  zariadenie.\n\nChcete  pokračovať?</string>
+</resources>

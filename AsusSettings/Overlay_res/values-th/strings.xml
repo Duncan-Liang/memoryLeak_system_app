@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"หากต้องการควบคุมสิ่งที่จะเกิดขึ้นเมื่ออุปกรณ์วางอยู่บนแท่นชาร์จและ/หรืออยู่ในโหมดสลีป ให้เปิด Daydream เอาไว้"</string>
+</resources>

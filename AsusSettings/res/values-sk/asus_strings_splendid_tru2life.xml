@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Javid Change Title "About Phone" to "About" -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Režim farieb obrazovky</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Režim Vyvážené farby</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Modrý svetelný indikátor filtra</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Režim Žiarivé farby</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Režim Prispôsobené farby</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Pohyb bez rozmazania"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Vysoká</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Stredná</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Nízka</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Zablokované</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Vysoký efekt</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Stredný efekt</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Nízky efekt</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Zablokované</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Vyrovnať kvalitu prehrávania videa.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Režim filtra modrého svetla"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Úroveň 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Úroveň 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Úroveň 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Úroveň 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Úroveň 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"VYPNÚŤ"</string>
+    <string name="splendid_bluelight_filter_mode_on">"ZAPNÚŤ"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Zrušiť"</string>
+    <string name="notification_bluelight_filter_title">"Filter modrého svetla je povolený"</string>
+    <string name="notification_bluelight_filter_summary">"Klepnutím upravte"</string>
+    <!-- end -->
+</resources>

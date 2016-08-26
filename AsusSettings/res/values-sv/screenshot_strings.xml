@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Kortkommandoinställning"</string>
+    <string name="screenshot_hot_key_title">"Knappen Senast använda appar"</string>
+    <string name="screenshot_hot_key_summary">"Tryck och håll ned knappen senast använda appar för att ta en skärmdump"</string>
+    <string name="screenshot_format_setting_title">"Filformatinställning"</string>
+    <string name="screenshot_format_title">"Filformat för skärmdump"</string>
+    <string name="screenshot_sound_setting_title">"Ljudinställning"</string>
+    <string name="screenshot_sound_title">"Aktivera skärmdumpljud"</string>
+    <string name="screenshot_notify_setting_title">"Aviseringsinställningar"</string>
+    <string name="screenshot_notify_title">"Aktivera avisering"</string>
+</resources>

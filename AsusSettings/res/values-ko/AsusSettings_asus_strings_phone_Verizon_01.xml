@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"테더링 및 모바일 핫스팟"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"GB 단위로 표시"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"MB 단위로 표시"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"모바일 데이터"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"모바일 데이터 사용량 제한"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"데이터 사용량 나에게 알림"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"데이터 사용량 알림"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"모바일 데이터 사용량이 선택한 양에 도달하면 <xliff:g example="tablet" id="device_type">%s</xliff:g>에서 이를 알려줍니다."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"데이터 사용량 한계"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"데이터 사용량이 선택한 한계에 도달하면 모바일 데이터 연결이 꺼집니다.\n\n<xliff:g example="tablet" id="device_type">%s</xliff:g>에서 데이터 사용량을 측정합니다. 통신사에서 사용량을 다르게 계산할 수 있으니, 사용 중인 데이터 요금제보다 약간 낮게 한계를 설정하는 게 좋습니다. 날짜를 청구 기간에 맞춰 설정하십시오."</string>
+    <string name="vzw_phone">"전화"</string>
+    <string name="vzw_tablet">"태블릿"</string>
+    <string name="vzw_data_usage_disclaimer">"데이터 사용량은 <xliff:g example="tablet" id="device_type">%s</xliff:g>에서 측정합니다. 통신사가 사용량을 다르게 계산할 수 있습니다. 날짜를 청구 기간에 맞춰 설정하십시오."</string>
+    <string name="vzw_data_usage_warning_notification_message">"탭핑하면 사용량과 설정을 볼 수 있습니다."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"지금 모바일 데이터가 꺼져 있습니다."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"지정한 데이터 사용량 한계에 도달하여 모바일 데이터가 꺼졌습니다.\n\n모바일 데이터를 다시 켜면, 통신사에서 데이터 사용량 요금을 청구할 수 있습니다."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"데이터 켜기"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"모바일 데이터가 꺼져 있음"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"터치하여 활성화"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"모바일 데이터 한계가 초과됨"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g>만큼 지정된 한계를 초과함"</string>
+</resources>

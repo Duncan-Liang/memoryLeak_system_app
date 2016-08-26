@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"着信電話ロック機能を有効にする場合、電話応対するのに指紋をスキャンする必要があります。 指紋が正常に認識されると自動的に電話がつながります。\n以下に注意してください:\n1.対のBluetoothヘッドセットやスマートウォッチからは指紋のスキャンなしに直接電話に応対することができます。\n2.有線ヘッドセットを使用する場合は、電話対応に指紋を使用する必要があります。\n3.サードパーティの着信電話画面から応対することはできません。\n4.ボイスオーバーIP (VoIP) 電話の場合(例えば、WhatsApp音声通話)、アプリ自信から電話に応対する必要があります。"</string>
+    <string name="asus_long_tap_warning">"着信電話ロック機能が有効な場合は、タップでの電話応答はできません。"</string>
+</resources>

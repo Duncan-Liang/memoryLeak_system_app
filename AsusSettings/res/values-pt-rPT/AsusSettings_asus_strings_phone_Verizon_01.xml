@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Partilha de ligação e Ponto de acesso móvel"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Exibir em GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Exibir em MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Dados móveis"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Limitar utilização de dados móveis"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Alertar-me sobre a utilização de dados"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Alerta de utilização de dados"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"O seu <xliff:g example="tablet" id="device_type">%s</xliff:g> irá alertá-lo quando a utilização de dados móveis atingir a quantidade selecionada."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Limite de utilização de dados"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"A sua ligação de dados móveis será desativada quando a utilização de dados atingir o limite selecionado.\n\nA utilização de dados é contabilizada pelo seu <xliff:g example="tablet" id="device_type">%s</xliff:g>. Visto que contagem de utilização de dados da sua operadora de rede móvel pode ser diferente, defina um limite ligeiramente inferior ao seu plano de dados. Defina as datas para coincidir com o seu período de faturação."</string>
+    <string name="vzw_phone">"telefone"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"A utilização de dados é contabilizada pelo seu <xliff:g example="tablet" id="device_type">%s</xliff:g>. A sua operadora poderá efetuar a contagem de forma diferente. Defina as datas para coincidir com o seu período de faturação."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Toque para ver a utilização e as definições"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Os dados móveis estão desativados."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Atingiu o limite de utilização de dados especificado, por conseguinte, os dados móveis foram desativados.\n\nSe voltar a ativar os dados móveis, a sua operadora poderá cobrar-lhe a utilização de dados."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Ativar dados móveis"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Os dados móveis estão desativados"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Toque para ativar"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Limite de dados móveis excedido"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> acima do limite especificado"</string>
+</resources>

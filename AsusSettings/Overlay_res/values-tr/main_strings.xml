@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Şifreleme kesintiye uğratıldı ve tamamlanamadı. Sonuç olarak aygıtınızdaki veriler artık erişilebilir değildir. \n\n Aygıtınızı kullanmayı sürdürmek için bir fabrika ayarlarına sıfırlama işlemi gerçekleştirmeniz gerekli. Sıfırlama sonrasında aygıtınızı ayarladığınızda, Hesabınıza yedeklenmiş verileri geri yükleme şansınız olacaktır.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Girdiğiniz şifre doğru ama ne yazık ki verileriniz bozulmuş. \n\nAygıtınızı kullanmayı sürdürmek için bir fabrika ayarlarına sıfırlama işlemi gerçekleştirmeniz gerekli. Sıfırlama sonrasında aygıtınızı ayarladığınızda, Hesabınıza yedeklenmiş verileri geri yükleme şansınız olacaktır.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Bu, aygıtınızın <b>dahili belleğindeki</b>, şunları da içeren tüm verileri silecektir:\n\n<li>hesabınız</li>\n<li>Sistem ve uygulama verileri ve ayarları</li>\n<li>İndirilen uygulamalar</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Web üzerinde hesaplarınızda yaptığınız her türlü değişiklik otomatik olarak aygıtınıza kopyalanacaktır.\n\nBazı hesaplar, aygıtta yaptığınız her türlü değişikliği otomatik olarak web üzerine de kopyalayabilir. Hesabı bu şekilde çalışır.</string>
+</resources>

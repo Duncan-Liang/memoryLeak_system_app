@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"Izinkan gestur untuk membuka aplikasi dan mengaktifkan atau menonaktifkan layar"</string>
+    <string name="vzw_doubletap_off_setting_title">"Ketuk dua kali untuk menonaktifkan layar"</string>
+    <string name="vzw_doubletap_off_setting_summary">"Ketuk layar dua kali untuk menonaktifkan"</string>
+    <string name="vzw_doubletap_on_setting_title">"Ketuk dua kali untuk mengaktifkan"</string>
+    <string name="vzw_doubletap_on_setting_summary">"Ketuk layar gelap dua kali untuk mengaktifkan"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"Gestur"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"Tuliskan sebuah huruf saat layar tidak aktif untuk membuka aplikasi terkait. Anda dapat mengubah aplikasi dengan mengetuknya di bawah."</string>
+    <string name="vzw_w_launch_title">"“W” membuka aplikasi ini"</string>
+    <string name="vzw_s_launch_title">"“S” membuka aplikasi ini"</string>
+    <string name="vzw_e_launch_title">"“e” membuka aplikasi ini"</string>
+    <string name="vzw_c_launch_title">"“C” membuka aplikasi ini"</string>
+    <string name="vzw_z_launch_title">"“Z” membuka aplikasi ini"</string>
+    <string name="vzw_v_launch_title">"“V” membuka aplikasi ini"</string>
+</resources>

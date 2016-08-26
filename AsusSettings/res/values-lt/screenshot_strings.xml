@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Sparčiojo klavišo nustatymas"</string>
+    <string name="screenshot_hot_key_title">"Vėliausiai naudotų programėlių klavišas"</string>
+    <string name="screenshot_hot_key_summary">"Paspauskite ir laikykite nuspaudę vėliausiai naudotų programėlių klavišą, kad padarytumėte ekrano kopiją"</string>
+    <string name="screenshot_format_setting_title">"Failo formato nustatymas"</string>
+    <string name="screenshot_format_title">"Ekrano kopijos failo formatas"</string>
+    <string name="screenshot_sound_setting_title">"Garso nustatymas"</string>
+    <string name="screenshot_sound_title">"Įjungti garsą darant ekrano kopiją"</string>
+    <string name="screenshot_notify_setting_title">"Pranešimo nustatymas"</string>
+    <string name="screenshot_notify_title">"Įjungti pranešimą"</string>
+</resources>

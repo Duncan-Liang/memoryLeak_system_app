@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Ne motite</string>
+    <string name="zen_mode_option_off2">Vedno dovoli</string>
+    <string name="zen_mode_option_important_interruptions2">Uporabi pravila za motnje</string>
+    <string name="zen_mode_option_no_interruptions2">Ne dovoli</string>
+    <string name="zen_mode_important_category2">Pravila za motnje</string>
+    <string name="zen_mode_from2">Dovoli klice/sporočila od</string>
+    <string name="zen_mode_from_anyone2">Kdor koli</string>
+    <string name="zen_mode_from_contacts2">Samo stiki</string>
+    <string name="zen_mode_from_starred2">Samo priljubljeni</string>
+    <string name="zen_mode_from_vip2">Samo VIP</string>
+    <string name="zen_mode_downtime_category2">Urnik (uporaba pravil za motnje)</string>
+    <string name="zen_mode_alarms_priority">Alarmi</string>
+    <string name="zen_mode_repeated_calls">Ponovljeni klici</string>
+    <string name="zen_mode_repeated_calls_desc">Drugi klic v roku dveh minut ne bo utišan</string>
+    <string name="zen_mode_add_downtime">Nov urnik</string>
+    <string name="zen_mode_meeting_mode_category">Urnik, ki ga sprožijo dogodki koledarja</string>
+    <string name="zen_mode_weekend">Konec tedna</string>
+    <string name="zen_mode_everyday">Vsak dan</string>
+    <string name="zen_mode_remove_dialog_title">Odstrani urnik</string>
+    <string name="zen_mode_remove_dialog_message">Želite odstraniti ta urnik?</string>
+    <string name="zen_mode_limit_dialog_title">Nov urnik</string>
+    <string name="zen_mode_limit_dialog_message">Lahko imate največ toliko nastavitev za urnik: %d.</string>
+    <string name="zen_mode_downtime_title">urnik</string>
+    <string name="zen_mode_downtime_title_new">Nov urnik</string>
+    <string name="zen_mode_downtime_title_edit">Uredi urnik</string>
+    <string name="zen_mode_downtime_title_meeting">Uredi urnik </string>
+    <string name="zen_mode_others">Nastavitve</string>
+    <string name="zen_mode_send_notifications">Obvestilo</string>
+    <string name="zen_mode_send_notifications_desc">Pošlji obvestilo ob aktivaciji možnosti »Ne motite«</string>
+    <string name="zen_mode_no_interruptions_warning">"Če nastavite na \"popolna tišina\", bo zvok alarmov izklopljen."</string>
+    <string name="zen_mode_from_anyone3">"Od kogarkoli"</string>
+    <string name="zen_mode_from_favorites_only">"Samo od priljubljenih"</string>
+    <string name="zen_mode_from_contacts_only">"Samo od stikov"</string>
+    <string name="zen_mode_repeat_callers2">"Ponovi klice"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Ista številka, ki pokliče v minutnem obdobju <xliff:g id="MINUTES">%d</xliff:g> bo dovoljena"</string>
+    <string name="zen_mode_option_important_interruptions3">"Uporabi pravila motenj"</string>
+    <string name="zen_mode_selected_callers2">"izbrani klici"</string>
+    <string name="zen_mode_dnd_is_on">"Funkcija Ne moti je zdaj vključena. Izklopite jo lahko ročno."</string>
+    <string name="zen_mode_turn_off_now">"Izklopi zdaj"</string>
+    <string name="zen_mode_custom_name">"Po meri"</string>
+    <string name="zen_mode_manual_turn_on">"Omogoči funkcijo Ne moti ročno"</string>
+    <string name="zen_mode_turn_off">"Onemogoči funkcijo Ne moti"</string>
+    <string name="zen_mode_in_activity">"Omogočeno: "</string>
+    <string name="zen_mode_forever2">"Za nedoločen čas"</string>
+</resources>

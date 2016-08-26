@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Verizon ZenMotion Touch Gesture (JimCC) -->
+    <string name="vzw_touch_gesture_summary">"אפשר שימוש במחוות לפתיחת יישומונים ולהפעלה או כיבוי של המסך."</string>
+    <string name="vzw_doubletap_off_setting_title">"הקש פעמיים לכיבוי המסך"</string>
+    <string name="vzw_doubletap_off_setting_summary">"הקש פעמיים על המסך כדי לכבות אותו"</string>
+    <string name="vzw_doubletap_on_setting_title">"הקש פעמיים כדי לעורר"</string>
+    <string name="vzw_doubletap_on_setting_summary">"הקש פעמיים על מסך שחור כדי להפעיל אותו"</string>
+    <string name="vzw_sleep_touch_gesture_category_title">"מחוות"</string>
+    <string name="vzw_sleep_touch_gesture_category_summary">"צייר אות על מסך כבוי כדי לפתוח את היישומון הנלווה. תוכל לשנות את היישומון על ידי הקשה מתחתיו."</string>
+    <string name="vzw_w_launch_title">"האות “W” פותחת את היישומון הזה"</string>
+    <string name="vzw_s_launch_title">"האות “S” פותחת את היישומון הזה"</string>
+    <string name="vzw_e_launch_title">"האות “e” פותחת את היישומון הזה"</string>
+    <string name="vzw_c_launch_title">"האות “C” פותחת את היישומון הזה"</string>
+    <string name="vzw_z_launch_title">"האות “Z” פותחת את היישומון הזה"</string>
+    <string name="vzw_v_launch_title">"האות “V” פותחת את היישומון הזה"</string>
+</resources>

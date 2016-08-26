@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Nastavenie prístupového klávesu"</string>
+    <string name="screenshot_hot_key_title">"Kláves Posledne spustené aplikácie"</string>
+    <string name="screenshot_hot_key_summary">"Ak chcete urobiť snímku obrazovky, ťuknite na kláves Posledne spustené aplikácie a podržte na ňom prst"</string>
+    <string name="screenshot_format_setting_title">"Nastavenie formátu súboru"</string>
+    <string name="screenshot_format_title">"Formát súboru so snímkou obrazovky"</string>
+    <string name="screenshot_sound_setting_title">"Nastavenie zvuku"</string>
+    <string name="screenshot_sound_title">"Povoliť zvuk snímky obrazovky"</string>
+    <string name="screenshot_notify_setting_title">"Nastavenie upozornenia"</string>
+    <string name="screenshot_notify_title">"Povoliť upozornenie"</string>
+</resources>

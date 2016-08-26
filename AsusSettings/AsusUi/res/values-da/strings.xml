@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_commonui_done_label">"OK"</string>
+    <string name="asus_commonui_cancel_label">"Annuller"</string>
+    <string name="asus_commonui_hour_picker_description" msgid="7586639618712934060">"Cirkulær timevælger"</string>
+    <string name="asus_commonui_minute_picker_description" msgid="6024811202872705251">"Cirkulær minutvælger"</string>
+    <string name="asus_commonui_select_hours" msgid="7651068754188418859">"Vælg timer"</string>
+    <string name="asus_commonui_select_minutes" msgid="8327182090226828481">"Vælg minutter"</string>
+    <string name="asus_commonui_day_picker_description" msgid="3968620852217927702">"Månedsgitter med dage"</string>
+    <string name="asus_commonui_year_picker_description" msgid="6963340404644587098">"Liste over år"</string>
+    <string name="asus_commonui_select_day" msgid="3973338219107019769">"Vælg måned og dag"</string>
+    <string name="asus_commonui_select_year" msgid="2603330600102539372">"Vælg år"</string>
+    <string name="asus_commonui_item_is_selected" msgid="2674929164900463786">"<xliff:g id="ITEM">%1$s</xliff:g> valgt"</string>
+    <string name="asus_commonui_deleted_key" msgid="6908431551612331381">"<xliff:g id="KEY">%1$s</xliff:g> er slettet"</string>
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarm er indstillet til mindre end 1 minut fra nu."</item>
+        <item msgid="6002066367368421848">"Alarm er indstillet til <xliff:g id="DAYS">%1$s</xliff:g> fra nu."</item>
+        <item msgid="8824719306247973774">"Alarm er indstillet til <xliff:g id="HOURS">%2$s</xliff:g> fra nu."</item>
+        <item msgid="8182406852935468862">"Alarm er indstillet til <xliff:g id="DAYS">%1$s</xliff:g> og <xliff:g id="HOURS">%2$s</xliff:g> fra nu."</item>
+        <item msgid="2532279224777213194">"Alarmen går i gang om <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="5936557894247187717">"Alarm er indstillet til <xliff:g id="DAYS">%1$s</xliff:g> og <xliff:g id="MINUTES">%3$s</xliff:g> fra nu."</item>
+        <item msgid="9115697840826129603">"Alarm er indstillet til <xliff:g id="HOURS">%2$s</xliff:g> og <xliff:g id="MINUTES">%3$s</xliff:g> fra nu."</item>
+        <item msgid="2332583385137381060">"Alarm indstillet til <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> og <xliff:g id="MINUTES">%3$s</xliff:g> fra nu."</item>
+    </string-array>
+    <string name="day" msgid="7984755014526510295">"1 dag"</string>
+    <string name="days" msgid="2070509222727852210">"<xliff:g id="DAYS">%s</xliff:g> dage"</string>
+    <string name="hour" msgid="2546819039651509323">"1 time"</string>
+    <string name="hours" msgid="2071487018566991613">"<xliff:g id="HOURS">%s</xliff:g> timer"</string>
+    <string name="minute" msgid="2486157997434653710">"1 minut"</string>
+    <string name="minutes" msgid="6115838729146292526">"<xliff:g id="MINUTES">%s</xliff:g> minutter"</string>
+
+    <string name="asus_commonui_terms_of_use_notice">Bemærkning vedrørende brugsbetingelserne</string>
+    <string name="asus_commonui_privacy_policy">Privatlivspolitik</string>
+    <string name="asus_commonui_terms_of_use_notice_url">http://www.asus.com/DK/Terms_of_Use_Notice_Privacy_Policy/Official_Site/</string>
+    <string name="asus_commonui_privacy_policy_url">http://www.asus.com/DK/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy</string>
+    <string name="asus_commonui_no_url_handler">Der blev ikke fundet nogen app til åbning af webadressen</string>
+
+    <string name="asus_commonui_shareactionprovider_share_with_application">Del med</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Del med</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">Se alle</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Vælg en app</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "<xliff:g id="APPLICATION_NAME">%s</xliff:g> kunne ikke startes"</string>
+    <string name="asus_commonui_whichHomeApplication">"Vælg en startsideapp"</string>
+    <string name="asus_commonui_whichApplication">"Brug"</string>
+    <string name="asus_commonui_chooseActivity">"Vælg en handling"</string>
+    <string name="asus_commonui_noApplications">"Der er ingen apps, der kan foretage denne handling."</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Altid"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Kun én gang"</string>
+</resources>

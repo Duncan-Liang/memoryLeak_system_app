@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">Wi-Fi etkin noktayı etkin olmadığında devre dışı bırak</string>
+    <string name="wifi_disable_hotspot_selection_never">Asla</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">5 dakika sonra</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">10 dakika sonra</string>
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Wi\u2011Fi etkin nokta kullanıcıları</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Wi-Fi etkin noktaya hiç kullanıcı bağlı değil.</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">IP adresi atanmadı.</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">Ağ öneki uzunluğu atanmadı.</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">Ağgeçidi adresi atanmadı.</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">DNS1 adresi atanmadı.</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">DNS2 adresi atanmadı.</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">IP adresini girin.</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">Ağ öneki uzunluğunu girin.</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Ağgeçidi adresini girin.</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">DNS1 ayarla</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">DNS2 ayarla</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">Uyku sırasında Ethernet bağlantısını koruyun</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">Ekstra güç tüketimi isteyin</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">AĞ AYARLARI</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">Bağlantı kalitesini sağlamak için, lütfen kablosuz ekranı (Miracast) ya da Wi-Fi Direct\'i yeniden bağlamayı deneyin.</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Yeniden bağlanmak için klavyenizde herhangi bir tuşa basın</string>
+</resources>

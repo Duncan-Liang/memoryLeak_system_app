@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- AMAX: Z300 dock(DA01)-->
+    <string name="title_remind_user_to_set_bt">"Перше створення пари з Bluetooth-клавіатурою від ASUS"</string>
+    <string name="notification_remind_user_to_set_bt">"Перемістіть перемикач вправо й утримуйте його протягом 5 секунд. А потім торкніться сповіщення, щоб розпочати створення пари."</string>
+    <string name="bluetooth_preference_asus_bt_dock_devices">"Bluetooth-клавіатура від ASUS"</string>
+</resources>

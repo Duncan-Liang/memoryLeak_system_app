@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Nastavitev bližnjične tipke"</string>
+    <string name="screenshot_hot_key_title">"Tipka za nedavne aplikacije</string>
+    <string name="screenshot_hot_key_summary">"Tapnite in pridržite tipko za nedavne aplikacije, da zajamete posnetek zaslona"</string>
+    <string name="screenshot_format_setting_title">"Nastavitev oblike zapisa datoteke"</string>
+    <string name="screenshot_format_title">"Oblika zapisa datoteke s posnetkom zaslona"</string>
+    <string name="screenshot_sound_setting_title">"Nastavitev zvoka"</string>
+    <string name="screenshot_sound_title">"Omogoči zvok posnetka zaslona"</string>
+    <string name="screenshot_notify_setting_title">"Nastavitev obvestila"</string>
+    <string name="screenshot_notify_title">"Omogoči obvestilo"</string>
+</resources>

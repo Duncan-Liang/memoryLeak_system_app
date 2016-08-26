@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Couleur d\'\u00e9cran</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">\u00c9quilibr\u00e9</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Filtre bleu</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Vif</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Personnalis\u00e9</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Mouvement sans flou"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Élevé</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Intermédiaire</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Réduit</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Désactivé</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Effet élevé</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Effet intermédiaire</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Effet réduit</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Désactivé</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Homogénéiser la qualité de la lecture vidéo.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Mode de filtrage Bluelight"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Niveau 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Niveau 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Niveau 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Niveau 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Niveau 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"Désactivé"</string>
+    <string name="splendid_bluelight_filter_mode_on">"Activé"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Annuler"</string>
+    <string name="notification_bluelight_filter_title">"Le filtre Bluelight est activé"</string>
+    <string name="notification_bluelight_filter_summary">"Appuyez pour modifier"</string>
+    <!-- end -->
+</resources>

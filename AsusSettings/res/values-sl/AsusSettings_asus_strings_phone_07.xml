@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Če vklopite funkcijo zaklepa dohodnih klicev, boste morali za sprejem klica skenirati svoj prstni odtis. Če bo prstni odtis prepoznan, bo klic samodejno vzpostavljen.\nOpombe:\n1. Klic boste kljub temu lahko sprejeli neposredno prek slušalke Bluetooth ali pametne ure brez prepoznavanja prstnega odtisa.\n2. Če boste uporabljali žično slušalko, boste za sprejem klica morali skenirati svoj prstni odtis.\n3. Klica ne bo možno sprejeti s klicnega zaslona tretje osebe.\n4. Pri klicih prek spleta (VoIP), npr. iz aplikacije WhatsApp, boste morali klic sprejeti v zadevni aplikaciji."</string>
+    <string name="asus_long_tap_warning">"Pri omogočeni funkciji za zaklep dohodnega klica je sprejem klicev prek tapa in držanja onemogočen."</string>
+</resources>

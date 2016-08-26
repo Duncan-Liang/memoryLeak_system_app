@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hardware_info_summary">WLAN、藍牙、韌體版本等</string>
+    <string name="asus_wifi_skipped_message">"警告：如果略過 WLAN、藍牙、韌體版本等 設定，裝置將只能透過行動數據連線進行初始下載及更新。如要避免產生數據傳輸費用，請連線至 WLAN 網路。"</string>
+    <string name="asus_wifi_and_mobile_skipped_message">"警告：如果略過 WLAN、藍牙、韌體版本等 設定，裝置將無法連上網際網路進行任何初始下載或更新。"</string>
+    <string name="asus_wifi_connect_failed_message">"您的裝置無法連線至這個 WLAN 網路。"</string>
+    <string name="asus_data_usage_restrict_background_multiuser">"如果您禁止背景行動數據傳輸，部分應用程式和服務只有在裝置連上 WLAN 網路時才能運作。\n\n這項設定適用於這台裝置的所有使用者。"</string>
+
+ </resources>

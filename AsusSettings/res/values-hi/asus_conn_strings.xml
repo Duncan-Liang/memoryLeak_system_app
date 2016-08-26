@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Wi\u2011Fi हॉटस्पॉट उपयोगकर्ता</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">कोई भी उपयोगकर्ता Wi-Fi हॉटस्पॉट से जुड़ा नहीं है।</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">ईथरनेट</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">आईपी पता निर्धारित नहीं है।</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">नेटवर्क उपसर्ग की लंबाई निर्धारित नहीं है।</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">गेटवे पता निर्धारित नहीं है।</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">DNS1 पता निर्धारित नहीं है।</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">DNS2 पता निर्धारित नहीं है।</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">आईपी पता प्रविष्ट करें।</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">नेटवर्क उपसर्ग लंबाई प्रविष्ट करें।</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">गेटवे पता प्रविष्ट करें।</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">DNS1 सेट करें</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">DNS2 सेट करें</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">स्लीप के दौरान ईथरनेट कनेक्शन बनाए रखें</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">अतिरिक्त पावर खपत का अनुरोध करें</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">नेटवर्क सेटिंग</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">पुनः कनेक्ट करने के लिए अपने कीबोर्ड पर किसी भी की को दबाएँ</string>
+</resources>

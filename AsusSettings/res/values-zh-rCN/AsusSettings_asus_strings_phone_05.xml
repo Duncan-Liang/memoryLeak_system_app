@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="error_apn_not_allowed" description="error message for setting apn that is not allowed">\u8fd9\u7ec4APN\u4e0d\u5141\u8bb8\u5728\u8fd9\u53f0\u673a\u5668\u4e0a\u4f7f\u7528\u3002\u8bf7\u5c1d\u8bd5\u53e6\u4e00\u7ec4\u3002</string>
+</resources>

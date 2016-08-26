@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Indstillinger for genvejstaster"</string>
+    <string name="screenshot_hot_key_title">"Seneste apps-tast"</string>
+    <string name="screenshot_hot_key_summary">"Hold den seneste apps-tasten nede på navigationslinjen, for at tage et skærmudklip"</string>
+    <string name="screenshot_format_setting_title">"Filformatindstillinger"</string>
+    <string name="screenshot_format_title">"Skærmudklippets filformat"</string>
+    <string name="screenshot_sound_setting_title">"Lydindstilling"</string>
+    <string name="screenshot_sound_title">"Aktiver skærmbillede-lyd"</string>
+    <string name="screenshot_notify_setting_title">"Underretningsindstilling"</string>
+    <string name="screenshot_notify_title">"Aktiver underretning"</string>
+</resources>

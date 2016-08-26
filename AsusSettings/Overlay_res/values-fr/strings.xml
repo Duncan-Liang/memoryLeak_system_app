@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Pour contrôler le comportement de l’appareil lorsqu\'il se trouve sur une station d\'accueil et/ou lorsqu\'il est en veille, activez l\'écran de veille interactif."</string>
+</resources>

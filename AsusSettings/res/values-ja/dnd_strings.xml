@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">おやすみモード</string>
+    <string name="zen_mode_option_off2">常に許可する</string>
+    <string name="zen_mode_option_important_interruptions2">ルールを適用する</string>
+    <string name="zen_mode_option_no_interruptions2">許可しない</string>
+    <string name="zen_mode_important_category2">ルールを適用する</string>
+    <string name="zen_mode_from2">通知許可の設定</string>
+    <string name="zen_mode_from_anyone2">すべての人</string>
+    <string name="zen_mode_from_contacts2">連絡先のみ</string>
+    <string name="zen_mode_from_starred2">お気に入りのみ</string>
+    <string name="zen_mode_from_vip2">VIP のみ</string>
+    <string name="zen_mode_downtime_category2">スケジュール設定 (ルールを適用)</string>
+    <string name="zen_mode_alarms_priority">アラーム</string>
+    <string name="zen_mode_repeated_calls">繰り返し呼び出し</string>
+    <string name="zen_mode_repeated_calls_desc">2分以内に2番目のコールが沈黙されることはありません</string>
+    <string name="zen_mode_add_downtime">新しいスケジュール</string>
+    <string name="zen_mode_meeting_mode_category">カレンダーイベントによるトリガー設定</string>
+    <string name="zen_mode_weekend">週末</string>
+    <string name="zen_mode_everyday">毎日</string>
+    <string name="zen_mode_remove_dialog_title">スケジュールの削除</string>
+    <string name="zen_mode_remove_dialog_message">このスケジュールを削除しますか？</string>
+    <string name="zen_mode_limit_dialog_title">新しいスケジュール</string>
+    <string name="zen_mode_limit_dialog_message">最大 %d 件のスケジュールを設定できます。</string>
+    <string name="zen_mode_downtime_title">スケジュール</string>
+    <string name="zen_mode_downtime_title_new">新しいスケジュール</string>
+    <string name="zen_mode_downtime_title_edit">スケジュールの編集</string>
+    <string name="zen_mode_downtime_title_meeting">スケジュールの編集 </string>
+    <string name="zen_mode_others">設定</string>
+    <string name="zen_mode_send_notifications">通知</string>
+    <string name="zen_mode_send_notifications_desc">おやすみモードが有効になった場合、通知する</string>
+    <string name="zen_mode_no_interruptions_warning">「完全な静寂」 に設定すると、アラームは消音に設定されます。</string>
+    <string name="zen_mode_from_anyone3">"誰からでも"</string>
+    <string name="zen_mode_from_favorites_only">"好きな人からのみ"</string>
+    <string name="zen_mode_from_contacts_only">"連絡先からのみ"</string>
+    <string name="zen_mode_repeat_callers2">"再通話"</string>
+    <string name="zen_mode_repeat_callers_summary2">"<xliff:g id="MINUTES">%d</xliff:g>分間以内に再び通話する同じ番号は許可されます"</string>
+    <string name="zen_mode_option_important_interruptions3">"妨害ルールの適用"</string>
+    <string name="zen_mode_selected_callers2">通話</string>
+    <string name="zen_mode_dnd_is_on">"おやすみモードがONになっています。手動でOFFにできます。"</string>
+    <string name="zen_mode_turn_off_now">"今すぐOFFにする"</string>
+    <string name="zen_mode_custom_name">"カスタム"</string>
+    <string name="zen_mode_manual_turn_on">"おやすみモードを手動で有効にする"</string>
+    <string name="zen_mode_turn_off">"おやすみモードを無効にする"</string>
+    <string name="zen_mode_in_activity">"有効: "</string>
+    <string name="zen_mode_forever2">"無制限"</string>
+</resources>

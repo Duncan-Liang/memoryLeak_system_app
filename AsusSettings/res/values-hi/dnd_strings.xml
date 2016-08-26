@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">परेशान न करें</string>
+    <string name="zen_mode_option_off2">हमेशा अनुमति दें</string>
+    <string name="zen_mode_option_important_interruptions2">परेशानी नियम लागू करें</string>
+    <string name="zen_mode_option_no_interruptions2">अनुमति नहीं दें</string>
+    <string name="zen_mode_important_category2">परेशानी नियम</string>
+    <string name="zen_mode_from2">निम्न से कॉल/संदेश की अनुमति दें</string>
+    <string name="zen_mode_from_anyone2">कोई भी</string>
+    <string name="zen_mode_from_contacts2">केवल संपर्क</string>
+    <string name="zen_mode_from_starred2">केवल पसंदीदा</string>
+    <string name="zen_mode_from_vip2">केवल वीआईपी</string>
+    <string name="zen_mode_downtime_category2">निर्धारित समय (परेशानी नियम लागू करें)</string>
+    <string name="zen_mode_alarms_priority">अलार्म</string>
+    <string name="zen_mode_repeated_calls">दोहराए गए कॉल</string>
+    <string name="zen_mode_repeated_calls_desc">दो के मिनट के भीतर दूसरा कॉल मौन नहीं किया जाएगा</string>
+    <string name="zen_mode_add_downtime">नया कार्यक्रम</string>
+    <string name="zen_mode_meeting_mode_category">कैलेंडर ईवेंट द्वारा सक्रिय कैलेंडर</string>
+    <string name="zen_mode_weekend">सप्ताहांत</string>
+    <string name="zen_mode_everyday">हर दिन</string>
+    <string name="zen_mode_remove_dialog_title">कार्यक्रम हटाएँ</string>
+    <string name="zen_mode_remove_dialog_message">यह कार्यक्रम हटाएँ?</string>
+    <string name="zen_mode_limit_dialog_title">नया कार्यक्रम</string>
+    <string name="zen_mode_limit_dialog_message">आपके %d तक कार्यक्रम सेटिंग हो सकती हैं।</string>
+    <string name="zen_mode_downtime_title">कार्यक्रम</string>
+    <string name="zen_mode_downtime_title_new">नया कार्यक्रम</string>
+    <string name="zen_mode_downtime_title_edit">कार्यक्रम संपादित करें</string>
+    <string name="zen_mode_downtime_title_meeting">कार्यक्रम संपादित करें </string>
+    <string name="zen_mode_others">सेटिंग</string>
+    <string name="zen_mode_send_notifications">सूचना</string>
+    <string name="zen_mode_send_notifications_desc">परेशान न करें सक्रिय हो जाने के बाद सूचना भेजें</string>
+    <string name="zen_mode_no_interruptions_warning">"जब \"पूर्ण शांति\" पर सेट हो, अलार्म मौन पर सेट कर दिए जाएँगे।"</string>
+    <string name="zen_mode_from_anyone3">"किसी से भी"</string>
+    <string name="zen_mode_from_favorites_only">"केवल पसंदीदा से"</string>
+    <string name="zen_mode_from_contacts_only">"केवल संपर्कों से"</string>
+    <string name="zen_mode_repeat_callers2">"दोहराई गईं कॉल"</string>
+    <string name="zen_mode_repeat_callers_summary2">"वही नंबर अगर <xliff:g id="MINUTES">%d</xliff:g>  मिनट की अवधि में फिर से कॉल करता है तो उसे अनुमति दी जाएगी"</string>
+    <string name="zen_mode_option_important_interruptions3">"परेशान नियम लागू करें"</string>
+    <string name="zen_mode_selected_callers2">"चयनित कॉल"</string>
+    <string name="zen_mode_dnd_is_on">"परेशान न करकें अब चालू है। आप इसे मैनुअल रूप से बंद कर सकते हैं।"</string>
+    <string name="zen_mode_turn_off_now">"अब बंद करें"</string>
+    <string name="zen_mode_custom_name">“अनुकूलित”</string>
+    <string name="zen_mode_manual_turn_on">"परेशान न करें मैनुअल रूप से सक्षम करें"</string>
+    <string name="zen_mode_turn_off">"परेशान न करें अक्षम करें"</string>
+    <string name="zen_mode_in_activity">"सक्षम:"</string>
+    <string name="zen_mode_forever2">"अनिश्चित काल के लिए"</string>
+</resources>

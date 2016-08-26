@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Javid Change Title "About Phone" to "About" --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">ไม่เคยหมดเวลา</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">เปิดหน้าจอเสมอ</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">เวอร์ชั่น Pad EC</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">เวอร์ชั่นกล้อง</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">รุ่นหน้าจอสัมผัส</string>
+<!-- AsusSetupWizard String--> <!-- Guoliang_Lin, 2011/01/07, UI required, new feature -->
+
+<!-- Phone Storage Strings -->
+
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">ภาพถ่ายหน้าจอ</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">แทปค้างคีย์แอพพ์เร็ว ๆ นี้บนแถบการเคลื่อนที่ เพื่อจับหน้าจอ</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">รูปแบบไฟล์ภาพหน้าจอ</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+<!-- Keyboard Locale Strings --> <!-- Yang, 2011/2/8, UI required, new feature -->
+
+<!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">เวอร์ชั่น MobileDock</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">ไม่มี</string>
+
+<!-- Javid_Shu, 2011.2.18, , UI required, new feature -->
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">เกี่ยวกับ</string>
+
+<!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature -->
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">เวอร์ชั่น Wi-Fi</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">เวอร์ชั่นบลูทูธ</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">เวอร์ชั่น GPS</string>
+
+<!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+
+<!-- Johnson2_Chen, 2011/03/17, UI required, new feature -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">เลิกเมาต์ที่เก็บข้อมูลภายนอก</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">ถอดที่เก็บข้อมูลภายนอกอย่างปลอดภัย</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">เสียบที่เก็บข้อมูลภายนอกสำหรับการเมาต์</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">เมาต์ที่เก็บข้อมูลภายนอก</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">เลิกเมาต์ที่เก็บข้อมูลภายนอก</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">ถ้าคุณเลิกเมาต์ที่เก็บข้อมูล, แอปพลิเคชั่นบางอย่างที่คุณกำลังใช้จะหยุด และอาจใช้ไม่ได้จนกระทั่งคุณเมาต์ที่เก็บข้อมูลใหม่</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">การเลิกเมาต์ที่เก็บข้อมูลภายนอกล้มเหลว</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">ไม่สามารถเลิกเมาต์ที่เก็บข้อมูลภายนอกได้ ลองอีกครั้งในภายหลัง</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">ที่เก็บข้อมูลภายนอกจะถูกเลิกเมาต์</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">ลบที่เก็บข้อมูลภายนอก</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">สไตล์ตัวชี้ทัชแพด</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">โหมดท่าทาง</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">โหมดเคอร์เซอร์เมาส์</string>
+
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">การตั้งค่าแบบกำหนดเองของ ASUS</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">พฤติกรรมปุ่มขวา</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">พฤติกรรมปุ่มกลาง</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">แสดงเมนูอธิบาย</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">ทำหน้าที่เป็นปุ่มกลางของ Android</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">ทำหน้าที่เป็นปุ่มกลับ</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">ทำหน้าที่เป็นปุ่มเมนู</string>
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+
+
+
+
+
+
+    <!-- Lance Tung , 2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">การจัดการพลังงาน</string>
+
+
+    <!-- Nick_Mou, 2012/08/16 -->
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">เวอร์ชั่น Scalar</string>
+
+
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">การจัดการพลังงาน</string>
+    <string name="powerstatistics_app_name">แผนภูมิการใช้พลังงาน</string>
+    <string name="powersaver_app_name">ตัวประหยัดพลังงาน</string>
+
+
+
+    <string name="alarm_wakeup_total">การตื่นรวม</string>
+    <string name="alarm_times">ครั้ง</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage" description="hint message" maxwidth="-1">โปรดป้อน</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">ล้างแคชของแอปส์ทั้งหมด</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">ล้างแคชของแอปส์ทั้งหมด?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">นี่จะล้างแคชของแอปส์ทั้งหมด การทำเช่นนี้จะปลดปล่อยพื้นที่แคชที่สามารถใช้ได้สำหรับที่เก็บข้อมูลภายใน</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">ล้างแคช</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">กำลังประมวลผล ...</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">แคชถูกล้าง</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">แอปพลิเคชั่นการกู้คืน</string>
+    <string name="clear_apps_data_title">ล้างข้อมูลแอปส์ทั้งหมด?</string>
+    <string name="clear_apps_data_desc">"ข้อมูลแอปส์ทั้งหมดจะถูกลบอย่างถาวร ซึ่งประกอบด้วย"\n\n<li>"ไฟล์ทั้งหมด"</li>\n<li>"การตั้งค่า"</li>\n<li>"บัญชี"</li>\n<li>"ฐานข้อมูล"</li>\n<li>"แคช"</li>
+    </string>
+    <string name="clear_apps_data_button">ล้างข้อมูล</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title" description="The title of ATT factory reset password setting" maxWidth="">รหัสผ่านรีเซ็ตข้อมูลโรงงาน</string>
+    <string name="att_factory_reset_password_header_no_sim_card" description="The description for entering factory reset without sim card" maxWidth="">โปรดป้อนรหัสผ่านสำหรับรีเซ็ตข้อมูลโรงงาน</string>
+    <string name="att_factory_reset_password_header_enter_old" description="The description for entering the old ATT factory reset password" maxWidth="">โปรดป้อนรหัสผ่านเดิม</string>
+    <string name="att_factory_reset_password_header_enter_new" description="The description for entering the new ATT factory reset password" maxWidth="">โปรดป้อนรหัสผ่านใหม่</string>
+    <string name="att_factory_reset_password_header_confirm_new" description="The description for confirming the new ATT factory reset password" maxWidth="">ยืนยันรหัสผ่านใหม่</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"ลบการ์ด SD"</string>
+    <string name="erase_mircosd_storage_description">"ลบข้อมูลทั้งหมดในการ์ด SD เช่น เพลงหรือรูปภาพ"</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- MikeHsu: Ashan for 25th strings -->
+    <string name="clear_apps_data_account">\n\n"บัญชีเหล่านี้จะถูกลบ"</string>
+    <string name="clear_apps_data_final_desc">ลบข้อมูลแอปพลิเคชั่นทั้งหมดหรือไม่? ระบบจะเริ่มใหม่ คุณสามารถย้อนการกระทำนี้ได้!</string>
+    <!-- End: MikeHsu for 25th strings -->
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">เมลใหม่</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">เมลที่ส่งแล้ว</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">การเตือนปฏิทิน</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">เสียงเตือนมาตรฐาน</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">จำเป็นต้องใช้การเชื่อมต่ออินเทอร์เน็ตเพื่อเข้าถึงแอพพลิเคชั่น โปรดเปิดทำงานเครือข่ายมือถือ หรือ WiFi ใน การตั้งค่า </string>
+    <string name="load_suspended_title">ไม่มีการเชื่อมต่อเครือข่าย</string>
+    <string name="button_label_settings">การตั้งค่า</string>
+    <string name="button_label_cancel">ยกเลิก</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">ถึงจำนวนแป้นพิมพ์ที่เลือกสูงสุดแล้ว</string>
+
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">ป้องกันอุปกรณ์ไม่ให้ถูกปลุก</string>
+    <string name="app_wakelock_switch_label">ป้องกันอุปกรณ์จากการตื่นตลอดเวลา</string>
+    <string name="powermanagement_options_dialog">การตั้งค่านี้อาจเป็นผลหลังจากที่เริ่มแอปพลิเคชั่นใหม่ หรือบูตใหม่</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title" description="The title of Quick Settings List." maxWidth="-1">ตัวเลือกการตั้งค่าด่วน</string>
+    <string name="quick_setting_description" description="The description of Quick Settings List." maxWidth="-1">เลือกรายการที่จะแสดงบนแผงการตั้งค่าด่วน</string>
+    <string name="quick_setting_reset_title" description="The item of Quick Settings menu." maxWidth="-1">รีเซ็ตการตั้งค่าด่วน</string>
+    <string name="quick_setting_reset_message">ตัวเลือกการตั้งค่าด่วนจะถูกรีเซ็ต</string>
+    <!-- end -->
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">เวอร์ชั่น PadFone Station</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">เวอร์ชั่นหน้าจอสัมผัสของ PadFone สเตชั่น</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">เวอร์ชั่นกล้องของ PadFone สเตชั่น</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">การตั้งค่าด่วน</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">หน้าจอล็อค</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">เปิดแอพพ์บนหน้าจอล็อค</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">เข้าถึงด่วน</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">เวอร์ชั่นสไตลัส</string>
+
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">มืด</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">สว่าง</string>
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">ส่งข้อมูลการวินิจฉัยให้กับ ASUS เพื่อช่วยปรับปรุงคุณภาพและประสิทธิภาพของผลิตภัณฑ์ของเรา</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">ตั้งค่า PIN ของคุณ</string>
+    <string name="lockpassword_setup_your_password_header">ตั้งค่ารหัสผ่านของคุณ</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">คีย์แอพพ์เร็ว ๆ นี้</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>แสดงแอพพ์เร็ว ๆ นี้เสมอ</item>
+        <item>แทปค้างเพื่อจับหน้าจอ</item>
+        <item>แทปค้างเพื่อแสดงเมนู</item>
+    </string-array>
+    <string name="touch_key_light_title">ปุ่มสัมผัส</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">เวอร์ชั่นเฟิร์มแวร์ IA</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">เวอร์ชั่นเฟิร์มแวร์ IC ตัวควบคุมแป้นพิมพ์</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">แสดงเปอร์เซ็นต์แบตเตอรี่</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">ฝาปิด ASUS </string>
+    <string name="asus_transcover_category_title">อุปกรณ์เสริม</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">เปิดทำงาน ASUS Cover</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">พักหน้าจอเมื่อฝาถูกปิด</string>
+    <string name="asus_cover_settings">การตั้งค่า ASUS Cover </string>
+    <string name="asus_cover_automatic_unlock_tittle">ปลดล็อคอัตโนมัติ</string>
+    <string name="asus_cover_automatic_unlock_summary">เมื่อล็อคหน้าจอปิด เปิดฝาเพื่อปลดล็อคหน้าจอระบบป้องกันโดยอัตโนมัติ</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- George Yeh 2014/01/09 for Asus LockScreen Settings -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">วิดเจ็ต มีอะไรต่อไป</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">แสดงวิดเจ็ต มีอะไรต่อไป บนหน้าจอล็อค</string>
+    <string name="select_shortcut_ap_title" description="Set quick access app" maxwidth="-1">ตั้งค่าการเข้าถึงแอพพลิเคชั่นอย่างรวดเร็ว</string>
+
+    <!-- Guoliang Lin, 2014/02/20 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">เวอร์ชั่นแบตเตอรี่  </string>
+
+    <!-- yiqiu_huang@asus.com,installation for app2sd -->
+    <string name="app_installation_category">การติดตั้งแอพ</string>
+    <string name="app_installation_title">การตั้งค่าการติดตั้งแอพ</string>
+    <string name="app_installation_summary">ปรับแต่งการตั้งค่าที่เกี่ยวข้องกับการติดตั้งแอพ</string>
+    <string name="app_installation_settings_category">ตำแหน่งการติดตั้งค่าเริ่มต้น</string>
+    <string name="app_installation_settings_preferinternal_title">ต้องการใช้พื้นที่จัดเก็บข้อมูลภายใน</string>
+    <string name="app_installation_settings_preferinternal_summary">ติดตั้งแอพพลิเคชั่นในที่เก็บข้อมูลภายใน บางแอพพลิเคชั่นอาจติดตั้งในที่เก็บข้อมูลภายนอกเมื่อพื้นที่การจัดเก็บเต็ม</string>
+    <string name="app_installation_settings_preferexternal_title">ต้องการใช้พื้นที่จัดเก็บข้อมูลภายนอก</string>
+    <string name="app_installation_settings_preferexternal_summary">ติดตั้งแอพพลิเคชั่นในที่เก็บข้อมูลภายนอกถ้าทำได้</string>
+    <string name="app_installation_settings_forceexternal_title">บังคับการติดตั้งที่เก็บข้อมูลภายนอก</string>
+    <string name="app_installation_settings_forceexternal_description">การตั้งค่าระดับเชี่ยวชาญ:\n\nติดตั้งแอพพลิเคชั่นในตำแหน่งที่ไม่ได้ระบุในที่เก็บข้อมูลภายนอก\n\nอาจจะทำให้การทำงานที่ผิดปกติสำหรับแอพพลิเคชั่นที่มีการออกแบบต่อไปนี้ เช่น การบริการพื้นหลัง การบริการปลุก เครื่องมือวิธีการป้อนข้อมูล ตัวเปิดใช้ วอลล์เปเปอร์เคลื่อนไหว  วิดเจ็ตแอพ ผู้จัดการบัญชีอะแดปเตอร์ซิงค์ ผู้ดูแลระบบอุปกรณ์ การฟังสัญญาณในการบูตและอื่น ๆ</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">โหมดถุงมือ</string>
+    <string name="glove_mode_setting_summary" maxwidth="-1">เพิ่มความไวการสัมผัสเมื่อคุณสวมถุงมือ</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">โหลดไว้ล่วงหน้า</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">เปิดใช้งานแอพพลิเคชั่นนี้แล้ว</string>
+
+    <string name="lockscreen_display_instant_camera_widget_title">อินสแตนต์คาเมร่า</string>
+    <string name="lockscreen_display_instant_camera_widget">ดับเบิลคลิกปุ่มระดับเสียงเพื่อเปิดกล้องจากการพัก</string>
+    <string name="asus_lockscreen_camera_settings">กล้อง</string>
+    <string name="lockscreen_enable_camera_widget_title">ปัดเพื่อเรียกใช้</string>
+    <string name="lockscreen_enable_camera_widget">ปัดจากขอบขวาของหน้าจอล็อคไปทางซ้ายเพื่อเรียกใช้กล้อง</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">หน้าจอโฮม</string>
+    <string name="set_lock_screen">หน้าจอล็อค</string>
+    <string name="set_both_home_lockscreen">หน้าจอโฮมและหน้าจอล็อค</string>
+
+    <!-- sheng-en_fann@asus.com -->
+    <string name="led_indicator">ไฟแสดงสถานะ LED</string>
+    <string name="auto_brightness_settings_title">ตัวเลือกความสว่างอัตโนมัติ</string>
+    <string name="auto_brightness_settings_gain">เกน</string>
+    <string name="auto_brightness_settings_sensor">เซ็นเซอร์แสง</string>
+    <string name="auto_brightness_settings_adjustment">อนุญาตให้เปลี่ยนเกน</string>
+    <string name="auto_brightness_settings_reset_gain">รีเซ็ตเป็นค่าเริ่มต้น</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">รีเซ็ตเป็นค่าเกนเริ่มต้น?</string>
+    <string name="auto_brightness_settings_indark">ในสิ่งแวดล้อมที่มืด</string>
+    <string name="auto_brightness_settings_indark_title">ลดความสว่าง</string>
+    <string name="auto_brightness_settings_indark_slow">ช้า ๆ</string>
+    <string name="auto_brightness_settings_indark_immediate">ทันที</string>
+    <string name="auto_brightness_settings_indark_dynamic">ไดนามิก</string>
+    <string name="show_sensor_usage">แสดงค่าเซนเซอร์แสง</string>
+    <string name="show_sensor_usage_summary">หน้าจอแบบวางซ้อนแสดงสถานะเซ็นเซอร์แสงปัจจุบัน</string>
+
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">โหมดง่าย</string>
+    <string name="asus_easy_launcher_intro" maxwidth="">โหมดง่าย ให้คุณสัมผัสประสบการณ์ระบบติดต่อผู้ใช้ที่ใช้ง่าย ด้วยเลย์เอาต์และฟังก์ชั่นหลัก ๆ ที่ง่าย</string>
+
+    <string name="memory_system_reserved_usage">ระบบถูกสงวนไว้</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">โหมดมือเดียว</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">ทริกเกอร์ด่วน</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">ดับเบิลแทปปุ่มโฮม เพื่อเปิดใช้งานโหมดการทำงานมือเดียว</string>
+
+    <!-- Ashen_gu@asus.com, Settings-Sounds -->
+    <string name="ring_notification_volume_option_title">ริงโทน &amp; การแจ้งเตือน</string>
+
+    <string name="detect_drain_apps">ตรวจจับแอปที่ใช้แบตเตอรี่มาก</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="owner_account">เปลี่ยนการล็อคหน้าจอของเจ้าของ</string>
+    <string name="personal_space">เปลี่ยนการล็อคหน้าจอในโหมดส่วนตัว</string>
+    <string name="pmode_created">เยี่ยมมาก โหมดส่วนตัวของคุณได้ถูกสร้างขึ้นแล้ว!  ตอนนี้ ลองเข้าสู่โหมดส่วนตัวโดยใช้การล็อคหน้่าของโหมดนี้</string>
+    <string name="pmode_created_title">สร้างโหมดส่วนตัวแล้ว</string>
+    <string name="pmode_password_cannot_same">รหัสผ่านโหมดส่วนตัวจะต้องไม่เหมือนกับของเจ้าของ</string>
+    <string name="pmode_pattern_cannot_same">รูปแบบการปลดล็อคในโหมดส่วนตัวจะต้องไม่เหมือนกับของเจ้าของ</string>
+    <string name="pmode_pattern_same_to_normal">การล็อคหน้าจอในโหมดส่วนตัวจะต้องไม่เหมือนกับของเจ้าของ ลองอีกครั้ง</string>
+    <string name="pmode_pattern_same_to_private">การล็อคหน้าจอของเจ้าของต้องไม่เหมือนกับของโหมดส่วนตัว ลองอีกครั้ง</string>
+    <string name="pmode_pin_cannot_same">รหัส PIN โหมดส่วนตัวจะต้องไม่เหมือนกับของเจ้าของ</string>
+    <string name="pmode_pin_length_must_same">รหัส PIN ของโหมดส่วนตัวและเจ้าของต้องมีความยาวเท่ากัน</string>
+    <string name="pmode_set_lock">ตั้งค่าล็อค</string>
+    <string name="pmode_set_owner_lock">อันดับแรก กรุณาตั้งค่าล็อคหน้าจอสำหรับเจ้าของ</string>
+    <string name="pmode_set_owner_lock_title">ตั้งค่าการล็อคหน้าจอของเจ้าของ</string>
+    <string name="pmode_set_personal_space">หลังจากนั้น กรุณาตั้งค่าล็อคหน้าจอสำหรับโหมดส่วนตัว \n\nหมายเหตุ: การล็อคหน้าจอในโหมดส่วนตัวจะต้องไม่เหมือนกับของเจ้าของ</string>
+    <string name="pmode_set_personal_space_title">ตั้งค่าการล็อคหน้าจอในโหมดส่วนตัว</string>
+    <string name="both">เปลี่ยนประเภทล็อคหน้าจอ</string>
+    <string name="lockpassword_choose_private_mode">เลือกรหัสผ่านใหม่ของโหมดส่วนตัว</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">เลือกรหัสผ่านใหม่ของเจ้าของ</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">เลือกรหัส PIN ใหม่ของเจ้าของ</string>
+    <string name="lockpassword_confirm_private_mode">ยืนยันรหัสผ่านของโหมดส่วนตัว</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">ยืนยันรหัสผ่านของเจ้าของ</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">ยืนยันรหัส PIN ของเจ้าของ</string>
+    <string name="lockpattern_choose_private_mode">วาดรูปแบบการปลดล็อคใหม่ของโหมดส่วนตัว</string>
+    <string name="lockpattern_confirm_private_mode">วาดรูปแบบการปลดล็อคอีกครั้งเพื่อยืนยัน</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">วาดรูปแบบของเจ้าของอีกครั้งเพื่อยืนยัน</string>
+    <string name="lockpattern_pattern_same_to_normal">รูปแบบที่เหมือนกับปกติ</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">วาดรูปแบบปลดล็อคใหม่ของเจ้าของ</string>
+    <string name="lockpin_choose_private_mode">เลือกรหัส PIN ใหม่ของโหมดส่วนตัว</string>
+    <string name="lockpin_confirm_private_mode">ยืนยันรหัส PIN ของโหมดส่วนตัว</string>
+    <string name="notice">ข้อสังเกต</string>
+    <string name="select_account">เลือกการกระทำของคุณ</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">ข้อสังเกต</string>
+    <string name="user_snapview_message_created">ที่เก็บข้อมูลระบบไม่เพียงพอ</string>
+    <string name="user_snapview_message_with_normal_lock">ในโหมดส่วนตัว คุณสามารถถ่ายภาพ บันทึกไฟล์ ติดตั้งแอป  ไฟล์และแอปเหล่านี้ยังคงปลอดภัยในโหมดส่วนตัว และจะไม่สามารถมองเห็นได้เมื่อคุณออกจากโหมดส่วนตัว.\n\nก่อนที่คุณจะสามารถสร้างโหมดส่วนตัว คุณต้องตั้งค่าล็อคหน้าจอสำหรับโหมดส่วนตัว\n\nหมายเหตุ: การล็อคหน้าของโหมดส่วนตัวจะต้องไม่เหมือนกับของเจ้าของ</string>
+    <string name="user_snapview_message_without_normal_lock">ในโหมดส่วนตัว คุณสามารถถ่ายภาพ บันทึกไฟล์ ติดตั้งแอป  ไฟล์และแอปเหล่านี้ยังคงปลอดภัยในโหมดส่วนตัว และจะไม่สามารถมองเห็นได้เมื่อคุณออกจากโหมดส่วนตัว.\n\nก่อนที่คุณจะสามารถสร้างโหมดส่วนตัว คุณต้องตั้งค่าล็อคหน้าจอสำหรับเจ้าของ</string>
+    <string name="user_snapview_settings">การตั้งค่าโหมดส่วนตัว</string>
+    <string name="user_snapview_settings_category_account">บัญชีผู้ใช้โหมดส่วนตัว</string>
+    <string name="user_snapview_settings_category_dummy">การแจ้งเตือนดัมมี</string>
+    <string name="user_snapview_settings_category_lockscreen">ความปลอดภัยของหน้าจอล็อค</string>
+    <string name="user_snapview_settings_category_visualhint">ข้อมูลแบบย้ายตามที่เห็น</string>
+    <string name="user_snapview_settings_change_info">เปลี่ยนข้อมูลโพรไฟล์</string>
+    <string name="user_snapview_settings_delete_self">ลบโหมดส่วนตัว</string>
+    <string name="user_snapview_settings_dummy_default">อัปเดตบริการ Google Play แล้ว</string>
+    <string name="user_snapview_settings_dummy_notify">ข้อความ</string>
+    <string name="user_snapview_settings_dummy_notify_icon">ไอคอน</string>
+    <string name="user_snapview_settings_hint_lock">การตกแต่งหน้าจอล็อค</string>
+    <string name="user_snapview_settings_hint_notify">การตกแต่งโหมดส่วนตัว</string>
+    <string name="user_snapview_settings_item1">ละเอียด</string>
+    <string name="user_snapview_settings_item2">เด่นชัด</string>
+    <string name="user_snapview_settings_item3">ไม่มี</string>
+    <string name="user_snapview_settings_item_color">สี</string>
+    <string name="user_snapview_settings_item_icon">ไอคอน</string>
+    <string name="user_snapview_settings_item_none">ไม่มี</string>
+    <string name="user_snapview_settings_set_lock">ตั้งค่าการล็อคหน้าจอ</string>
+    <string name="user_snapview_summary">คุณสามารถสร้างโหมดส่วนตัวเพื่อปกป้องภาพถ่าย ไฟล์ และแอป</string>
+    <string name="user_snapview_title">โหมดส่วนตัว</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">โปรดกำหนดบัญชี %s เป็นบัญชีอีเมลกู้ภัย โหมดส่วนตัว ของคุณ\n\nบัญชีอีเมลกู้ภัยของคุณ จะช่วยคุณรีเซ็ตรหัสผ่าน โหมดส่วนตัว ของคุณในกรณีที่คุณลืมรหัสผ่าน</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">ในการลบ โหมดส่วนตัว คุณจำเป็นต้องป้อนรหัสผ่านล็อคหน้าจอและ PIN สุ่ม\n\nเมื่อยืนยัน โหมดส่วนตัว จะถูกลบจากอุปกรณ์ของคุณ คุณจะสูญเสียภาพถ่าย แอป และข้อมูลใน โหมดส่วนตัว\n\nการกระทำนี้ไม่สามารถเลิกทำได้ คุณต้องการดำเนินการต่อหรือไม่?</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">ขอแสดงความยินดี! รหัสผ่าน โหมดส่วนตัว ของคุณถูกรีเซ็ตแล้ว\n\nขั้นถัดไป คุณสามารถกำหนดรหัสผ่าน โหมดส่วนตัว ใหม่ หรือลบ โหมดส่วนตัว ปัจจุบันของคุณได้</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">รหัสผ่าน โหมดส่วนตัว ถูกรีเซ็ต</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">ก่อนที่จะสร้าง โหมดส่วนตัว เราแนะนำให้คุณกำหนดบัญชี %s เป็นบัญชีอีเมลกู้ภัย\n\nบัญชีอีเมลกู้ภัยของคุณ จะช่วยคุณรีเซ็ตรหัสผ่าน โหมดส่วนตัว ของคุณในกรณีที่คุณลืมรหัสผ่าน</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">บัญชีอีเมลกู้ภัย โหมดส่วนตัว</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">เรากำลังจะตรวจสอบบัญชี %1$s ของคุณ\n\nหลังจากที่การยืนยันสำเร็จแล้ว คุณสามารถเริ่มการรีเซ็ตรหัสผ่านหน้าจอล็อคของคุณ\n\nหมายเหตุ: หน้าจอถัดไป เป็นการตรวจสอบบัญชี %2$s และเราไม่เก็บรวบรวมข้อมูลบัญชีของคุณ</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">ตรวจสอบบัญชี %s ของคุณ</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">เปลี่ยนบัญชีอีเมลกู้ภัย</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">ใช้ตัวเลือกนี้เพื่อรีเซ็ตรหัสผ่าน โหมดส่วนตัว ของคุณ</string>
+    <string name="user_snapview_reset_confirm">ลบข้อมูลของคุณทั้งหมดในโหมดส่วนตัว?\nคุณไม่สามารถย้อนการกระทำนี้กลับได้!</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_default_font">แบบอักษรค่าเริ่มต้น</string>
+    <string name="monotype_dialog_button">รับแบบอักษรออนไลน์</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_dialog_no_fonts_installed">ไม่มีแบบอักษรเพิ่มเติม</string>
+    <string name="monotype_dialog_revert_question">รีเซ็ตเป็นแบบอักษรค่าเริ่มต้นหรือไม่</string>
+    <string name="monotype_dialog_set_font_question">ตั้งค่าแบบอักษรเป็น %s หรือไม่</string>
+    <string name="monotype_loading_list">กำลังโหลดรายการแบบอักษร...</string>
+    <string name="monotype_preference_summary">ตั้งค่าแบบอักษร</string>
+    <string name="monotype_preference_title">ลักษณะแบบอักษร</string>
+    <string name="monotype_restart_dialog_button_1">รีสตาร์ทเดี๋ยวนี้</string>
+    <string name="monotype_restart_dialog_text_1">รีสตาร์ทโทรศัพท์</string>
+    <string name="monotype_restart_dialog_text_2">รีสตาร์ทโทรศัพท์เพื่อใช้การตั้งค่า</string>
+    <string name="asus_master_clear_check_backup_message">คุณบันทึกข้อมูลในที่เก็บข้อมูลภายใน โปรดย้ายข้อมูลไปยังที่เก็บข้อมูลภายนอกก่อนที่จะดำเนินการ ไม่เช่นนั้นข้อมูลเหล่านี้จะถูกลบจากที่เก็บข้อมูลภายในของคุณ คุณยังคงต้องการดำเนินการรีเซ็ตหรือไม่?</string>
+    <string name="asus_master_clear_check_backup_title">คำเตือน</string>
+    <string name="change_short_cut_message">แตะแอปเพื่อปรับแต่งและลากแอปเพื่อจัดเรียงใหม</string>
+    <string name="lockscreen_enable_slide_widget">ข้ามเพจหน้าจอล็อกการเลื่อนขณะกำลังปลุกเรียก</string>
+    <string name="lockscreen_enable_slide_widget_title">ข้ามเพจการเลื่อน</string>
+    <string name="quick_access_message">การเข้าถึงด่วนแบบกำหนดเอง</string>
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">ตัวจัดการการเริ่มทำงานโดยอัตโนมัติ</string>
+    <string name="autostart_summary">"ปลดปล่อยหน่วยความจำและประหยัดพลังงาน"</string>
+
+    <!-- Wilson_Chen@asus.com, quick charging -->
+    <string name="battery_info_status_quick_charging">ชาร์จด่วน (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> จนกว่าจะเต็มใน AC (ชาร์จด่วน)</string>
+    <string name="zen_mode_dont_interrupt_category">ไม่อนุญาต</string>
+
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">แสดงแถบสถานะ</string>
+    <string name="notification_material_summary">เมื่อนำไปใช้ ไอคอนการแจ้งเตือนแอปบางตัวจะกลายเป็นรูปทรงสีขาว เพื่อสอดคล้องกับสไตล์การออกแบบ</string>
+    <string name="notification_material_title">ใช้การออกแบบวัสดุ</string>
+
+    <string name="lockscreen_incorrect_code_entries_setting_summery">สองครั้ง</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">ป้อนรหัสไม่ถูกต้อง</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">ถ่ายภาพของผู้บุกรุกเมื่อเขาป้อนรหัสผ่านผิดในหน้าจอล็อค</string>
+    <string name="lockscreen_intruder_selfie_setting_title">ถ่ายผู้บุกรุก</string>
+    <string name="lockscreen_intruder_selfie_summary">ถ่ายภาพผู้ที่ป้อนรหัสผิด</string>
+    <string name="lockscreen_intruder_selfie_title">ถ่ายผู้บุกรุก</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">บันทึกภาพในโฟลเดอร์ ภาพผู้บุกรุก ของแกลเลอรี่</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">บันทึกภาพโดยอัตโนมัติ</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">ห้าครั้ง</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">สี่ครั้ง</string>
+    <string name="lockscreen_incorrect_code_entries_third">สามครั้ง</string>
+    <string name="lockscreen_incorrect_code_entries_twice">สองครั้ง</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"รหัสผ่านต้องประกอบด้วยชุดตัวอักษรอย่างน้อย %d ตัวใน 4 กลุ่ม: ตัวพิมพ์ใหญ่ ตัวพิมพ์เล็ก ตัวเลข สัญลักษณ์"</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"ถัดไป"</string>
+
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">การให้บริการรหัสแหล่งที่มาทั่วไป</string>
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"โหมดเด็ก"</string>
+    <string name="asus_kids_launcher_settings_message">"เปิดโหมดเด็กเพื่อตั้งค่าสนามเด็กเล่นที่ปลอดภัยเพื่อให้เด็ก ๆ ใช้"</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">แอปบางตัวอาจแสดงข้อความอย่างไม่ถูกต้อง หากใช้ตัวอักษรขนาดใหญ่มาก</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">ข้อความขนาดใหญ่มาก</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"แทปปุ่มชัตเตอร์กล้องหรือปุ่มกล้องวิดีโอค้างไว้ เพื่อเปิดกล้องเมื่อหน้าจอเปิดอยู่"</string>
+    <string name="lockscreen_longpress_screen_off">"แทปปุ่มชัตเตอร์กล้องหรือปุ่มกล้องวิดีโอค้างไว้ เพื่อเปิดกล้องเมื่อหน้าจอปิดอยู่"</string>
+    <string name="lockscreen_longpress_screen_on_title">"เริ่มกล้องเมื่อหน้าจอเปิด"</string>
+    <string name="lockscreen_longpress_screen_off_title">"เริ่มกล้องเมื่อหน้าจอปิด"</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">"แจ้งเตือนฉุกเฉิน"</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">"กำหนดค่าการแจ้งเตือนฉุกเฉิน"</string>
+    <string name="smscb_title" description="" maxwidth="-1">"SMS ออกอากาศผ่านเซลล์"</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">"กำหนดค่า SMS ออกอากาศผ่านเซลล์"</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"ปิดทำงานหน้าข้อมูลสภาพอากาศ"</string>
+    <string name="lockscreen_disable_weather_info_page">"ปิดใช้งานหน้าข้อมูลสภาพอากาศอย่างสมบูรณ์ (ให้บริการโดย Cheetah Mobile) ที่ด้านขวาของหน้าจอล็อค"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

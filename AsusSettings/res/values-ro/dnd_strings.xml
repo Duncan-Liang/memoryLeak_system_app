@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Nu deranjați</string>
+    <string name="zen_mode_option_off2">Se permite întotdeauna</string>
+    <string name="zen_mode_option_important_interruptions2">Se aplică reguli pentru deranj</string>
+    <string name="zen_mode_option_no_interruptions2">Nu se permite</string>
+    <string name="zen_mode_important_category2">Reguli pentru deranj</string>
+    <string name="zen_mode_from2">Se permit apeluri/mesaje de la</string>
+    <string name="zen_mode_from_anyone2">Oricine</string>
+    <string name="zen_mode_from_contacts2">Doar persoane de contact</string>
+    <string name="zen_mode_from_starred2">Doar preferințe</string>
+    <string name="zen_mode_from_vip2">Doar VIP</string>
+    <string name="zen_mode_downtime_category2">Oră programată (Se aplică reguli pentru deranj)</string>
+    <string name="zen_mode_alarms_priority">Alarme</string>
+    <string name="zen_mode_repeated_calls">Apeluri repetate</string>
+    <string name="zen_mode_repeated_calls_desc">Pentru un al doilea apel în decurs de două minute nu se va dezactiva sunetul</string>
+    <string name="zen_mode_add_downtime">Programare nouă</string>
+    <string name="zen_mode_meeting_mode_category">Programare declanșată de evenimente din calendar</string>
+    <string name="zen_mode_weekend">Weekend</string>
+    <string name="zen_mode_everyday">Zilnic</string>
+    <string name="zen_mode_remove_dialog_title">Eliminare programare</string>
+    <string name="zen_mode_remove_dialog_message">Eliminați această programare?</string>
+    <string name="zen_mode_limit_dialog_title">Programare nouă</string>
+    <string name="zen_mode_limit_dialog_message">Puteți avea maximum %d (de) setări de programare.</string>
+    <string name="zen_mode_downtime_title">programare</string>
+    <string name="zen_mode_downtime_title_new">Programare nouă</string>
+    <string name="zen_mode_downtime_title_edit">Editare programare</string>
+    <string name="zen_mode_downtime_title_meeting">Editare programare </string>
+    <string name="zen_mode_others">Setări</string>
+    <string name="zen_mode_send_notifications">Notificare</string>
+    <string name="zen_mode_send_notifications_desc">Se trimite o notificare odată ce este activat modul Do not disturb (Nu deranjați)</string>
+    <string name="zen_mode_no_interruptions_warning">"Când se setează la \"linişte totală\", se va dezactiva şi sunetul alarmelor."</string>
+    <string name="zen_mode_from_anyone3">"De la oricine"</string>
+    <string name="zen_mode_from_favorites_only">"Doar de la favoriţi"</string>
+    <string name="zen_mode_from_contacts_only">"Doar de la contacte"</string>
+    <string name="zen_mode_repeat_callers2">"Apeluri repetate"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Se vor permite apelurile de la acelaşi număr efectuat într-o perioadă de <xliff:g id="MINUTES">%d</xliff:g> minute"</string>
+    <string name="zen_mode_option_important_interruptions3">"Se aplică reguli pentru deranj"</string>
+    <string name="zen_mode_selected_callers2">"apeluri selectate"</string>
+    <string name="zen_mode_dnd_is_on">"Acum modul Nu deranjaţi este activat. Îl puteţi dezactiva manual."</string>
+    <string name="zen_mode_turn_off_now">"Dezactivează acum"</string>
+    <string name="zen_mode_custom_name">"Personalizat"</string>
+    <string name="zen_mode_manual_turn_on">"Activare manuală mod Nu deranjaţi"</string>
+    <string name="zen_mode_turn_off">"Dezactivare mod Nu deranjaţi"</string>
+    <string name="zen_mode_in_activity">"Activat: "</string>
+    <string name="zen_mode_forever2">"Indefinit"</string>
+</resources>

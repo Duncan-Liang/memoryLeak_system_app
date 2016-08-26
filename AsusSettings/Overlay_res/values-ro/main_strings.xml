@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Operaţia de criptare a fost întreruptă şi nu poate să fie finalizată. Drept urmare, datele din dispozitivul dvs. au devenit inaccesibile. \n\n Pentru a relua utilizarea dispozitivului dvs., va trebui să efectuaţi o resetare la valorile din fabrică. După ce configuraţi dispozitivul în urma resetării, veţi avea posibilitatea de a restaura toate datele care au fost copiate de rezervă în contul.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Parola pe care aţi introdus-o este corectă, dar din păcate datele dvs. sunt corupte. \n\nPentru a relua utilizarea dispozitivului dvs., va trebui să efectuaţi o resetare la valorile din fabrică. După ce configuraţi dispozitivul în urma resetării, veţi avea posibilitatea de a restaura toate datele care au fost copiate de rezervă în contul.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">„Acest lucru va şterge toate datele din <b>memoria de stocare internă a dispozitivului</b>, inclusiv:\n\n<li>contul dvs.,</li>\n<li>datele şi setările sistemului şi aplicaţiilor,</li>\n<li>aplicaţiile descărcate.</li>”</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Toate modificările pe care le efectuaţi asupra conturilor de pe web vor fi copiate automat în dispozitiv.\n\nDe asemenea, este posibil ca unele conturi să copieze în mod automat pe internet toate modificările pe care le efectuaţi asupra dispozitivului. Conturile funcţionează în acest mod.</string>
+</resources>

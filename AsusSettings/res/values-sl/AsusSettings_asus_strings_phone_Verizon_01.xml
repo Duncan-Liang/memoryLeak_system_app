@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Skupna raba mobilnega interneta in dostopna točka mobilnega omrežja"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Prikaži v GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Prikaži v MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobilna podatkovna povezava"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Omejitev prenosa podatkov prek mobilne podatkovne povezave"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Opozori me na prenos podatkov"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Opozorilo o prenosu podatkov"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Naprava <xliff:g example="tablet" id="device_type">%s</xliff:g> vas bo opozorila, ko boste dosegli izbrano količino prenosa podatkov prek mobilne podatkovne povezave."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Omejitev prenosa podatkov"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Mobilna podatkovna povezava bo izklopljena, ko boste dosegli izbrano omejitev prenosa podatkov.\n\nPrenos podatkov meri <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operater lahko prenos podatkov računa drugače, zato vam priporočamo, da nastavite omejitev, ki je nekoliko nižja od vašega naročniškega paketa. Datume nastavite tako, da se ujemajo z obdobjem na računu."</string>
+    <string name="vzw_phone">"telefon"</string>
+    <string name="vzw_tablet">"tablični računalnik"</string>
+    <string name="vzw_data_usage_disclaimer">"Prenos podatkov meri <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operater lahko prenos podatkov računa drugače. Datume nastavite tako, da se ujemajo z obdobjem na računu."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Tapnite za ogled uporabe in nastavitev"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobilna podatkovna povezava je zdaj izklopljena."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Dosegli ste določeno omejitev prenosa podatkov, zato je bila mobilna podatkovna povezava izklopljena.\n\nČe vklopite mobilno podatkovno povezavo, vam bo operater morda zaračunal prenos podatkov."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">Vklopi podatkovno povezavo"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobilna podatkovna povezava je izklopljena"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Dotaknite se, da jo omogočite"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Presežena omejitev prenosa podatkov prek mobilne podatkovne povezave"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> čez določeno omejitev"</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_sharemediatype" >
+        <CheckBoxPreference
+            android:key="checkMusic"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:key="checkPhoto"
+            android:defaultValue="true" />
+        <CheckBoxPreference
+            android:key="checkVideo"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="pref_dms_settings_adv" >
+        <ListPreference
+             android:key="pref_sharefolder" />
+        <EditTextPreference
+              android:key="editTextFriendlyname"
+              android:singleLine="true" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

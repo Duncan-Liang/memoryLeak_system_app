@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Krypteringen avbröts och kan inte färdigställas. På grund av det är datan på din enhet inte längre tillgänglig. \n\n För att fortsätta använda din enhet behöver du göra en fabriksåterställning. När du ställer in din enhet efter fabriksåterställningen har du en chans att återställa data som var uppbackat av ditt konto.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Lösenordet du matade in är korrekt men tyvärr är din data skadad. \n\n För att fortsätta använda din enhet behöver du göra en fabriksåterställning. När du ställer in din enhet efter fabriksåterställningen har du en chans att återställa data som var uppbackat av ditt konto.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Detta raderar alla data från enhetens <b>interna lagring</b>, vilket inkluderar:\n\n<li>Ditt konto</li>\n<li>System och appdata och inställningar</li>\n<li>Nedladdade appar</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Ändringar du gör på ditt webbkonto kommer automatiskt kopieras till din enhet. \n\nVissa konton kan också automatiskt kopiera ändringar du gör på enheten på webben. Ett konto fungerar på det här sättet.</string>
+</resources>

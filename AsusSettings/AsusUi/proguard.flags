@@ -1,0 +1,15 @@
+-keepclassmembers class * extends android.view.ActionProvider {
+    public protected <init>(...);
+}
+
+# Reflection is used in the constructor of InflatedOnMenuItemClickListener and the method in MenuState
+-keep public class com.asus.commonui.shareactionwidget.ShareActionProvider
+
+# Used in calabash steps
+-keep public class com.asus.commonui.datetimepicker.date.DayPickerView
+-keep public class com.asus.commonui.datetimepicker.date.YearPickerView
+-keepclassmembers class com.asus.commonui.datetimepicker.time.RadialPickerLayout {
+    public void setTime(int ,int);
+}
+
+-dontwarn com.asus.commonui.**

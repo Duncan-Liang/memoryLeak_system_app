@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Javid Change Title "About Phone" to "About" -->
+<!-- Javid Change Title "About Phone" to "About" --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+    <string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">Nigdy nie przerywaj</string>
+    <string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">Ekran zawsze włączony</string>
+    <string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">Wersja Pad EC</string>
+    <string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">Wersja kamery</string>
+    <string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">Wersja panela dotykowego</string>
+<!-- AsusSetupWizard String--> <!-- Guoliang_Lin, 2011/01/07, UI required, new feature -->
+
+<!-- Phone Storage Strings -->
+
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+    <string name="screenshot" description="Title of Screenshot function." maxwidth="-1">Zrzut ekranu</string>
+    <string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Stuknij i przytrzymaj przycisk ostatnio używanych aplikacji na pasku nawigacyjnym, aby przechwycić ekran</string>
+    <string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">Format pliku zrzutu ekranowego</string>
+    <string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+    <string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+<!-- Keyboard Locale Strings --> <!-- Yang, 2011/2/8, UI required, new feature -->
+
+<!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+    <string name="dock_version" description="Display version of mobile docking" maxwidth="-1">Wersja systemu MobileDock</string>
+    <string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">Brak</string>
+
+<!-- Javid_Shu, 2011.2.18, , UI required, new feature -->
+    <string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">Informacje</string>
+
+<!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature -->
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Wersja Wi-Fi</string>
+    <string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Wersja Bluetooth</string>
+    <string name="gps_version" description="add the version item for GPS" maxwidth="-1">Wersja GPS</string>
+
+<!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+
+<!-- Johnson2_Chen, 2011/03/17, UI required, new feature -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">Odłącz zewnętrzną pamięć masową</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">Usuń bezpiecznie zewnętrzną pamięć masową</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">Włóż zewnętrzną pamięć masową do podłączenia</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">Podłącz zewnętrzną pamięć masową</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">Odłącz zewnętrzną pamięć masową</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">Po odłączeniu pamięci masowej, niektóre używane aplikacje zostaną zatrzymane i mogą być niedostępne, aż do ponownego podłączenia pamięci masowej.</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">Odłączenie zewnętrznej pamięci masowej nie powiodło się</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">Nie można odłączyć zewnętrznej pamięci masowej. Spróbuj ponownie później.</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">Zewnętrzna pamięć masowa zostanie odłączona.</string>
+
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">Usuń zewnętrzną pamięć masową</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">Styl wskaźnika touchpada</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">Tryb gestów</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">Tryb kursora myszy</string>
+
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">Dostosowanie ustawień ASUS</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">Funkcja prawego przycisku</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">Funkcje środkowego przycisku</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">Pokaż menu kontekstowe</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Działa jak środkowy przycisk Android</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">Działa jak przycisk do tyłu</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">Działa jak przycisk menu</string>
+
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+
+
+
+
+
+
+
+    <!-- Lance Tung , 2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">Zarządzanie zasilaniem</string>
+
+
+    <!-- Nick_Mou, 2012/08/16 -->
+
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Wersja oprogramowania układowego Scalar</string>
+
+
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">Zarządzanie zasilaniem</string>
+    <string name="powerstatistics_app_name">Wykres zużycia energii</string>
+    <string name="powersaver_app_name">Funkcja oszczędzania energii</string>
+
+
+
+    <string name="alarm_wakeup_total">Liczba wznowień</string>
+    <string name="alarm_times">raz(y)</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage" description="hint message" maxwidth="-1">Wprowadź</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">Wyczyść pamięć podręczną wszystkich aplikacji</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">Wyczyścić pamięć podręczną wszystkich aplikacji?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">Spowoduje to wyczyszczenie pamięci podręcznej wszystkich aplikacji. Zwolniony obszar pamięci podręcznej może być używany jako wewnętrzna pamięć masowa.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">Wyczyść pamięć podręczną</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">Przetwarzanie...</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">Pamięć podręczna została wyczyszczona.</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Aplikacje do odzyskiwania</string>
+    <string name="clear_apps_data_title">Usunąć dane wszystkich aplikacji?</string>
+    <string name="clear_apps_data_desc">"Dane wszystkich aplikacji zostaną trwale usunięte. Obejmuje to pozycje:"\n\n<li>"Wszystkie pliki"</li>\n<li>"Ustawienia"</li>\n<li>"Konta"</li>\n<li>"Bazy danych"</li>\n<li>"Pamięć podręczna"</li>
+    </string>
+    <string name="clear_apps_data_button">Usuń dane</string>
+
+    <!-- BEGIN Joey_Lee AT&T factory reset password -->
+    <string name="att_factory_reset_password_title" description="The title of ATT factory reset password setting" maxWidth="">Hasło przywr. danych fabr</string>
+    <string name="att_factory_reset_password_header_no_sim_card" description="The description for entering factory reset without sim card" maxWidth="">Wprowadź hasło przywracania danych fabrycznych</string>
+    <string name="att_factory_reset_password_header_enter_old" description="The description for entering the old ATT factory reset password" maxWidth="">Wprowadź stare hasło</string>
+    <string name="att_factory_reset_password_header_enter_new" description="The description for entering the new ATT factory reset password" maxWidth="">Wprowadź nowe hasło</string>
+    <string name="att_factory_reset_password_header_confirm_new" description="The description for confirming the new ATT factory reset password" maxWidth="">Potwierdź nowe hasło</string>
+    <!-- END Joey_Lee AT&T factory reset password -->
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"Wyczyść kartę SD"</string>
+    <string name="erase_mircosd_storage_description">"Wymaż wszystkie dane z karty SD, np. pliki muzyczne i zdjęcia."</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- Start: MikeHsu for 25th strings -->
+    <string name="clear_apps_data_account">\n\n"Te konta zostaną usunięte."</string>
+    <string name="clear_apps_data_final_desc">Skasować dane wszystkich aplikacji? Nastąpi ponowne uruchomienie. Czynności tej nie można cofnąć!</string>
+    <!-- End: MikeHsu for 25th strings -->
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">Nowa wiadomość pocztowa</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Wysłane wiadomości pocztowe</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">Komunikaty kalendarza</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Domyślny alarm</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Dostęp do tej aplikacji wymaga połączenia z Internetem. Włącz sieć komórk. lub WiFi w ustawieniach. </string>
+    <string name="load_suspended_title">Brak połączenia z siecią</string>
+    <string name="button_label_settings">Ustawienia</string>
+    <string name="button_label_cancel">Anuluj</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">Osiągnięto maksymalną liczbę wybranych klawiatur</string>
+
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">uniemożliwia wybudzenie urządzenia</string>
+    <string name="app_wakelock_switch_label">zapobiega utrzymaniu wybudzenia urządzenia</string>
+    <string name="powermanagement_options_dialog">To ustawienie może zacząć działać, po restarcie aplikacji lub ponownym uruchomieniu urządzenia</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title" description="The title of Quick Settings List." maxWidth="-1">Opcje szybkich ustawień</string>
+    <string name="quick_setting_description" description="The description of Quick Settings List." maxWidth="-1">Wybierz elementy, które majš być widoczne na panelu szybkich ustawień</string>
+    <string name="quick_setting_reset_title" description="The item of Quick Settings menu." maxWidth="-1">Resetuj szybkie ustawienia</string>
+    <string name="quick_setting_reset_message">Opcje szybkich ustawień zostanš zresetowane.</string>
+    <!-- end -->
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">Wersja PadFone Station</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">Wersja panelu dotykowego stacji PadFone</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">Wersja aparatu stacji PadFone</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Szybkie ustaw.</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Ekran blokowania</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Uruchom aplikacje na ekranie blokowania</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Szybki dostęp</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Wersja rysika</string>
+
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Ciemno</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Jasno</string>
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Wysyłaj dane diagnostyczne do firmy ASUS, aby umożliwić poprawę jakości i wydajności produktu</string>
+
+    <!-- Alex6 Lin, 2103/07/15 Add PIN/Password title-->
+    <string name="lockpassword_setup_your_pin_header">Ustaw kod PIN</string>
+    <string name="lockpassword_setup_your_password_header">Ustaw hasło</string>
+    <!-- Alex6 Lin -->
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">Przycisk ostatnio używanych aplikacji</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Zawsze pokazuj ostatnio używane aplikacje</item>
+        <item>Stuknij i przytrzymaj, aby przechwycić ekran</item>
+        <item>Stuknij i przytrzymaj, aby wyświetlić menu</item>
+    </string-array>
+    <string name="touch_key_light_title">Klawisz dotykowy</string>
+
+    <!-- Tony Hsu, 2013/10/02 IAFW Version preference -->
+    <string name="iafw_version" description="title of IAFW version" maxwidth="-1">Wersja oprogramowania układowego IA</string>
+
+    <!-- Tony Hsu, 2013/11/20 KBCFW Version preference -->
+    <string name="kbcfw_version" description="title of KBCFW version" maxwidth="-1">Wersja oprogramowania układowego IC kontrolera klawiatury</string>
+
+    <!-- ashan_yang@asus.com, show battery -->
+    <string name="show_battery">Pokaż procent naładowania baterii</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_cover" description="Title for setting ASUS Cover" translate="true">Etui ASUS</string>
+    <string name="asus_transcover_category_title">Akcesoria</string>
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Włącz ASUS Cover</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Wstrzymaj ekran po zamknięciu etui</string>
+    <string name="asus_cover_settings">Ustawienia etui ASUS</string>
+    <string name="asus_cover_automatic_unlock_tittle">Automatyczne odblokowanie</string>
+    <string name="asus_cover_automatic_unlock_summary">Gdy blokada ekranu jest wyłączona, otwórz etui, aby automatycznie odblokować ekran zabezpieczeń</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- George Yeh 2014/01/09 for Asus LockScreen Settings -->
+    <string name="lockscreen_display_whats_next_widget_title" description="Whats Next widget" maxwidth="-1">Widżet „What\'s Next” (Co dalej)</string>
+    <string name="lockscreen_display_whats_next_widget" description="Show whats next widgets on lock screen" maxwidth="-1">Pokaż widżet „What\'s Next” (Co dalej) na ekranie blokady</string>
+    <string name="select_shortcut_ap_title" description="Set quick access app" maxwidth="-1">Ustaw szybki dostęp do aplikacji</string>
+
+    <!-- Guoliang Lin, 2014/02/20 Battery version -->
+    <string name="battery_version_title" description="Asus Battery version title" maxwidth="-1">Wersja baterii</string>
+
+    <!-- yiqiu_huang@asus.com,installation for app2sd -->
+    <string name="app_installation_category">INSTALACJA APLIKACJI</string>
+    <string name="app_installation_title">Ustawienia instalacji aplikacji</string>
+    <string name="app_installation_summary">Dostosuj ustawienia związane z instalacją aplikacji</string>
+    <string name="app_installation_settings_category">DOMYŚLNA LOKALIZACJA INSTALACJI</string>
+    <string name="app_installation_settings_preferinternal_title">Preferuj pamięć wewnętrzną</string>
+    <string name="app_installation_settings_preferinternal_summary">Instalacja aplikacji w pamięci wewnętrznej. Gdy miejsce w pamięci zacznie się kończyć, niektóre aplikacje mogą zostać zainstalowane w pamięci zewnętrznej.</string>
+    <string name="app_installation_settings_preferexternal_title">Preferuj pamięć zewnętrzną</string>
+    <string name="app_installation_settings_preferexternal_summary">Instalacja aplikacji w pamięci zewnętrznej, jeśli jest to dozwolone.</string>
+    <string name="app_installation_settings_forceexternal_title">Wymuś instalację w pamięci zewnętrznej</string>
+    <string name="app_installation_settings_forceexternal_description">Ustawienie dla zaawansowanych użytkowników:\n\nInstalacja aplikacji o nieokreślonej lokalizacji w pamięci zewnętrznej\n\n
+Może to powodować nieprawidłowe działanie aplikacji, takich jak usługa działająca w tle, usługa alarmów, silnik metody wprowadzania, program uruchamiający, tapeta animowana, widżet aplikacji, menedżer kont, adapter synchronizacji, administrator urządzenia, odsłuch sygnału rozruchowego itp.</string>
+
+    <!-- Steven_Chao@asus.com, Glove mode setting -->
+    <string name="glove_mode_setting_title">Tryb rękawiczek</string>
+    <string name="glove_mode_setting_summary" maxwidth="-1">Zwiększ czułość dotyku po założeniu rękawiczek</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 Tab of ManageApps for show the third party apps -->
+    <string name="filter_apps_preload">Wstępnie załadowane</string>
+
+    <!-- RobertJW_Chen, 2013/10/07 App Enabled-->
+    <string name="asus_app_enabled_toast" description="text show when apps enabled" maxwidth="-1">Ta aplikacja została włączona</string>
+
+    <string name="lockscreen_display_instant_camera_widget_title">Szybki aparat</string>
+    <string name="lockscreen_display_instant_camera_widget">Kliknij dwukrotnie przycisk głośności, aby uruchomić aparat z trybu wstrzymania</string>
+    <string name="asus_lockscreen_camera_settings">Aparat</string>
+    <string name="lockscreen_enable_camera_widget_title">Przesuń palcem, aby uruchomić</string>
+    <string name="lockscreen_enable_camera_widget">Przesuń palcem w lewo od prawej krawędzi ekranu blokady, aby uruchomić aparat</string>
+
+    <!-- Irene Chen, 2014/02/27, set default wallpaper and colormask -->
+    <string name="set_home_screen">Ekran główny</string>
+    <string name="set_lock_screen">Ekran blokowania</string>
+    <string name="set_both_home_lockscreen">Ekran główny i blokowania</string>
+
+    <!-- sheng-en_fann@asus.com -->
+    <string name="led_indicator">Wskaźnik LED</string>
+    <string name="auto_brightness_settings_title">Opcje automatycznej jasności</string>
+    <string name="auto_brightness_settings_gain">Wzmocnienie</string>
+    <string name="auto_brightness_settings_sensor">Czujnik światła</string>
+    <string name="auto_brightness_settings_adjustment">Zezwalaj na zmianę wzmocnienia</string>
+    <string name="auto_brightness_settings_reset_gain">Przywróć domyślne</string>
+    <string name="auto_brightness_settings_reset_gain_confirm">Przywrócić domyślną wartość wzmocnienia?</string>
+    <string name="auto_brightness_settings_indark">W ciemnym otoczeniu</string>
+    <string name="auto_brightness_settings_indark_title">Zmniejsz jasność</string>
+    <string name="auto_brightness_settings_indark_slow">Powoli</string>
+    <string name="auto_brightness_settings_indark_immediate">Natychmiast</string>
+    <string name="auto_brightness_settings_indark_dynamic">Dynamicznie</string>
+    <string name="show_sensor_usage">Pokaż wartość czujnika światła</string>
+    <string name="show_sensor_usage_summary">Nakładka ekranu z bieżącym stanem czujnika światła</string>
+
+
+    <!-- RobertJW_Chen@asus.com, asus_easy_launcher settings -->
+    <string name="asus_easy_launcher_settings">Tryb łatwy</string>
+    <string name="asus_easy_launcher_intro" maxwidth="">W trybie łatwym dostępny jest przyjazny i intuicyjny interfejs z prostym układem i podstawowymi funkcjami</string>
+
+    <string name="memory_system_reserved_usage">Zastrzeżone przez system</string>
+
+    <!-- leo_liao@asus.com, One-hand control -->
+    <string name="asus_onehand_ctrl_title_string">Tryb jednoręczny</string>
+    <string name="asus_onehand_ctrl_quick_trigger_title_string">Szybkie uaktywnianie</string>
+    <string name="asus_onehand_ctrl_quick_trigger_description_string">Stuknij dwukrotnie przycisk ekranu głównego, aby uaktywnić tryb obsługi jedną ręką</string>
+
+    <!-- Ashen_gu@asus.com, Settings-Sounds -->
+    <string name="ring_notification_volume_option_title">Dzwonek i powiadomienia</string>
+    
+    <string name="detect_drain_apps">Wykryj aplikacje zużywające baterię</string>
+
+    <!-- Edward_wang@asus.com, SnapView of AsusSettings -->
+    <string name="lockpassword_choose_private_mode">Wybierz nowe hasło trybu prywatnego</string>
+    <string name="lockpassword_choose_your_password_header_of_pmode">Wybierz nowe hasło użytkownika</string>
+    <string name="lockpassword_choose_your_pin_header_of_pmode">Wybierz nowy kod PIN użytkownika</string>
+    <string name="lockpassword_confirm_private_mode">Potwierdź hasło trybu prywatnego</string>
+    <string name="lockpassword_confirm_your_password_header_of_pmode">Potwierdź hasło użytkownika</string>
+    <string name="lockpassword_confirm_your_pin_header_of_pmode">Potwierdź kod PIN użytkownika</string>
+    <string name="lockpattern_choose_private_mode">Narysuj nowy wzór odblokowania trybu prywatnego</string>
+    <string name="lockpattern_confirm_private_mode">Narysuj ponownie wzór trybu prywatnego w celu potwierdzenia</string>
+    <string name="lockpattern_need_to_confirm_of_pmode">Narysuj ponownie wzór użytkownika w celu potwierdzenia</string>
+    <string name="lockpattern_pattern_same_to_normal">Wzór taki sam jak zwykły</string>
+    <string name="lockpattern_recording_intro_header_of_pmode">Narysuj nowy wzór odblokowania użytkownika</string>
+    <string name="lockpin_choose_private_mode">Wybierz nowy kod PIN trybu prywatnego</string>
+    <string name="lockpin_confirm_private_mode">Potwierdź kod PIN trybu prywatnego</string>
+    <string name="notice">Uwaga</string>
+    <string name="owner_account">Zmień blokadę ekranu użytkownika</string>
+    <string name="personal_space">Zmień blokadę ekranu w trybie prywatnym</string>
+    <string name="pmode_created">Świetnie, tryb prywatny został utworzony!  Teraz spróbuj wejść do trybu prywatnego, korzystając z jego blokady ekranu.</string>
+    <string name="pmode_created_title">Tryb prywatny został utworzony</string>
+    <string name="pmode_password_cannot_same">Hasło trybu prywatnego nie może być takie same jak hasło użytkownika</string>
+    <string name="pmode_pattern_cannot_same">Wzór odblokowania trybu prywatnego nie może być taki sam jak dla użytkownika</string>
+    <string name="pmode_pattern_same_to_normal">Blokada ekranu trybu prywatnego nie może być taka sama jak dla użytkownika. Spróbuj ponownie.</string>
+    <string name="pmode_pattern_same_to_private">Blokada ekranu użytkownika nie może być taka sama jak trybu prywatnego. Spróbuj ponownie.</string>
+    <string name="pmode_pin_cannot_same">Kod PIN trybu prywatnego nie może być taki sam jak dla użytkownika</string>
+    <string name="pmode_pin_length_must_same">Długość kodu PIN trybu prywatnego i użytkownika musi być taka sama</string>
+    <string name="pmode_set_lock">Ustaw blokowanie</string>
+    <string name="pmode_set_owner_lock">Najpierw ustaw blokadę ekranu dla właściciela.</string>
+    <string name="pmode_set_owner_lock_title">Ustaw blokadę ekranu użytkownika</string>
+    <string name="pmode_set_personal_space">Następnie ustaw blokadę ekranu trybu prywatnego.\n\nUwaga: Blokada ekranu trybu prywatnego nie może być taka sama jak dla użytkownika.</string>
+    <string name="pmode_set_personal_space_title">Ustaw blokadę ekranu trybu prywatnego</string>
+    <string name="select_account">Wybierz swoje działanie</string>
+    <string name="both">Zmień typ blokady ekranu</string>
+
+    <!-- Carol_Hu@asus.com, SnapView -->
+    <string name="user_snapview_message_Notice">Uwaga</string>
+    <string name="user_snapview_message_created">Niewystarczająca pojemność pamięci systemu.</string>
+    <string name="user_snapview_message_with_normal_lock">W trybie prywatnym możesz wykonywać zdjęcia, zapisywać pliki i instalować aplikacje.  Pliki i aplikacje pozostaną bezpieczne w trybie prywatnym i nie będą widoczne po jego wyłączeniu.\n\nPrzed utworzeniem trybu prywatnego musisz ustawić jego blokadę ekranu.\n\nUwaga: Blokada ekranu trybu prywatnego nie może być taka sama jak blokada ekranu użytkownika.</string>
+    <string name="user_snapview_message_without_normal_lock">W trybie prywatnym możesz wykonywać zdjęcia, zapisywać pliki i instalować aplikacje.  Pliki i aplikacje pozostaną bezpieczne w trybie prywatnym i nie będą widoczne po jego wyłączeniu.\n\nPrzed utworzeniem trybu prywatnego musisz ustawić blokadę ekranu użytkownika.</string>
+    <string name="user_snapview_settings">Ustawienia trybu prywatnego</string>
+    <string name="user_snapview_settings_category_account">Konto trybu prywatnego</string>
+    <string name="user_snapview_settings_category_dummy">Atrapa powiadomienia</string>
+    <string name="user_snapview_settings_category_lockscreen">Bezpieczeństwo ekranu blokowania</string>
+    <string name="user_snapview_settings_category_visualhint">Wskazówka wzrokowa</string>
+    <string name="user_snapview_settings_change_info">Zmień informacje profilu</string>
+    <string name="user_snapview_settings_delete_self">Usuń tryb prywatny</string>
+    <string name="user_snapview_settings_dummy_default">Usługa Google Play zaktualizowana</string>
+    <string name="user_snapview_settings_dummy_notify">Tekst</string>
+    <string name="user_snapview_settings_dummy_notify_icon">Ikona</string>
+    <string name="user_snapview_settings_hint_lock">Dekoracja ekranu blokowania</string>
+    <string name="user_snapview_settings_hint_notify">Dekoracja trybu prywatnego</string>
+    <string name="user_snapview_settings_item1">Delikatny</string>
+    <string name="user_snapview_settings_item2">Widoczny</string>
+    <string name="user_snapview_settings_item3">Brak</string>
+    <string name="user_snapview_settings_item_color">Kolor</string>
+    <string name="user_snapview_settings_item_icon">Ikona</string>
+    <string name="user_snapview_settings_item_none">Brak</string>
+    <string name="user_snapview_settings_set_lock">Ustaw blokadę ekranu</string>
+    <string name="user_snapview_summary">Możesz utworzyć tryb prywatny w celu zabezpieczenia zdjęć, plików i aplikacji.</string>
+    <string name="user_snapview_title">Tryb prywatny</string>
+    <string name="user_snapview_message_change_rescue_account_dlg_text" maxwidth="-1">Przypisz konto %s jako awaryjne konto e-mail trybu prywatnego.\n\nAwaryjne konto e-mail ułatwi zresetowanie zapomnianego hasła trybu prywatnego.</string>
+    <string name="user_snapview_message_delete_self_dlg_text" maxwidth="-1">Aby usunąć Tryb prywatny, należy wprowadzić kod dostępu blokady ekranu oraz losowy kod PIN.\n\nPo potwierdzeniu Tryb prywatny zostanie usunięty z urządzenia. Utracisz zdjęcia, aplikacje i dane zapisane w trybie prywatnym.\n\nCzynności tej nie można cofnąć. Czy chcesz kontynuować?</string>
+    <string name="user_snapview_message_reset_pwd_dlg_text" maxwidth="-1">Gratulacje! Hasło trybu prywatnego zostało zresetowane.\n\nMożesz teraz przypisać nowe hasło trybu prywatnego lub usunąć bieżące konto trybu prywatnego.</string>
+    <string name="user_snapview_message_reset_pwd_dlg_title" maxwidth="-1">Hasło trybu prywatnego zostało zresetowane</string>
+    <string name="user_snapview_message_set_account_dlg_text" maxwidth="-1">Przed utworzeniem konta trybu prywatnego zalecane jest przypisanie konta %s jako awaryjnego konta e-mail.\n\nAwaryjne konto e-mail ułatwi zresetowanie zapomnianego hasła trybu prywatnego.</string>
+    <string name="user_snapview_message_set_account_dlg_title" maxwidth="-1">Awaryjne konto e-mail trybu prywatnego</string>
+    <string name="user_snapview_message_verify_account_dlg_text" maxwidth="-1">Zamierzasz zweryfikować konto %1$s.\n\nPo pomyślnej weryfikacji będzie można rozpocząć resetowanie hasła ekranu blokowania.\n\nUwaga: Następny ekran jest częścią usługi weryfikacji konta %2$s, a my nie zapisujemy informacji o koncie.</string>
+    <string name="user_snapview_message_verify_account_dlg_title" maxwidth="-1">Zweryfikuj konto %s</string>
+    <string name="user_snapview_settings_rescue_account" maxwidth="-1">Zmień awaryjne konto e-mail</string>
+    <string name="user_snapview_settings_rescue_account_summary" maxwidth="-1">Umożliwia zresetowanie hasła trybu prywatnego</string>
+    <string name="user_snapview_reset_confirm">Usunąć wszystkie dane trybu prywatnego?\nCzynności tej nie będzie można cofnąć!</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_default_font">Domyślna czcionka</string>
+    <string name="monotype_dialog_button">Pobierz czcionki online</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_dialog_no_fonts_installed">Brak dostępnych dodatkowych czcionek</string>
+    <string name="monotype_dialog_revert_question">Przywrócić domyślną czcionkę?</string>
+    <string name="monotype_dialog_set_font_question">Ustaw czcionkę jako %s?</string>
+    <string name="monotype_loading_list">Ładowanie listy czcionek...</string>
+    <string name="monotype_preference_summary">Ustaw czcionkę</string>
+    <string name="monotype_preference_title">Styl czcionki</string>
+    <string name="monotype_restart_dialog_button_1">Uruchom ponownie teraz</string>
+    <string name="monotype_restart_dialog_text_1">Ponownie uruchom telefon</string>
+    <string name="monotype_restart_dialog_text_2">Ponownie uruchom telefon, aby zastosować ustawienia</string>
+    <string name="asus_master_clear_check_backup_message">W pamięci wewnętrznej dostępne są zapisane dane. Przed kontynuowaniem przenieś je do pamięci zewnętrznej, ponieważ w przeciwnym razie zostaną one usunięte z pamięci wewnętrznej. Czy nadal chcesz kontynuować resetowanie?</string>
+    <string name="asus_master_clear_check_backup_title">Ostrzeżenie</string>
+    <string name="change_short_cut_message">Stuknij aplikację, aby ją dostosować lub przeciągnij w celu zmiany położenia</string>
+    <string name="lockscreen_enable_slide_widget">Pomiń stronę do przesuwania palcem ekranu blokowania przy wznawianiu działania</string>
+    <string name="lockscreen_enable_slide_widget_title">Pomiń stronę do przesuwania palcem</string>
+    <string name="quick_access_message">Niestandardowy panel szybkiego dostępu</string>
+
+    <!-- Archie_Huang@asus.com -->
+    <string name="autostart_app_name">Menedżer autouruchamiania</string>
+    <string name="autostart_summary">"Zwolnij pamięć i oszczędzaj energię"</string>
+
+    <!-- Wilson_Chen@asus.com, quick charging -->
+    <string name="battery_info_status_quick_charging">Szybkie ładowanie (AC)</string>
+    <string name="power_charging_duration_ac_quick_charging">
+    <xliff:g id="level">%1$d</xliff:g>%% -<xliff:g id="time">%2$s</xliff:g> do pełnego naładowania (AC) (szybkie ładowanie)</string>
+    <string name="zen_mode_dont_interrupt_category">Nie zezwalaj</string>
+
+    <string name="lockscreen_statusbar_display_title" description="Make status bar visible" maxwidth="-1">Pokaż pasek stanu</string>
+    <string name="notification_material_summary">Po zastosowaniu ikony powiadomień niektórych aplikacji będą miały biały kształt w celu zapewnienia zgodności ze stylem tego motywu.</string>
+    <string name="notification_material_title">Zastosuj Material Design</string>
+
+    <string name="lockscreen_incorrect_code_entries_setting_summery">Dwa razy</string>
+    <string name="lockscreen_incorrect_code_entries_setting_title">Wprowadzenie nieprawidłowego kodu</string>
+    <string name="lockscreen_intruder_selfie_setting_summary">Zrób zdjęcie nieupoważnionej osoby po wprowadzeniu przez nią nieprawidłowego hasła na ekranie blokady</string>
+    <string name="lockscreen_intruder_selfie_setting_title">Zdjęcie osoby nieupoważnionej</string>
+    <string name="lockscreen_intruder_selfie_summary">Zrób zdjęcie osoby, która wprowadziła nieprawidłowy kod</string>
+    <string name="lockscreen_intruder_selfie_title">Zdjęcie osoby nieupoważnionej</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_summary">Zapisz zdjęcie w folderze Zdjęcie osoby nieupoważnionej w aplikacji Galeria</string>
+    <string name="lockscreen_save_the_photo_automatically_setting_title">Automatycznie zapisz zdjęcie</string>
+    <string name="lockscreen_incorrect_code_entries_fifth">Pięć razy</string>
+    <string name="lockscreen_incorrect_code_entries_fourth">Cztery razy</string>
+    <string name="lockscreen_incorrect_code_entries_third">Trzy razy</string>
+    <string name="lockscreen_incorrect_code_entries_twice">Dwa razy</string>
+    <string name="insufficient_character_sets" discription="insufficient character sets. character sets are upper case, lower case, number, and symbol" maxwidth="-1">"Hasło musi składać się z co najmniej %d znaków z 4 grup: wielkie litery, małe litery, cyfry i symbole"</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Dalej"</string>
+
+    <string name="general_sourcecode_offer_title" description="an item to show source code offer service using statement" maxwidth="-1">Ogólna oferta kodu źródłowego</string>
+    <string name="geonames_cc_by_title" description="an item to show GeoNames service using statement" maxwidth="-1">GeoNames</string>
+
+    <!-- Guoliang_lin@asus.com -->
+    <string name="asus_kids_launcher_settings">"Tryb dla dzieci"</string>
+    <string name="asus_kids_launcher_settings_message">"Włącz tryb dla dzieci, aby skonfigurować bezpieczne miejsce zabaw dla Twoich dzieci."</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">Tekst o bardzo dużej czcionce może nie być właściwie wyświetlany w niektórych aplikacjach.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">Ekstra duży tekst</string>
+
+    <!-- Jeffrey_Chiang@asus.com -->
+    <string name="lockscreen_longpress_screen_on">"Stuknij i przytrzymaj przycisk migawki aparatu lub przycisk kamery, aby uruchomić aparat, gdy ekran jest włączony"</string>
+    <string name="lockscreen_longpress_screen_off">"Stuknij i przytrzymaj przycisk migawki aparatu lub przycisk kamery, aby uruchomić aparat, gdy ekran jest wyłączony"</string>
+    <string name="lockscreen_longpress_screen_on_title">"Uruchamianie aparatu przy włączonym ekranie"</string>
+    <string name="lockscreen_longpress_screen_off_title">"Uruchamianie aparatu przy wyłączonym ekranie"</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Nowy tekst</string>
+    <!-- Gary_Hsu@asus.com, 20160225, CMAS & SMS-CB -->
+    <string name="cmas_title" description="" maxwidth="-1">Alerty alarmowe</string>
+    <string name="gsm_umts_cmas_summary" description="" maxwidth="-1">Konfiguruj alerty alarmowe</string>
+    <string name="smscb_title" description="" maxwidth="-1">Nadawanie komórkowe przez SMS</string>
+    <string name="gsm_umts_smscb_summary" description="" maxwidth="-1">Konfiguruj nadawanie komórkowe przez SMS</string>
+	
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather begin -->
+	<string name="lockscreen_disable_weather_info_page_widget_title">"Wyłącz stronę z prognozą pogody"</string>
+    <string name="lockscreen_disable_weather_info_page">"Całkowita dezaktywacja strony prognozy pogody (obsługiwanej przez Cheetah Mobile) znajdującej się z prawej strony ekranu blokady"</string>
+	<!-- xuyi@wind-mobi.com 20160518 add for CM_weather end -->
+</resources>

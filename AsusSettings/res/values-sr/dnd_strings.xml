@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Ne uznemiravaj</string>
+    <string name="zen_mode_option_off2">Uvek dozvoli</string>
+    <string name="zen_mode_option_important_interruptions2">Primeni pravila o uznemiravanju</string>
+    <string name="zen_mode_option_no_interruptions2">Nemoj dozvoliti</string>
+    <string name="zen_mode_important_category2">Pravila o uznemiravanju</string>
+    <string name="zen_mode_from2">Dozvoli pozive/poruke od</string>
+    <string name="zen_mode_from_anyone2">Bilo ko</string>
+    <string name="zen_mode_from_contacts2">Samo kontakti</string>
+    <string name="zen_mode_from_starred2">Samo omiljeni</string>
+    <string name="zen_mode_from_vip2">Samo VIP</string>
+    <string name="zen_mode_downtime_category2">Planirano vreme (primeni pravila o uznemiravanju)</string>
+    <string name="zen_mode_alarms_priority">Alarmi</string>
+    <string name="zen_mode_repeated_calls">Ponovljeni pozivi</string>
+    <string name="zen_mode_repeated_calls_desc">Drugi poziv u roku od dva minuta neće biti utišan</string>
+    <string name="zen_mode_add_downtime">Novi raspored</string>
+    <string name="zen_mode_meeting_mode_category">Raspored pokrenut događajima kalendara</string>
+    <string name="zen_mode_weekend">Vikend</string>
+    <string name="zen_mode_everyday">Svakog dana</string>
+    <string name="zen_mode_remove_dialog_title">Ukloni raspored</string>
+    <string name="zen_mode_remove_dialog_message">Želite li da uklonite ovaj raspored?</string>
+    <string name="zen_mode_limit_dialog_title">Novi raspored</string>
+    <string name="zen_mode_limit_dialog_message">Možete imati najviše %d podešavanja rasporeda.</string>
+    <string name="zen_mode_downtime_title">raspored</string>
+    <string name="zen_mode_downtime_title_new">Novi raspored</string>
+    <string name="zen_mode_downtime_title_edit">Uredi raspored</string>
+    <string name="zen_mode_downtime_title_meeting">Uredi raspored </string>
+    <string name="zen_mode_others">Podešavanja</string>
+    <string name="zen_mode_send_notifications">Obaveštenje</string>
+    <string name="zen_mode_send_notifications_desc">Pošalji obaveštenje posle aktiviranja režima Ne uznemiravaj</string>
+    <string name="zen_mode_no_interruptions_warning">Kada je podešeno na \"potpuna tišina\", alarmi će biti podešeni na privremeno isključeno.</string>
+    <string name="zen_mode_from_anyone3">"Od bilo koga"</string>
+    <string name="zen_mode_from_favorites_only">"Samo od omiljenih"</string>
+    <string name="zen_mode_from_contacts_only">"Samo od kontakata"</string>
+    <string name="zen_mode_repeat_callers2">"Ponovi pozive"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Isti broj koji ponovo poziva u periodu od <xliff:g id="MINUTES">%d</xliff:g> minuta će biti dozvoljen"</string>
+    <string name="zen_mode_option_important_interruptions3">"Primeni pravila o uznemiravanju"</string>
+    <string name="zen_mode_selected_callers2">"izabrani pozivi"</string>
+    <string name="zen_mode_dnd_is_on">"Režim Ne uznemiravaj. Sada je uključen. Možete ručno da ga isključite."</string>
+    <string name="zen_mode_turn_off_now">"Isključi sada"</string>
+    <string name="zen_mode_custom_name">"Prilagođeno"</string>
+    <string name="zen_mode_manual_turn_on">"Ručno omogući režim Ne uznemiravaj"</string>
+    <string name="zen_mode_turn_off">"Onemogući režim Ne uznemiravaj"</string>
+    <string name="zen_mode_in_activity">"Omogućeno: "</string>
+    <string name="zen_mode_forever2">"Neograničeno"</string>
+</resources>

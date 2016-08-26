@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Szyfrowanie zostało przerwane i nie może zostać zakończone. W wyniku tego dane na urządzeniu nie będą już dostępne. \n\n Aby wznosić korzystanie z urządzenia należy wykonać przywracanie ustawień fabrycznych. Po ustawieniu urządzenia po przywróceniu będzie możliwość odzyskania danych zapisanych jako kopia zapasowa na koncie.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Wprowadzone hasło jest poprawne, ale niestety dane są uszkodzone. \n\nAby wznosić korzystanie z urządzenia należy wykonać przywracanie ustawień fabrycznych. Po ustawieniu urządzenia po przywróceniu będzie możliwość odzyskania danych zapisanych jako kopia zapasowa na koncie.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Spowoduje to wymazanie wszystkich danych z <b>pamięci wewnętrznej</b> urządzenia, w tym:\n\n<li>konta</li>\n<li>Danych i ustawień systemu i aplikacji</li>\n<li>pobranych aplikacji</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Wszelkie zmiany dokonane na Twoim koncie sieciowym będą automatycznie kopiowane do urządzenia.\n\nNiektóre konta mogą również automatycznie kopiować do sieci wszelkie zmiany wykonywane przez Ciebie na urządzeniu. W taki sposób działa konto.</string>
+</resources>

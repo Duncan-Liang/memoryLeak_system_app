@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shortcut_list_preview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/shortcut_first_background_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_shortcut_pre"
+            android:visible="true" />
+        <ImageView
+            android:id="@+id/shortcut_first_app_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/asus_shortcut_preview_marginleft" >
+
+        <ImageView
+            android:id="@+id/shortcut_second_background_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_shortcut_pre"
+            android:visible="true" />
+        <ImageView
+            android:id="@+id/shortcut_second_app_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/asus_shortcut_preview_marginleft" >
+
+        <ImageView
+            android:id="@+id/shortcut_third_background_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center"
+            android:src="@drawable/asus_lockscreen_shortcut_pre"
+            android:visible="true" />
+        <ImageView
+            android:id="@+id/shortcut_third_app_preview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@null"
+            android:clickable="true"
+            android:focusable="true"
+            android:scaleType="center" />
+    </FrameLayout>
+  </LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Vil ikke forstyrres</string>
+    <string name="zen_mode_option_off2">Tillad altid</string>
+    <string name="zen_mode_option_important_interruptions2">Indstil regler for forstyrrelse</string>
+    <string name="zen_mode_option_no_interruptions2">Tillad ikke</string>
+    <string name="zen_mode_important_category2">Regler for forstyrrelse</string>
+    <string name="zen_mode_from2">Tillad opkald/beskeder fra</string>
+    <string name="zen_mode_from_anyone2">Alle</string>
+    <string name="zen_mode_from_contacts2">Kun kontaktpersoner</string>
+    <string name="zen_mode_from_starred2">Kun favoritter</string>
+    <string name="zen_mode_from_vip2">Kun VIP</string>
+    <string name="zen_mode_downtime_category2">Tidsplan (indstil regler for forstyrrelse)</string>
+    <string name="zen_mode_alarms_priority">Alarmer</string>
+    <string name="zen_mode_repeated_calls">Gentagende opkald</string>
+    <string name="zen_mode_repeated_calls_desc">Et andet opkald inden for to minutter, ignoreres ikke</string>
+    <string name="zen_mode_add_downtime">Ny tidsplan</string>
+    <string name="zen_mode_meeting_mode_category">Tidsplan, der udløses af begivenheder i kalenderen</string>
+    <string name="zen_mode_weekend">Weekend</string>
+    <string name="zen_mode_everyday">Hver dag</string>
+    <string name="zen_mode_remove_dialog_title">Fjern tidsplan</string>
+    <string name="zen_mode_remove_dialog_message">Fjern denne tidsplan?</string>
+    <string name="zen_mode_limit_dialog_title">Ny tidsplan</string>
+    <string name="zen_mode_limit_dialog_message">Du kan have til %d tidsplansindstillinger.</string>
+    <string name="zen_mode_downtime_title">tidsplan</string>
+    <string name="zen_mode_downtime_title_new">Ny tidsplan</string>
+    <string name="zen_mode_downtime_title_edit">Rediger tidsplan</string>
+    <string name="zen_mode_downtime_title_meeting">Rediger tidsplan </string>
+    <string name="zen_mode_others">Indstillinger</string>
+    <string name="zen_mode_send_notifications">Meddelelse</string>
+    <string name="zen_mode_send_notifications_desc">Send meddelelsen, når funktionen \'Vil ikke forstyrres\' slås til</string>
+    <string name="zen_mode_no_interruptions_warning">"Når enheden indstilles til \"Helt lydløs\", slås lyden på alarmerne også fra."</string>
+    <string name="zen_mode_from_anyone3">"Fra enhver"</string>
+    <string name="zen_mode_from_favorites_only">"Kun fra foretrukne"</string>
+    <string name="zen_mode_from_contacts_only">"Kun fra kontakter"</string>
+    <string name="zen_mode_repeat_callers2">"Gentag opkald"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Det samme antal opkald igen i en %d</string>
+    <string name="zen_mode_option_important_interruptions3">"Anvend forstyrrelsesregler"</string>
+    <string name="zen_mode_selected_callers2">"udvalgte opkald"</string>
+    <string name="zen_mode_dnd_is_on">"Vil ikke forstyrres er aktiveret nu. Du kan deaktivere det manuelt."</string>
+    <string name="zen_mode_turn_off_now">"Deaktiver nu"</string>
+    <string name="zen_mode_custom_name">"Tilpasset"</string>
+    <string name="zen_mode_manual_turn_on">"Aktiver Vil ikke forstyrres manuelt"</string>
+    <string name="zen_mode_turn_off">"Deaktiver Vil ikke forstyrres"</string>
+    <string name="zen_mode_in_activity">"Aktiveret: "</string>
+    <string name="zen_mode_forever2">"Uendeligt"</string>
+</resources>

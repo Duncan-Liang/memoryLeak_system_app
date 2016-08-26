@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Kaamera avatakse kiirelt ekraani avamata</string>
+  <string name="camera_double_tap_power_gesture_title">Kaamera avam. vajut. 2 korda toitenuppu</string>
+  <string name="camera_gesture_desc">Avage kaamerarakendus, pöörates rannet kaks korda</string>
+  <string name="camera_gesture_title">Pöörake kaks korda kaamera avamiseks</string>
+  <string name="keywords_color_mode">ere rgb srgb värv loomulik tavaline</string>
+  <string name="manual">Käsitsi</string>
+  <string name="picture_color_mode">Pildi värvirežiim</string>
+  <string name="picture_color_mode_desc">sRGB kasutamine</string>
+  <string name="settings_manual_activity_title">Käsitsi</string>
+  <string name="settings_manual_activity_unavailable">Juhendi laadimisel ilmnes probleem.</string>
+</resources>

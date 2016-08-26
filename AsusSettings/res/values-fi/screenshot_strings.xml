@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Pikanäppäinasetus"</string>
+    <string name="screenshot_hot_key_title">"Uusimmat sovellukset -näppäin"</string>
+    <string name="screenshot_hot_key_summary">"Napauta ja pidä uusimmat sovellukset näppäintä painettuna ottaaksesi kuvaruutukaappauksen"</string>
+    <string name="screenshot_format_setting_title">"Tiedostomuotoasetus"</string>
+    <string name="screenshot_format_title">"Kuvaruutukaappauksen tiedostomuoto"</string>
+    <string name="screenshot_sound_setting_title">"Ääniasetus"</string>
+    <string name="screenshot_sound_title">"Ota käyttöön kuvankaappausääni"</string>
+    <string name="screenshot_notify_setting_title">"Ilmoitusasetukset"</string>
+    <string name="screenshot_notify_title">"Laita ilmoitukset päälle"</string>
+</resources>

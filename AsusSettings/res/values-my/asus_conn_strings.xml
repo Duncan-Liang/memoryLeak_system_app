@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Wi\u2011Fi ဟော့ထ်စပေါ့သုံးစွဲသူများ</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Wi\u2011Fi ဟော့ထ်စပေါ့သို့ ချိတ်ဆက်ထားသည့် သုံးစွဲသူမရှိပါ။</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">IP လိပ်စာ မသတ်မှတ်ထားပါ။</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">ကွန်ရက် ရှေ့ဆက်စာလုံးအရှည်ကို မသတ်မှတ်ထားပါ။</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">Gateway လိပ်စာ မသတ်မှတ်ထားပါ။</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">DNS1 လိပ်စာ မသတ်မှတ်ထားပါ။</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">DNS2 လိပ်စာ မသတ်မှတ်ထားပါ။</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">IP လိပ်စာ ထည့်ပါ။</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">ကွန်ရက် ရှေ့ဆက်စာလုံးအရှည် ထည့်ပါ။</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Gateway လိပ်စာ ထည့်ပါ။</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">DNS1 သတ်မှတ်ပါ</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">DNS2 သတ်မှတ်ပါ</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">အိပ်စဉ်တွင် Ethernet ချိတ်ဆက်မှုကို ဆက်ထိန်းထားပါ</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">အပို ပါဝါ သုံးစွဲခြင်း တောင်းဆိုပါ</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">ကွန်ရက် ဆက်တင်များ</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">ချိတ်ဆက်မှုအရည်အသွေးကို သေချာစေရန် ကျေးဇူးပြု၍ ဝါယာလက်စ်ဖော်ပြမှု (Miracast) သို့မဟုတ် Wi-Fi တိုက်ရိုက်ချိတ်ဆက်မှုကို ပြန်ချိတ်ဆက်ရန် ကြိုးစားပါ။ </string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Tekan sebarang kekunci pada papan kekunci untuk menyambung semula</string>
+</resources>

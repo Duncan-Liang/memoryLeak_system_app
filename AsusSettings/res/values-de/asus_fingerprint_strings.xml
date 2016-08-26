@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"Touch-Steuerungen"</string>
+    <string name="asus_fingerprint_long_press_title">"Eingehende Anrufe beantworten"</string>
+    <string name="asus_fingerprint_long_press_summary">"Tippen und halten Sie Ihren Finger auf dem Fingerabdrucksensor, um eingehende Anrufe anzunehmen."</string>
+    <string name="asus_fingerprint_camera_title">"Kamera starten"</string>
+    <string name="asus_fingerprint_launch_camera_title">"Kamera starten"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"Tippen Sie doppelt auf den Fingerabdrucksensor, um die Kamera zu starten, wenn das Gerät entsperrt ist."</string>
+    <string name="asus_fingerprint_take_photo_title">"Foto aufnehmen"</string>
+    <string name="asus_fingerprint_take_photo_summary">"Tippen Sie auf den Fingerabdrucksensor, um ein Foto aufzunehmen, wenn die Kamera aktiv ist."</string>
+    <string name="asus_fingerprint_id_category_title">"Fingerabdruck-ID"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"Sperre für eingehenden Anruf"</string>
+    <string name="asus_fingerprint_answer_call_summary">"Nehmen Sie eingehende Anrufe mit Ihrem Fingerabdruck an"</string>
+    <string name="asus_fingerprint_snap_call_title">"Snap-Anruf"</string>
+    <string name="asus_fingerprint_snap_call_summary">"Aktivieren Sie Snap-Anrufe mit Ihrem Fingerabdruck"</string>
+</resources>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_info">Інформація ПЗ</string>
+ <string name="hardware_info">Інформація апаратного забезпечення</string>
+ <string name="software_info_summary">Діапазон, версія ядра, номер складання тощо.</string>
+ <string name="hardware_info_summary">Wi-Fi, Bluetooth, версія апаратного забезпечення тощо.</string>
+ <string name="asus_encrypt_phone_title">Шифрувати телефон</string>
+ <string name="asus_encrypt_phone_description">Будь ласка, зніміть телефон з PadFone Station для шифрування</string>
+ <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">Недостатньо місця для шифрування пристрою</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"Більше налаштувань"</string>
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">Програма бажає зробити ваш пристрій видимим для інших пристроїв Bluetooth на <xliff:g id="timeout">%1$d</xliff:g> секунд(и).</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">Програма бажає зробити ваш пристрій видимим для інших пристроїв Bluetooth. Це можна змінити пізніше в налаштуваннях Bluetooth.</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">Програма бажає увімкнути Bluetooth і зробити ваш пристрій видимим для інших пристроїв Bluetooth на <xliff:g id="timeout">%1$d</xliff:g> секунд(и).</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">Програма бажає увімкнути Bluetooth і зробити ваш пристрій видимим для інших пристроїв Bluetooth. Це можна змінити пізніше в налаштуваннях Bluetooth.</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">Інфо про кишеньковий мобільний пристрій</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">Дозволяючи роумінг даних, пам\'ятайте, що це може дорого коштувати!\n\nЦе налаштування впливає на всіх користувачів цього кишенькового мобільного пристрою.</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">Криптографічний захист пристрою</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">
+    Можна зашифрувати облікові записи, налаштування, завантажувати програми та їхні дані, медія та інші файли. Після того, як ви зашифруєте пристрій, встановивши, наприклад, блокування екрану (графічним шаблоном, цифровим PIN або паролем), щоразу, вмикаючи пристрій, знадобиться розблоковувати екран, щоб зняти шифрування пристрою. Єдиний інший спосіб розшифрування - це скинути налаштування на фабричні, витерши дані.\n\nШифрування триває годину або більше. Слід починати, коли батарея заряджена і лишайте пристрій підключеним до мережі впродовж всього процесу. Якщо ви перервете його, ви втратите деякі або всі свої дані</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">Криптографічний захист пристрою</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">
+    Операція криптографічного захисту незворотня. Якщо її перервати, можна втратити дані. Шифрування триває годину або більше. Протягом цього часу пристрій декілька разів перезапуститься.
+    </string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Почекайте, поки пристрій зашифровується. <xliff:g example="50" id="percent">^1</xliff:g>% виконано.</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Почекайте, поки пристрій зашифровується. Лишилося часу: <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Шифрування було перервано і не може бути виконано. В результаті дани на пристрої перестануть бути доступними. \n\n Щоб знову користуватися пристроєм, знадобиться повернути його на фабричні налаштування. Налаштовуючи пристрій після повернення на фабричні налаштування, можна відновити будь-які дані, резервну копію яких було зроблено в обліковий запис Google.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Введений пароль правильний, але дані, на жаль, зіпсовані. \n\nЩоб знову користуватися пристроєм, знадобиться повернути його на фабричні налаштування. Налаштовуючи пристрій після повернення на фабричні налаштування, можна відновити будь-які дані, резервну копію яких було зроблено в обліковий запис Google.
+    </string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g> буде відключено від спільного підключення до Інтернет разом з цим пристроєм.</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">Дозволити обмін даними, коли пристрій торкається іншого</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">УВАГА: якщо пропустити Wi\u2011Fi, пристрій користуватиметься лише даними з мобільної мережі для основних завантажень і поновлень. Щоб уникнути можливої сплати за обмін даними, підключіться до Wi\u2011Fi.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">УВАГА: Якщо пропустити Wi\u2011Fi, пристрій не матиме підключення до Інтернет для будь-яких основних завантажень або поновлень.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">Пристрій не зміг підключитися до цієї мережі Wi\u2011Fi.</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">Пристрій не пристиковано</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">Перед налаштуванням док-аудіо слід пристикувати пристрій.</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">Програвати звук, пристиковуючи або відстиковуючи пристрій</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">Не програвати звук, пристиковуючи або відстиковуючи пристрій</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">Автоматично міняти орієнтацію під час обертання пристрою</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">Автоматично міняти орієнтацію під час обертання пристрою</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">Запитати PIN, щоб користуватися пристроєм</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">Запитати PIN, щоб користуватися пристроєм</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">Статус пристрою</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">Статус батареї, мережі та інша інформація</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">Витирає з пристрою всі дані</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Це витре з пристрою всі дані <b>внутрішня пам\'ять</b>, включаючи:\n\n<li>Ваш обліковий запис Google</li>\n<li>Дані системи та програм і налаштування</li>\n<li>Завантажені програми</li>"</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">Скинути пристрій</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">Спільне користування Інтернет-підключенням цього пристрою</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">Спільне користування Інтернет-підключенням з 1 пристроєм</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">Спільне користування Інтернет-підключенням з <xliff:g id="connectedDeviceCount">%1$d</xliff:g> пристроями</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">Не ділитися Інтернет-підключенням цього пристрою</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">Дозволити програмам користуватися GPS на пристрої, щоб визначити ваше розташування</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">Про пристрій</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">Ваші пристрій та особисті дані більш вразливі до атак від невідомиї джерел. Ви погоджуєтеся з тим, що тільки ви несете відповідальність за будь-які пошкодження пристрою або втрату даних, які можуть виникнути через користування цими програмами.</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">Ця програма має доступ до наступного на вашому пристрої:</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">Ця програма має доступ до наступного на вашому пристрої.</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">Перемістити на пристрій</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">Якщо зупинити цей пристрій, деякі функції на ньому можуть перестати правильно працювати доти, доки ви не вимкнете і знову увімкнете його живлення.</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">Інформація пристрою</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">Бездіяльний пристрій</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">Пристрій</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">Батарея використовується, коли пристрій бездіяльний</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">Видалення цього облікового запису видалить всі повідомлення, контакти й інші дані з пристрою!</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Всі зміни, які ви внесете у свій обліковий запис, будуть автоматично скопійовані на ваш пристрій.\n\nДеякі облікові записи можуть автоматично копіювати будь-які внесені вами зміни з пристрою в Інтернет. Обліковий запис Google працює таким чином.</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">Пристрій вимкне стільникові дані, коли буде досягнуто встановленого вами ліміту.\n\nОскільки ваш пристрій та мобільний оператор можуть різним чином вимірювати обсяг даних, подумайте щодо встановлення консервативного ліміту.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">Якщо ви обмежуєте стільникові дані тла, певні програми і служби можуть не працювати, поки ви не підключитеся до Wi\u2011Fi.\n\nЦе налаштування впливає на всіх користувачів цього пристрою.</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>: близько <xliff:g example="128KB" id="total">%1$s</xliff:g> використовується - визначено вашим пристроєм. Покажчики користування даними, зняті провайдером, можуть бути іншими.</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">Лише власник пристрою може керувати користувачами.</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">Ви втратите обсяг і дані на цьому пристрої. Це - незворотня дія.</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">Це налаштування впливає на всіх користувачів пристрою.</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">Дозволити обмін даними, коли пристрій торкається іншого</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">лише GPS</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">Коли його увімкнено, можна закріплювати екран, щоб було видно поточний екран, поки ви не відкріпите його.\n\nЩоб закріпити екран:\n\n1. Переконайтеся, що увімкнено закріплення екрану.\n\n2. Відкрийте екран, який бажаєте закріпити.\n\n3. Натисніть клавішу останніх задач.\n\n4. Натисніть піктограму закріплення.</string>
+
+    <string name="zenui_update">Поновлення ZenUI APP</string>
+ <string name="c_launch_title">"С" - запуск програми</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">Більше не показувати</string>
+    <string name="double_tap_mode_confirm_dialog_message">Коли екран вимкнеться, двічі клацніть по одному місцю на екрані, щоб пробудити його. На екрані блокування протягніть, щоб блокувати, двічі клацніть у порожній ділянці, щоб вимкнути екран. На панелі статусу і в запускачі двічі клацніть на порожньому місці, щоб вимкнути екран.</string>
+    <string name="double_tap_mode_confirm_dialog_title">Двічі клацніть, щоб пробудити/\двічі клацніть, щоб призупинити</string>
+    <string name="doubletap_mode_setting_summary">Двічі клацніть, щоб пробудити/"\n"Двічі клацніть, щоб призупинити</string>
+    <string name="doubletap_mode_setting_title">Увімк./Вимк. екран</string>
+    <string name="e_launch_title">"е" - запуск програми</string>
+    <string name="motion_gesture_category_title">Motion Gesture</string>
+    <string name="s_launch_title">"S" - запуск програми</string>
+    <string name="shake_sensitivity_title">Чутливість до струсу</string>
+    <string name="shake_title">Струс Струс</string>
+    <string name="touch_gesture_category_title">Сенсорний жест</string>
+    <string name="v_launch_title">"V" - запуск програми</string>
+    <string name="w_launch_title">"W" - запуск програми</string>
+    <string name="z_launch_title">"Z" - запуск програми</string>
+    <string name="app_disable">Вимкнути</string>
+    <string name="shake_sensitivity_entries_high">Висока</string>
+    <string name="shake_sensitivity_entries_low">Низька</string>
+    <string name="shake_sensitivity_entries_normal">Звичайна</string>
+    <string name="double_tap_off_confirm_dialog_message">На блокованому екрані, який розблоковують проведенням, двічі клацніть на порожньому місці, щоб вимкнути екран. На панелі статусу і запускачі двічі клацніть на порожньому місці, щоб вимкнути екран.</string>
+    <string name="double_tap_off_confirm_dialog_title">Двічі клацніть, щоб призупинити</string>
+    <string name="double_tap_on_confirm_dialog_message">Коли екран вимкнений, двічі клацніть на тому ж місці екрану, щоб пробудити екран.</string>
+    <string name="double_tap_on_confirm_dialog_title">Двічі клацніть, щоб пробудити</string>
+    <string name="doubletap_off_setting_summary">Двічі клацніть, щоб призупинити</string>
+    <string name="doubletap_off_setting_title">Екран вимкнений</string>
+    <string name="doubletap_on_setting_summary">Двічі клацніть, щоб пробудити</string>
+    <string name="doubletap_on_setting_title">Екран увімкнено</string>
+    <string name="cpu_frequency_title">Центральний процесор</string>
+    <string name="memory_size_title">Оперативна пам\'ять</string>
+    <string name="shake_summary">Користуючись програмою, струсіть двічі, щоб зробити знімок екрану, і створіть нову задачу в Do It Later (Зробити пізніше).</string>
+    <string name="sleep_touch_gesture_category_title">Режим призупинення</string>
+    <string name="wake_up_touch_gesture_category_title">Режим пробудження</string>
+    <string name="motion_double_click_summary">Двічі клацніть по корпусу телефона.</string>
+    <string name="motion_double_click_title">Двічі клацніть</string>
+    <string name="motion_flip_summary">Перегорніть пристрій.</string>
+    <string name="motion_flip_title">Перегорнути</string>
+    <string name="motion_hand_up_summary">Тримайте телефон вертикально і підійміть, щоб торкнутися вуха.</string>
+    <string name="motion_hand_up_title">Руки вгору</string>
+    <string name="motion_walking_summary">Коли телефон у руках або кишені, телефон "знає", що ви йдете або рухаєтеся.</string>
+    <string name="motion_walking_title">Переміщення</string>
+    <string name="app_asus_front_camera_name">"Камера - передній об'єктив"</string>
+    <string name="tutorial_c_launch_summary">"На вимкненому екрані намалюйте "С", щоб запустити програму"</string>
+    <string name="tutorial_double_click_summary">"Під час вхідного виклику двічі клацніть по телефону, щоб перейти в режим без звуку." </string>
+    <string name="tutorial_e_launch_summary">"На вимкненому екрані намалюйте "е", щоб запустити програму"</string>
+    <string name="tutorial_flip_down_summary">"Під час вхідного виклику перегорніть пристрій догори дригом, щоб перемкнутися в режим без звуку. Під час відтворення медія, перегорніть пристрій догори дригом, щоб поставити на паузу плеєр."</string>
+    <string name="tutorial_flip_down_title">"Перегорнути (Перегорнути вниз)"</string>
+    <string name="tutorial_flip_up_summary">"Під час паузи медійного плеєра перегорніть пристрій вгору, щоб поставити плеєр на паузу."</string>
+    <string name="tutorial_flip_up_title">"Перегорнути (Перегорнути вгору)"</string>
+    <string name="tutorial_hands_up_summary">"Піднесіть телефон до вуха, щоб автоматично відповідати на виклики, не натискаючи на екран."</string>
+    <string name="tutorial_moving_summary">"Під час вхідного виклику збільшіть гучність мелодії, коли ходите або рухаєтеся."</string>
+    <string name="tutorial_s_launch_summary">"На вимкненому екрані намалюйте "S", щоб запустити програму"</string>
+    <string name="tutorial_v_launch_summary">"На вимкненому екрані намалюйте "V", щоб запустити програму"</string>
+    <string name="tutorial_w_launch_summary">"На вимкненому екрані намалюйте "W", щоб запустити програму"</string>
+    <string name="tutorial_z_launch_summary">"На вимкненому екрані намалюйте "Z", щоб запустити програму"</string>
+    <string name="zenmotion_tutorial_title">"Посібник"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"Останнє скидання даних на фабричні"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"Версія конфігурації"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"АудіоПомічник"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">Теми</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"Ідентифікатор користувача"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"Передавати файли через інтерфейс USB?"</string>
+    <string name="usb_change_config_dialog_title">"Передавати файли через інтерфейс USB?"</string>
+    <string name="usb_change_config_dialog_message">Після підключення дозвольте передавання файлів за допомогою довірених комп’ютерів.</string>
+    <string name="usb_change_config_dialog_checkbox_message">Завжди дозволяти для цього комп’ютера</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch. 2016/6/27 end-->
+</resources>

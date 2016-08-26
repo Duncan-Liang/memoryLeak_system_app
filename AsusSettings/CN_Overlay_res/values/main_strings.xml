@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="hardware_info_summary">WLAN, bluetooth, firmware version, etc.</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">WARNING: if you skip WLAN, your device will only use cellular data for initial downloads and updates. To avoid possible data charges, connect to WLAN.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">WARNING: If you skip WLAN, your device won\'t have an Internet connection to use for any initial downloads or updates.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">The device was unable to connect to this WLAN network.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">If you restrict background cellular data, some apps and services won\'t work unless you\'re connected to WLAN.\n\nThis setting affects all users on this device.</string>
+
+</resources>

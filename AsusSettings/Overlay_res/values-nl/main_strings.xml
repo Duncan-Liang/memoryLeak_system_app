@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      De codering wordt onderbreken en kan niet worden voltooid. Hierdoor zijn de gegevens op uw apparaat niet langer toegankelijk. \n\n Om het gebruik van uw apparaat te hervatten, moet u de fabrieksinstellingen opnieuw instellen. Als u het apparaat na de reset instelt, krijgt u de kans gegevens waarvan een back-up was gemaakt, terug te zetten op uw account.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Het wachtwoord dat u hebt ingevoerd, is juist, maar uw gegevens zijn beschadigd. \n\nOm het gebruik van uw apparaat te hervatten, moet u de fabrieksinstellingen opnieuw instellen. Als u het apparaat na de reset instelt, krijgt u de kans gegevens waarvan een back-up was gemaakt, terug te zetten op uw account.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Hiermee worden alle gegevens gewist van het <b>interne geheugen</b>van het apparaat, inclusief:\n\n<li>uw account</li>\n<li>systeem- en appgegevens en -instellingen</li>\n<li>Gedownloade apps</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Alle wijzigingen die u aanbrengt aan uw accounts op internet, worden automatisch gekopieerd naar uw apparaat.\n\nSommige accounts kunnen ook alle wijzigingen die u aanbrengt aan het apparaat op het web, automatisch kopiëren. Uw account werkt op deze manier.</string>
+</resources>

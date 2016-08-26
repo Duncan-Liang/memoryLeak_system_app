@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">\u753b\u9762\u30ab\u30e9\u30fc\u30e2\u30fc\u30c9</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">\u30d0\u30e9\u30f3\u30b9\u30e2\u30fc\u30c9</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">ブルーライト軽減フィルター</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">\u30d3\u30d3\u30c3\u30c9 \u30e2\u30fc\u30c9</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">手動設定</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">モーションブラーの除去</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">高</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">中</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">低</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">無効</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">効果高</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">効果中</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">効果低</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">無効</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">滑らかに動画を再生します。</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"ブルーライトフィルターモード"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"レベル 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"レベル 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"レベル 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"レベル 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"レベル 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"オフ"</string>
+    <string name="splendid_bluelight_filter_mode_on">"オン"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"キャンセル"</string>
+    <string name="notification_bluelight_filter_title">"ブルーフィルターは有効"</string>
+    <string name="notification_bluelight_filter_summary">"タップして変更"</string>
+    <!-- end -->
+</resources>

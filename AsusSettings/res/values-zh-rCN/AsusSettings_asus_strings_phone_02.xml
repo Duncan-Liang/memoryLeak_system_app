@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="asus_phone_number">"本机号码"</string>
+<string name="asus_mdn">"移动目录编号 (MDN)"</string>
+</resources>

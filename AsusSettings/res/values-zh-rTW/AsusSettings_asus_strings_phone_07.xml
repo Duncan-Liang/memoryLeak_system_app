@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"當您啟用來電鎖定功能時，您必須掃描指紋，才能接聽來電。只要成功辨識掃描的指紋，就會自動接聽電話。\n請注意，\n1.您依舊可以透過配對的藍芽耳機與智慧型手錶接聽來電，無須掃描指紋。\n2.在使用有線耳機的情形下，您仍然需要透過指紋辨識接聽電話。\n3.您無法透過第三方軟體的來電畫面接聽電話。\n4.對於網路電話，例如: LINE的語音電話，您仍需以該應用軟體原方式接聽。"</string>
+    <string name="asus_long_tap_warning">"啟用來電鎖定功能時，長按接聽來電的功能將會停用。"</string>
+</resources>

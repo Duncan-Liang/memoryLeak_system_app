@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Bağlanma ve Mobil Etkin Nokta"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"GB olarak görüntüle"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"MB olarak görüntüle"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobil veri"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Mobil veri kullanımını sınırla"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Veri kullanımı konusunda beni uyar"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Veri kullanımı uyarısı"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Mobil veri kullanımınız seçtiğiniz miktara ulaştığında <xliff:g example="tablet" id="device_type">%s</xliff:g> aygıtınız sizi uyaracak."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Veri kullanımı sınırı"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Veri kullanımınız seçtiğiniz sınıra ulaştığında mobil veri bağlantınız kapatılacak.\n\nVeri kullanımı <xliff:g example="tablet" id="device_type">%s</xliff:g> aygıtınız tarafından ölçülür. Operatörünüz kullanımı farklı biçimde hesaplayabileceğinden, veri tarifenizden daha düşük bir sınır ayarlamaya dikkat edin. Tarihleri, faturanızdaki dönemle uyumlu olarak ayarlayın."</string>
+    <string name="vzw_phone">"telefon"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"Veri kullanımı <xliff:g example="tablet" id="device_type">%s</xliff:g> aygıtınız tarafından ölçülür. Operatörünüz kullanımı farklı biçimde hesaplayabilir. Tarihleri, faturanızdaki dönemle uyumlu olarak ayarlayın."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Kullanımı ve ayarları görüntülemek için dokunun"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobil veri şu anda kapalı."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Belirlediğiniz veri kullanımı sınırına ulaştığınızdan mobil veri kapatıldı.\n\nMobil verinizi tekrar açarsanız, operatörünüz veri kullanımı için ücret uygulayabilir."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Veriyi Aç"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobil veri kapalı"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Etkinleştirmek için dokunun"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Mobil veri sınırı aşıldı"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"Belirlenen sınırın <xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> üzerinde"</string>
+</resources>

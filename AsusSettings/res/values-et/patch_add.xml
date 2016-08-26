@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="airview_settings_actionbar_hint_title">Menüüriba vihje</string>
+  <string name="airview_settings_information_preview_title">Sisu ülevaade</string>
+  <string name="airview_settings_nib_cursor_title">Puutepliiatsi kursor</string>
+  <string name="airview_settings_switch_summary">Anna lisainfot, kui puutepliiats liigub</string>
+  <string name="airview_settings_switch_title">Nutikas pilk</string>
+  <string name="asus_app2sd_blacklist_warning">Parema kasutuskogemuse saamiseks teisaldage seadme mälusse</string>
+  <string name="asus_app2sd_notif_title">Mõni rakendus tuleb teisaldada tagasi seadme mälusse</string>
+  <string name="asus_call_lock_detail">"Kui aktiveerid sissetuleva kõne luku funktsiooni, siis pead kõnele vastamiseks skanneerima sõrmejälje. Kui sõrmejälg on edukalt tuvastatud, siis ühendatakse kõne automaatselt.\nPane tähele järgnevat:\n1. Kõnele saab otse vastata seotud Bluetoothi peakomplekti või nutikella kaudu sõrmejälge skanneerimata.\n2.Juhtmega peakomplekti puhul pead endiselt kõnele vastamiseks sõrmejälge kasutama.\n3.Kõnele ei saa vastata kolmanda osapoole kõne kuvalt.\n4.VoIP kõne puhul, nt WhatsApp häälkõne, tuleb kõnele endiselt vastata rakenduse kaudu."</string>
+  <string name="asus_fingerprint_answer_call_summary">Võtke sissetulev kõne vastu oma sõrmejälge kasutades</string>
+  <string name="asus_fingerprint_camera_title">Kaamera käivitamine</string>
+  <string name="asus_fingerprint_id_category_title">Sõrmejälje ID</string>
+  <string name="asus_fingerprint_incoming_call_title">Sissetuleva kõne lukustus</string>
+  <string name="asus_fingerprint_launch_camera_summary">Lukustatud seadmel kaamera käivitamiseks topeltpuudutage sõrmejäljeandurit.</string>
+  <string name="asus_fingerprint_launch_camera_title">Kaamera käivitamine</string>
+  <string name="asus_fingerprint_long_press_summary">Sissetulevatele kõnedele vastamiseks puudutage sõrmejäljeandurit pikalt.</string>
+  <string name="asus_fingerprint_long_press_title">Sissetulevatele kõnedele vastamine</string>
+  <string name="asus_fingerprint_snap_call_summary">Lubage salakõne oma sõrmejäljega</string>
+  <string name="asus_fingerprint_snap_call_title">Salakõne</string>
+  <string name="asus_fingerprint_take_photo_summary">Kui kaamera on aktiivne, puudutage pildistamiseks sõrmejäljeandurit.</string>
+  <string name="asus_fingerprint_take_photo_title">Pildistamine</string>
+  <string name="asus_fingerprint_touch_control_category_title">Puuted</string>
+    <string name="asus_long_tap_warning">"Kui sissetuleva kõne luku funktsioon on sisse lülitatud, on pika puudutusega kõnedele vastamine välja lülitatud."</string>
+  <string name="asus_pen_category_stylus_tools">Puutepliiatsi tööriistad</string>
+  <string name="asus_pen_general_autoscrolling_summary">Keri automaatselt, kui puutepliiats liigub keritavate vaadete serva kohal</string>
+  <string name="asus_pen_general_autoscrolling_title">Automaatkerimine</string>
+  <string name="asus_pen_settings">Puutepliiats</string>
+  <string name="asus_storage_menu_migrate">Muuda mälutüüp</string>
+  <string name="asus_storage_sd_warning_content">Sujuvaks andmetalletuseks paigaldage kindlasti kvaliteetne SD-kaart. Andmete turvaliseks talletamiseks kasutage tuntud tootja SD-kaarti.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[See <xliff:g id="name" example="SD card">^1</xliff:g> paistab olevat aeglane.<br><br>Parema jõudluse saamiseks kaaluge kiirema kaardi <xliff:g id="name" example="SD card">^1</xliff:g> kasutamist.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">ASUS-e Bluetooth-klaviatuur</string>
+  <string name="button_ok">OK</string>
+  <string name="gesture_wake_up_screen">Ekraani äratamine</string>
+  <string name="get_real_time_notification">Saage reaalajas värskendusi</string>
+  <string name="get_real_time_notification_detail">Hoiab rakendusi taustal töötavana, et saaksite teavitusi ja värskendusi õigel ajal.</string>
+  <string name="incompatible_apps">Mitteühilduvad rakendused</string>
+  <string name="incompatible_detail">Süsteem on tuvastanud selle Android OS-i versiooniga mitteühilduvaid rakendusi. Võtke teabe saamiseks ühendust rakenduste arendajatega või desinstallige rakendused.</string>
+  <string name="incompatible_notify_title">Tuvastati mitteühilduvaid rakendusi</string>
+  <string name="inspire_asus_title">Diagnostikaandmed</string>
+  <string name="large_and_huge_font_size_warning">Teatud rakendused ei pruugi suure / väga suure fondiga tekste õigesti kuvada.</string>
+  <string name="notification_remind_user_to_set_bt">Sidumise alustamiseks libistage lüliti paremale, hoidke sellel 5 sekundit sõrme peal ja puudutage seejärel teavitust.</string>
+  <string name="notify_off">Ära rohkem näita.</string>
+  <string name="optimize_battery_usage">Optimeerige akukasutust</string>
+  <string name="optimize_battery_usage_detail">Vähendab energiatarvet. Teatud teavitused ega värskendused ei pruugi saabuda reaalajas.</string>
+  <string name="power_management_setting_title">Energiahaldus</string>
+  <string name="power_settings_title">Energiahaldus</string>
+  <string name="powersaver_app_name">Energiasäästja</string>
+  <string name="quickpanel_app_instant_page">Kiirleht</string>
+  <string name="quickpanel_app_stylus_setting">Z Stylus sätted</string>
+  <string name="quickpanel_category_shortcuts">Otseteed</string>
+  <string name="quickpanel_settings_switch_summary">Hõljutage kursorit ja klõpsake nuppu 1&lt;sup&gt;st&lt;/sup&gt; Z Stylus, et laiendada kiirkäivituspaneeli.</string>
+  <string name="quickpanel_settings_switch_title">Kiirkäivituspaneel</string>
+  <string name="real_time_notification">Reaalajas teavitused</string>
+  <string name="storage_wizard_benchmark_content">Sellele kulub mitu minutit. Palun oodake.</string>
+  <string name="storage_wizard_benchmark_tittle">Võrdlustest</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>SD-kaardi maht on liiga väike. Kasutage suuremat kiiret SD-kaarti.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Kasuta sisemäluna nii rakenduste kui ka andmete jaoks</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Rakenduste installimiseks välisele mäluseadmele. See nõuab vormindamist, mis teeb selle töökõlbmatuks teiste seadmetega.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Kasuta sisemäluna vaid rakenduste jaoks</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Teisaldage andmed uuele mäluseadmele <xliff:g example="SD card" id="name">^1</xliff:g>, et teil jääks rohkem ruumi fotode, failide ja teatud rakenduste talletamiseks. Samuti võite rakenduste installimiseks reserveerida ruumi mäluseadmel <xliff:g example="SD card" id="name">^1</xliff:g>.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Teie uus <xliff:g example="SD card" id="name">^1</xliff:g> töötab.]]></string>
+  <string name="stylus_only_mode_summary">Puuterežiimi paus pärast Z puutepliiats ekraanilt eemaldub</string>
+  <string name="stylus_only_mode_title">Ainult puutepliiatsi režiim</string>
+  <string name="stylus_only_time_title">Ainult puutepliiatsi aeg</string>
+  <string name="swipe_up_to_wake_up_summary">Nipsake ekraanil üles, et äratada oma telefon jõuderežiimist.</string>
+  <string name="swipe_up_to_wake_up_title">Äratamiseks nipsake üles</string>
+  <string name="title_remind_user_to_set_bt">ASUS-e Bluetooth-klaviatuuri esimene sidumine</string>
+  <string name="usb_hint_option_dialog_title">USB-laadimine</string>
+  <string name="usb_hint_option_got_it">SELGE</string>
+  <string name="usb_hint_option_message">Muude USB-suvandite nägemiseks nipsake ekraani ülaosast alla ja puudutage USB-teavitust.</string>
+  <string name="z_stylus_title">Z Stylus</string>
+</resources>

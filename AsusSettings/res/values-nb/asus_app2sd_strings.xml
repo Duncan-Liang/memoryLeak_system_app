@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Flytt til enhetslagring</string>
+    <string name="move_error_unknow">Kan ikke flytte app. Prøv igjen.</string>
+    <string name="processing">Behandler …</string>
+    <string name="dialog_hint">The process may take a while.\n\nPlease do not shut down your device nor use the selected moving applications. Please do not remove the external storage device at this time.\n\nDo you want to proceed?</string>
+</resources>

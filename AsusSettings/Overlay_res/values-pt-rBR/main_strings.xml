@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      A criptografia foi interrompida e não pôde ser concluída. Como resultado, os dados em seu dispositivo não estão mais acessíveis. \n\n Para continuar a utilizar o dispositivo, é necessário realizar uma redefinição de fábrica. Quando você configurar o seu dispositivo após a redefinição, você terá a oportunidade de restaurar quaisquer dados que foram copiados para a sua conta.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      A senha digitada está correta, mas infelizmente seus dados estão corrompidos. \n\nPara voltar a usar o dispositivo, é necessário realizar uma redefinição de fábrica. Quando você configurar o seu dispositivo após a redefinição, você terá a oportunidade de restaurar quaisquer dados que foram copiados para a sua conta.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Isto apagará todos os dados de seu dispositivo. <b>armazenamento interno</b>, Incluindo:\n\n<li>Sua conta</li>\n<li>Sistema, dados so aplicativo e configurações</li>\n<li>Aplicativos baixados</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Todas as alterações feitas às suas contas na web serão automaticamente copiadas para o seu dispositivo.n\n\Algumas contas podem copiar automaticamente as alterações que você faz em dispositivo para a web. A conta funciona dessa maneira.</string>
+</resources>

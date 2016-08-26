@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"Kosketushallinta"</string>
+    <string name="asus_fingerprint_long_press_title">"Vastaa tuleviin soittoihin"</string>
+    <string name="asus_fingerprint_long_press_summary">"Napauta ja pidä pohjassa sormenjälkianturia vastataksesi tuleviin soittoihin."</string>
+    <string name="asus_fingerprint_camera_title">"Käynnistä kamera"</string>
+    <string name="asus_fingerprint_launch_camera_title">"Käynnistä kamera"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"Kaksoisnapauta sormenjälkianturia käynnistetääksesi kamera laitteen ollessa lukitsemattomassa tilassa."</string>
+    <string name="asus_fingerprint_take_photo_title">"Kaappaa valokuva"</string>
+    <string name="asus_fingerprint_take_photo_summary">"Napauta sormenjälkianturia ottaaksesi kuvan kameran ollessa aktiivinen."</string>
+    <string name="asus_fingerprint_id_category_title">"Sormenjälkitunnistautuminen"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"Tulevan soiton lukko"</string>
+    <string name="asus_fingerprint_answer_call_summary">"Vastaa tulevaan soittoon sormenjäljillä"</string>
+    <string name="asus_fingerprint_snap_call_title">"Pikapuhelu"</string>
+    <string name="asus_fingerprint_snap_call_summary">"Mahdollista pikapuhelu sormenjäljellä"</string>
+</resources>

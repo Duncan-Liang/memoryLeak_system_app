@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Quando si abilita la funzione di blocco chiamate in entrata, è necessario scansionare l'impronta digitale per rispondere alla chiamata. La chiamata verrà connessa automaticamente alla corretta identificazione dell'impronta.\nNota:\n1.È possibile rispondere alla chiamata in entrata direttamente da cuffie collegate tramite Bluetooth o da smart watch senza scansionare l'impronta.\n2.È ancora necessario usare l'impronta digitale per rispondere a chiamate in cui si usano cuffie con cavo.\n3.Non sarà possibile rispondere a chiamate da schermi di chiamate in entrata da terze parti.\n4.Per le chiamate VoIP (Voice over IP), vale a dire chiamate vocali WhatsApp, è ancora necessario rispondere tramite la app stessa."</string>
+    <string name="asus_long_tap_warning">"Se è stata abilitata la funzione di blocco chiamate in entrata, la risposta tramite tocco alle chiamate sarà disabilitata."</string>
+</resources>

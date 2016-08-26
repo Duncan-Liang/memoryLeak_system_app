@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Déplacer vers appareil de stockage</string>
+    <string name="move_error_unknow">Impossible de déplacer app. Veuillez réessayer.</string>
+    <string name="processing">En cours…</string>
+    <string name="dialog_hint">Le processus peut prendre un moment.\n\nN\'éteignez pas votre appareil et n\'utilisez pas les applications déplacées sélectionnées. Ne retirez pas le périphérique de stockage externe pour l\'instant.\n\nVoulez-vous continuer ?</string>
+</resources>

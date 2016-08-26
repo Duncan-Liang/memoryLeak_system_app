@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_info">Ohjelmistotiedot</string>
+ <string name="hardware_info">Laitteistotiedot</string>
+ <string name="software_info_summary">Peruskaista, ydinversio, koontiversionumero jne.</string>
+ <string name="hardware_info_summary">Wi-Fi, Bluetooth, laiteohjelmistoversio jne.</string>
+ <string name="asus_encrypt_phone_title">Salaa puhelin</string>
+ <string name="asus_encrypt_phone_description">Poista puhelin PadFone-asemasta salausta varten</string>
+ <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">Tallennustila ei riitä laitteen salaukseen</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"Lisää asetuksia"</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">Sovellus haluaa tehdä laitteestasi näkyvän muille Bluetooth-laitteille <xliff:g id="timeout">%1$d</xliff:g> sekunnin kuluttua.</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">Sovellus haluaa tehdä laitteestasi näkyvän muille Bluetooth-laitteille. Voit muuttaa tätä myöhemmin Bluetooth-asetuksissa.</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">Sovellus haluaa käynnistää Bluetooth-yhteyden ja tehdä laitteestasi näkyvän muille laitteille <xliff:g id="timeout">%1$d</xliff:g> sekunnin kuluttua.</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">Sovellus haluaa käynnistää Bluetooth-yhteyden ja tehdä laitteestasi näkyvän muille laitteille. Voit muuttaa tätä myöhemmin Bluetooth-asetuksissa.</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">Kämmenmobiililaitetiedot</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">Salliessasi dataverkkovierailun, sinulle voi kertyä huomattavia verkkovierailuveloituksia!\n\nTämä asetus vaikuttaa kaikkiin tämän kämmenmobiililaitteen käyttäjiin.</string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">Salaa laite</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">
+    Voit salata tilisi, asetukset, ladatut sovellukset tietoineen, media- ja muut tiedostot. Kun olet salannut laitteesi, olettaen, että olet asettanut näytön lukituksen (kuvion, numeerisen PIN-koodin tai salasanan), sinun on avattava näytön lukitus poistaaksesi laitteen salauksen joka kerta, kun käynnistät laitteen. Toinen tapa salauksen poistamiseen on suorittaa palautus tehdasasetuksiin, mikä poistaa kaikki tiedot.\n\nSalaaminen kestää noin tunnin tai kauemmin. Salaus on aloitettava ladatulla akulla ja laite on pidettävä liitettynä verkkovirtaan koko prosessin ajan. Jos keskeytät salauksen, voit menettää osan tiedoista tai kaikki tiedot</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">Salaa laite</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">
+    Salaustoimenpide on peruuttamaton, ja jos keskeytät sen, menetät kaikki tiedot. Salaus kestää noin tunnin tai pitempään ja laite käynnistyy tänä aikana uudelleen useita kertoja.
+    </string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Odota, kun laitettasi salataan. <xliff:g example="50" id="percent">^1</xliff:g>% valmiina.</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">Odota, kun laitettasi salataan. Aikaa jäljellä: <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Salaus keskeytettiin eikä sitä voi suorittaa loppuun. Tämän vuoksi laitteesi tiedot eivät ole enää käytettävissä. \n\n Jatkaaksesi laitteen käyttöä, sinun on suoritettava tehdaspalautus. Kun asetat laitteesi palautuksen jälkeen, sinulla on mahdollisuus palauttaa kaikki Google-tilille varmuuskopioidut tiedot.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Antamasi salasana on oikea, mutta valitettavasti tietosi ovat vioittuneet. \n\nJatkaaksesi laitteen käyttöä, sinun on suoritettava tehdaspalautus. Kun asetat laitteesi palautuksen jälkeen, sinulla on mahdollisuus palauttaa kaikki Google-tilille varmuuskopioidut tiedot.
+    </string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g> katkaisee tämän laitteen internet-yhteyden jakamisen.</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">Salli datanvaihto, kun laite koskettaa toista laitetta</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">VAROITUS: jos ohitat Wi\u2011Fi-yhteyden, laitteesi käyttää vain matkapuhelindataa ensimmäisiin latauksiin ja päivityksiin. Välttääksesi mahdolliset dataveloitukset, muodosta Wi\u2011Fi-yhteys.</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">VAROITUS: Jos ohitat Wi\u2011Fin, laitteellasi ei ole käytettävissä internet-yhteyttä ensimmäisiä latauksia tai päivityksiä varten.</string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">Laite ei kyennyt muodostamaan yhteyttä tähän Wi\u2011Fi-verkkoon.</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">Laitetta ei ole telakoitu</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">Sinun on telakoitava laite ennen telakka-audion asettamista.</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">Toista ääntä liittäessäsi laitteen telakaan tai poistaessasi sen siitä</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">Älä toista ääntä liittäessäsi laitteen telakaan tai poistaessasi sen siitä</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">Vaihda suuntaus automaattisesti, kun laitetta kierretään</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">Vaihda suuntaus automaattisesti, kun laitetta kierretään</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">Vaadi PIN-koodi laitteen käyttämiseksi</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">Vaadi PIN-koodi laitteen käyttämiseksi</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">Laitteen tila</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">Akun ja verkon tila sekä muita tietoja</string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">Tyhjentää kaikki puhelimessa olevat tiedot</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Tämä poistaa kaikki laitteesi tiedot <b>sisäinen tallennustila</b>, mukaan lukien:\n\n<li>Google-tilisi</li>\n<li>Järjestelmä- ja sovellustiedot sekä asetukset</li>\n<li>Ladatut sovellukset</li>"</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">Nollaa laite</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">Tämän laitteen internet-yhteyden jakaminen</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">Tämän laitteen internet-yhteyden jakaminen yhteen laitteeseen</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">Tämän laitteen internet-yhteyden jakaminen <xliff:g id="connectedDeviceCount">%1$d</xliff:g> laitteeseen</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">Tämän laitteen internet-yhteyttä ei jaeta</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">Anna sovellusten käyttää laitteesi GPS:ää sijaintisi paikantamiseen</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">Tietoja laitteesta</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">Laitteesi ja henkilökohtaiset tietosi ovat haavoittuvampia hyökkäyksille tuntemattomista lähteistä peräisin olevista sovelluksista. Sinä hyväksyt, että sinä itse olet pelkästään vastuussa laitteesi vahingoista tai tietojen menettämisestä, jotka ovat seurausta tällaisten sovellusten käyttämisestä.</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">Tämä sovellus voi käyttää laitteesi seuraavia ominaisuuksia:</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">Tämä sovellus voi käyttää laitteesi seuraavia ominaisuuksia.</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">Siirrä laitteeseen</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">Jos pysäytät tämän palvelun, jotkut laitteesi ominaisuudet voivat lakata toimimasta oikein, ennen kuin sammutat laitteen ja kytket sen uudelleen päälle.</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">Laitetiedot</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">Laite käyttämättömänä</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">Laite</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">Akkukäyttö, kun laite on käyttämättömänä</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">Tämän tilin poistaminen poistaa kaikki sen viestit, yhteystiedot ja muut tiedot laitteesta!</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Kaikki tiliisi verkossa tekemäsi muutokset kopioidaan automaattisesti laitteeseesi.\n\nJotkut tilit voivat myös kopioida automaattisesti kaikki muutokset, jotka teet laitteesta verkkoon. Google-tili toimii tällä tavoin.</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">Laitteesi kytkee matkapuhelindatan pois päältä, kun asettamasi raja  saavutetaan.\n\nKoska laitteesi mittaa datankäytön ja operaattorisi voi laskuttaa käytöstä eri tavalla, harkitse varovaisen rajan asettamista.</string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">Jos rajoitat taustamatkapuhelindataa, jotkut sovallukset ja palevelut eivät toimi, jollet muodosta Wi\u2011Fi-yhteyttä.\n\nTämä asetus vaikuttaa kaikkiin tämän laitteen käyttäjiin.</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>: tietoja <xliff:g example="128KB" id="total">%1$s</xliff:g> käytetään laitteesi mittaamana. Operaattorisi datankäyttölukema voi olla erilainen.</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">Vain laitteen omistaja voi hallita käyttäjiä.</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">Menetät tämän laitteen tilan ja tiedot. Et voi kumota tätä toimintaa.</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">Tämä asetus vaikuttaa kaikkiin tämän laitteen käyttäjiin.</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">Salli datanvaihto, kun laite koskettaa toista laitetta</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">Vain GPS</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">Päälle kytkettynä voi käyttää näytön kiinnittämistä pitääksesi nykyisen näytön näkyvissä, kunnes poistat kiinnityksen.\n\nNäytön kiinnityksen käyttö:\n\n1. Varmista, että näytön kiinnitys on kytketty päälle.\n\n2. Avaa kiinnitettävä näyttö.\n\n3. Napauta uusimmat sovellukset -näppäintä.\n\n4. Napauta nastakuvaketta.</string>
+
+    <string name="zenui_update">ZenUI APP päivitys</string>
+ <string name="c_launch_title">"C" käynnistääksesi sovelluksen</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">Älä näytä tätä uudelleen</string>
+    <string name="double_tap_mode_confirm_dialog_message">Kun näyttö on pois päältä, kaksoisnapauta samaa kohtaa näytöllä herättääksesi näytön. Kaksoisnapauta pyyhkäisemällä lukittavalla näytöllä tyhjää kohtaa kytkeäksesi näytön pois päältä. Kaksoisnapauta tilapalkista ja käynnistimessä tyhjää kohtaa kytkeäksesi näytön pois päältä.</string>
+    <string name="double_tap_mode_confirm_dialog_title">Kaksoisnapauta herättääksesi/\nkaksoisnapauta keskeyttääksesi</string>
+    <string name="doubletap_mode_setting_summary">Kaksoisnapauta herättääksesi/"\n"kaksoisnapauta keskeyttääksesi</string>
+    <string name="doubletap_mode_setting_title">Näyttö päälle/pois</string>
+    <string name="e_launch_title">"e" käynnistääksesi sovelluksen</string>
+    <string name="motion_gesture_category_title">Liike-ele</string>
+    <string name="s_launch_title">"S" käynnistääksesi sovelluksen</string>
+    <string name="shake_sensitivity_title">Ravistusherkkyys</string>
+    <string name="shake_title">Ravista Ravista</string>
+    <string name="touch_gesture_category_title">Kosketusele</string>
+    <string name="v_launch_title">"V" käynnistääksesi sovelluksen</string>
+    <string name="w_launch_title">"W" käynnistääksesi sovelluksen</string>
+    <string name="z_launch_title">"Z" käynnistääksesi sovelluksen</string>
+    <string name="app_disable">Ota pois käytöstä</string>
+    <string name="shake_sensitivity_entries_high">Korkea</string>
+    <string name="shake_sensitivity_entries_low">Matala</string>
+    <string name="shake_sensitivity_entries_normal">Normaali</string>
+    <string name="double_tap_off_confirm_dialog_message">Avaa lukitus pyyhkäisemällä lukitusnäytössä, kaksoisnapauta tyhjää tilaa kytkeäksesi näytön pois päältä. Kaksoisnapauta tyhjää tilaa tilapalkissa ja käynnistimessä kytkeäksesi näytön pois päältä.</string>
+    <string name="double_tap_off_confirm_dialog_title">Kaksoisnapauta keskeyttääksesi</string>
+    <string name="double_tap_on_confirm_dialog_message">Kun näyttö on pois päältä, kaksoisnapauta samaa kohtaa näytöllä herättääksesi näytön.</string>
+    <string name="double_tap_on_confirm_dialog_title">Kaksoisnapauta herättääksesi</string>
+    <string name="doubletap_off_setting_summary">Kaksoisnapauta keskeyttääksesi</string>
+    <string name="doubletap_off_setting_title">Näyttö pois päältä</string>
+    <string name="doubletap_on_setting_summary">Kaksoisnapauta herättääksesi</string>
+    <string name="doubletap_on_setting_title">Näyttö päällä</string>
+    <string name="cpu_frequency_title">Suoritin</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="shake_summary">Kun käytät sovellusta, ravista kahdesti ottaaksesi näyttökuvan ja luodaksesi uuden tehtävän Tee se myöhemmin -sovellukseen.</string>
+    <string name="sleep_touch_gesture_category_title">Keskeytystila</string>
+    <string name="wake_up_touch_gesture_category_title">Herätystila</string>
+    <string name="motion_double_click_summary">Napsauta puhelimen runkoa kahdesti.</string>
+    <string name="motion_double_click_title">Kaksoisnapsauta</string>
+    <string name="motion_flip_summary">Käännä laite ylösalaisin.</string>
+    <string name="motion_flip_title">Käännä</string>
+    <string name="motion_hand_up_summary">Pidä puhelinta pystytilassa ja nosta koskettamaan korvaa.</string>
+    <string name="motion_hand_up_title">Kädet ylös</string>
+    <string name="motion_walking_summary">Kun puhelin on käsissä tai taskussa, puhelin tietää käveletkö tai liikutko.</string>
+    <string name="motion_walking_title">Liikkuva</string>
+    <string name="app_asus_front_camera_name">"Kamera - etulinssi"</string>
+    <string name="tutorial_c_launch_summary">"Koska näyttö on pois päältä, piirrä "C" käynnistääksesi sovelluksen"</string>
+    <string name="tutorial_double_click_summary">"Puhelun tullessa kaksoisnapsauta puhelimen runkoa kytkeäksesi puhelimen hiljainen-tilaan."</string>
+    <string name="tutorial_e_launch_summary">"Koska näyttö on pois päältä, piirrä "e" käynnistääksesi sovelluksen"</string>
+    <string name="tutorial_flip_down_summary">"Käännä laite saapuvan puhelun aikana ylösalaisin kytkeäksesi puhelimen äänetön-tilaan. Käännä laite median toiston aikana ylösalaisin keskeyttääksesi toiston."</string>
+    <string name="tutorial_flip_down_title">"Käännä (Käännä alas)"</string>
+    <string name="tutorial_flip_up_summary">"Käännä laite mediansoittimen toiston aikana ylösalaisin keskeyttääksesi toiston."</string>
+    <string name="tutorial_flip_up_title">"Käännä (Käännä ylös)"</string>
+    <string name="tutorial_hands_up_summary">"Nosta puhelin korvallesi vastataksesi puheluun automaattisesti näyttöä napauttamatta."</string>
+    <string name="tutorial_moving_summary">"Saapuvan puhelun tullessa nosta soittoäänenvoimakkuutta kävellessäsi tai elokuvaa katsoessasi."</string>
+    <string name="tutorial_s_launch_summary">"Koska näyttö on pois päältä, piirrä "S" käynnistääksesi sovelluksen"</string>
+    <string name="tutorial_v_launch_summary">"Koska näyttö on pois päältä, piirrä "V" käynnistääksesi sovelluksen"</string>
+    <string name="tutorial_w_launch_summary">"Koska näyttö on pois päältä, piirrä "W" käynnistääksesi sovelluksen"</string>
+    <string name="tutorial_z_launch_summary">"Koska näyttö on pois päältä, piirrä "Z" käynnistääksesi sovelluksen"</string>
+    <string name="zenmotion_tutorial_title">"Opetusohjelma"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"Viimeinen palautus tehdastietoihin"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"Määritysversio"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"Ohjattu audio-asetus"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">Teemat</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"Asiakastunnus"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"Käytetäänkö USB:tä tiedostojen siirtoon?"</string>
+    <string name="usb_change_config_dialog_title">"Käytetäänkö USB:tä tiedostojen siirtoon?"
+    </string>
+    <string name="usb_change_config_dialog_message">Salli tiedonsiirto tietokoneilla, joihin luotat, kun yhteys on muodostettu.</string>
+    <string name="usb_change_config_dialog_checkbox_message">"Salli aina tälle tietokoneelle"
+    </string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 From usb dialog patch 2016/6/27 end-->
+</resources>

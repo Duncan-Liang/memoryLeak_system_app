@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Kevin_Chiou Fingerprint Settings 20160419-->
+    <string name="asus_fingerprint_touch_control_category_title">"Touchreglage"</string>
+    <string name="asus_fingerprint_long_press_title">"Besvara inkommande samtal"</string>
+    <string name="asus_fingerprint_long_press_summary">"Tryck och håll kvar på fingeravtryckssensorn för att besvara inkommande samtal."</string>
+    <string name="asus_fingerprint_camera_title">"Starta kamera"</string>
+    <string name="asus_fingerprint_launch_camera_title">"Starta kamera"</string>
+    <string name="asus_fingerprint_launch_camera_summary">"Dubbeltryck på fingeravtryckssensorn för att starta kameran när enheten är olåst."</string>
+    <string name="asus_fingerprint_take_photo_title">"Ta ett foto"</string>
+    <string name="asus_fingerprint_take_photo_summary">"Tryck på fingeravtryckssensorn för att ta ett foto när kameran är aktiv."</string>
+    <string name="asus_fingerprint_id_category_title">"Fingeravtrycks-ID"</string>
+    <!-- Kevin_Chiou Fingerprint ID feature-->
+    <string name="asus_fingerprint_incoming_call_title">"Inkommande samtals-lås"</string>
+    <string name="asus_fingerprint_answer_call_summary">"Besvara inkommande samtal med ditt fingeravtryck"</string>
+    <string name="asus_fingerprint_snap_call_title">"Snapsamtal"</string>
+    <string name="asus_fingerprint_snap_call_summary">"Aktivera Snapsamtal med ditt fingeravtryck"</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_app2sd_blacklist_warning">Pārvietojiet uz ierīces krātuvi, lai nodrošinātu labāku veiktspēju</string>
+  <string name="asus_app2sd_notif_title">Dažas lietotnes nepieciešams pārvietot atpakaļ uz ierīces krātuvi</string>
+  <string name="asus_call_lock_detail">"Kad iespējojat ienākošā zvana bloķēšanas funkciju, nepieciešams noskenēt pirksta nospiedumu, lai atbildētu uz zvanu. Zvans tiek automātiski savienots, kad nospiedums tiek sekmīgi identificēts.\nŅemiet vērā tālāk norādīto.\n1. Varat atbildēt uz ienākošo tieši, izmantojot pārī savienotās Bluetooth austiņas vai viedo pulksteni, neskenējot pirksta nospiedumu.\n2. Joprojām nepieciešams skenēt pirksta nospiedumu, lai atbildētu uz zvanu, izmantojot vadu austiņas.\n3. Nevar atbildēt uz zvanu, izmantojot trešās puses ienākošā zvana ekrānu.\n4. Balss pārraides, izmantojot IP (VoIP), zvaniem, piemēram, lietotnes WhatsApp balss zvaniem, joprojām nepieciešams atbildēt uz zvanu tieši lietotnē."</string>
+  <string name="asus_fingerprint_answer_call_summary">Atbildiet uz ienākošo zvanu, izmantojot pirkstu nospiedumu</string>
+  <string name="asus_fingerprint_camera_title">Palaist kameru</string>
+  <string name="asus_fingerprint_id_category_title">Pirkstu nospiedumu ID</string>
+  <string name="asus_fingerprint_incoming_call_title">Ienākošo zvanu bloķēšana</string>
+  <string name="asus_fingerprint_launch_camera_summary">Lai palaistu kameru, kad ierīce ir atbloķēta, veiciet dubultskārienu pirkstu nospiedumu sensoram.</string>
+  <string name="asus_fingerprint_launch_camera_title">Palaist kameru</string>
+  <string name="asus_fingerprint_long_press_summary">Lai atbildētu uz ienākošajiem zvaniem, pieskarieties pirkstu nospiedumu sensoram un turiet to nospiestu.</string>
+  <string name="asus_fingerprint_long_press_title">Atbildēt uz ienākošajiem zvaniem</string>
+  <string name="asus_fingerprint_snap_call_summary">Iespējot zvanu bez zvanu vēstures, izmantojot pirkstu nospiedumu</string>
+  <string name="asus_fingerprint_snap_call_title">Zvans bez zvanu vēstures</string>
+  <string name="asus_fingerprint_take_photo_summary">Lai tvertu fotoattēlu, kad kamera ir aktīva, pieskarieties pirkstu nospiedumu sensoram.</string>
+  <string name="asus_fingerprint_take_photo_title">Uzņemt fotoattēlu</string>
+  <string name="asus_fingerprint_touch_control_category_title">Skārienu vadīklas</string>
+  <string name="asus_long_tap_warning">"Kad ir iespējota ienākošā zvana bloķēšanas funkcija, atbildēšana uz zvanu, pieskaroties un turot, ir atspējota."</string>
+  <string name="asus_storage_menu_migrate">Mainīt krātuves veidu</string>
+  <string name="asus_storage_sd_warning_content">Noteikti instalējiet augstas kvalitātes SD karti, lai datu saglabāšana notiktu bez aizķeršanās. Lai droši saglabātu datus, izmantojiet cienījama ražotāja SD karti.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[Izskatās, ka šī <xliff:g id="name" example="SD card">^1</xliff:g> darbojas lēni.<br><br>Apsveriet ātrākas <xliff:g id="name" example="SD card">^1</xliff:g> izmantošanu labākai veiktspējai.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">ASUS Bluetooth tastatūra</string>
+  <string name="button_ok">Labi</string>
+  <string name="camera_double_tap_power_gesture_desc">Ērta kameras atvēršana, neatbloķējot ekrānu</string>
+  <string name="camera_double_tap_power_gesture_title">Kamera, divreiz nospiežot barošanas pogu</string>
+  <string name="camera_gesture_desc">Atvērt kameras lietotni, divreiz pagriežot plaukstas locītavu</string>
+  <string name="camera_gesture_title">Pagriešana divreiz kameras atvēršanai</string>
+  <string name="gesture_wake_up_screen">Aktivizācijas ekrāns</string>
+  <string name="get_real_time_notification">Saņemt reāllaika paziņojumus</string>
+  <string name="get_real_time_notification_detail">Nodrošina lietotņu darbību fonā, lai laikā saņemtu paziņojumus un atjauninājumus.</string>
+  <string name="incompatible_apps">Nesaderīgas lietotnes</string>
+  <string name="incompatible_detail">Sistēma šajā operētājsistēmas Android versijā noteica nesaderīgas lietotnes. Lai seņumtu informāciju, sazinieties ar lietotņu izstrādātājiem vai atinstalējiet lietotnes.</string>
+  <string name="incompatible_notify_title">Noteiktas nesaderīgas lietotnes</string>
+  <string name="inspire_asus_title">Diagnostikas dati</string>
+  <string name="keywords_color_mode">spilgts rgb srgb krāsa dabiska standarta</string>
+  <string name="large_and_huge_font_size_warning">Dažas lietotnes, iespējams, nerāda pareizi tekstu ar lielu/milzīgu fonta izmēru.</string>
+  <string name="manual">Rokasgrāmata</string>
+  <string name="notification_remind_user_to_set_bt">Slidiniet slēdzi pa labi, 5 sekundes turiet nospiestu, pēc tam pieskarieties paziņojumam, lai sāktu savienojumu pārī.</string>
+  <string name="notify_off">Vairs nerādīt.</string>
+  <string name="optimize_battery_usage">Optimizēt akumulatora lietojumu</string>
+  <string name="optimize_battery_usage_detail">Samazina enerģijas patēriņu. Daži paziņojumi un atjauninājumi var netikt saņemti reāllaikā.</string>
+  <string name="picture_color_mode">Attēla krāsu režīms</string>
+  <string name="real_time_notification">Reāllaika paziņojumi</string>
+  <string name="settings_manual_activity_title">Rokasgrāmata</string>
+  <string name="settings_manual_activity_unavailable">Radās ar rokasgrāmatas ielādi saistīta problēma.</string>
+  <string name="storage_wizard_benchmark_content">Tas aizņem vairākas minūites. Lūdzu, uzgaidiet.</string>
+  <string name="storage_wizard_benchmark_tittle">Atzīme</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>SD kartes izmērs ir pārāk mazs. Izmantojiet lielāka izmēra SD karti.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Izmantojiet kā iekšējo krātuvi lietotnēm un datiem</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Lietotņu instalēšanai ārējā krātuvē. Nepieciešama formatēšana, kas novērš darbošanos citā ierīcē.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Izmantojiet kā iekšējo krātuvi tikai lietotnēm</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Pārvietojiet datus uz jaunu <xliff:g example="SD card" id="name">^1</xliff:g> lai saņemtu vairāk atmiņas viuetas fotoattēlu, failu un dažu lietotņu saglabāšanai. Lietotņu instalēšanai varat arī atlasīt <xliff:g example="SD card" id="name">^1</xliff:g> rezerves vietu.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Jaunā <xliff:g example="SD card" id="name">^1</xliff:g> darbojas.]]></string>
+  <string name="stylus_only_mode_summary">Pauzējiet skāriena režīmu pēc tam, kad Z irbulis pamet ekrānu</string>
+  <string name="stylus_only_mode_title">Tikai irbuļa režīms</string>
+  <string name="stylus_only_time_title">Tikai irbuļa laiks</string>
+  <string name="swipe_up_to_wake_up_summary">Velciet augšup pa ekrānu, lai aktivizētu ierīci no dīkstāves režīma.</string>
+  <string name="swipe_up_to_wake_up_title">Velciet, lai aktivizētu</string>
+  <string name="title_remind_user_to_set_bt">1. savienošana pārī ar ASUS Bluetooth tastatūru</string>
+  <string name="usb_hint_option_dialog_title">USB uzlāde</string>
+  <string name="usb_hint_option_got_it">SAPRATU</string>
+  <string name="usb_hint_option_message">Lai skatītu citas USB opcijas, velciet lejup no ekrāna augšpuses, pēc tam pieskarieties USB paziņojumam.</string>
+</resources>

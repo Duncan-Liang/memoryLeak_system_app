@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      암호화가 중단되었으며 완료할 수 없습니다. 따라서 장치에 있는 데이터에 더 이상 접속할 수 없습니다. \n\n 장치를 사용하려면 공장 설정으로 초기화 하십시오. 초기화한 후 장치를 설정할 때 계정으로 백업한 데이터를 복원할 수 있습니다.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      입력한 비밀번호는 맞지만 데이터가 손상되었습니다. \n\n 장치를 사용하려면 공장 설정으로 초기화 하십시오. 초기화한 후 장치를 설정할 때 계정으로 백업한 데이터를 복원할 수 있습니다.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"장치의 내부 저장소에서 모든 <b>데이터를</b>삭제하며<li>계정</li>\n<li>시스템 및 앱 데이터와 설정</li>\n<li>다운로드 받은 앱도 삭제됩니다</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">웹에서 변경한 계정 정보가 장치로 자동으로 복사됩니다.\n\n장치에서 변경한 일부 정보도 웹으로 자동으로 복사됩니다. 계정을 이 방법으로 작동합니다.</string>
+</resources>

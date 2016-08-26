@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Impostazione tasti di scelta rapida"</string>
+    <string name="screenshot_hot_key_title">"Tasto Applicazioni recenti"</string>
+    <string name="screenshot_hot_key_summary">"Tenere premuto il tasto Applicazioni recenti per catturare una schermata"</string>
+    <string name="screenshot_format_setting_title">"Impostazione formato file"</string>
+    <string name="screenshot_format_title">"Formato file schermata"</string>
+    <string name="screenshot_sound_setting_title">"Impostazione audio"</string>
+    <string name="screenshot_sound_title">"Abilita audio istantanea"</string>
+    <string name="screenshot_notify_setting_title">"Impostazione notifica"</string>
+    <string name="screenshot_notify_title">"Abilita notifica"</string>
+</resources>

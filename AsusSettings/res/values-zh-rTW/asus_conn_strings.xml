@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">閒置時停用 Wi\u2011Fi 熱點</string>
+    <string name="wifi_disable_hotspot_selection_never">永遠不要</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">5 分鐘後</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">10 分鐘後</string>
+
+    <!-- List of clients connected to Wifi Access Point -->
+    <string name="wifi_tether_users">Wi\u2011Fi 無線基地台使用者</string>
+    <string name="wifi_tether_user_empty">尚無使用者連線至無線基地台。</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">乙太網絡</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">未設定IP位址</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">未設定網路前置碼長度</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">未設定閘道位址</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">未設定DNS1位址</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">未設定DNS2位址</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">設定IP位址</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">設定網路前置碼長度</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">設定閘道</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">設定DNS1位址</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">設定DNS2位址</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">睡眠時維持乙太網路連線</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">乙太網路需要額外的電池電力</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">網路設定</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">為了確保您的連線品質, 請重新連結無線螢幕分享(Miracast)或 Wi\u2011Fi Direct。</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">請按鍵盤上的任意鍵, 以重新連線</string>
+
+</resources>

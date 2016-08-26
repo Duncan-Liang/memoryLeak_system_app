@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Para controlar lo que ocurre cuando el dispositivo está acoplado a la base y/o en estado de suspensión, debes activar el salvapantallas."</string>
+</resources>

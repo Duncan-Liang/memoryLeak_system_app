@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Encryption was interrupted and can\'t complete. As a result, the data on your device is no longer accessible. \n\n To resume using your device, you need to perform a factory reset. When you set up your device after the reset, you\'ll have an opportunity to restore any data that was backed up to your account.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      The password you entered is correct, but unfortunately your data is corrupt. \n\nTo resume using your device, you need to perform a factory reset. When you set up your device after the reset, you\'ll have an opportunity to restore any data that was backed up to your account.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"This will erase all data from your device\'s <b>internal storage</b>, including:\n\n<li>Your account</li>\n<li>System and app data and settings</li>\n<li>Downloaded apps</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Any changes you make to your accounts on the web will be automatically copied to your device.\n\nSome accounts may also automatically copy any changes you make on the device to the web. A account works this way.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Kui aktiveerid sissetuleva kõne luku funktsiooni, siis pead kõnele vastamiseks skanneerima sõrmejälje. Kui sõrmejälg on edukalt tuvastatud, siis ühendatakse kõne automaatselt.\nPane tähele järgnevat:\n1. Kõnele saab otse vastata seotud Bluetoothi peakomplekti või nutikella kaudu sõrmejälge skanneerimata.\n2.Juhtmega peakomplekti puhul pead endiselt kõnele vastamiseks sõrmejälge kasutama.\n3.Kõnele ei saa vastata kolmanda osapoole kõne kuvalt.\n4.VoIP kõne puhul, nt WhatsApp häälkõne, tuleb kõnele endiselt vastata rakenduse kaudu."</string>
+    <string name="asus_long_tap_warning">"Kui sissetuleva kõne luku funktsioon on sisse lülitatud, on pika puudutusega kõnedele vastamine välja lülitatud."</string>
+</resources>

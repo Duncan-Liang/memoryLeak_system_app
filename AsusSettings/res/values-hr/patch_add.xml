@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_analytics_summary">Šalji dijagnostičke podatke u ASUS u svrhu poboljšanja kvalitete i performansi našeg proizvoda.</string>
+  <string name="asus_app2sd_blacklist_warning">Prebacite na memoriju uređaja radi boljeg iskustva korištenja</string>
+  <string name="asus_app2sd_notif_title">Neke aplikacije treba vratiti natrag na memoriju uređaja</string>
+  <string name="asus_call_lock_detail">"Kada omogućite funkciju zaključavanja dolaznog poziva, morate skenirati otisak prsta za odgovor na poziv. Ovaj poziv automatski se povezuje kad je otisak prsta uspješno identificiran.\nImajte na umu sljedeće:\n1.Možete odgovoriti na dolazni poziv izravno iz uparanih Bluetooth slušalica ili pametnog gledanja bez skeniranja otiska prsta.\n2.I dalje trebate koristiti otisak prsta za odgovor na poziv kada koristite žične slušalice.\n3.Nećete moći odgovoriti na poziv od 3. strane koji dolazi na zaslon za poziv.\n4.Za glasovni poziv preko IP (VoIP) poziva, npr. WhatsApp glasovni poziv, i dalje trebate odgovoriti na pozive iz same aplikacije."</string>
+  <string name="asus_fingerprint_answer_call_summary">Odgovor na dolazni poziv otiskom prsta</string>
+  <string name="asus_fingerprint_camera_title">Pokreni kameru</string>
+  <string name="asus_fingerprint_id_category_title">ID otiska prsta</string>
+  <string name="asus_fingerprint_incoming_call_title">Zaključani dolazni poziv</string>
+  <string name="asus_fingerprint_launch_camera_summary">Dvaput dotaknite senzor otiska prsta za pokretanje kamere kad je uređja otključan.</string>
+  <string name="asus_fingerprint_launch_camera_title">Pokreni kameru</string>
+  <string name="asus_fingerprint_long_press_summary">Dotaknite i držite senzor otiska prsta za odgovor na dolazne pozive</string>
+  <string name="asus_fingerprint_long_press_title">Odgovor na dolazne pozive</string>
+  <string name="asus_fingerprint_snap_call_summary">Omogući pozive pucketanjem prsta otiskom prsta</string>
+  <string name="asus_fingerprint_snap_call_title">Pozivi pucketanjem prsta</string>
+  <string name="asus_fingerprint_take_photo_summary">Dotaknite senzor otiska prsta za snimanja fotografija kada je kamera aktivna.</string>
+  <string name="asus_fingerprint_take_photo_title">Snimite fotografiju</string>
+  <string name="asus_fingerprint_touch_control_category_title">Dodirne kontrole</string>
+    <string name="asus_long_tap_warning">"Kada je omogućena značajka zaključavanja dolaznog poziva, odgovor na pozive putem dodira i držanja bit će onemogućeno."</string>
+  <string name="asus_storage_menu_migrate">Promjeni vrstu spremanja</string>
+  <string name="asus_storage_sd_warning_content">Osigurajte da ste instalirali viskokvalitetnu SD karticu za spremanje podataka bez poteškoća. Za sigurno spremanje podataka, koristite SD karticu poznatog proizvođača.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[Ova <xliff:g id="name" example="SD card">^1</xliff:g> se prikazuje kao spora.<br><br>Razmotrite korištenje brže <xliff:g id="name" example="SD card">^1</xliff:g> za bolji rad.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">ASUS Bluetooth tipkovnica</string>
+  <string name="camera_double_tap_power_gesture_desc">Brzo otvaranje fotoaparata bez otključavanja zaslona</string>
+  <string name="camera_double_tap_power_gesture_title">Pritisnite uključ. dvaput za fotoaparat</string>
+  <string name="camera_gesture_desc">Otvaranje aplikacije fotoaparata obrtanjem ručnog zgloba dvaput</string>
+  <string name="camera_gesture_title">Dvostruko obrtanje za fotoaparat</string>
+  <string name="gesture_wake_up_screen">Podignite zaslon</string>
+  <string name="inspire_asus_title">Dijagnostički podaci</string>
+  <string name="keywords_color_mode">živopisno rgb srgb boja prirodno standardno</string>
+  <string name="large_and_huge_font_size_warning">Neke aplikacije možda ne budu pravilno prikazale tekstove s vrlo velikim fontom.</string>
+  <string name="manual">Priručnik</string>
+  <string name="notification_remind_user_to_set_bt">Pomaknite gumb u desno, držite za 5 sekunda, potom dotaknite obvijest za početak uparivanja</string>
+  <string name="picture_color_mode">Način boje slike</string>
+  <string name="power_management_setting_title">Upravljanje napajanjem</string>
+  <string name="power_settings_title">Upravljanje napajanjem</string>
+  <string name="powersaver_app_name">Ušteda napajanja</string>
+  <string name="quickpanel_app_instant_page">Stranica trenutno</string>
+  <string name="quickpanel_app_stylus_setting">Postavke za Z Stylus</string>
+  <string name="quickpanel_category_shortcuts">Prečaci</string>
+  <string name="quickpanel_settings_switch_summary">Dođite iznad 1.&lt;sup&gt;&lt;/sup&gt; gumba i kliknite ga na Z Stylus radi proširenja ploče za brzo pokretanje.</string>
+  <string name="quickpanel_settings_switch_title">Ploča za brzo pokretanje</string>
+  <string name="settings_manual_activity_title">Priručnik</string>
+  <string name="settings_manual_activity_unavailable">Došlo je do problema prilikom učitavanja priručnika.</string>
+  <string name="storage_wizard_benchmark_content">Traje nekoliko minuta. Pričekajte.</string>
+  <string name="storage_wizard_benchmark_tittle">Marka</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>Veličina SD kartice je premala. Koristite SD karticu veće brzine.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Koristi unutarnje spremanje za aplikacije i podatke</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Za instalaciju aplikacija na vanjski uređaj za spremanje. Ovo zahtjeva formatiranje koje sprječava rad s drugim uređajima.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Koristi unutarnje spremanje samo za aplikacije</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Prebacite podatke na novu <xliff:g example="SD card" id="name">^1</xliff:g> za više raspoloživog prostora za spremanje kako biste spremili svoje fotografije, datoteke i neke aplikacije. Za instalaciju aplikacija možete odabrati da rezervirate prostor na <xliff:g example="SD card" id="name">^1</xliff:g>.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Vaša nova <xliff:g example="SD card" id="name">^1</xliff:g> radi.]]></string>
+  <string name="stylus_only_mode_summary">Zaustavi način rada s dodirom kada Z Stylus pisaljka nestane sa zaslona</string>
+  <string name="stylus_only_mode_title">Način rada samo pisaljkom</string>
+  <string name="stylus_only_time_title">Vrijeme rada samo pisaljkom</string>
+  <string name="swipe_up_to_wake_up_summary">Potegnite po zaslonu kako biste podignuli uređaj iz stanja mirovanja</string>
+  <string name="swipe_up_to_wake_up_title">Potegnite za podizanje</string>
+  <string name="title_remind_user_to_set_bt">Prvo uparivanje ASUS Bluetooth tipkovnice</string>
+  <string name="usb_hint_option_dialog_title">USB punjenje</string>
+  <string name="usb_hint_option_got_it">U REDU</string>
+  <string name="usb_hint_option_message">Kako biste prikazali druge USB opcije, pomaknite se s vrha zaslona na dno, potom dotaknite USB obavijesti.</string>
+  <string name="z_stylus_title">Z Stylus</string>
+</resources>

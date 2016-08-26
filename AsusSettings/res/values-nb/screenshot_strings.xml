@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Hurtigtastinnstilling"</string>
+    <string name="screenshot_hot_key_title">"Nylige apper-tast"</string>
+    <string name="screenshot_hot_key_summary">"Trykk og hold nylige apper-tasten for å ta et skjermbilde"</string>
+    <string name="screenshot_format_setting_title">"Filformatinnstilling"</string>
+    <string name="screenshot_format_title">"Skjermbildefilformat"</string>
+    <string name="screenshot_sound_setting_title">"Lydinnstilling"</string>
+    <string name="screenshot_sound_title">"Aktiver skjermbildelyd"</string>
+    <string name="screenshot_notify_setting_title">"Varslingsinnstilling"</string>
+    <string name="screenshot_notify_title">"Aktiver varsling"</string>
+</resources>

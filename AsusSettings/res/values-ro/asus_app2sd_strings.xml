@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Mutare în spaţiul de stocare al dispozitivului</string>
+    <string name="move_error_unknow">Imposibil de mutat aplicaţia. Încercaţi din nou.</string>
+    <string name="processing">Se procesează...</string>
+    <string name="dialog_hint">Este posibil ca procesul să dureze o perioadă.\n\nNu opriți dispozitivul și nu utilizați aplicațiile de mutare selectate. Nu  scoateți  dispozitivul  extern  de  stocare  în  acest  moment.\n\nDoriți  să  continuați?</string>
+</resources>

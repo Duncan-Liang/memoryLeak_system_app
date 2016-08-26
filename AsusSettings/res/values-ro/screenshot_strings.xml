@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Setare taste de comandă rapidă"</string>
+    <string name="screenshot_hot_key_title">"Tastă pentru aplicaţii recente"</string>
+    <string name="screenshot_hot_key_summary">"Menţineţi apăsat pe tasta pentru aplicaţii recente pentru a efectua o captură de ecran"</string>
+    <string name="screenshot_format_setting_title">"Setare format fişiere"</string>
+    <string name="screenshot_format_title">"Format fişiere capturi de ecran"</string>
+    <string name="screenshot_sound_setting_title">"Setare sunet"</string>
+    <string name="screenshot_sound_title">"Activare sunet la capturarea ecranului"</string>
+    <string name="screenshot_notify_setting_title">"Setări notificări"</string>
+    <string name="screenshot_notify_title">"Activare notificări"</string>
+</resources>

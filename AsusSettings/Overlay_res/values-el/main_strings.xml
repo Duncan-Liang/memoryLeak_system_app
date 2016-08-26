@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Η κρυπτογράφηση διακόπηκε και δεν είναι δυνατό να ολοκληρωθεί. Ως αποτέλεσμα, τα δεδομένα στη συσκευή σας δεν είναι πλέον προσβάσιμα. \n\n Για να συνεχίσετε να χρησιμοποιείτε τη συσκευή σας, πρέπει να πραγματοποιήσετε επαναφορά στις εργοστασιακές ρυθμίσεις. Όταν ρυθμίσετε τη συσκευή σας μετά την επαναφορά, θα έχετε τη δυνατότητα να επαναφέρετε όλα τα δεδομένα τα οποία αντιγράφηκαν ως αντίγραφα ασφαλείας στο λογαριασμό σας.
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      Ο κωδικός πρόσβασης που εισαγάγατε είναι σωστός, αλλά τα δεδομένα σας είναι δυστυχώς κατεστραμμένα. \n\n Για να συνεχίσετε να χρησιμοποιείτε τη συσκευή σας , πρέπει να πραγματοποιήσετε επαναφορά στις εργοστασιακές ρυθμίσεις. Όταν ρυθμίσετε τη συσκευή σας μετά την επαναφορά, θα έχετε τη δυνατότητα να επαναφέρετε όλα τα δεδομένα τα οποία αντιγράφηκαν ως αντίγραφα ασφαλείας στο λογαριασμό σας.
+    </string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"Αυτό θα διαγράψει όλα τα δεδομένα από την <b>εσωτερική μονάδα αποθήκευσης της συσκευής σας</b>, συμπεριλαμβανομένου του:\n\n<li>λογαριασμού σας </li>\n<li>Δεδομένα και ρυθμίσεις συστήματος και εφαρμογών</li>\n<li>Ληφθείσες εφαρμογές</li>"</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">Οποιαδήποτε αλλαγή πραγματοποιήσετε στους λογαριασμούς σας στο web θα αντιγραφεί αυτόματα στη συσκευή σας.\n\nΜερικοί λογαριασμοί ενδέχεται να αντιγράφουν αυτόματα τυχόν αλλαγές που κάνετε στη συσκευή στο web. Οι λογαριασμοί  λειτουργούν με αυτόν τον τρόπο.</string>
+</resources>

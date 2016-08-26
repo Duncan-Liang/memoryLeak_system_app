@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_info">ข้อมูลซอฟต์แวร์</string>
+ <string name="hardware_info">ข้อมูลฮาร์ดแวร์</string>
+ <string name="software_info_summary">เบสแบนด์, เวอร์ชั่นเคอร์เนล, หมายเลขบิลด์, ฯลฯ</string>
+ <string name="hardware_info_summary">Wi-Fi บลูทูธ เวอร์ชั่นเฟิร์มแวร์ เป็นต้น</string>
+ <string name="asus_encrypt_phone_title">เข้ารหัสโทรศัพท์</string>
+ <string name="asus_encrypt_phone_description">โปรดถอดโทรศัพท์จาก PadFone สเตชั่นของคุณสำหรับการเข้ารหัส</string>
+ <string name="encrypt_storage_not_enough" description="show storage space is not enough for encrypting" maxwidth="-1">ที่เก็บข้อมูลไม่เพียงพอในการเข้ารหัสอุปกรณ์</string>
+    <!-- Sunny_Yuan, Easy mode setting 2014.12.19-->
+    <string name="easy_mode_more_title">"การตั้งค่าเพิ่มเติม"</string>
+
+    <!-- Sunny_Yuan, 2015.1.12-->
+    <string name="asus_bluetooth_ask_discovery" description="Strings for asking to the user whether to allow an app to enable discovery mode" maxwidth="-1">แอปนี้ทำให้อุปกรณ์ของคุณสามารถมองเห็นได้โดยอุปกรณ์บลูทูธอื่นเป็นเวลา <xliff:g id="timeout">%1$d</xliff:g> วินาที</string>
+    <string name="asus_bluetooth_ask_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable lasting discovery mode" maxwidth="-1">แอปนี้ทำให้อุปกรณ์ของคุณสามารถมองเห็นได้โดยอุปกรณ์บลูทูธอื่น คุณสามารถเปลี่ยนสิ่งนี้ภายหลังในการตั้งค่าบลูทูธ</string>
+    <string name="asus_bluetooth_ask_enablement_and_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">ทำเครื่องหมายที่เปิดบลูทูธ และทำให้อุปกรณ์นี้สามารถมองเห็นได้โดยอุปกรณ์อื่นเป็นเวลา <xliff:g id="timeout">%1$d</xliff:g> วินาที</string>
+    <string name="asus_bluetooth_ask_enablement_and_lasting_discovery" description="Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode" maxwidth="-1">ทำเครื่องหมายที่เปิดบลูทูธ และทำให้อุปกรณ์นี้สามารถมองเห็นได้โดยอุปกรณ์อื่น คุณสามารถเปลี่ยนสิ่งนี้ภายหลังในการตั้งค่าบลูทูธ</string>
+    <string name="asus_phone_info_label" description="The title of the activity to see phone info" maxwidth="-1">ข้อมูลอุปกรณ์เคลื่อนที่แบบพกพา</string>
+    <string name="asus_roaming_warning_multiuser" description="mobile network settings screen, message in dialog box that appears when you select the Data roaming check box. This is for multiuser tablets" maxwidth="-1">เมื่อคุณอนุญาตการโรมมิ่งข้อมูลเครือข่ายมือถือ คุณอาจมีค่าบริการการโรมมิ่งที่จำเป็น!\n\nการตั้งค่านี้มีผลต่อผู้ใช้ทุกคนบนอุปกรณ์เคลื่อนที่แบบพกพา </string>
+    <string name="asus_crypt_keeper_encrypt_title" description="Title of the preferences item to control encryption" maxwidth="-1">เข้ารหัสอุปกรณ์</string>
+    <string name="asus_crypt_keeper_desc" description="Informational text in the first confirmation screen before starting device encryption" maxwidth="-1">
+    คุณสามารถเข้ารหัสบัญชี การตั้งค่า แอปที่ดาวน์โหลดและข้อมูล สื่อ และไฟล์อื่น ๆ หลังจากที่คุณเข้ารหัสอุปกรณ์ เสมือนว่าคุณได้ตั้งค่าล็อคหน้าจอ (ซึ่งเป็นรหัสหรือ PIN ที่เป็นตัวเลขและเป็นรูปแบบ) คุณจะต้องปลดล็อคหน้าจอเพื่อถอดรหัสอุปกรณ์ทุกครั้งที่คุณเปิดเครื่อง  วิธีการถอดรหัสอีกอย่างหนึ่งคือการรีเซ็ตการตั้งค่าจากโรงงาน ซึ่งจะลบข้อมูลทั้งหมดของคุณ\n\nการเข้ารหัสอาจใช้เวลาเป็นชั่วโมงหรือมากกว่า คุณจะต้องเริ่มด้วยแบตเตอรี่ที่ชาร์จเต็มแล้ว และเสียบปลั๊กอุปกรณ์ไว้ตลอดกระบวนการ หากคุณขัดจังหวะการเข้ารหัส คุณจะสูญเสียข้อมูลบางอย่างหรือทั้งหมด</string>
+    <string name="asus_crypt_keeper_button_text" description="Button text to start encryption process" maxwidth="-1">เข้ารหัสอุปกรณ์</string>
+    <string name="asus_crypt_keeper_final_desc" description="Warning text in the final confirmation screen before starting device encryption" maxwidth="-1">
+    การดำเนินการเข้ารหัสไม่สามารถเปลี่ยนแปลงได้ และถ้าคุณขัดขัดจังหวะการเข้ารหัส คุณจะสูญเสียข้อมูล การเข้ารหัสอาจใช้เวลาเป็นชั่วโมงหรือมากกว่า ในระหว่างนั้นอุปกรณ์จะรีสตาร์ทหลายครั้ง
+    </string>
+    <string name="asus_crypt_keeper_setup_description" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">รอสักครู่ในขณะที่อุปกรณ์ของคุณกำลังเข้ารหัส <xliff:g example="50" id="percent">^1</xliff:g>% เสร็จสมบูรณ์</string>
+    <string name="asus_crypt_keeper_setup_time_remaining" description="Informational text on the progress screen while encrypting the device" maxwidth="-1">รอสักครู่ในขณะที่อุปกรณ์ของคุณกำลังเข้ารหัส เวลาที่เหลือ: <xliff:g example="1:23" id="duration">^1</xliff:g>
+    </string>
+    <string name="asus_crypt_keeper_failed_summary" description="Informational text when encryption fails" maxwidth="-1">
+      การเข้ารหัสถูกขัดจังหวะ และไม่สามารถดำเนินการให้แล้วเสร็จได้ เป็นผลให้ข้อมูลบนอุปกรณ์ของคุณไม่สามารถเข้าถึงได้อีก \n\n หากต้องการทำต่อโดยใช้อุปกรณ์ของคุณ คุณจะต้องรีเซ็ตการตั้งค่าจากโรงงาน  เมื่อคุณตั้งค่าอุปกรณ์หลังจากรีเซ็ต คุณมีโอกาสที่จะกู้คืนข้อมูลต่างๆ ที่สำรองไว้ใน Google Account ของคุณ
+    </string>
+    <string name="asus_crypt_keeper_data_corrupt_summary" description="Informational text when encryption fails" maxwidth="-1">
+      รหัสผ่านที่คุณป้อนถูกต้อง แต่โชคดีข้อมูลของคุณสูญหายไปแล้ว \n\nหากต้องการทำต่อโดยใช้อุปกรณ์ของคุณ คุณจะต้องรีเซ็ตการตั้งค่าจากโรงงาน เมื่อคุณตั้งค่าอุปกรณ์หลังจากรีเซ็ต คุณมีโอกาสที่จะกู้คืนข้อมูลต่างๆ ที่สำรองไว้ใน Google Account ของคุณ
+    </string>
+    <string name="asus_bluetooth_disconnect_pan_nap_profile" description="Bluetooth settings.  Message for disconnecting from the PAN profile (NAP role)." maxwidth="80">
+        <xliff:g id="device_name">%1$s</xliff:g> จะถูกตัดการเชื่อมต่อจากการเชื่อมต่ออินเทอร์เน็ตของอุปกรณ์นี้</string>
+    <string name="asus_nfc_quick_toggle_summary" description="Description of NFC in the 1st level settings screen, for a tablet." maxwidth="-1">อนุญาตการแลกเปลี่ยนข้อมูลเมื่ออุปกรณ์นี้สัมผัสกับอุปกรณ์อื่น</string>
+    <string name="asus_wifi_skipped_message" description="Text warning about skipping Wi-Fi with a mobile connect" maxwidth="-1">คำเตือน: หากคุณข้าม Wi\u2011Fi อุปกรณ์ของคุณจะใช้เฉพาะข้อมูลเครือข่ายมือถือสำหรับการดาวน์โหลดและการอัปเดตเบื้องต้น เพื่อหลีกเลี่ยงค่าบริการข้อมูลเครือข่ายมือถือที่เป็นไปได้ ให้เชื่อมต่อ Wi\u2011Fi</string>
+    <string name="asus_wifi_and_mobile_skipped_message" description="Text warning about skipping Wi-Fi without a mobile connect" maxwidth="-1">คำเตือน: หากคุณข้าม Wi\u2011Fi อุปกรณ์ของคุณจะไม่มีการเชื่อมต่ออินเทอร์เน็ตเพื่อใช้สำหรับการดาวน์โหลดหรือการอัปเดตเบื้องต้น  </string>
+    <string name="asus_wifi_connect_failed_message" description="wifi_connect_failed_message" maxwidth="-1">อุปกรณ์ไม่สามารถเชื่อมต่อกับเครือข่าย Wi\u2011Fi นี้</string>
+    <string name="asus_dock_audio_summary_none" description="Dock audio summary for undocked" maxwidth="-1">ไม่ได้เชื่อมต่ออุปกรณ์</string>
+    <string name="asus_dock_not_found_text" description="Dock not found dialog text" maxwidth="-1">คุณจะต้องเชื่อมต่ออุปกรณ์ก่อนที่จะตั้งค่าเสียงการเชื่อมต่อ</string>
+    <string name="asus_dock_sounds_enable_summary_on" description="Dock settings screen, setting option summary text when check box is selected" maxwidth="-1">เล่นเสียงเมื่อใส่หรือถอดอุปกรณ์ออกจากการเชื่อมต่อ</string>
+    <string name="asus_dock_sounds_enable_summary_off" description="Sound settings screen, setting option summary text when check box is clear" maxwidth="-1">ไม่เล่นเสียงเมื่อใส่หรือถอดอุปกรณ์ออกจากการเชื่อมต่อ</string>
+    <string name="asus_accelerometer_summary_on" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is selected" maxwidth="-1">สลับการปรับทิศทางโดยอัตโนมัติเมื่อหมุนอุปกรณ์</string>
+    <string name="asus_accelerometer_summary_off" description="Sound and display settings screen, accelerometer-based rotation summary text when check box is clear" maxwidth="-1">สลับการปรับทิศทางโดยอัตโนมัติเมื่อหมุนอุปกรณ์</string>
+    <string name="asus_sim_lock_on" description="SIM card lock settings screen, setting option summary text when SIM lock check box is selected" maxwidth="40">ต้องใช้รหัส PIN เพื่อใช้อุปกรณ์</string>
+    <string name="asus_sim_lock_off" description="SIM card lock settings screen, setting option summary text when SIM lock check box is clear" maxwidth="40">ต้องใช้รหัส PIN เพื่อใช้อุปกรณ์</string>
+    <string name="asus_device_info_settings" description="Advanced (used for diagnostics) device info activity title" maxwidth="40">สถานะอุปกรณ์</string>
+    <string name="asus_device_status_summary" description="About tablet screen, summary of the item that takes you to tablet status screen" maxwidth="-1">สถานะแบตเตอรี่ เครือข่าย และข้อมูลอื่นๆ </string>
+    <string name="asus_status_number" description="About tablet, status item title.  The Mobile Directory Number" maxwidth="30">MDN</string>
+    <string name="asus_master_clear_summary" description="SD card and phone storage settings screen, setting option summary text under Internal phone storage heading" maxwidth="-1">ลบข้อมูลทั้งหมดบนอุปกรณ์</string>
+    <string name="asus_master_clear_desc" description="SD card and phone storage settings screen, message on screen after user selects Factory data reset" maxwidth="-1">"การดำเนินการนี้จะลบข้อมูลทั้งหมดออกจาก <b>ที่เก็บข้อมูลภายในของอุปกรณ์ของคุณ</b>โดยประกอบด้วย:\n\n<li>บัญชี Google</li>\n<li>ระบบและข้อมูลแอป และการตั้งค่า</li>\n<li>แอปที่ดาวน์โหลด</li>"</string>
+    <string name="asus_master_clear_button_text" description="SD card and phone storage settings screen, button on screen after user selects Factory data reset" maxwidth="-1">รีเซ็ตอุปกรณ์</string>
+    <string name="asus_bluetooth_tethering_available_subtext" description="Bluetooth available subtext - shown when Bluetooth tethering is turned on but it is not currently tethered to any devices" maxwidth="50">กำลังแชร์การเชื่อมต่ออินเทอร์เน็ตของอุปกรณ์นี้</string>
+    <string name="asus_bluetooth_tethering_device_connected_subtext" description="Bluetooth connected subtext - shown when a device is tethered over Bluetooth" maxwidth="60">กำลังแชร์การเชื่อมต่ออินเทอร์เน็ตของอุปกรณ์นี้กับ 1 อุปกรณ์</string>
+    <string name="asus_bluetooth_tethering_devices_connected_subtext" description="Bluetooth connected subtext - shown when multiple devices are tethered over Bluetooth" maxwidth="60">กำลังแชร์การเชื่อมต่ออินเทอร์เน็ตของอุปกรณ์นี้กับ <xliff:g id="connectedDeviceCount">%1$d</xliff:g> อุปกรณ์</string>
+    <string name="asus_bluetooth_tethering_off_subtext" description="Bluetooth tethering off subtext - shown when Bluetooth Tethering is turned off" maxwidth="50">ไม่มีการแชร์การเชื่อมต่ออินเทอร์เน็ตของอุปกรณ์นี้</string>
+    <string name="asus_location_street_level" description="Security and location settings screen, setting check box summary for GPS satellites on a tablet" maxwidth="100">อนุญาตให้แอปใช้ GPS บนอุปกรณ์ของคุณเพื่อชี้จุดตำแหน่งที่ตั้งของคุณ</string>
+    <string name="asus_about_settings" description="Main settings screen, setting title for the user to go into the About phone screen" maxwidth="-1">เกี่ยวกับอุปกรณ์</string>
+    <string name="asus_install_all_warning" description="Applications settings screen, message text of alert that appears if user selects the Unknown sources check box" maxwidth="-1">อุปกรณ์และข้อมูลส่วนตัวของคุณมีความเสี่ยงมากขึ้นที่จะถูกโจมตีโดยแอปจากแหล่งข้อมูลที่่ไม่รู้จัก คุณยอมรับที่จะรับผิดชอบแต่เพียงผู้เดียวสำหรับความเสียหายต่างๆ กับอุปกรณ์ของคุณ หรือการสูญเสียข้อมูลที่อาจเป็นผลมาจากการใช้แอปเหล่านี้</string>
+    <string name="asus_security_settings_desc" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has." maxwidth="-1">แอปนี้สามารถเข้าถึงสิ่งต่อไปนี้บนอุปกรณ์ของคุณ:</string>
+    <string name="asus_security_settings_desc_multi" description="Manage applications, individual application info screen, text that appears under the Permissions heading. This describes the permissions that the application has.  It is used when multiple packages are contributing to the permissions and need to be listed here." maxwidth="-1">แอปนี้สามารถเข้าถึงสิ่งต่อไปนี้บนอุปกรณ์ของคุณ</string>
+    <string name="asus_move_app_to_internal" description="Manage applications, text for Move button to move app to internal storage" maxwidth="-1">ย้ายไปที่อุปกรณ์</string>
+    <string name="asus_runningservicedetails_stop_dlg_text" description="Running service details, stop confirmation descriptive text. Displays when user selects selects to stop a system service" maxwidth="-1">หากคุณหยุดบริการนี้ คุณสมบัติบางอย่างของอุปกรณ์อาจหยุดการทำงานอย่างถูกต้องจนกว่าคุณจะปิดอุปกรณ์ จากนั้นเปิดอีกครั้ง</string>
+    <string name="asus_testing_phone_info" description="In the Testing screen.  The item title of the activity that shows a bunch of phone-related information" maxwidth="-1">ข้อมูลอุปกรณ์</string>
+    <string name="asus_power_idle" description="Label for power consumed when Idle" maxwidth="-1">อุปกรณ์ไม่ได้ใช้งาน</string>
+    <string name="asus_usage_type_phone" description="Label for Phone usage time" maxwidth="-1">อุปกรณ์</string>
+    <string name="asus_battery_desc_standby" description="Description for standby detail" maxwidth="-1">แบตเตอรี่ที่ใช้เมื่ออุปกรณ์ไม่ได้ใช้งาน</string>
+    <string name="asus_really_remove_account_message" description="Remove account message in dialog" maxwidth="-1">การลบบัญชีนี้จะลบข้อความ รายชื่อผู้ติดต่อ และข้อมูลอื่น ๆ ทั้งหมดจากอุปกรณ์นี้!</string>
+    <string name="asus_data_usage_auto_sync_on_dialog" description="Title of dialog shown when user enables global auto sync" maxwidth="32">การเปลี่ยนแปลงใด ๆ ที่คุณกระทำในบัญชีของคุณบนเว็บไไซต์จะถูกคัดลอกไปยังอุปกรณ์โดยอัตโนมัติ\n\nนอกจากนี้บางบัญชีอาจจะคัดลอกการเปลี่ยนแปลงต่าง ๆ ที่คุณกระทำในอุปกรณ์ไปยังเว็บไซต์  บัญชี Google จะทำงานวิธีนี้</string>
+    <string name="asus_data_usage_limit_dialog_mobile" description="Body of dialog shown before user limits mobile data usage" maxwidth="-1">อุปกรณ์ของคุณจะเปิดข้อมูลเครือข่ายมือถือเมื่อถึงขีดจำกัดที่คุณตั้งไว้ \n\nเนื่องจากการใช้ข้อมูลถูกวัดโดยอุปกรณ์ของคุณ และผู้ให้บริการเครือข่ายอาจคำนวณการใช้ข้อมูลที่แตกต่างกัน ให้พิจารณาการตั้งค่าขีดจำกัดเชิงป้องกัน </string>
+    <string name="asus_data_usage_restrict_background_multiuser" description="data_usage_restrict_background_multiuser" maxwidth="-1">หากคุณจำกัดข้อมูลเครือข่ายมือถือเบื้องหลัง แอปและการบริการบางอย่างจะไม่ทำงานเว้นแต่ว่าคุณได้เชื่อมต่อกับ Wi\u2011Fi\n\nการตั้งค่ามีผลต่ิอผู้ใช้ทั้งหมดบนอุปกรณ์นี้</string>
+    <string name="asus_data_usage_total_during_range_mobile" description="Label displaying total network data transferred during a specific time period, including a disclaimer that contrasts device versus carrier reporting" maxwidth="80">
+        <xliff:g example="Jul 1 - Jul 31" id="range">%2$s</xliff:g>:เกี่ยวกับ <xliff:g example="128KB" id="total">%1$s</xliff:g> ที่ใช้แล้ว ตามการวัดโดยอุปกรณ์ของคุณ การคำนวณการใช้ข้อมูลของผู้ให้บริการเครือข่ายอาจแตกต่าง</string>
+    <string name="asus_user_cannot_manage_message" description="Message to secondary users that only owner can manage users" maxwidth="-1">เฉพาะเจ้าของอุปกรณ์เท่านั้นสามารถที่จะจัดการกับผู้ใช้</string>
+    <string name="asus_user_confirm_remove_self_message" description="User (self) removal confirmation message" maxwidth="-1">คุณจะสูญเสียพื้นที่ว่างและข้อมูลบนอุปกรณ์นี้ คุณไม่สามารถยกเลิกการกระทำนี้ได้!</string>
+    <string name="asus_global_change_warning" description="Warning message when changing a global setting for a table" maxwidth="-1">การตั้งค่านี้มีผลต่อผู้ใช้ทั้งหมดบนอุปกรณ์นี้</string>
+    <string name="asus_restriction_nfc_enable_summary" description="Restrictions summary for allowing NFC transfers" maxwidth="100">อนุญาตการแลกเปลี่ยนข้อมูลเมื่ออุปกรณ์นี้สัมผัสกับอุปกรณ์อื่น</string>
+    <string name="asus_location_mode_sensors_only_title" description="Location settings screen, GPS only location mode" maxwidth="30">GPS เท่านั้น</string>
+    <string name="asus_screen_pinning_description" description="Screen pinning description" maxwidth="300">เมื่อเปิดแล้ว คุณสามารถใช้การปักหมุดหน้าจอเพื่อคงหน้าจอปัจจุบันในมุมมองจนกว่าคุณจะยกเลิกการปักหมุด\n\nหากต้องการใช้การปักหมุดหน้าจอ:\n\n1 ให้แน่ใจว่าเปิดการปักหมุดหน้าจอแล้ว\n\n2 เปิดหน้าจอที่คุณต้องการปักหมุด\n\n3 แตะที่ปุ่มแอปล่าสุด\n\n4 แตะที่ไอคอนปักหมุด</string>
+
+    <string name="zenui_update">อัปเดต APP ZenUI</string>
+ <string name="c_launch_title">“C” เพื่อเรียกใช้แอป</string>
+    <string name="double_tap_mode_confirm_dialog_checkbox_message">อย่าแสดงข้อความนี้อีก</string>
+    <string name="double_tap_mode_confirm_dialog_message">ขณะที่หน้าจอปิด ดับเบิลแทปที่เดียวกันบนหน้าจอเพื่อปลุกหน้าจอขึ้นมา ที่หน้าจอล็อคที่มีการปัดเพื่อล็อค ดับเบิลแทปบริเวณที่ว่างเพื่อปิดหน้าจอ ที่แถบสถานะและลอนเชอร์ ดับเบิลแทปบริเวณที่ว่างเพื่อปิดหน้าจอ</string>
+    <string name="double_tap_mode_confirm_dialog_title">ดับเบิลแทปเพื่อปลุก/\nดับเบิลแทปเพื่อพัก</string>
+    <string name="doubletap_mode_setting_summary">ดับเบิลแทปเพื่อปลุก/"\n"ดับเบิลแทปเพื่อพัก</string>
+    <string name="doubletap_mode_setting_title">หน้าจอ เปิด/ปิด</string>
+    <string name="e_launch_title">“e” เพื่อเรียกใช้แอป</string>
+    <string name="motion_gesture_category_title">เจสเจอร์เคลื่อนที่</string>
+    <string name="s_launch_title">“S” เพื่อเรียกใช้แอป</string>
+    <string name="shake_sensitivity_title">ความไวการเขย่า</string>
+    <string name="shake_title">เขย่า เขย่า</string>
+    <string name="touch_gesture_category_title">เจสเจอร์สัมผัส</string>
+    <string name="v_launch_title">“V” เพื่อเรียกใช้แอป</string>
+    <string name="w_launch_title">“W” เพื่อเรียกใช้แอป</string>
+    <string name="z_launch_title">“Z” เพื่อเรียกใช้แอป</string>
+    <string name="app_disable">ปิดทำงาน</string>
+    <string name="shake_sensitivity_entries_high">สูง</string>
+    <string name="shake_sensitivity_entries_low">ต่ำ</string>
+    <string name="shake_sensitivity_entries_normal">ปกติ</string>
+    <string name="double_tap_off_confirm_dialog_message">ที่หน้าจอล็อคด้วยการปัดนิ้วเพื่อปลดล็อค แตะสองครั้งบนพื้นที่ว่างเพื่อปิดหน้าจอ ที่แถบสถานะและตัวเรียกใช้งาน แตะสองครั้งที่พื้นที่ว่างเพื่อปิดหน้าจอ</string>
+    <string name="double_tap_off_confirm_dialog_title">แตะสองครั้งเพื่อหยุดชั่วคราว</string>
+    <string name="double_tap_on_confirm_dialog_message">ในขณะที่หน้าจอปิดอยู่ แตะสองครั้งในพื้นที่เดียวกันบนหน้าจอเพื่อเรียกใช้งานหน้าจอ</string>
+    <string name="double_tap_on_confirm_dialog_title">แตะสองครั้งเพื่อปลุก</string>
+    <string name="doubletap_off_setting_summary">แตะสองครั้งเพื่อหยุดชั่วคราว</string>
+    <string name="doubletap_off_setting_title">ปิดหน้าจอ</string>
+    <string name="doubletap_on_setting_summary">แตะสองครั้งเพื่อปลุก</string>
+    <string name="doubletap_on_setting_title">เปิดหน้าจอ</string>
+    <string name="cpu_frequency_title">CPU</string>
+    <string name="memory_size_title">RAM</string>
+    <string name="shake_summary">ในขณะที่ใช้แอป เขย่าสองครั้งเพื่อจับภาพหน้าจอ และสร้างงานใหม่ใน Do It Later (ทำภายหลัง)</string>
+    <string name="sleep_touch_gesture_category_title">โหมดพัก</string>
+    <string name="wake_up_touch_gesture_category_title">โหมดตื่น</string>
+    <string name="motion_double_click_summary">คลิกตัวเครื่องโทรศัพท์สองครั้ง</string>
+    <string name="motion_double_click_title">ดับเบิลคลิก</string>
+    <string name="motion_flip_summary">พลิกอุปกรณ์กลับ</string>
+    <string name="motion_flip_title">พลิก</string>
+    <string name="motion_hand_up_summary">ถือโทรศัพท์ในโหมดแนวตั้ง และยกขึ้นสัมผัสที่หู</string>
+    <string name="motion_hand_up_title">ยกมือขึ้น</string>
+    <string name="motion_walking_summary">ในขณะที่โทรศัพท์อยู่ในมือหรือกระเป๋า โทรศัพท์จะรู้ว่าคุณกำลังเดินหรือกำลังเคลื่อนไหว</string>
+    <string name="motion_walking_title">การเคลื่อนไหว</string>
+    <string name="app_asus_front_camera_name">กล้องถ่ายรูป - เลนส์ด้านหน้า</string>
+    <string name="tutorial_c_launch_summary">"ในขณะที่หน้าจอปิด วาด “C” เพื่อเปิดแอป"</string>
+    <string name="tutorial_double_click_summary">"เมื่อมีสายเข้า ดับเบิลคลิกที่ตัวเครื่องโทรศัพท์ เพื่อเปลี่ยนไปเป็นโหมดเงียบ"</string>
+    <string name="tutorial_e_launch_summary">"ในขณะที่หน้าจอปิด วาด “e” เพื่อเปิดแอป"</string>
+    <string name="tutorial_flip_down_summary">"ระหว่างที่มีสายเรียกเข้า พลิกอุปกรณ์คว่ำลงเพื่อเปลี่ยนไปเป็นโหมดเงียบ ระหว่างการเล่นมีเดีย พลิกอุปกรณ์คว่ำลงเพื่อหยุดเครื่อเล่นชั่วคราว"</string>
+    <string name="tutorial_flip_down_title">"พลิก(พลิกลง)"</string>
+    <string name="tutorial_flip_up_summary">"ระหว่างเครื่องเล่นมีเดียหยุดชั่วคราว พลิกอุปกรณ์หงายขึ้นเพื่อหยุดเครื่องเล่นชั่วคราว"</string>
+    <string name="tutorial_flip_up_title">"พลิก(พลิกขึ้น)"</string>
+    <string name="tutorial_hands_up_summary">"ยกโทรศัพท์ไปไว้ข้างหู เพื่อรับสายโดยอัตโนมัติโดยไม่ต้องแทปหน้าจอ"</string>
+    <string name="tutorial_moving_summary">"เมื่อมีสายเรียกเข้า เร่งระดับเสียงขึ้นในขณะที่เดินหรือชมภาพยนตร์"</string>
+    <string name="tutorial_s_launch_summary">"ในขณะที่หน้าจอปิด วาด “S” เพื่อเปิดแอป"</string>
+    <string name="tutorial_v_launch_summary">"ในขณะที่หน้าจอปิด วาด “V” เพื่อเปิดแอป"</string>
+    <string name="tutorial_w_launch_summary">"ในขณะที่หน้าจอปิด วาด “W” เพื่อเปิดแอป"</string>
+    <string name="tutorial_z_launch_summary">"ในขณะที่หน้าจอปิด วาด “Z” เพื่อเปิดแอป"</string>
+    <string name="zenmotion_tutorial_title">"การสอน"</string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 2016/6/27 begin-->
+    <!--Verizon Last Factory Data Reset VZ_REQ_UI_15743-->
+    <string name="last_factory_reset_title">"การรีเซ็ทเป็นค่าที่ตั้งจากโรงงานครั้งล่าสุด"</string>
+    <!-- Kevin_Chiou, Verizon item-->
+    <string name="configuration_version">"เวอร์ชั่นการกำหนดค่าโครงแบบ"</string>
+    <!-- Kevin_Chiou, Verizon Customize Entry for AudioWizard-->
+    <string name="audiowizard_entry_title">"การตั้งค่าเสียงอย่างง่าย"</string>
+    <!-- Kevin_Chiou, add new column for theme app-->
+    <string name="asus_theme_app_title">ธีม</string>
+    <!-- Kevin_Chiou, add new column for Customer ID-->
+    <string name="customer_id">"ID ลูกค้า"</string>
+    <!-- JimCC_Yu, USB configuration for MTP -->
+    <string name="usb_change_config_title">"ใช้ USB สำหรับการถ่ายโอนไฟล์?"</string>
+    <string name="usb_change_config_dialog_title">"ใช้ USB สำหรับการถ่ายโอนไฟล์?"</string>
+    <string name="usb_change_config_dialog_message">อนุญาตให้ถ่ายโอนไฟล์ โดยใช้คอมพิวเตอร์ที่คุณเชื่อถือ เมื่อเชื่อมต่อแล้ว</string>
+    <string name="usb_change_config_dialog_checkbox_message">
+        "อนุญาตเสมอสำหรับคอมพิวเตอร์เครื่องนี้"
+    </string>
+    <!--sunhuihui@wind-mobi.com Feature#110139 2016/6/27 end-->
+</resources>

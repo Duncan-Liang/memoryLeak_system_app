@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Камерыг дэлгэцийн түгжээ тайлалгүйгээр төвөггүй нээх</string>
+  <string name="camera_double_tap_power_gesture_title">Камер нээхийн тулд асаах/унтраах товчлуурыг 2 удаа дараарай</string>
+  <string name="camera_gesture_desc">Бугуйгаа 2 удаа эргүүлэн камерын апп-ыг нээгээрэй</string>
+  <string name="camera_gesture_title">Камер нээхийн тулд бугуйгаа 2 удаа эргүүлэх</string>
+  <string name="keywords_color_mode">байгалийн стандарт хурц rgb srgb өнгө</string>
+  <string name="manual">Гар ажиллагаатай</string>
+  <string name="picture_color_mode">\"Зургийн өнгө\" горим</string>
+  <string name="picture_color_mode_desc">sRGB-г ашиглах</string>
+  <string name="settings_manual_activity_title">Гар ажиллагаатай</string>
+  <string name="settings_manual_activity_unavailable">Гар ажиллагааг ачаалах явцад алдаа гарлаа.</string>
+</resources>

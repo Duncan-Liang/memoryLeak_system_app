@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">移到设备存储空间</string>
+    <string name="move_error_unknow">无法移动应用程序。 请再试一次。</string>
+    <string name="processing">正在处理...</string>
+    <string name="dialog_hint">此过程需要一些时间。\n\n请勿关闭设备，也不要使用所选的移动应用程序。 请勿在此时拔掉外部存储设备。\n\n是否继续?</string>
+</resources>

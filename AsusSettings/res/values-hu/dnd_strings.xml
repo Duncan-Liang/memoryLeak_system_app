@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Ne zavarjanak</string>
+    <string name="zen_mode_option_off2">Engedélyezés mindig</string>
+    <string name="zen_mode_option_important_interruptions2">Szabályok alkalmazása zavarás esetén</string>
+    <string name="zen_mode_option_no_interruptions2">Nincs engedélyezés</string>
+    <string name="zen_mode_important_category2">Zavarási szabályok</string>
+    <string name="zen_mode_from2">Bejövő hívások/üzenetek engedélyezése innen:</string>
+    <string name="zen_mode_from_anyone2">Bárki</string>
+    <string name="zen_mode_from_contacts2">Csak partnerek</string>
+    <string name="zen_mode_from_starred2">Csak kedvencek</string>
+    <string name="zen_mode_from_vip2">Csak VIP</string>
+    <string name="zen_mode_downtime_category2">Beütemezett időpont (Szabályok alkalmazása zavarás esetén)</string>
+    <string name="zen_mode_alarms_priority">Figyelmeztetések</string>
+    <string name="zen_mode_repeated_calls">Ismétlődő hívások</string>
+    <string name="zen_mode_repeated_calls_desc">Ha két percen belül egy második hívásra kerül sor, az nem lesz elnémítva</string>
+    <string name="zen_mode_add_downtime">Új ütemzés</string>
+    <string name="zen_mode_meeting_mode_category">Naptáresemények által aktivált ütemezés</string>
+    <string name="zen_mode_weekend">Hétvége</string>
+    <string name="zen_mode_everyday">Minden nap</string>
+    <string name="zen_mode_remove_dialog_title">Ütemezés törlése</string>
+    <string name="zen_mode_remove_dialog_message">Törli ezt az ütemezést?</string>
+    <string name="zen_mode_limit_dialog_title">Új ütemzés</string>
+    <string name="zen_mode_limit_dialog_message">Legfeljebb %d ütemezést állíthat be.</string>
+    <string name="zen_mode_downtime_title">ütemezés</string>
+    <string name="zen_mode_downtime_title_new">Új ütemzés</string>
+    <string name="zen_mode_downtime_title_edit">Ütemezés szerkesztése</string>
+    <string name="zen_mode_downtime_title_meeting">Ütemezés szerkesztése </string>
+    <string name="zen_mode_others">Beállítások</string>
+    <string name="zen_mode_send_notifications">Értesítés</string>
+    <string name="zen_mode_send_notifications_desc">Értesítés küldése, amint aktiválják a Ne zavarjanak funkciót.</string>
+    <string name="zen_mode_no_interruptions_warning">"Ha a \"teljes csend\" beállítást választja, az ébresztők el lesznek némítva."</string>
+    <string name="zen_mode_from_anyone3">"Bárkitől"</string>
+    <string name="zen_mode_from_favorites_only">"Csak kedvencektől"</string>
+    <string name="zen_mode_from_contacts_only">"Csak kapcsolatoktól"</string>
+    <string name="zen_mode_repeat_callers2">"Ismételt hívások"</string>
+    <string name="zen_mode_repeat_callers_summary2">"A szám, amely <xliff:g id="MINUTES">%d</xliff:g> percen belül újra hív, engedélyt kap"</string>
+    <string name="zen_mode_option_important_interruptions3">"Zavarási szabályok alkalmazása"</string>
+    <string name="zen_mode_selected_callers2">"kijelölt hívás"</string>
+    <string name="zen_mode_dnd_is_on">"A ne zavarj mód aktív. Kikapcsolása manuálisan lehetséges."</string>
+    <string name="zen_mode_turn_off_now">"Kikapcsolás most"</string>
+    <string name="zen_mode_custom_name">"Egyéni"</string>
+    <string name="zen_mode_manual_turn_on">"Ne zavarj mód engedélyezése manuálisan"</string>
+    <string name="zen_mode_turn_off">"Ne zavarj mód letiltása"</string>
+    <string name="zen_mode_in_activity">"Engedélyezve: "</string>
+    <string name="zen_mode_forever2">"Határozatlan időre"</string>
+</resources>

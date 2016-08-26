@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Label for button to confirm chosen date or time [CHAR LIMIT=30] -->
+    <string name="asus_commonui_done_label">Labi</string>
+    <string name="asus_commonui_cancel_label">Atcelt</string>
+    <!--
+         Content description for the hour selector in the time picker, which displays
+         selectable hours of the day along the inside edge of a circle, as in an analog clock.
+         [CHAR LIMIT=50]
+    -->
+    <string name="asus_commonui_hour_picker_description">Stundu aplis</string>
+    <!--
+         Content description for the minute selector in the time picker, which displays
+         selectable five-minute intervals along the inside edge of a circle, as in an analog clock.
+         [CHAR LIMIT=50]
+    -->
+    <string name="asus_commonui_minute_picker_description">Minūšu aplis</string>
+    <!-- Accessibility announcement for hour circular picker [CHAR LIMIT=NONE] -->
+    <string name="asus_commonui_select_hours">Atlasīt stundas</string>
+    <!-- Accessibility announcement for minute circular picker [CHAR LIMIT=NONE] -->
+    <string name="asus_commonui_select_minutes">Atlasīt minūtes</string>
+    <!--
+        Content description for the month and day selector in the date picker, which displays
+        a selectable grid of days laid out by month.
+        [CHAR LIMIT=50]
+     -->
+    <string name="asus_commonui_day_picker_description">Mēneša dienu tabula</string>
+    <!--
+        Content description for the year selector in the date picker, which displays
+        a scrolling, vertical list of years.
+        [CHAR LIMIT=50]
+     -->
+    <string name="asus_commonui_year_picker_description">Gada saraksts</string>
+    <!-- Accessibility announcement for the day picker [CHAR LIMIT=NONE] -->
+    <string name="asus_commonui_select_day">Atlasīt mēnesi un dienu</string>
+    <!-- Accessibility announcement for the year picker [CHAR LIMIT=NONE] -->
+    <string name="asus_commonui_select_year">Atlasīt gadu</string>
+    <!-- Accessibility description for the item that is currently selected. -->
+    <string name="asus_commonui_item_is_selected">
+        <xliff:g example="2013" id="item">%1$s</xliff:g> atlasīts</string>
+    <!-- Accessibility announcement when a number that had been typed in is deleted [CHAR_LIMIT=NONE] -->
+    <string name="asus_commonui_deleted_key">
+        <xliff:g example="4" id="key">%1$s</xliff:g> dzēsts</string>
+    <!-- DO NOT TRANSLATE -->
+    <!-- DO NOT TRANSLATE -->
+    <!-- DO NOT TRANSLATE -->
+    <!-- DO NOT TRANSLATE -->
+    <!-- DO NOT TRANSLATE -->
+    <!-- Alarm hint: Describes how long from now until alarm fires -->
+    <string-array name="alarm_set">
+        <item>"Modinātājs iestatīts mazāk par 1 minūti no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="DAYS">%1$s</xliff:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="HOURS">%2$s</xliff:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="DAYS">%1$s</xliff:g> un <xliff:g example="2" id="HOURS">%2$s</xliff:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="MINUTES">%3$s</xliff:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="DAYS">%1$s</xliff:g> un <xliff:g example="2" id="MINUTES">%3$s</xliff:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="HOURS">%2$s</xliff:g> un <xliff:g example="2" id="MINUTES">%3$s</xliff:g> no šā brīža."</item>
+        <item>"Modinātājs iestatīts <xliff:g example="2" id="DAYS">%1$s</xliff:g>, <xliff:g example="2" id="HOURS">%2$s</xliff:g> un <xliff:g example="2" id="MINUTES">%3$s</xliff:g> no šā brīža."</item>
+    </string-array>
+    <!-- Alarm hint: singular day -->
+    <string name="day">"1 diena"</string>
+    <!-- Alarm hint: plural days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> dienas"</string>
+    <!-- Alarm hint: singular hour -->
+    <string name="hour">"1 stunda"</string>
+    <!-- Alarm hint: plural hours -->
+    <string name="hours">"
+        <xliff:g id="hours">%s</xliff:g> stundas"</string>
+    <!-- Alarm hint: singular minute  -->
+    <string name="minute">"1 minūte"</string>
+    <!-- Alarm hint: plural minutes  -->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> minūtes"</string>
+    <!-- BEGIN aaron_juan@asus.com -->
+    <string name="asus_commonui_no_url_handler">Nav atrasta neviena lietotne, kas varētu atvērt vietrādi URL.</string>
+    <!-- END aaron_juan@asus.com -->
+    <!-- BEGIN dean2_huang@asus.com -->
+    <string name="asus_commonui_shareactionprovider_share_with_application">Koplietot ar</string>
+    <string name="asus_commonui_shareactionprovider_share_with">Koplietot ar</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">Skatīt visu</string>
+    <string name="asus_commonui_activitychooserview_choose_application">Izvēlieties lietotni</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">Kļūda</string>
+    <string name="asus_commonui_whichHomeApplication">Atlasīt mājas lietotni</string>
+    <string name="asus_commonui_whichApplication">Pabeigt darbību, izmantojot</string>
+    <string name="asus_commonui_chooseActivity">Izvēlieties darbību</string>
+    <string name="asus_commonui_noApplications">Šo darbību nevar veikt neviena lietotne.</string>
+    <string name="asus_commonui_activity_resolver_use_always">Vienmēr</string>
+    <string name="asus_commonui_activity_resolver_use_once">Tikai vienreiz</string>
+    <!-- END dean2_huang@asus.com -->
+</resources>

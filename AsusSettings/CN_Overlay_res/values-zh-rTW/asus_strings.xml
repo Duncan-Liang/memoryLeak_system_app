@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">WLAN版本</string>
+
+</resources>

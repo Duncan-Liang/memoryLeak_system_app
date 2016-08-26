@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Не ме безпокойте</string>
+    <string name="zen_mode_option_off2">Винаги разрешавай</string>
+    <string name="zen_mode_option_important_interruptions2">Прилагане на правила за обезпокояване</string>
+    <string name="zen_mode_option_no_interruptions2">Не разрешавай</string>
+    <string name="zen_mode_important_category2">Правила за обезпокояване</string>
+    <string name="zen_mode_from2">Разреши повиквания/съобщения от</string>
+    <string name="zen_mode_from_anyone2">Всички</string>
+    <string name="zen_mode_from_contacts2">Само контакти</string>
+    <string name="zen_mode_from_starred2">Само предпочитани</string>
+    <string name="zen_mode_from_vip2">Само VIP</string>
+    <string name="zen_mode_downtime_category2">Според графика (Прилагане на правила за обезпокояване)</string>
+    <string name="zen_mode_alarms_priority">Аларми</string>
+    <string name="zen_mode_repeated_calls">Повтарящи се повиквания</string>
+    <string name="zen_mode_repeated_calls_desc">Второ повикване в рамките на две минути няма да бъде заглушено</string>
+    <string name="zen_mode_add_downtime">Нов график</string>
+    <string name="zen_mode_meeting_mode_category">График, активиран от календарни събития</string>
+    <string name="zen_mode_weekend">Уикенд</string>
+    <string name="zen_mode_everyday">Ежедневно</string>
+    <string name="zen_mode_remove_dialog_title">Премахване на график</string>
+    <string name="zen_mode_remove_dialog_message">Премахване на този график?</string>
+    <string name="zen_mode_limit_dialog_title">Нов график</string>
+    <string name="zen_mode_limit_dialog_message">Можете да имате до %d настройки за график.</string>
+    <string name="zen_mode_downtime_title">график</string>
+    <string name="zen_mode_downtime_title_new">Нов график</string>
+    <string name="zen_mode_downtime_title_edit">Редактиране на график</string>
+    <string name="zen_mode_downtime_title_meeting">Редактиране на график </string>
+    <string name="zen_mode_others">Настройки</string>
+    <string name="zen_mode_send_notifications">Известие</string>
+    <string name="zen_mode_send_notifications_desc">Изпращане на известие, когато режим "Не ме безпокойте" е активиран</string>
+    <string name="zen_mode_no_interruptions_warning">"При задаване на \"пълна тишина\", звукът на алармите се изключва."</string>
+    <string name="zen_mode_from_anyone3">"От всички"</string>
+    <string name="zen_mode_from_favorites_only">"Само от любими"</string>
+    <string name="zen_mode_from_contacts_only">"Само от контакти"</string>
+    <string name="zen_mode_repeat_callers2">"Повторени повиквания"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Когато същият номер се обади отново в рамките на <xliff:g id="MINUTES">%d</xliff:g>-минутен период, ще бъде позволен"</string>
+    <string name="zen_mode_option_important_interruptions3">"Прилагане на правила за безпокоене"</string>
+    <string name="zen_mode_selected_callers2">"избрани повиквания"</string>
+    <string name="zen_mode_dnd_is_on">"В момента режим "Не безпокойте" е включен. Можете да го изключите ръчно."</string>
+    <string name="zen_mode_turn_off_now">"Изключете сега"</string>
+    <string name="zen_mode_custom_name">"Потребителски"</string>
+    <string name="zen_mode_manual_turn_on">"Ръчно активиране на "Не безпокойте""</string>
+    <string name="zen_mode_turn_off">"Деактивиране на "Не безпокойте""</string>
+    <string name="zen_mode_in_activity">"Активирано: "</string>
+    <string name="zen_mode_forever2">"Безсрочно"</string>
+</resources>

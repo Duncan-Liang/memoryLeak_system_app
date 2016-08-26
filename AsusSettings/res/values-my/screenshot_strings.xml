@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"အသုံးများသည့် ကီး ဆက်တင်"</string>
+    <string name="screenshot_hot_key_title">"လက်တလော အက်ပ် ကီး"</string>
+    <string name="screenshot_hot_key_summary">"စခရင်ရှော့ရိုက်ရန် လတ်တလောအက်ပ်ကီးကို ဖိနှိပ်ထားပါ"</string>
+    <string name="screenshot_format_setting_title">"ဖိုင်ပုံစံ ဆက်တင်"</string>
+    <string name="screenshot_format_title">"စခရင်ရှော့ဖိုင်ပုံစံ"</string>
+    <string name="screenshot_sound_setting_title">"အသံ ဆက်တင်"</string>
+    <string name="screenshot_sound_title">"ဖန်သားပြင်ရိုက်ချက် အသံ ဖွင့်ပါ"</string>
+    <string name="screenshot_notify_setting_title">"အသိပေးချက်ဆက်တင်"</string>
+    <string name="screenshot_notify_title">"အသိပေးချက်ကို ဖွင့်ပါ"</string>
+</resources>

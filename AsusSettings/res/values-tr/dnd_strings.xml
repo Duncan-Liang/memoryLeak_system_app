@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Rahatsız etmeyin</string>
+    <string name="zen_mode_option_off2">Her zaman izin ver</string>
+    <string name="zen_mode_option_important_interruptions2">Rahatsız etme kurallarını uygula</string>
+    <string name="zen_mode_option_no_interruptions2">İzin verme</string>
+    <string name="zen_mode_important_category2">Rahatsız etme kuralları</string>
+    <string name="zen_mode_from2">Şu kişiden aramalara/mesajlara izin ver:</string>
+    <string name="zen_mode_from_anyone2">Herhangi biri</string>
+    <string name="zen_mode_from_contacts2">Yalnızca kişiler</string>
+    <string name="zen_mode_from_starred2">Yalnızca favoriler</string>
+    <string name="zen_mode_from_vip2">Yalnızca VIP</string>
+    <string name="zen_mode_downtime_category2">Zamanlanan saat (Rahatsız etme kurallarını uygula)</string>
+    <string name="zen_mode_alarms_priority">Alarmlar</string>
+    <string name="zen_mode_repeated_calls">Yinelenen aramalar</string>
+    <string name="zen_mode_repeated_calls_desc">İki dakika içindeki ikinci bir arama sessize alınmayacaktır</string>
+    <string name="zen_mode_add_downtime">Yeni zamanlama</string>
+    <string name="zen_mode_meeting_mode_category">Takvim etkinlikleriyle tetiklenen zamanlama</string>
+    <string name="zen_mode_weekend">Hafta sonu</string>
+    <string name="zen_mode_everyday">Her gün</string>
+    <string name="zen_mode_remove_dialog_title">Zamanlamayı kaldır</string>
+    <string name="zen_mode_remove_dialog_message">Bu zamanlama kaldırılsın mı?</string>
+    <string name="zen_mode_limit_dialog_title">Yeni zamanlama</string>
+    <string name="zen_mode_limit_dialog_message">%d taneye kadar zamanlama ayarına sahip olabilirsiniz.</string>
+    <string name="zen_mode_downtime_title">zamanlama</string>
+    <string name="zen_mode_downtime_title_new">Yeni zamanlama</string>
+    <string name="zen_mode_downtime_title_edit">Zamanlamayı düzenle</string>
+    <string name="zen_mode_downtime_title_meeting">Zamanlamayı düzenle </string>
+    <string name="zen_mode_others">Ayarlar</string>
+    <string name="zen_mode_send_notifications">Bildirim</string>
+    <string name="zen_mode_send_notifications_desc">Rahatsız etmeyin etkinleştirildiğinde bildirim gönder</string>
+    <string name="zen_mode_no_interruptions_warning">"\"Tamamen sessiz\" olarak ayarlandığında, alarmlar sessize alınacaktır."</string>
+    <string name="zen_mode_from_anyone3">"Herkes"</string>
+    <string name="zen_mode_from_favorites_only">"Yalnızca sık kullanılanlar"</string>
+    <string name="zen_mode_from_contacts_only">"Yalnızca kişiler"</string>
+    <string name="zen_mode_repeat_callers2">"Tekrarlanan çağrılar"</string>
+    <string name="zen_mode_repeat_callers_summary2">"<xliff:g id="MINUTES">%d</xliff:g> dakika içinde aynı numara yeniden aradığında izin verilir"</string>
+    <string name="zen_mode_option_important_interruptions3">"Rahatsız etme kurallarını uygula"</string>
+    <string name="zen_mode_selected_callers2">"seçilen çağrılar"</string>
+    <string name="zen_mode_dnd_is_on">"Rahatsız etmeyin şu anda etkin. Manuel olarak kapatabilirsiniz."</string>
+    <string name="zen_mode_turn_off_now">"Şimdi kapat"</string>
+    <string name="zen_mode_custom_name">"Kişisel"</string>
+    <string name="zen_mode_manual_turn_on">"Rahatsız etmeyin özelliğini manuel olarak etkinleştir"</string>
+    <string name="zen_mode_turn_off">"Rahatsız etmeyin özelliğini devre dışı bırak"</string>
+    <string name="zen_mode_in_activity">"Etkinleştirildi: "</string>
+    <string name="zen_mode_forever2">"Süresiz"</string>
+</resources>

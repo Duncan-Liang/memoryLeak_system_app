@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Asus Lock Screen Weather Animation Effect -->
+    <string name="asus_lockscreen_enable_weather_animation">"날씨 애니메이션"</string>
+    <string name="asus_lockscreen_enable_weather_effect_on_lockscreen">"잠금 화면에 날씨 애니메이션 활성화"</string>
+    <!-- Asus Lock Screen Theme -->
+    <string name="asus_lockscreen_change_lockscreen_theme">"잠금 화면 테마 변경"</string>
+    <!-- Asus Lock Screen Wallpaper -->
+    <string name="asus_lockscreen_change_lockscreen_wallpaper">"잠금 화면 배경 화면 변경"</string>
+    <!-- BEGIN: For Lock screeen widget settings string -->
+    <string name="asus_lock_screen_show_clock_widget">"시계 위젯 표시"</string>
+    <!-- END: For Lock screeen widget settings string -->
+    <!-- BEGIN: For fingerprint settings string -->
+    <string name="security_settings_manage_fingerprint_preference_title">"지문 관리"</string>
+    <string name="secure_with_fingerprint_category">"다음에 지문 사용"</string>
+    <string name="secure_unlock_with_fingerprint_item">"장치 잠금 해제"</string>
+    <string name="secure_unlock_with_fingerprint_summary">"지문을 사용하여 화면 잠금을 해제하십시오."</string>
+    <string name="fingerprint_management_category">"저장된 지문"</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature[CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_title">"지문 추가"</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_message">"지문을 사용하여 장치의 잠금을 해제하고 통화 및 데이터를 이용할 수 있습니다. 지문과 함께 화면 잠금 방법을 설정해야 합니다."</string>
+    <!-- Introduction title shown in fingerprint enrollment dialog to locate the sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_title">"지문 스캐너 찾기"</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_front">"장치 전방에서 지문 센서를 찾으십시오. 손가락을 조정하고 손가락의 다른 부분을 가리도록 하십시오."</string>
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_back">"장치 후방에서 지문 센서를 찾으십시오. 손가락을 조정하고 손가락의 다른 부분을 가리도록 하십시오."</string>
+    <!-- Title shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=29]-->
+    <string name="asus_security_settings_fingerprint_enroll_start_title">"놓았다 들어 올리기"</string>
+    <!-- Message shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_start_message">"손가락을 지문 센서 위에 놓고 진동이 느껴지면 떼십시오."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_title">"지금 반복"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_message">"전체 지문이 캡처될 때까지 놓았다 들어 올리는 동작을 반복하십시오."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_title">"더 캡처"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_message">"그립을 조정하고 손가락의 다른 위치를 등록하십시오."</string>
+    <string name="asus_security_settings_fingerprint_enroll_hint">"[돌아가려면 뒤로 키를 누르십시오. 등록 중에는 홈 버튼이 비활성화됩니다.]"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is completed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_title">"완료"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is completed -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_message">"지문이 준비되었습니다. 저장된 지문을 사용해 장치 잠금을 해제하고, 통화에 응답하거나 데이터를 이용할 수 있습니다."</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is failed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_title">"실패"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is failed -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_message">"지문 등록 실패. 나중에 다시 시도하십시오."</string>
+    <string name="asus_fingerprint_acquied_too_similar">"손가락을 살짝 이동하여 조정해서 지문의 다른 부분을 스캔하십시오."</string>
+    <string name="asus_security_settings_fingerprint_enroll_lift_touch_again">"반복해서 지문 센서에 손가락을 놓았다가 떼십시오."</string>
+    <!-- Text shown in fingerprint settings explaining what the fingerprint can be used for in the case unlocking is disabled [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_disabled_on_lockscreen">"화면 잠금 옵션 비활성화됨"</string>
+    <!-- END: For fingerprint settings string -->
+</resources>

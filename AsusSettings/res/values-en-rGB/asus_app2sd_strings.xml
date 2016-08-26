@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Move to device storage</string>
+    <string name="move_error_unknow">Unable to move app. Please try again.</string>
+    <string name="processing">Processing...</string>
+    <string name="dialog_hint">The process may take a while.\n\nDo not shut down your device or use the selected moving applications. Do not remove the external storage device at this time.\n\nDo you want to proceed?</string>
+</resources>

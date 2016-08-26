@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_analytics_summary">Изпращане на диагностични данни до ASUS за подобряване на качеството и ефективността на нашия продукт.</string>
+  <string name="asus_app2sd_blacklist_warning">Моля, преместете на мястото за съхранение на устройството за по-добра работа</string>
+  <string name="asus_app2sd_notif_title">Някои приложения трябва да се преместят обратно в мястото за съхранение на устройството</string>
+  <string name="asus_call_lock_detail">Когато сте активирали функцията за заключване на входящо повикване, трябва да сканирате своя пръстов отпечатък, за да приемете повикване. Повикването ще се свърже автоматично, когато сканираният Ви пръстов отпечатък бъде идентифициран успешно.</string>
+  <string name="asus_fingerprint_answer_call_summary">Приемайте входящи повиквания с пръстовия си отпечатък</string>
+  <string name="asus_fingerprint_camera_title">Стартиране на камерата</string>
+  <string name="asus_fingerprint_id_category_title">ID на пръстов отпечатък</string>
+  <string name="asus_fingerprint_incoming_call_title">Заключване на входящо повикване</string>
+  <string name="asus_fingerprint_launch_camera_summary">Докоснете два пъти сензора за пръстови отпечатъци, за да стартирате камерата, когато устройството е отключено.</string>
+  <string name="asus_fingerprint_launch_camera_title">Стартиране на камерата</string>
+  <string name="asus_fingerprint_long_press_summary">Докоснете и задръжте върху сензора за пръстови отпечатъци, за да приемете входящо повикване.</string>
+  <string name="asus_fingerprint_long_press_title">Приемане на входящи повиквания</string>
+  <string name="asus_fingerprint_snap_call_summary">Активиране на бързо повикване с пръстов отпечатък</string>
+  <string name="asus_fingerprint_snap_call_title">Бързо повикване</string>
+  <string name="asus_fingerprint_take_photo_summary">Докоснете сензора за пръстови отпечатъци, за да направите снимка, докато камерата е активна.</string>
+  <string name="asus_fingerprint_take_photo_title">Правене на снимка</string>
+  <string name="asus_fingerprint_touch_control_category_title">Сензорни контроли</string>
+  <string name="asus_long_tap_warning">Когато функцията за заключване на входящо повикване е активирана, приемането на повиквания чрез докосване и задържане ще бъде деактивирано.</string>
+  <string name="asus_storage_menu_migrate">Промяна на вида съхранение</string>
+  <string name="asus_storage_sd_warning_content">Задължително инсталирайте висококачествена SD карта за безпроблемно съхранение на данни. За да съхранявате данни сигурно, моля, използвайте SD карта от реномиран производител.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[Тази <xliff:g id="name" example="SD card">^1</xliff:g> изглежда бавна.<br><br>Обмислете дали да не използвате по-бърза <xliff:g id="name" example="SD card">^1</xliff:g> за по-добра ефективност.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">ASUS Bluetooth клавиатура</string>
+  <string name="button_ok">ОК</string>
+  <string name="camera_double_tap_power_gesture_desc">Бързо отваряйте камерата, без да отключвате екрана си</string>
+  <string name="camera_double_tap_power_gesture_title">За камерата натиснете бутона за захранване 2 пъти</string>
+  <string name="camera_gesture_desc">Отворете приложението Камера с двукратно завъртане на китката си</string>
+  <string name="camera_gesture_title">Завъртане два пъти за достъп до камерата</string>
+  <string name="gesture_wake_up_screen">Събуждане на екрана</string>
+  <string name="get_real_time_notification">Получаване на известия в реално време</string>
+  <string name="get_real_time_notification_detail">Държи приложенията стартирани на фона, за да можете да получавате известия и актуализации навреме.</string>
+  <string name="incompatible_apps">Несъвместими приложения</string>
+  <string name="incompatible_detail">Системата засече несъвместими приложения в тази версия на ОС Android. Свържете се с разработчиците на приложенията за информация или деинсталирайте приложенията.</string>
+  <string name="incompatible_notify_title">Засечени несъвместими приложения</string>
+  <string name="inspire_asus_title">Диагностични данни</string>
+  <string name="keywords_color_mode">ярък, rgb, srgb, цвят, естествен, стандартен</string>
+  <string name="large_and_huge_font_size_warning">Някои приложения може да не показват правилно текстове с голям/много голям размер на шрифта.</string>
+  <string name="manual">Ръководство</string>
+  <string name="notification_remind_user_to_set_bt">Плъзнете превключвателя надясно, задръжте го 5 секунди, след което докоснете известието, за да започнете сдвояването.</string>
+  <string name="notify_off">Не показвай отново.</string>
+  <string name="optimize_battery_usage">Оптимизиране на използването на батерията</string>
+  <string name="optimize_battery_usage_detail">Намалява потреблението на енергия. Някои известия и актуализации може да не се получат в реално време.</string>
+  <string name="picture_color_mode">Цветови режим за снимките</string>
+  <string name="powersaver_app_name">Икономия на енергия</string>
+  <string name="quickpanel_app_instant_page">Незабавна страница</string>
+  <string name="quickpanel_app_stylus_setting">Настройки на Z Stylus</string>
+  <string name="quickpanel_category_shortcuts">Преки пътища</string>
+  <string name="quickpanel_settings_switch_summary">Посочете и щракнете върху бутона 1&lt;sup&gt;st&lt;/sup&gt; на Z Stylus, за да разширите Quick launch panel (Панел за бързо стартиране).</string>
+  <string name="quickpanel_settings_switch_title">Quick launch panel (Панел за бързо стартиране)</string>
+  <string name="real_time_notification">Известия в реално време</string>
+  <string name="settings_manual_activity_title">Ръководство</string>
+  <string name="settings_manual_activity_unavailable">Възникна проблем при зареждане на ръководството.</string>
+  <string name="storage_wizard_benchmark_content">Отнема няколко минути. Моля, изчакайте.</string>
+  <string name="storage_wizard_benchmark_tittle">Бенчмарк</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>Размерът на SD картата е твърде малък. Моля, използвайте по-голяма SD карта с висока скорост.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Да се използва като вътрешна памет за съхранение на приложения и данни</string>
+  <string name="storage_wizard_init_internal_app_only_summary">За инсталиране на приложения на външна памет за съхранение. Това изисква форматиране, което не позволява работа с други устройства.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Да се използва само като вътрешно място за съхранение на приложения</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Преместете данни на новата <xliff:g example="SD card" id="name">^1</xliff:g>, за да имате повече място за съхранение на снимки, файлове и някои приложения. Можете също така да изберете да запазите място на <xliff:g example="SD card" id="name">^1</xliff:g> за инсталиране на приложения.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Вашата нова <xliff:g example="SD card" id="name">^1</xliff:g> работи.]]></string>
+  <string name="stylus_only_mode_summary">Пауза на сензорен режим след като Z Stylus напусне екрана</string>
+  <string name="stylus_only_mode_title">Режим само перо</string>
+  <string name="stylus_only_time_title">Време само за перо</string>
+  <string name="swipe_up_to_wake_up_summary">Плъзнете нагоре по екрана, за да събудите устройството от режима на бездейстиве.</string>
+  <string name="swipe_up_to_wake_up_title">Плъзнете нагоре, за да събудите</string>
+  <string name="title_remind_user_to_set_bt">1-во сдвояване на ASUS Bluetooth клавиатура</string>
+  <string name="usb_hint_option_dialog_title">USB зареждане</string>
+  <string name="usb_hint_option_got_it">РАЗБРАХ</string>
+  <string name="usb_hint_option_message">За да видите други USB опции, плъзнете надолу от горната част на екрана, след което докоснете USB известието.</string>
+  <string name="z_stylus_title">Z Stylus</string>
+</resources>

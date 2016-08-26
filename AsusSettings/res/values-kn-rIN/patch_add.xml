@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">ನಿಮ್ಮ ಪರದೆಯನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡದೆಯೇ ಕ್ಯಾಮರಾವನ್ನು ತ್ವರಿತವಾಗಿ ತೆರೆಯಿರಿ</string>
+  <string name="camera_double_tap_power_gesture_title">ಕ್ಯಾಮರಾಗೆ ಪವರ್ ಬಟನ್ ಎರಡು ಬಾರಿ ಒತ್ತಿ</string>
+  <string name="camera_gesture_desc">ನಿಮ್ಮ ಮಣಿಕಟ್ಟನ್ನು ಎರಡು ಬಾರಿ ತಿರುಗಿಸುವ ಮೂಲಕ ಕ್ಯಾಮರಾ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ</string>
+  <string name="camera_gesture_title">ಕ್ಯಾಮರಾಗೆ ಎರಡು ಬಾರಿ ತಿರುಗಿಸಿ</string>
+  <string name="keywords_color_mode">ಸ್ಪಂದನಾತ್ಮಕ rgb srgb ಬಣ್ಣ ನೈಸರ್ಗಿಕ ಪ್ರಮಾಣಿತ</string>
+  <string name="manual">ಹಸ್ತಚಾಲಿತ</string>
+  <string name="picture_color_mode">ಚಿತ್ರ ಬಣ್ಣದ ಮೋಡ್</string>
+  <string name="settings_manual_activity_title">ಹಸ್ತಚಾಲಿತ</string>
+  <string name="settings_manual_activity_unavailable">ಹಸ್ತಚಾಲಿತವಾಗಿ ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ.</string>
+</resources>

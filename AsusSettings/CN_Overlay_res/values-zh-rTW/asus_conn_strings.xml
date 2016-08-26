@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">閒置時停用 WLAN 熱點</string>
+    <string name="wifi_tether_users">WLAN 無線基地台使用者</string>
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">為了確保您的連線品質, 請重新連結無線螢幕分享(Miracast)或 WLAN Direct。</string>
+
+</resources>

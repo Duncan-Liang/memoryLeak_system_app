@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Para controlar o que acontece quando o dispositivo está ancorado e/ou em suspensão, ative o modo Daydream."</string>
+</resources>

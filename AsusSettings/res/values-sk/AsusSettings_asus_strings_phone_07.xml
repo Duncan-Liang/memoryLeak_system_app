@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Keď aktivujete funkciu zámku prichádzajúceho hovoru, na prijatie hovoru je potrebný odtlačok prsta. Hovor bude spojený automaticky, keď je odtlačok prsta úspešne identifikovaný.\nMajte na pamäti nasledujúce:\n1. Prichádzajúci hovor môžete prijať priamo zo spárovaných slúchadiel s funkciou Bluetooth alebo inteligentných hodiniek bez skenovania odtlačku prsta.\n2. Keď používate káblové slúchadlá, na prijatie hovoru je stále potrebné použiť odtlačok prsta.\n3. Nebudete môcť prijať hovor z obrazovky prichádzajúceho hovoru od tretej strany.\n4. Pri hovore Hlas cez IP (VoIP), napr. pri hlasovom hovore v aplikácii WhatsApp, je stále potrebné prijať hovor v samotnej aplikácii."</string>
+    <string name="asus_long_tap_warning">"Keď je aktivovaná funkcia zámku prichádzajúcich hovorov, prijatie hovoru ťuknutím a podržaním bude deaktivované."</string>
+</resources>

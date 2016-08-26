@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Ireki kamera bizkor, pantaila desblokeatu beharrik gabe</string>
+  <string name="camera_double_tap_power_gesture_title">Ireki kamera etengailua birritan sakatuta</string>
+  <string name="camera_gesture_desc">Ireki kameraren aplikazioa eskumuturra birritan biratuta</string>
+  <string name="camera_gesture_title">Kamera irekitzeko, biratu birritan</string>
+  <string name="keywords_color_mode">bizia rgb srgb kolorea naturala estandarra</string>
+  <string name="manual">Eskuliburua</string>
+  <string name="picture_color_mode">Irudiaren kolore modua</string>
+  <string name="settings_manual_activity_title">Eskuliburua</string>
+  <string name="settings_manual_activity_unavailable">Arazo bat izan da eskuliburua kargatzean.</string>
+</resources>

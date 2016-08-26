@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Tethering &amp; mobiele hotspot"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Weergave in GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Weergave in MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobiele gegevens"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Mobiel gegevensgebruik beperken"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Mijn waarschuwen over gegevensgebruik"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Waarschuwing gegevensgebruik"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"Uw <xliff:g example="tablet" id="device_type">%s</xliff:g> zal u waarschuwen wanneer het gebruik van mobiele gegevens de hoeveelheid die u hebt geselecteerd, heeft bereikt."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Limiet gegevensgebruik"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Uw mobiele gegevensverbinding wordt uitgeschakeld als uw gegevensgebruik de limiet die u hebt geselecteerd, bereikt.\n\nGegevensgebruik wordt gemeten door uw <xliff:g example="tablet" id="device_type">%s</xliff:g>. Uw provider kan verbruik op een andere manier aanrekenen. Overweeg daarom het instellen van een limiet die iets lager is dan uw gegevensplan. Stel de datums in volgens de periode op uw factuur."</string>
+    <string name="vzw_phone">"telefoon"</string>
+    <string name="vzw_tablet">"tablet"</string>
+    <string name="vzw_data_usage_disclaimer">"Gegevensgebruik wordt gemeten door uw <xliff:g example="tablet" id="device_type">%s</xliff:g>. Uw provider kan de kosten op een andere wijze aanrekenen. Stel de datums in volgens de periode op uw factuur."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Tik om het gebruik en de instellingen weer te geven"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobiele gegevens zijn nu uitgeschakeld."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"U hebt uw opgegeven limiet voor gegevensgebruik bereikt. Daarom werden de mobiele gegevens uitgeschakeld.\n\nAls u de mobiele gegevens opnieuw inschakelt, kunnen u kosten door uw provider worden aangerekend voor gegevensgebruik."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Gegevens inschakelen"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobiele gegevens zijn uitgeschakeld"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Aanraken om in te schakelen"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Mobiele gegevenslimiet overschreden"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> over opgegeven limiet"</string>
+</resources>

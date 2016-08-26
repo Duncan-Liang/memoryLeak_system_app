@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Рух без нечіткості"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Високий</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Середній</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Низький</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Вимкнено</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Ефект високий</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Ефект середній</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Ефект низький</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Вимкнено</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">Вирівняти якість відтворення відео.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Режим фільтра синього кольору"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Рівень 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Рівень 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Рівень 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Рівень 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Рівень 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"ВИМК."</string>
+    <string name="splendid_bluelight_filter_mode_on">"УВІМК."</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Скасувати"</string>
+    <string name="notification_bluelight_filter_title">"Фільтр синього кольору ввімкнуто"</string>
+    <string name="notification_bluelight_filter_summary">"Торкніться, щоб змінити"</string>
+    <!-- end -->
+</resources>

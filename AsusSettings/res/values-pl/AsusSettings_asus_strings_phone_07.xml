@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Po włączeniu funkcji blokady połączeń przychodzących konieczne jest zeskanowanie odcisku palca do odebrania połączenia. Po pomyślnej identyfikacji palca połączenie zostanie odebrane.\nPamiętaj, że:\n1. Bez skanowania odcisku palca połączenie można odebrać ze sparowanego zestawu słuchawkowego Bluetooth lub inteligentnego zegarka.\n2. Konieczne jest użycie odcisku palca do odebrania połączenia podczas korzystania z przewodowego zestawu słuchawkowego.\n3. Nie będzie można odebrać połączenia z ekranu połączeń przychodzących innej firmy.\n4. W przypadku połączenia VOIP (Voice over IP), np. połączenia głosowego w aplikacji WhatsApp, należy odebrać połączenie z samej aplikacji."</string>
+    <string name="asus_long_tap_warning">"Po włączeniu funkcji blokady połączeń przychodzących odbieranie połączeń przez dotknięcie i przytrzymanie będzie wyłączone."</string>
+</resources>

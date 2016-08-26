@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_commonui_done_label">"U redu"</string>
+    <string name="asus_commonui_cancel_label">"Odustani"</string>
+    <string name="asus_commonui_hour_picker_description" msgid="7586639618712934060">"Kružni klizač sati"</string>
+    <string name="asus_commonui_minute_picker_description" msgid="6024811202872705251">"Kružni klizač minuta"</string>
+    <string name="asus_commonui_select_hours" msgid="7651068754188418859">"Odaberite sate"</string>
+    <string name="asus_commonui_select_minutes" msgid="8327182090226828481">"Odaberite minute"</string>
+    <string name="asus_commonui_day_picker_description" msgid="3968620852217927702">"Mreža dana u mjesecu"</string>
+    <string name="asus_commonui_year_picker_description" msgid="6963340404644587098">"Popis godina"</string>
+    <string name="asus_commonui_select_day" msgid="3973338219107019769">"Odaberite mjesec i dan"</string>
+    <string name="asus_commonui_select_year" msgid="2603330600102539372">"Odaberite godinu"</string>
+    <string name="asus_commonui_item_is_selected" msgid="2674929164900463786">"Odabrana je stavka <xliff:g id="ITEM">%1$s</xliff:g>"</string>
+    <string name="asus_commonui_deleted_key" msgid="6908431551612331381">"Izbrisan je znak <xliff:g id="KEY">%1$s</xliff:g>"</string>
+    <string-array name="alarm_set">
+        <item msgid="6450913786084215050">"Alarm je od ovog trenutka postavljen za manje od 1 minute."</item>
+        <item msgid="6002066367368421848">"Alarm je od ovog trenutka postavljen za <xliff:g id="DAYS">%1$s</xliff:g>."</item>
+        <item msgid="8824719306247973774">"Alarm je od ovog trenutka postavljen za <xliff:g id="HOURS">%2$s</xliff:g>."</item>
+        <item msgid="8182406852935468862">"Alarm je od ovog trenutka postavljen za <xliff:g id="DAYS">%1$s</xliff:g> i <xliff:g id="HOURS">%2$s</xliff:g>."</item>
+        <item msgid="2532279224777213194">"Alarm je postavljen od ovog trenutka za sljedeći broj minuta: <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="5936557894247187717">"Alarm je od ovog trenutka postavljen za <xliff:g id="DAYS">%1$s</xliff:g> i <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="9115697840826129603">"Alarm je od ovog trenutka postavljen za <xliff:g id="HOURS">%2$s</xliff:g> i <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+        <item msgid="2332583385137381060">"Alarm je postavljen za <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> i <xliff:g id="MINUTES">%3$s</xliff:g>."</item>
+    </string-array>
+    <string name="day" msgid="7984755014526510295">"1 dan"</string>
+    <string name="days" msgid="2070509222727852210">"Broj dana: <xliff:g id="DAYS">%s</xliff:g>"</string>
+    <string name="hour" msgid="2546819039651509323">"1 sat"</string>
+    <string name="hours" msgid="2071487018566991613">"Sati: <xliff:g id="HOURS">%s</xliff:g>"</string>
+    <string name="minute" msgid="2486157997434653710">"1 minuta"</string>
+    <string name="minutes" msgid="6115838729146292526">"<xliff:g id="MINUTES">%s</xliff:g> minuta"</string>
+
+    <string name="asus_commonui_terms_of_use_notice">Napomena o uvjetima korištenja</string>
+    <string name="asus_commonui_privacy_policy">Politika privatnosti</string>
+    <string name="asus_commonui_no_url_handler">Nije pronađena nijedna aplikacija za otvaranje URL-a</string>
+
+    <string name="asus_commonui_shareactionprovider_share_with_application">
+        "Dijeli s aplikacijom <xliff:g id="APPLICATION_NAME">%s</xliff:g>"
+    </string>
+    <string name="asus_commonui_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string name="asus_commonui_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string name="asus_commonui_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string name="asus_commonui_activitychooserview_choose_application_error">
+        "Nije moguće pokrenuti aplikaciju <xliff:g id="APPLICATION_NAME">%s</xliff:g>"
+    </string>
+    <string name="asus_commonui_whichHomeApplication">"Odaberite aplikaciju na početnom zaslonu"</string>
+    <string name="asus_commonui_whichApplication">"Radnju dovrši pomoću stavke"</string>
+    <string name="asus_commonui_chooseActivity">"Odaberi radnju"</string>
+    <string name="asus_commonui_noApplications">"Tu radnju ne može izvesti nijedna aplikacija."</string>
+    <string name="asus_commonui_activity_resolver_use_always">"Uvijek"</string>
+    <string name="asus_commonui_activity_resolver_use_once">"Samo jednom"</string>
+</resources>

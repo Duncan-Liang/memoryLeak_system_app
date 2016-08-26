@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">دوربین را سریع و بدون باز کردن قفل صفحه باز کنید</string>
+  <string name="camera_double_tap_power_gesture_title">دو ضربه روی دکمه روشن/خاموش برای دوربین</string>
+  <string name="camera_gesture_desc">با دو بار چرخاندن مچتان، برنامه دوربین را باز کنید</string>
+  <string name="camera_gesture_title">دو بار بچرخانید تا دوربین باز شود</string>
+  <string name="keywords_color_mode">‏استاندارد طبیعی رنگ پرطراوت rgb srgb</string>
+  <string name="manual">دفترچه راهنما</string>
+  <string name="no_all_caps">نه</string>
+  <string name="picture_color_mode">حالت رنگ عکس</string>
+  <string name="settings_manual_activity_title">دفترچه راهنما</string>
+  <string name="settings_manual_activity_unavailable">مشکلی در بارگیری دفترچه راهنما وجود دارد.</string>
+  <string name="yes_all_caps">بله</string>
+</resources>

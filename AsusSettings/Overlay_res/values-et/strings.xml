@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Kui soovite juhtida, mis juhtub seadme dokkimisel ja/või puhkerežiimi lülitamisel, siis lülitage sisse unerežiim."</string>
+</resources>

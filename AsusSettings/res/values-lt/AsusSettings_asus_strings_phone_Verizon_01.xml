@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"Mobiliojo &amp; prieigo taško pririšimas"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"Rodyti GB"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"Rodyti MB"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"Mobilieji duomenys"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"Riboti mobiliųjų duomenų naudojimą"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"Įspėti mane apie duomenų naudojimą"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"Duomenų naudojimo įspėjimas"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"<xliff:g example="tablet" id="device_type">%s</xliff:g> įspės jus, kai bus pasiektas jūsų pasirinktas mobiliųjų duomenų naudojimo kiekis."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"Duomenų naudojimo riba"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"Mobiliųjų duomenų ryšys bus išjungtas, kai bus pasiekta jūsų pasirinkta mobiliųjų duomenų naudojimo riba.\n\nDuomenų naudojimą matuoja jūsų <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operatorius duomenų naudojimą gali skaičiuoti kitaip, todėl nustatykite šiek tiek mažesnę ribą, nei nurodyta jūsų duomenų plane. Nustatykite datas pagal savo sąskaitos laikotarpį."</string>
+    <string name="vzw_phone">"telefonas"</string>
+    <string name="vzw_tablet">"planšetinis kompiuteris"</string>
+    <string name="vzw_data_usage_disclaimer">"Duomenų naudojimą matuoja jūsų <xliff:g example="tablet" id="device_type">%s</xliff:g>. Operatorius duomenis gali skaičiuoti kitaip. Nustatykite datas pagal savo sąskaitos laikotarpį."</string>
+    <string name="vzw_data_usage_warning_notification_message">"Bakstelėkite, kad peržiūrėtumėte naudojiąm ir nuostatas"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"Mobilieji duomenys dabar išjungti."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"Pasiekėte savo nurodytą mobiliųjų duomenų naudojimo ribą, todėl mobilieji duomenys buvo išjungti.\n\nJeigu vėl įjungsite mobiliuosius duomenis, operatorius gali taikyti mokesčius už duomenų naudojimą."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"Įjungti duomenis"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"Mobilieji duomenys išjungti"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"Palieskite, kad įjungtumėte"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"Viršyta mobiliiųjų duomenų naudojimo riba"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"Nurodyta riba viršyta <xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g>"</string>
+</resources>

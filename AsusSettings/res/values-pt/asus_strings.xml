@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Javid Change Title "About Phone" to "About" -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- Javid_Shu, 2011.2.22, , UI required, new feature -->
+<string name="never_timeout_entry" description="Screen never timeout entry" maxwidth="-1">Nunca com intervalo</string>
+<string name="never_timeout_summary" description="Screen never timeout summary" maxwidth="-1">Tela sempre ligada</string>
+<string name="pad_ec_version_title" description="Asus Eee Pad EC version title. It is no need to translate EC." maxwidth="-1">Versão do Pad EC</string>
+<string name="camera_version_title" description="Asus Camera version title" maxwidth="-1">Versão da câmera</string>
+<string name="touch_version_title" description="Asus Touch version title" maxwidth="-1">Versão do painel de toque</string>
+<!-- AsusSetupWizard String--> <!-- Guoliang_Lin, 2011/01/07, UI required, new feature -->
+
+<!-- Phone Storage Strings -->
+
+<!-- Screenshot Strings +++JaJa@2010.12.06 -->
+<string name="screenshot" description="Title of Screenshot function." maxwidth="-1">Captura de tela</string>
+<string name="screenshot_summary_soft" description="To introduce how to use the Screenshot function." maxwidth="-1">Para efectuar a captura do ecrã, mantenha premido o botão de aplicações recentes</string>
+<string name="screenshot_format" description="Title of Screenshot format" maxwidth="-1">Formato do arquivo de instantâneo de tela</string>
+<string name="jpeg_tag" description="Screenshot file JPEG format tag" maxwidth="-1">JPEG</string>
+<string name="png_tag" description="Screenshot file PNG format tag" maxwidth="-1">PNG</string>
+<!-- JaJa -->
+
+<!-- Keyboard Locale Strings --> <!-- Yang, 2011/2/8, UI required, new feature -->
+
+<!-- Mist_Liao, 2011/02/17, UI required, new feature -->
+<string name="dock_version" description="Display version of mobile docking" maxwidth="-1">Versão MobileDock</string>
+<string name="dock_not_available" description="String when not connect to dock" maxwidth="-1">Não disponível</string>
+
+<!-- Javid_Shu, 2011.2.18, , UI required, new feature -->
+<string name="about_phone_title" description="Change About Phone Title from 'About Phone' to 'About' " maxwidth="-1">Sobre</string>
+
+<!-- ShaoChuan_Cheng, 2011/03/03, UI required, new feature -->
+<string name="wifi_version" description="add the version item for Wi-Fi" maxwidth="-1">Versão Wi-Fi</string>
+<string name="bt_version" description="add the version item for Bluetooth" maxwidth="-1">Versão Bluetooth</string>
+<string name="gps_version" description="add the version item for GPS" maxwidth="-1">Versão GPS</string>
+
+<!-- Javid_Shu, 2011.03.03, , UI required, new feature -->
+
+     <!--  Yufeng Kuo, 2011/07/04, UI required, new feature -->
+    <string name="asus_sd_eject" description="the storage setting field: clicked to unmount external storage" width="-1">Desmontar armazenamento externo</string>
+    <string name="asus_sd_eject_summary" description="the field description for the above string" width="-1">Remover o armazenamento externo com segurança</string>
+    <string name="asus_sd_insert_summary" description="the field description to inform the user insert external storage for mounting" width="-1">Inseror armazenamento externo para montagem</string>
+    <string name="asus_sd_mount" description="the storage setting field: clicked to mount external storage" width="-1">Monrat o armazenamento externo</string>
+    <string name="asus_dlg_confirm_unmount_title" description="the dialog title for unmounting confirmation" width="-1">Desmontar armazenamento externo</string>
+    <string name="asus_dlg_confirm_unmount_text" description="the dialog body to confirm whether if the user wants to unmount the external storage" width="-1">Se você desmontar o armazenamento, alguns aplicativos que você está utilizando pararão e podem não estar disponíveis até que você remonte o armazenamento.</string>
+    <string name="asus_dlg_error_unmount_title" description="the dialog title for unmounting fail" width="-1">Falha ao desmontar armazenamento externo</string>
+    <string name="asus_dlg_error_unmount_text" description="the dialog body to inform the user unmounting fail" width="-1">Impossível desmontar armazenamento externo. Tente novamente mais tarde.</string>
+    <string name="asus_unmount_inform_text" description="the toast to say the system is unmounting the external storage currently" width="-1">O armazenamento externo será desmontado.</string>
+    <string name="asus_sd_format" description="the storage setting field: clicked to format external storage" width="-1">Limpar armazenamento externo</string>
+    <!-- Johnson2_Chen, 2011.07.05, , UI required, new feature -->
+
+    <!-- Yufeng Kuo, 2011/08/09, UI required, new feature -->
+    <string name="touchpad_mode_selector" description="the field description for setting touchpad mode to gesture mode or cursor mode" width="-1">Estilo apontador Touchpad</string>
+    <string name="touchpad_mode_entry_android32" description="gesture mode, use circle-shape spot for touchpad" width="-1">Modo de gestos</string>
+    <string name="touchpad_mode_entry_classic" description="cursor mode, use notebook-like cursor for touchpad" width="-1">Modo cursor do mouse</string>
+    <string name="customize_settings_title" description="Title of ASUS feature Customization." maxwidth="-1">Configuração Personalizada ASUS</string>
+  <string name="right_button_mapping_selector" description="Title of mouse right button setting" width="-1">Comportamento do botão direito</string>
+  <string name="middle_button_mapping_selector" description="Title of mouse middle button setting" width="-1">Comportamento do botão do meio</string>
+  <string name="button_secondary" description="right button setting: show context menu when clicked on any view" width="-1">Exibir menu de contexto</string>
+  <string name="button_tertiary" description="middle button setting: it acts as left button currently" width="-1">Agir como um botão do meio Android</string>
+  <string name="button_back" description="right button setting: it is like press back key" width="-1">Agir como uma tecla de retorno</string>
+  <string name="button_menu" description="middle button setting: it is like pree menu key" width="-1">Agir como uma tecla de menu</string>
+    <!-- Sharon Kuo, 2011/09/14, UI required, bug fix/flow improvement -->
+
+    <!-- Johnson2_Chen, 2011/09/15, , UI required, new feature -->
+
+    <!-- Mist Liao 2011/09/20, , UI required, new feature -->
+
+    <!-- Lance Tung , 2012/08/01 UI required -->
+    <string name="power_management_setting_title" description="Title of power management settings" width="-1">Gestão de energia</string>
+
+    <!-- Jim3 Chen, 2012/09/25, UI required, new feature -->
+    <string name="scalar_version" description="Display version of scalar display" maxwidth="-1">Vesão Scalar</string>
+
+    <!-- Harrison for power settings -->
+    <string name="power_settings_title">Gestão de energia</string>
+    <string name="powerstatistics_app_name">Gráfico do uso de energia</string>
+    <string name="powersaver_app_name">Economizador de Energia</string>
+
+    <!-- Harrison for power management -->
+    <string name="alarm_wakeup_total">Despertares Totais</string>
+    <string name="alarm_times">vezes</string>
+
+    <!-- BEGIN MikeHsu backup & reset -->
+    <!-- SD card & phone storage settings screen, message to prompt user entering number -->
+    <string name="master_clear_final_hint_messeage" description="hint message" maxwidth="-1">Entrar</string>
+    <!-- END MikeHsu -->
+
+    <!-- MikeHsu for clear cache -->
+    <string name="clear_apps_cache" description="The description of clear cache." maxWidth="-1">Limpar todo o cache de aplicativos</string>
+    <string name="clear_apps_cache_title" description="The description of clear cache." maxWidth="-1">Limpar todo o cache de aplicativos?</string>
+    <string name="clear_apps_cache_desc" description="The description of clear cache." maxWidth="-1">Isto limpará todo o cache de aplicativos. O espaço liberado de cache pode ser usado para armazenamento interno.</string>
+    <string name="clear_apps_cache_button" description="The description of clear cache." maxWidth="-1">Limpar cache</string>
+    <string name="clear_apps_cache_info" description="The description of clear cache." maxWidth="-1">Processando…</string>
+    <string name="clear_apps_cache_toast" description="The description of clear cache." maxWidth="-1">Cache está limpo.</string>
+    <!-- MikeHsu for clear app data -->
+    <string name="clear_apps_data">Aplicativos de recuperação</string>
+    <string name="clear_apps_data_title">Limpar todos os dados de aplicativos?</string>
+    <string name="clear_apps_data_desc">"Todos os dados de aplicativos serão excluídos permanentemente. Isto inclui."\n\n<li>"Todos os arquivos"</li>\n<li>"Configurações"</li>\n<li>"Contas"</li>\n<li>"Bancos de dados"</li>\n<li>"Cache"</li></string>
+    <string name="clear_apps_data_button">Limpar dados</string>
+
+    <!-- Joey_Lee for erase micro SD -->
+    <string name="erase_mircosd_storage">"Apagar cartão SD"</string>
+    <string name="erase_mircosd_storage_description">"Apagar todos os dados do cartão SD, como músicas e fotos"</string>
+    <!-- Joey_Lee for erase micro SD -->
+
+    <!-- Start: MikeHsu for 25th strings -->
+    <string name="clear_apps_data_account">\n\n"Estas contas serão removidas."</string>
+    <string name="clear_apps_data_final_desc">Apagar todos os dados de aplicativos? Será reiniciado. Você não pode reverter esta ação!</string>
+    <!-- End: MikeHsu for 25th strings -->
+
+    <!-- MikeHsu for multiple notification effects -->
+    <string name="newmail_sound_title" description="The option to choose notification sound of new mail" width="-1">Nova Correspondência</string>
+    <string name="sentmail_sound_title" description="The option to choose notification sound of sent mail" width="-1">Enviar Correspondência</string>
+    <string name="calendaralert_sound_title" description="The option to choose notification sound of calendar reminder" width="-1">Alertas de Calendário</string>
+    <string name="alarm_sound_title" description="The option to choose default notification sound of alarm " width="-1">Alarme Padrão</string>
+    <!-- MikeHsu for multiple notification effects -->
+
+    <!-- Ken_Yu 2013/06/19 for AsusNoNetworkDialog  -->
+    <string name="load_suspended" description=" The application needs to access network. Please enable mobile network or WiFi in Settings." maxWidth="-1">Conexão de Internet necessária para acessar o aplicativo. Habilite a rede móvel ou WiFi em Configurações. </string>
+    <string name="load_suspended_title">Nenhuma conexão de rede</string>
+    <string name="button_label_settings">Configurações</string>
+    <string name="button_label_cancel">Cancelar</string>
+    <!-- Ken_Yu -->
+
+    <string name="asus_keyboard_subtype_limit" description="Max. number of selected keybaord reached" width="-1">Número máx. de teclado selecionado atingido</string>
+
+    <!-- Harrison Power Management -->
+    <string name="app_wakeupalarm_switch_label">impedir o dispositivo de se despertado</string>
+    <string name="app_wakelock_switch_label">impedir o dispositivo de ser ficar desperto</string>
+    <string name="powermanagement_options_dialog">Esta configuração pode ter efeito após reiniciar o aplicativo ou do reinício</string>
+
+    <!-- yen-hsun_huang for quick settings list -->
+    <string name="quick_setting_title" description="The title of Quick Settings List." maxWidth="-1">Opções de definições rápidas</string>
+    <string name="quick_setting_description" description="The description of Quick Settings List." maxWidth="-1">Selecione os itens a mostrar no painel de definições rápidas</string>
+    <string name="quick_setting_reset_title" description="The item of Quick Settings menu." maxWidth="-1">Repor definições rápidas</string>
+    <string name="quick_setting_reset_message">As opções de definições rápidas serão repostas.</string>
+    <!-- end -->
+
+    <!-- Jim3_Chen, 2013/06/25, for display firmware version -->
+    <string name="padfone_station_pad_ec_version" description="Display version of padfone station" maxwidth="-1">Versão do PadFone Station</string>
+    <string name="padfone_station_touch_version" description="Display Touch version of padfone station" maxWidth="-1">Versão de ecrã táctil do PadFone Station</string>
+    <string name="padfone_station_camera_version" description="Display Camera version of padfone station" maxWidth="-1">Versão de câmara do PadFone Station</string>
+
+    <!-- Joan_Kao, 2012/12/20, UI required, new feature -->
+    <string name="interface_settings" description="Title of interface settings" maxwidth="-1">Configurações rápidas</string>
+
+
+    <!-- Johnson 2013/07/01 for Asus LockScreen Settings -->
+    <string name="asus_lockscreen_settings_title" description="lock screen" maxwidth="-1">Ecrã de bloqueio</string>
+    <string name="lockscreen_shortcuts_display" description="Launch apps on Lock screen" maxwidth="-1">Executar aplicações em ecrã de bloqueio</string>
+    <string name="lockscreen_shortcuts_display_title" description="Quick access" maxwidth="-1">Acesso rápido</string>
+
+
+    <!-- Tony Hsu, 2013/07/15 Stylus Version preference -->
+    <string name="stylus_version" description="title of stylus version" maxwidth="-1">Versão do Stylus</string>
+
+    <!-- Sun1_Li, 2013/07/22 InstantDictionary -->
+
+    <!-- Ken1_Yu  2013/07/30 brightness and pointerspeed dialog  -->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Escura</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Clara</string>
+
+    <!-- begin vivian_sun 2014.4.25: ViewFlipCover setting -->
+    <string name="asus_transcover_title" description="Title for setting transcover" maxwidth="-1">Habilitar ASUS Cover</string>
+    <string name="asus_transcover_summary" description="Summary for setting transcover" maxwidth="-1">Suspender a tela quando a tampa está fechada.</string>
+    <!-- end vivian_sun 2014.4.25: ViewFlipCover setting -->
+
+    <!-- Guoliang_lin, 2013/08/19 Asus Analytics -->
+    <string name="asus_analytics_summary">Enviar uso de dados à ASUS para melhorar os produtos e experiência do usuário</string>
+
+    <!-- Harrison Chen, recent app key long press_control-->
+    <string name="recent_apps_key_long_press_control_title">Configurações chave</string>
+    <string-array name="recent_apps_key_long_press_control_entries">
+        <item>Toque e segure para exibir aplicativos recentes</item>
+        <item>Toque e segure para obter instantêneo de tela</item>
+        <item>Toque e segure para exibir menu</item>
+    </string-array>
+    <string name="touch_key_light_title">Tecla de toque</string>
+
+    <!-- Carol_Hu@asus.com, System Font change -->
+    <string name="monotype_preference_title">Estilo do tipo de letra</string>
+    <string name="monotype_preference_summary">Definir fonte</string>
+    <string name="monotype_dialog_button">Obter fontes online</string>
+    <string name="monotype_dialog_set_font_question">Definir fonte como %s?</string>
+    <string name="monotype_dialog_revert_question">Repor fonte padrão?</string>
+    <string name="monotype_dialog_no_fonts_installed">Nenhumas fontes adicionais disponíveis</string>
+    <string name="monotype_restart_dialog_text_1">Reiniciar o telefone</string>
+    <string name="monotype_restart_dialog_text_2">Reiniciar telefone para aplicar definições</string>
+    <string name="monotype_restart_dialog_button_1">Reiniciar agora</string>
+    <string name="monotype_dialog_font_oem_font1">OEM Font1</string>
+    <string name="monotype_dialog_font_oem_font2">OEM Font2</string>
+    <string name="monotype_dialog_font_oem_font3">OEM Font3</string>
+    <string name="monotype_default_font">Fonte padrão</string>
+    <string name="monotype_loading_list">Carregando lista de fontes...</string>
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"Próximo"</string>
+
+    <!-- Carol_Hu@asus.com -->
+    <string name="extra_large_font_size_warning" description="show the warning for extra large font size" maxwidth="-1">Alguns alicativos podem não exibir adequadamente os conteúdos com textos extra grandes.</string>
+    <string name="accessibility_toggle_extra_large_text_title" description="accessibility extra large text title" maxwidth="-1">Textos extra grandes</string>
+    <!--nancy_jiang@asus.com-->
+    <string name="asus_notification_ringtone_title">Novo Texto</string>
+</resources>

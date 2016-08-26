@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Javid Change Title "About Phone" to "About" -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- [ Eason1_Wang: AsusSplendid screen color mode -->
+    <string name="splendid_screen_color_mode_title">Schermkleurmodus</string>
+    <string name="splendid_balance_mode_text" description="" maxwidth="-1">Gebalanceerde modus</string>
+    <string name="splendid_reading_mode_text" description="" maxwidth="-1">Blauwlichtfilter</string>
+    <string name="splendid_vivid_mode_text" description="" maxwidth="-1">Levendige modus</string>
+    <string name="splendid_customized_mode_text" description="" maxwidth="-1">Aangepaste modus</string>
+    <!-- ] Eason1_Wang: AsusSplendid screen color mode -->
+    <!-- [ Eason1_Wang: VisualMaster picture quality memc -->
+    <string name="picture_quality_memc_title" description="" maxwidth="-1">"Beweging zonder vervaging"</string>
+    <string name="picture_quality_memc_high" description="" maxwidth="-1">Hoog</string>
+    <string name="picture_quality_memc_middle" description="" maxwidth="-1">Gemiddeld</string>
+    <string name="picture_quality_memc_low" description="" maxwidth="-1">Laag</string>
+    <string name="picture_quality_memc_disable" description="" maxwidth="-1">Uitgeschakeld</string>
+    <string name="picture_quality_memc_desc_high" description="" maxwidth="-1">Effect hoog</string>
+    <string name="picture_quality_memc_desc_middle" description="" maxwidth="-1">Effect gemiddeld</string>
+    <string name="picture_quality_memc_desc_low" description="" maxwidth="-1">Effect laag</string>
+    <string name="picture_quality_memc_desc_disable" description="" maxwidth="-1">Uitgeschakeld</string>
+    <string name="picture_quality_memc_description" description="" maxwidth="-1">De videoweergavekwaliteit vloeiender.</string>
+    <!-- ] Eason1_Wang: VisualMaster picture quality memc -->
+    <!-- Carol_Wang: bluelight filter mode for ODM -->
+    <string name="bluelightfilter_mode_title">"Bluelightfiltermodus"</string>
+    <string name="splendid_bluelightfilter_level_one" descrption="bluelight filter level one" maxwidth="-1">"Niveau 1"</string>
+    <string name="splendid_bluelightfilter_level_two" descrption="bluelight filter level two" maxwidth="-1">"Niveau 2"</string>
+    <string name="splendid_bluelightfilter_level_three" descrption="bluelight filter level three" maxwidth="-1">"Niveau 3"</string>
+    <string name="splendid_bluelightfilter_level_four" descrption="bluelight filter level four" maxwidth="-1">"Niveau 4"</string>
+    <string name="splendid_bluelightfilter_level_five" descrption="bluelight filter level five" maxwidth="-1">"Niveau 5"</string>
+    <string name="splendid_bluelight_filter_mode_off">"UIT"</string>
+    <string name="splendid_bluelight_filter_mode_on">"AAN"</string>
+    <string name="splendid_bluelight_ok">"OK"</string>
+    <string name="splendid_bluelight_cancel">"Annuleren"</string>
+    <string name="notification_bluelight_filter_title">"Bluelightfilter is ingeschakeld"</string>
+    <string name="notification_bluelight_filter_summary">"Tik om te wijzigen"</string>
+    <!-- end -->
+</resources>

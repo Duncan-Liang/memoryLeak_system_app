@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- George Liao 2014/02/12 for Dual Apps -->
+
+    <!-- TsungChing Lin, 2014/09/05 Brightness preference (fa-sku ScrollBar will be opposite)-->
+    <string name="dark" description="brightness set to dark" maxwidth="-1">Bright</string>
+    <string name="light" description="brightness set to light" maxwidth="-1">Dark</string>
+
+    <!-- Morris_Chuang@asus.com: com.android.setupwizard.navigationbar#setup_wizard_next_button_label -->
+    <string name="setup_wizard_next_button_label" msgid="6681282266022780599">"بعدی"</string>
+</resources>

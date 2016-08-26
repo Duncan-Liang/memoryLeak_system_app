@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="asus_app2sd_blacklist_warning">Perkelkite į įrenginio kaupiklį, kad būtų patogiau naudotis</string>
+  <string name="asus_app2sd_notif_title">Kai kurias programas reikia vėl perkelti į įrenginio kaupiklį</string>
+  <string name="asus_call_lock_detail">"Kai suaktyvinate įeinančių skambučių užrakto funkciją, privalote nuskaityti savo piršto atspaudą norėdami atsiliepti į skambutį. Skambutis bus automatiškai sujungtas, kai piršto atspaudas sėkmingai identifikuojamas.\nAtkreipkite dėmesį, kad\n1. Galite atsiliepti į įeinantį skambutį tiesiogiai per susietą „Bluetooth“ ausinę arba išmanųjį laikrodį nenuskaitę savo piršto atspaudo.\n2. Visgi reikės pasinaudoti piršto atspaudu norint atsiliepti į skambutį, kai naudojatės laidine ausine.\n3. Negalėsite atsiliepti į skambutį per 3 (-iosios) šalies įeinančių skambučių rodinį.\n4. Kai skambinama balso perdavimu per IP (VoIP), pvz., „WhatsApp“ balso skambučiu, teks atsiliepti į skambutį per pačią programą."</string>
+  <string name="asus_fingerprint_answer_call_summary">Atsiliepti į įeinantį skambutį piršto atspaudu</string>
+  <string name="asus_fingerprint_camera_title">Paleisti kamerą</string>
+  <string name="asus_fingerprint_id_category_title">Pirštų atspaudų ID</string>
+  <string name="asus_fingerprint_incoming_call_title">Įeinančio skambučio užrakinimas</string>
+  <string name="asus_fingerprint_launch_camera_summary">Du kartus bakstelėkite pirštų atspaudų jutiklį norėdami paleisti kamerą, kai įrenginys atrakintas.</string>
+  <string name="asus_fingerprint_launch_camera_title">Paleisti kamerą</string>
+  <string name="asus_fingerprint_long_press_summary">Bakstelėkite ir palaikykite ant pirštų atspaudų jutiklio norėdami atsiliepti į įeinančius skambučius.</string>
+  <string name="asus_fingerprint_long_press_title">Atsiliepti į įeinančius skambučius</string>
+  <string name="asus_fingerprint_snap_call_summary">Įjungti skambučio fiksavimą piršto atspaudu</string>
+  <string name="asus_fingerprint_snap_call_title">Fiksuoti skambutį</string>
+  <string name="asus_fingerprint_take_photo_summary">Bakstelėkite pirštų atspaudų jutiklį norėdami fotografuoti, kai kamera aktyvi.</string>
+  <string name="asus_fingerprint_take_photo_title">Fiksuoti nuotrauką</string>
+  <string name="asus_fingerprint_touch_control_category_title">Lietimo valdikliai</string>
+  <string name="asus_long_tap_warning">"Kai suaktyvinta įeinančio skambučio užrakinimo funkcija, skambučių atsiliepimas bakstelėjus ir palaikius išjungiamas."</string>
+  <string name="asus_storage_menu_migrate">Keisti talpyklos tipą</string>
+  <string name="asus_storage_sd_warning_content">Būtinai naudokite kokybišką SD kortelę, kad duomenys būtų sklandžiai išsaugomi. Kad duomenys būtų saugūs, naudokite geros reputacijos gamintojo SD kortelę.</string>
+  <string name="asus_storage_wizard_slow_body"><![CDATA[Ši <xliff:g id="name" example="SD card">^1</xliff:g> veikia lėtai.<br><br>Vertėtų naudoti greitesnę <xliff:g id="name" example="SD card">^1</xliff:g>, kad geriau veiktų.]]></string>
+  <string name="bluetooth_preference_asus_bt_dock_devices">ASUS „Bluetooth“ klaviatūra</string>
+  <string name="button_ok">Gerai</string>
+  <string name="camera_double_tap_power_gesture_desc">Greitai atidarykite fotoaparatą neatrakinę įrenginio</string>
+  <string name="camera_double_tap_power_gesture_title">Dukart pasp. mait. mygt. fotoap. atidar.</string>
+  <string name="camera_gesture_desc">Atidarykite fotoaparato programą dukart pasukę riešą</string>
+  <string name="camera_gesture_title">Dukart pasukti, kad fotoap. pr. būtų at.</string>
+  <string name="gesture_wake_up_screen">Pažadinti ekraną</string>
+  <string name="get_real_time_notification">Gauti realaus laiko pranešimus</string>
+  <string name="get_real_time_notification_detail">Leidžia programėlėms veikti foniniu režimu, kad laiku gautumėte pranešimus ir naujinius.</string>
+  <string name="incompatible_apps">Nesuderinamos programėlės</string>
+  <string name="incompatible_detail">Sistema šioje „Android OS“ versijoje aptiko nesuderinamų programėlių. Kreipkitės į programėlių kūrėjus dėl informacijos arba jas pašalinkite.</string>
+  <string name="incompatible_notify_title">Aptikta nesuderinamų programėlių</string>
+  <string name="inspire_asus_title">Diagnostiniai duomenys</string>
+  <string name="keywords_color_mode">ryškus rgb srgb spalva natūralus standartinis</string>
+  <string name="large_and_huge_font_size_warning">Kai kurios programėlės gali tinkamai nerodyti teksto su dideliu / milžinišku šrifto dydžiu.</string>
+  <string name="manual">Neautomatiškai</string>
+  <string name="notification_remind_user_to_set_bt">Pastumkite jungiklį į dešinę, palaikykite 5 sekundes, tada bakstelėkite pranešimą, kad būtų pradėtas susiejimas.</string>
+  <string name="notify_off">Daugiau nerodyti.</string>
+  <string name="optimize_battery_usage">Optimizuoti baterijos naudojimą</string>
+  <string name="optimize_battery_usage_detail">Sumažina baterijos sąnaudas. Galbūt negausite kai kurių pranešimų ir naujinių realiu laiku.</string>
+  <string name="picture_color_mode">Nuotraukos spalvos režimas</string>
+  <string name="real_time_notification">Realaus laiko pranešimai</string>
+  <string name="settings_manual_activity_title">Neautomatiškai</string>
+  <string name="settings_manual_activity_unavailable">Įkeliant vadovą iškilo problema.</string>
+  <string name="storage_wizard_benchmark_content">Gali užtrukti kelias minutes. Palaukite</string>
+  <string name="storage_wizard_benchmark_tittle">Sąlyginis etalonas</string>
+  <string name="storage_wizard_format_small_sd"><![CDATA[<b>SD kortelė yra per maža. Naudokite didesnę aukštos spartos SD kortelę.</b>\n<xliff:g example="10GB" id="size">^1</xliff:g>]]></string>
+  <string name="storage_wizard_init_internal_app_data_title">Naudoti vidinę atmintį tiek programėlėms, tiek duomenims</string>
+  <string name="storage_wizard_init_internal_app_only_summary">Jei norite įdiegti programėlių išorinėje talpykloje, tam reikės formatuoti, dėl ko atmintinė negalės veikti su kitais įrenginiais.</string>
+  <string name="storage_wizard_init_internal_app_only_title">Naudoti tik kaip vidinę programėlių talpyklą</string>
+  <string name="storage_wizard_migrate_intro"><![CDATA[Perkelkite duomenis į naująją <xliff:g example="SD card" id="name">^1</xliff:g>, kurioje yra daugiau atminties, skirtos saugoti nuotraukas, failus ir tam tikras programėles. Taip pat galite nuspręsti rezervuoti <xliff:g example="SD card" id="name">^1</xliff:g> vietos programėlių diegimui.]]></string>
+  <string name="storage_wizard_ready_internal_body_asus"><![CDATA[Naudojama jūsų naujoji <xliff:g example="SD card" id="name">^1</xliff:g>.]]></string>
+  <string name="stylus_only_mode_summary">Pristabdyti jutiklinį režimą, atitraukus Z rašiklį nuo ekrano</string>
+  <string name="stylus_only_mode_title">Tik rašiklio režimas</string>
+  <string name="stylus_only_time_title">Tik rašiklio laikas</string>
+  <string name="swipe_up_to_wake_up_summary">Braukite ekranu aukštyn norėdami pažadinti įrenginį iš neveiksnaus režimo.</string>
+  <string name="swipe_up_to_wake_up_title">Braukite norėdami pažadinti</string>
+  <string name="title_remind_user_to_set_bt">ASUS „Bluetooth“ klaviatūros 1 (-asis) susiejimas</string>
+  <string name="usb_hint_option_dialog_title">USB įkrovimas</string>
+  <string name="usb_hint_option_got_it">SUPRATAU</string>
+  <string name="usb_hint_option_message">Norėdami pamatyti kitas USB parinktis, braukite žemyn nuo ekrano viršaus, tada bakstelėkite USB pranešimą.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_sms_application_title">"Default messaging app"</string>
+    <string name="vzw_sms_change_default_dialog_title">"Change messaging app?"</string>
+    <string name="vzw_sms_change_default_dialog_text">Do you want to use <xliff:g id="new_app">%1$s</xliff:g> instead of <xliff:g id="current_app">%2$s</xliff:g> as your default messaging app?</string>
+</resources>

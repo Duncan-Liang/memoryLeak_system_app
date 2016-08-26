@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">Disable WLAN hotspot when inactive</string>
+    <string name="wifi_tether_users">WLAN hotspot users</string>
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">To ensure connection quality, please try to reconnect wireless display (Miracast) or WLAN Direct connection.</string>
+
+</resources>

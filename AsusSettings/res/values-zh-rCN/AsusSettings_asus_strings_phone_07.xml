@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"启动来电锁功能后，必须扫描指纹来接听电话。成功识别指纹后，将自动连接通话。\n请注意：\n1.您可以在不扫描指纹的情况下使用配对的蓝牙耳机和智能手表直接接听电话。\n2.插入有线耳机时，仍需要使用指纹接听电话。\n3.您无法从第三方来电屏幕接听电话。\n4.对于 IP 语音 (VoIP) 通话（例如：微信语音通话），仍要从应用程序接听电话。"</string>
+    <string name="asus_long_tap_warning">"启用来电锁定功能后，触摸接听来电功能会被禁用。"</string>
+</resources>

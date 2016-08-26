@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">আপনার স্ক্রীন আনলক না করেই দ্রুত ক্যামেরা খুলুন</string>
+  <string name="camera_double_tap_power_gesture_title">ক্যামেরার জন্য দুবার পাওয়ার বোতাম টিপুন</string>
+  <string name="camera_gesture_desc">আপনার কব্জি দুবার ঝাঁকিয়ে ক্যামেরা অ্যাপ্লিকেশানটি খুলুন</string>
+  <string name="camera_gesture_title">ক্যামেরার জন্য দুবার ঝাঁকান</string>
+  <string name="keywords_color_mode">ভাইব্রেন্ট rgb srgb রঙ প্রাকৃতিক মান</string>
+  <string name="manual">ম্যানুয়াল</string>
+  <string name="picture_color_mode">ছবি রঙ মোড</string>
+  <string name="settings_manual_activity_title">ম্যানুয়াল</string>
+  <string name="settings_manual_activity_unavailable">ম্যানুয়াল লোড হওয়ার সময়ে একটি সমস্যা হয়েছে।</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Asus Lock Screen Weather Animation Effect -->
+    <string name="asus_lockscreen_enable_weather_animation">"Väderanimering"</string>
+    <string name="asus_lockscreen_enable_weather_effect_on_lockscreen">"Aktivera väderanimering på låsskärm"</string>
+    <!-- Asus Lock Screen Theme -->
+    <string name="asus_lockscreen_change_lockscreen_theme">"Ändra tema för låsskärm"</string>
+    <!-- Asus Lock Screen Wallpaper -->
+    <string name="asus_lockscreen_change_lockscreen_wallpaper">"Ändra bakgrund på låsskärm"</string>
+    <!-- BEGIN: For Lock screeen widget settings string -->
+    <string name="asus_lock_screen_show_clock_widget">"Visa klockwidget"</string>
+    <!-- END: For Lock screeen widget settings string -->
+    <!-- BEGIN: For fingerprint settings string -->
+    <string name="security_settings_manage_fingerprint_preference_title">"Hantera fingeravtryck"</string>
+    <string name="secure_with_fingerprint_category">"Använd fingeravtryck för"</string>
+    <string name="secure_unlock_with_fingerprint_item">"Låsa upp enhet"</string>
+    <string name="secure_unlock_with_fingerprint_summary">"Använd fingeravtryck för att låsa upp skärmen."</string>
+    <string name="fingerprint_management_category">"Lagrade fingeravtryck"</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature[CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_title">"Lägg till ett fingeravtryck"</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_message">"Använd fingeravtryck för att låsa upp enheten eller få åtkomst till dina telefonsamtal och data. Du måste konfigurera en metod för att låsa skärmen tillsammans med fingeravtrycket."</string>
+    <!-- Introduction title shown in fingerprint enrollment dialog to locate the sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_title">"Lokalisera fingeravtryckssensorn"</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_front">"Lokalisera fingeravtryckssensorn på framsidan av din enhet. Justera ditt finger och försök att få med olika delar av ditt finger."</string>
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_back">"Lokalisera fingeravtryckssensorn på baksidan av din enhet. Justera ditt finger och försök att få med olika delar av ditt finger."</string>
+    <!-- Title shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=29]-->
+    <string name="asus_security_settings_fingerprint_enroll_start_title">"Placera och lyft"</string>
+    <!-- Message shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_start_message">"Placera ditt finger på fingeravtryckssensorn och ta bort det när du känner en vibration."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_title">"Upprepa nu"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_message">"Upprepa den här åtgärden med att placera och ta bort, tills hela fingeravtrycket har registrerats."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_title">"Registrera mer"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_message">"Anpassa ditt grepp och registrera olika delar av ditt finger."</string>
+    <string name="asus_security_settings_fingerprint_enroll_hint">"[Tryck på bakåttangenten för att återgå. Hemknappen är inaktiverad under registrering]"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is completed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_title">"Slutfört"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is completed -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_message">"Ditt fingeravtryck är klart. Alla fingeravtryck som lagras kan användas för att låsa upp enheten, besvara samtal och använda data."</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is failed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_title">"Misslyckades"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is failed -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_message">"Registrering av fingeravtryck misslyckades. Vänligen försök igen senare."</string>
+    <string name="asus_fingerprint_acquied_too_similar">"Flytta och justera ditt finger lite, för att skanna olika områden av ditt fingeravtryck"</string>
+    <string name="asus_security_settings_fingerprint_enroll_lift_touch_again">"Placera ditt finger på fingeravtryckssensorn och ta bort det, upprepade gånger"</string>
+    <!-- Text shown in fingerprint settings explaining what the fingerprint can be used for in the case unlocking is disabled [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_disabled_on_lockscreen">"Alternativet Låsskärm är inaktiverat"</string>
+    <!-- END: For fingerprint settings string -->
+</resources>

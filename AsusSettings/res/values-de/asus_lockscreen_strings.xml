@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Asus Lock Screen Weather Animation Effect -->
+    <string name="asus_lockscreen_enable_weather_animation">"Wetter-Animation"</string>
+    <string name="asus_lockscreen_enable_weather_effect_on_lockscreen">"Wetter-Animation auf Sperrbildschirm aktivieren"</string>
+    <!-- Asus Lock Screen Theme -->
+    <string name="asus_lockscreen_change_lockscreen_theme">"Thema für Sperrbildschirm ändern"</string>
+    <!-- Asus Lock Screen Wallpaper -->
+    <string name="asus_lockscreen_change_lockscreen_wallpaper">"Hintergrundbild für Sperrbildschirm ändern"</string>
+    <!-- BEGIN: For Lock screeen widget settings string -->
+    <string name="asus_lock_screen_show_clock_widget">"Uhren-Widget anzeigen"</string>
+    <!-- END: For Lock screeen widget settings string -->
+    <!-- BEGIN: For fingerprint settings string -->
+    <string name="security_settings_manage_fingerprint_preference_title">"Fingerabdrücke verwalten"</string>
+    <string name="secure_with_fingerprint_category">"Fingerabdruck verwenden für"</string>
+    <string name="secure_unlock_with_fingerprint_item">"Gerät entsperren"</string>
+    <string name="secure_unlock_with_fingerprint_summary">"Fingerabdruck zum Entsperren des Bildschirms verwenden."</string>
+    <string name="fingerprint_management_category">"Gespeicherte Fingerabdrücke"</string>
+    <!-- Introduction title shown in fingerprint enrollment to introduce the fingerprint feature[CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_title">"Fingerabdruck hinzufügen"</string>
+    <!-- Introduction detail message shown in fingerprint enrollment dialog [CHAR LIMIT=NONE]-->
+    <string name="asus_security_settings_fingerprint_enroll_introduction_message">"Verwenden Sie den Fingerabdruck, um das Gerät zu entsperren oder auf Ihre Telefonanrufe und Daten zuzugreifen. Sie müssen eine Bildschirm-Sperrmethode mit dem Fingerabdruck einrichten."</string>
+    <!-- Introduction title shown in fingerprint enrollment dialog to locate the sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_title">"Suchen des Fingerabdruckscanners"</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_front">"Sie finden den Fingerabdrucksensor vorn an Ihrem Gerät. Positionieren Sie Ihren Finger und versuchen Sie, verschiedene Bereiche Ihres Fingers abzudecken."</string>
+    <string name="asus_security_settings_fingerprint_enroll_find_sensor_message_back">"Sie finden den Fingerabdrucksensor hinten an Ihrem Gerät. Positionieren Sie Ihren Finger und versuchen Sie, verschiedene Bereiche Ihres Fingers abzudecken."</string>
+    <!-- Title shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=29]-->
+    <string name="asus_security_settings_fingerprint_enroll_start_title">"Auflegen und anheben"</string>
+    <!-- Message shown in fingerprint enrollment dialog to begin enrollment [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_start_message">"Legen Sie Ihren Finger auf den Fingerabdrucksensor und heben Sie ihn einmal ab, wenn Sie die Vibration spüren."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_title">"Jetzt wiederholen"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_repeat_message">"Wiederholen Sie dieses Ablegen und Anheben, bis der gesamte Fingerabdruck erfasst ist."</string>
+    <!-- Title shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_title">"Mehr aufnehmen"</string>
+    <!-- Message shown in fingerprint enrollment dialog to repeat touching the fingerprint sensor [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_enroll_more_message">"Passen Sie Ihren Griff an und registrieren Sie unterschiedliche Bereiche Ihres Fingers."</string>
+    <string name="asus_security_settings_fingerprint_enroll_hint">"[Drücken Sie auf die Rücktaste, um zurückzukehren. Die Starttaste ist während der Registrierung deaktiviert.]"</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is completed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_title">"Abgeschlossen"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is completed -->
+    <string name="asus_security_settings_fingerprint_enroll_finish_message">"Ihr Fingerabdruck ist bereit. Alle gespeicherten Fingerabdrücke können zum Entsperren des Gerätes, zum Annehmen von Anrufen und zum Aufrufen von Daten verwendet werden."</string>
+    <!-- Title shown in fingerprint enrollment dialog once enrollment is failed [CHAR LIMIT=29] -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_title">"Fehlgeschlagen"</string>
+    <!-- Message shown in fingerprint enrollment dialog once enrollment is failed -->
+    <string name="asus_security_settings_fingerprint_enroll_fail_message">"Fingerabdruckregistrierung fehlgeschlagen. Bitte versuchen Sie es später erneut."</string>
+    <string name="asus_fingerprint_acquied_too_similar">"Verschieben und passen Sie Ihren Finger leicht an, um unterschiedliche Bereiche Ihres Fingerabdrucks zu scannen."</string>
+    <string name="asus_security_settings_fingerprint_enroll_lift_touch_again">"Legen Sie wiederholt Ihren Finger auf den Fingerabdruckscanner und heben Sie ihn an"</string>
+    <!-- Text shown in fingerprint settings explaining what the fingerprint can be used for in the case unlocking is disabled [CHAR LIMIT=NONE] -->
+    <string name="asus_security_settings_fingerprint_disabled_on_lockscreen">"Option für Bildschirmsperre deaktiviert"</string>
+    <!-- END: For fingerprint settings string -->
+</resources>

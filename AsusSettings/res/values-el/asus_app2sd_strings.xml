@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">Μετακίνηση σε αποθήκευση συσκευής</string>
+    <string name="move_error_unknow">Αδύνατη η μετακίνηση εφαρμ. Προσπαθήστε ξανά.</string>
+    <string name="processing">Επεξεργασία...</string>
+    <string name="dialog_hint">Η διαδικασία ενδέχεται να διαρκέσει λίγο.\n\nΜην τερματίζετε τη συσκευή σας ούτε να χρησιμοποιείτε τις επιλεγμένες κινητές εφαρμογές. Μην αφαιρέσετε τώρα την εξωτερική συσκευή αποθήκευσης.\n\nΘέλετε να συνεχίετε;</string>
+</resources>

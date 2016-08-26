@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Netraucēt</string>
+    <string name="zen_mode_option_off2">Atļaut vienmēr</string>
+    <string name="zen_mode_option_important_interruptions2">Pielietot traucēšanas noteikumus</string>
+    <string name="zen_mode_option_no_interruptions2">Neatļaut</string>
+    <string name="zen_mode_important_category2">Traucēšanas noteikumi</string>
+    <string name="zen_mode_from2">Atļaut zvanus/ziņojumus no</string>
+    <string name="zen_mode_from_anyone2">Ikviena</string>
+    <string name="zen_mode_from_contacts2">Tikai kontaktpersonām</string>
+    <string name="zen_mode_from_starred2">Tikai izlases</string>
+    <string name="zen_mode_from_vip2">Tikai VIP</string>
+    <string name="zen_mode_downtime_category2">Plānotais laiks (Pielietot traucēšanas noteikumus)</string>
+    <string name="zen_mode_alarms_priority">Trauksmes</string>
+    <string name="zen_mode_repeated_calls">Atkārtoti zvani</string>
+    <string name="zen_mode_repeated_calls_desc">Otrais zvans divu minūšu laikā netiks apklusināts</string>
+    <string name="zen_mode_add_downtime">Jauns grafiks</string>
+    <string name="zen_mode_meeting_mode_category">Plāns, ko iedarbina kalendāra notikumi</string>
+    <string name="zen_mode_weekend">Nedēļas nogale</string>
+    <string name="zen_mode_everyday">Katru dienu</string>
+    <string name="zen_mode_remove_dialog_title">Noņemt plānu</string>
+    <string name="zen_mode_remove_dialog_message">Noņemt šo plānu?</string>
+    <string name="zen_mode_limit_dialog_title">Jauns plāns</string>
+    <string name="zen_mode_limit_dialog_message">Jums var būt līdz %d plānotu iestatījumu.</string>
+    <string name="zen_mode_downtime_title">plāns</string>
+    <string name="zen_mode_downtime_title_new">Jauns plāns</string>
+    <string name="zen_mode_downtime_title_edit">Rediģēt plānu</string>
+    <string name="zen_mode_downtime_title_meeting">Rediģēt plānu </string>
+    <string name="zen_mode_others">Iestatījumi</string>
+    <string name="zen_mode_send_notifications">Paziņošana</string>
+    <string name="zen_mode_send_notifications_desc">Sūtīt paziņojumu, ja aktivēts Netraucēt</string>
+    <string name="zen_mode_no_interruptions_warning">"Iestatot uz \"pilnīgs klusums\", trauksmes būs izslēgtas."</string>
+    <string name="zen_mode_from_anyone3">"No jebkura"</string>
+    <string name="zen_mode_from_favorites_only">"Tikai no izlases"</string>
+    <string name="zen_mode_from_contacts_only">"Tikai no kontaktiem"</string>
+    <string name="zen_mode_repeat_callers2">"Atkārtot zvanus"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Ir atļauts tas pats numurs, kas zvanīja vēlreiz pirms <xliff:g id="MINUTES">%d</xliff:g> minūtes"</string>
+    <string name="zen_mode_option_important_interruptions3">"Lietot netraucēšanas noteikumus"</string>
+    <string name="zen_mode_selected_callers2">"atlasītie zvani"</string>
+    <string name="zen_mode_dnd_is_on">"Ieslēgta funkcija Netraucēt. To varat izslēgt manuāli."</string>
+    <string name="zen_mode_turn_off_now">"Izslēgt tūlīt"</string>
+    <string name="zen_mode_custom_name">"Pielāgot"</string>
+    <string name="zen_mode_manual_turn_on">"Manuāli iespējot funkciju Netraucēt"</string>
+    <string name="zen_mode_turn_off">"Atspējot funkciju Netraucēt"</string>
+    <string name="zen_mode_in_activity">"Iespējots: "</string>
+    <string name="zen_mode_forever2">"Nenoteikti"</string>
+</resources>

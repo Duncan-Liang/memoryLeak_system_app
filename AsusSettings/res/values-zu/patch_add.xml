@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Vula ngokushesha ikhamera ngaphandle kokuvula isikrini sakho</string>
+  <string name="camera_double_tap_power_gesture_title">Cindezela inkinobho yamandla kabili ukuthola ikhamera</string>
+  <string name="camera_gesture_desc">Vula uhlelo lokusebenza lekhamera ngokushintsha ingalo yakho kabili</string>
+  <string name="camera_gesture_title">Shinthsa kabili ingalo ukuze uthole ikhamera</string>
+  <string name="keywords_color_mode">izinga lombala wemvelo elidlidlizelayo le-rgb srgb</string>
+  <string name="manual">Ngokulawulwa</string>
+  <string name="picture_color_mode">Imodi yombala wesithombe</string>
+  <string name="settings_manual_activity_title">Ngokulawulwa</string>
+  <string name="settings_manual_activity_unavailable">Kunenkinga yokulayisha imanuwali.</string>
+</resources>

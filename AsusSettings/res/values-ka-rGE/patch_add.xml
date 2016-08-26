@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">კამერის სწრაფად გახსნა ეკრანის განბლოკვის გარეშე</string>
+  <string name="camera_double_tap_power_gesture_title">კამერისთვის ჩართვის ღილაკზე ორჯერ დაჭერა</string>
+  <string name="camera_gesture_desc">გახსენით კამერის აპი თქვენი მაჯის ორჯერ მოტრიალებით</string>
+  <string name="camera_gesture_title">ორმაგი მოტრიალება კამერისთვის</string>
+  <string name="keywords_color_mode">მკვეთრი rgb srgb ფერი ბუნებრივი სტანდარტული</string>
+  <string name="manual">სახელმძღვანელო</string>
+  <string name="picture_color_mode">გამოსახულების ფერების რეჟიმი</string>
+  <string name="settings_manual_activity_title">სახელმძღვანელო</string>
+  <string name="settings_manual_activity_unavailable">სახელმძღვანელოს ჩატვირთვისას წარმოიქმნა პრობლემა.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Kai suaktyvinate įeinančių skambučių užrakto funkciją, privalote nuskaityti savo piršto atspaudą norėdami atsiliepti į skambutį. Skambutis bus automatiškai sujungtas, kai piršto atspaudas sėkmingai identifikuojamas.\nAtkreipkite dėmesį, kad\n1. Galite atsiliepti į įeinantį skambutį tiesiogiai per susietą „Bluetooth“ ausinę arba išmanųjį laikrodį nenuskaitę savo piršto atspaudo.\n2. Visgi reikės pasinaudoti piršto atspaudu norint atsiliepti į skambutį, kai naudojatės laidine ausine.\n3. Negalėsite atsiliepti į skambutį per 3 (-iosios) šalies įeinančių skambučių rodinį.\n4. Kai skambinama balso perdavimu per IP (VoIP), pvz., „WhatsApp“ balso skambučiu, teks atsiliepti į skambutį per pačią programą."</string>
+    <string name="asus_long_tap_warning">"Kai suaktyvinta įeinančio skambučio užrakinimo funkcija, skambučių atsiliepimas bakstelėjus ir palaikius išjungiamas."</string>
+</resources>

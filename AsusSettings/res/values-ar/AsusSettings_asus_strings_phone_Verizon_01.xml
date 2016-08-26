@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="vzw_data_usage_app_detail_tethering_and_hotspot_item_title">"ربط &amp; نقطة اتصال المحمول"</string>
+    <string name="vzw_data_usage_menu_item_display_in_gb">"عرض بالجيجا بايت"</string>
+    <string name="vzw_data_usage_menu_item_display_in_mb">"عرض بالميجا بايت"</string>
+    <string name="vzw_data_usage_enable_mobile_data">"بيانات المحمول"</string>
+    <string name="vzw_data_usage_disable_mobile_limit">"حد استخدام بيانات المحمول"</string>
+    <string name="vzw_data_usage_mobile_data_warning">"نبهني بخصوص استخدام البيانات"</string>
+    <string name="vzw_data_usage_warning_dialog_title">"تنبيه استخدام البيانات"</string>
+    <string name="vzw_data_usage_warning_dialog_message">"سينبهك <xliff:g example="tablet" id="device_type">%s</xliff:g> عندما يصل استخدامك لبيانات المحمول للكمية التي حددتها."</string>
+    <string name="vzw_data_usage_limit_dialog_title">"حد استخدام البيانات"</string>
+    <string name="vzw_data_usage_limit_dialog_message">"سيتم إيقاف تشغيل اتصال بيانات المحمول عندما يصل استخدامك للبيانات إلى الحد الذي حددته.\n\nيتم قياس استخدام البيانات بواسطة <xliff:g example="tablet" id="device_type">%s</xliff:g>. قد تقدر شركة شبكة المحمول تكاليف الاستخدام بشكل مختلف؛ لذا يُرجَى وضع حد أقل بقليل من خطة البيانات الخاصة بك.  اضبط التواريخ لتتوافق مع الفترة المذكورة في فاتورتك."</string>
+    <string name="vzw_phone">"الهاتف"</string>
+    <string name="vzw_tablet">"الحاسوب اللوحي"</string>
+    <string name="vzw_data_usage_disclaimer">"يتم قياس استخدام البيانات بواسطة <xliff:g example="tablet" id="device_type">%s</xliff:g>. قد تقدر شركة الهاتف المحمول تكاليف استخدامك بشكل مختلف. اضبط التواريخ لتتوافق مع الفترة المذكورة في فاتورتك."</string>
+    <string name="vzw_data_usage_warning_notification_message">"انقر لعرض الاستخدام والإعدادات"</string>
+    <string name="vzw_data_usage_limit_reached_dialog_title">"بيانات المحمول متوقفة الآن."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_message">"لقد وصلت إلى حد استخدام البيانات المخصص الخاص بك؛ لذا توقف تشغيل بيانات المحمول.\n\nإذا قمت بتشغيل بيانات المحمول مرة أخرى, فقد تتكبد رسومًا مقابل استخدام البيانات من قِبل شركة شبكة المحمول التي تتبعها."</string>
+    <string name="vzw_data_usage_limit_reached_dialog_turn_data_on_btn_text">"تشغيل البيانات"</string>
+    <string name="vzw_data_usage_limit_reached_notification_title">"بيانات المحمول متوقفة"</string>
+    <string name="vzw_data_usage_limit_reached_notification_message">"المس للتمكين"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_title">"تجاوز حد بيانات المحمول الحد المخصص"</string>
+    <string name="vzw_data_usage_limit_exceeded_notification_message">"<xliff:g example="10.52" id="exceeded_value">%s</xliff:g> <xliff:g example="MB" id="exceeded_unit">%s</xliff:g> يفوق الحد المخصص"</string>
+</resources>

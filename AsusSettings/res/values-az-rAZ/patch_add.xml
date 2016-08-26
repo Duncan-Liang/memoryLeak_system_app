@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Ekranınızın kilidini açmadan kameranı cəld açın</string>
+  <string name="camera_double_tap_power_gesture_title">Kamera üçün yandırıb söndürmə düyməsinə iki dəfə basın</string>
+  <string name="camera_gesture_desc">Biləyinizi iki dəfə buraraq kamera tətbiqini açın</string>
+  <string name="camera_gesture_title">Kamera üçün iki dəfə burun</string>
+  <string name="keywords_color_mode">təbii standart canlı rgb sRGB rəngi</string>
+  <string name="manual">Dərslik</string>
+  <string name="picture_color_mode">Şəkil rəng rejimi</string>
+  <string name="settings_manual_activity_title">Dərslik</string>
+  <string name="settings_manual_activity_unavailable">Dərsliklərin yüklənməsində problem var.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Apabila anda mendayakan ciri kunci panggilan masuk, anda mesti mengimbas cap jari anda untuk menjawab panggilan. Panggilan akan disambungkan secara automatik apabila cap jari berjaya dikenal pasti.\nSila ambil perhatian bahawa:\n1.Anda boleh menjawab panggilan secara terus daripada set kepala Bluetooth yang dipasangkan atau jam pintar tanpa mengimbas cap jari anda.\n2.Anda masih perlu menggunakan cap jari anda untuk menjawab panggilan apabila menggunakan set kepala berwayar.\n3.Anda tidak akan dapat menjawab panggilan daripada skrin panggilan masuk pihak ketiga.\n4.Untuk panggilan Suara melalui IP (VoIP). cth. panggilan suara WhatsApp, anda masih perlu menjawab panggilan daripada aplikasi itu sendiri."</string>
+    <string name="asus_long_tap_warning">"Apabila ciri kunci panggilan masuk didayakan, menjawab telefon melalui ketik dan tahan akan dinyahdayakan."</string>
+</resources>

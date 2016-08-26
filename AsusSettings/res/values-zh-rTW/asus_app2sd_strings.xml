@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="move_app_to_internal_new">移至裝置儲存空間</string>
+    <string name="move_error_unknow">無法移動應用程式。請再重試</string>
+    <string name="dialog_hint">處理需要一段時間。\n\n請勿關閉裝置電源, 並且不要執行選擇要移動的應用程式。進行時請勿移除外接儲存裝置。\n\n是否確定要繼續？</string>
+    <string name="processing">處理中…</string>
+</resources>

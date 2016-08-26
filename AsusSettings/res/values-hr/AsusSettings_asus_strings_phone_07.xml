@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="asus_call_lock_detail">"Kada omogućite funkciju zaključavanja dolaznog poziva, morate skenirati otisak prsta za odgovor na poziv. Ovaj poziv automatski se povezuje kad je otisak prsta uspješno identificiran.\nImajte na umu sljedeće:\n1.Možete odgovoriti na dolazni poziv izravno iz uparanih Bluetooth slušalica ili pametnog gledanja bez skeniranja otiska prsta.\n2.I dalje trebate koristiti otisak prsta za odgovor na poziv kada koristite žične slušalice.\n3.Nećete moći odgovoriti na poziv od 3. strane koji dolazi na zaslon za poziv.\n4.Za glasovni poziv preko IP (VoIP) poziva, npr. WhatsApp glasovni poziv, i dalje trebate odgovoriti na pozive iz same aplikacije."</string>
+    <string name="asus_long_tap_warning">"Kada je omogućena značajka zaključavanja dolaznog poziva, odgovor na pozive putem dodira i držanja bit će onemogućeno."</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CTA parametras</string>
+    <string name="activity_main_title">CTA parametras</string>
+    <string name="activity_item_title">CTA parametras</string>
+    <string name="descrption">aprašymas</string>
+    <string name="dialog_title">Pašalinti parametrą</string>
+    <string name="dialog_message">Pašalinti šios programėlės parametro vertę, kad būtų galima naudotis šia teise?</string>
+    <string name="descrption_applications">Tolesnės programėlės</string>
+
+    <string name="cta_preference_category">Teisės</string>
+    <string name="cta_prefrence_title">Teisių nuostata</string>
+    <string name="cta_prefrence_summary">Nustatyti programėlių teises</string>
+        <!-- Archie Huang, 2013/12/03 for CTA -->
+    <string name="cta_act_phone_call">"Telefono skambutis"</string>
+    <string name="cta_act_send_sms">"Siųsti SMS"</string>
+    <string name="cta_act_send_mms">"Siųsti MMS"</string>
+    <string name="cta_act_read_contacts">"Skaityti kontaktus"</string>
+    <string name="cta_act_read_call_log">"Skaityti skambučių žurnalą"</string>
+    <string name="cta_act_read_mms">"Skaityti MMS"</string>
+    <string name="cta_act_read_sms">"Skaityti SMS"</string>
+    <string name="cta_act_read_mms_sms">"Skaityti MMS ir SMS"</string>
+    <string name="cta_act_mobile_network">"Mobiliojo ryšio tinklas"</string>
+    <string name="cta_act_wlan">"WLAN"</string>
+    <string name="cta_act_location">"Vieta"</string>
+    <string name="cta_act_call_recorder">"Skambučio įrašymo įrenginys"</string>
+    <string name="cta_act_sound_recorder">"Garso įrašymo įrenginys"</string>
+    <string name="cta_act_camera">"Fotoaparatas"</string>
+    <string name="cta_act_bluetooth">"„Bluetooth“"</string>
+    <string name="cta_act_use_network">"Tinklas"</string>
+    <string name="cta_act_write_contacts">"Rašyti kontaktus"</string>
+    <string name="cta_act_write_call_log">"Rašyti skambučių žurnalą"</string>
+    <string name="cta_act_write_mms">"Rašyti MMS"</string>
+    <string name="cta_act_write_sms">"Rašyti SMS"</string>
+    <string name="cta_act_write_mms_sms">"Rašyti MMS ir SMS"</string>
+    <string name="cta_act_nfc">"NFC"</string>
+    <string name="cta_msg_phone_call">"bando paskambinti."</string>
+    <string name="cta_msg_send_sms">"bando išsiųsti SMS."</string>
+    <string name="cta_msg_send_mms">"bando išsiųsti MMS."</string>
+    <string name="cta_msg_read_contacts">"bando skaityti kontaktus."</string>
+    <string name="cta_msg_read_call_log">"bando skaityti skambučių žurnalą."</string>
+    <string name="cta_msg_read_mms">"bando skaityti MMS."</string>
+    <string name="cta_msg_read_sms">"bando skaityti SMS."</string>
+    <string name="cta_msg_read_mms_sms">"bando skaityti MMS ir SMS."</string>
+    <string name="cta_msg_mobile_network">"bando prisijungti prie mobiliojo ryšio tinklo. Naudojimasis mobiliojo ryšio tinklu gali kainuoti. Vengdami bereikalingų išlaidų, atjunkite mobiliojo ryšio tinklą, kai jo nenaudojate."</string>
+    <string name="cta_msg_wlan">"bando prisijungti prie WLAN."</string>
+    <string name="cta_msg_location">"bando naudoti buvimo vietos informaciją."</string>
+    <string name="cta_msg_call_recorder">"bando naudoti skambučio įrašymo įrenginį."</string>
+    <string name="cta_msg_sound_recorder">"bando naudoti garso įrašymo įrenginį."</string>
+    <string name="cta_msg_camera">"bando naudoti fotoaparatą."</string>
+    <string name="cta_msg_bluetooth">"bando naudoti atvirą „Bluetooth“."</string>
+    <string name="cta_msg_use_network">"bando naudoti tinklą."</string>
+    <string name="cta_category_communicate">"Ryšys &amp; Duomenų naudojimas"</string>
+    <string name="cta_category_data">"Duomenų prieiga"</string>
+    <string name="cta_msg_write_contacts">"bando rašyti kontaktus."</string>
+    <string name="cta_msg_write_call_log">"bando rašyti skambučių žurnalą."</string>
+    <string name="cta_msg_write_mms">"bando rašyti MMS."</string>
+    <string name="cta_msg_write_sms">"bando rašyti SMS."</string>
+    <string name="cta_msg_write_mms_sms">"bando rašyti MMS ir SMS."</string>
+    <string name="cta_msg_nfc">"bando įjungti NFC."</string>
+</resources>

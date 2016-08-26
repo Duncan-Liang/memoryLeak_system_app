@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wifi_disable_hotspot">Désactiver hotspot Wi-Fi lorsque inactif</string>
+    <string name="wifi_disable_hotspot_selection_never">Jamais</string>
+    <string name="wifi_disable_hotspot_selection_timeout_5">Après 5 minutes</string>
+    <string name="wifi_disable_hotspot_selection_timeout_10">Après 10 minutes</string>
+
+    <!-- Cash Hsiao 2014/09/29 Wifi Hotspot User List -->
+    <string name="wifi_tether_users" description="Preference title for Wi-Fi hotspot users" maxwidth="-1">Utilisateurs de point d\'acc\u00e8s Wi-Fi</string>
+    <string name="wifi_tether_user_empty" description="Empty view for hotspot user list" maxwidth="-1">Aucun utilisateur n\'est connect\u00e9 \u00e0 ce point d\'acc\u00e8s Wi-Fi.</string>
+
+    <string name="ethernet_settings_title" description="Title of ethernet settings">Ethernet</string>
+    <string name="ethernet_ip_address_not_set" description="Preference summary, let user know the IP address is not set" maxwidth="">L\'adresse IP n\'a pas \u00e9t\u00e9 d\u00e9finie</string>
+    <string name="ethernet_network_prefix_length_not_set" description="Preference summary, let user know the network prefix length is not set" maxwidth="">La longueur du pr\u00e9fixe r\u00e9seau n\'a pas \u00e9t\u00e9 d\u00e9finie</string>
+    <string name="ethernet_gateway_not_set" description="Preference summary, let user know the gateway is not set" maxwidth="">La passerelle n\'a pas \u00e9t\u00e9 d\u00e9finie</string>
+    <string name="ethernet_dns1_not_set" description="Preference summary, let user know the DNS1 is not set" maxwidth="">L\'adresse DNS 1 n\'a pas \u00e9t\u00e9 d\u00e9finie</string>
+    <string name="ethernet_dns2_not_set" description="Preference summary, let user know the DNS2 is not set" maxwidth="">L\'adresse DNS 2 n\'a pas \u00e9t\u00e9 d\u00e9finie</string>
+    <string name="eth_dialog_set_ipaddress" description=" A dialog title tell user input IP address" maxwidth="">Entrez l\'adresse IP</string>
+    <string name="eth_dialog_set_network_prefix_length" description="A dialog title tell user input network prefix length" maxwidth="">Longueur du pr\u00e9fixe r\u00e9seau</string>
+    <string name="eth_dialog_set_gateway" description="A dialog title tell user input Gateway " maxwidth="">Entrez l\'adresse de la passerelle</string>
+    <string name="eth_dialog_set_dns1" description="A dialog title tell user input DNS1" maxwidth="">Adresse du serveur DNS 1</string>
+    <string name="eth_dialog_set_dns2" description="A dialog title tell user input DNS2" maxwidth="">Adresse du serveur DNS 1</string>
+    <string name="ethernet_policy_title" description="toggle for user to click, if checked, ethernet will KEEP CONNECTION during sleep." maxwidth="">Maintenir la connexion lorsque l\'appareil est en veille</string>
+    <string name="ethernet_policy_summary" description="perference summary, let user know if enabled will request extra power consumption" maxwidth="">Requiert une consommation \u00e9nerg\u00e9tique additionnelle</string>
+    <string name="eth_network_setting" description="a network group title name" maxwidth="">PARAM\u00c8TRES R\u00c9SEAU</string>
+
+    <!-- Steve123_Lin, 2015/01/06 Miracast string -->
+    <string name="miracast2_reestablish_connection_msg" description="prompt user to reestablish connection" maxwidth="-1">Pour garantir la qualité de la connexion, essayez de reconnecter l\'écran sans fil (Miracast) ou Wi-Fi Direct.</string>
+
+    <!-- David1_Chang, 2015/06/05 Reconnect info for HID devices -->
+    <string name="bluetooth_reconnect_from_keyboard">Veuillez appuyer sur n\'importe quelle touche de votre clavier pour vous reconnecter</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Đừng làm phiền</string>
+    <string name="zen_mode_option_off2">Luôn cho phép</string>
+    <string name="zen_mode_option_important_interruptions2">Áp dụng quy định làm phiền</string>
+    <string name="zen_mode_option_no_interruptions2">Không cho phép</string>
+    <string name="zen_mode_important_category2">Quy định làm phiền</string>
+    <string name="zen_mode_from2">Cho phép các cuộc gọi/tin nhắn từ</string>
+    <string name="zen_mode_from_anyone2">Bất kỳ ai</string>
+    <string name="zen_mode_from_contacts2">Chỉ danh bạ</string>
+    <string name="zen_mode_from_starred2">Chỉ mục yêu thích</string>
+    <string name="zen_mode_from_vip2">Chỉ VIP</string>
+    <string name="zen_mode_downtime_category2">Giờ theo lịch (Áp dụng quy định làm phiền)</string>
+    <string name="zen_mode_alarms_priority">Báo thức</string>
+    <string name="zen_mode_repeated_calls">Cuộc gọi lặp lại</string>
+    <string name="zen_mode_repeated_calls_desc">Cuộc gọi thứ hai trong hai phút sẽ không im lặng</string>
+    <string name="zen_mode_add_downtime">Lịch trình mới</string>
+    <string name="zen_mode_meeting_mode_category">Lịch trình được k.hoạt theo các sự kiện lịch</string>
+    <string name="zen_mode_weekend">Cuối tuần</string>
+    <string name="zen_mode_everyday">Hàng ngày</string>
+    <string name="zen_mode_remove_dialog_title">Xóa lịch trình</string>
+    <string name="zen_mode_remove_dialog_message">Xóa lịch trình này?</string>
+    <string name="zen_mode_limit_dialog_title">Lịch trình mới</string>
+    <string name="zen_mode_limit_dialog_message">Bạn phải có đến %d cài đặt lịch trình.</string>
+    <string name="zen_mode_downtime_title">lịch trình</string>
+    <string name="zen_mode_downtime_title_new">Lịch trình mới</string>
+    <string name="zen_mode_downtime_title_edit">Sửa lịch trình</string>
+    <string name="zen_mode_downtime_title_meeting">Sửa lịch trình </string>
+    <string name="zen_mode_others">Cài đặt</string>
+    <string name="zen_mode_send_notifications">Thông báo</string>
+    <string name="zen_mode_send_notifications_desc">Gửi thông báo một khi đã kích hoạt Đừng làm phiền</string>
+    <string name="zen_mode_no_interruptions_warning">"Khi đã cài sang \"im lặng hoàn toàn\", các báo thức sẽ được chuyển sang tắt âm."</string>
+    <string name="zen_mode_from_anyone3">"Từ bất kỳ ai"</string>
+    <string name="zen_mode_from_favorites_only">"Chỉ từ mục ưa thích"</string>
+    <string name="zen_mode_from_contacts_only">"Chỉ từ danh bạ"</string>
+    <string name="zen_mode_repeat_callers2">"Cuộc gọi lặp lại"</string>
+    <string name="zen_mode_repeat_callers_summary2">"The same number that calls again in a <xliff:g id="MINUTES">%d</xliff:g> minute period will be allowed"</string>
+    <string name="zen_mode_option_important_interruptions3">"Áp dụng quy tắc làm phiền"</string>
+    <string name="zen_mode_selected_callers2">"cuộc gọi đã chọn"</string>
+    <string name="zen_mode_dnd_is_on">"Chế độ đừng làm phiền hiện đã được bật. Bạn có thể tắt nó bằng tay."</string>
+    <string name="zen_mode_turn_off_now">"Tắt ngay"</string>
+    <string name="zen_mode_custom_name">"Tùy chỉnh"</string>
+    <string name="zen_mode_manual_turn_on">"Bật chế độ Đừng làm phiền bằng tay"</string>
+    <string name="zen_mode_turn_off">"Tắt chế độ Đừng làm phiền"</string>
+    <string name="zen_mode_in_activity">"Đã bật: "</string>
+    <string name="zen_mode_forever2">"Không xác định"</string>
+</resources>

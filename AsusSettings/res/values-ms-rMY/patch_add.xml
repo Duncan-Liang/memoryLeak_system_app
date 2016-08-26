@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Buka kamera dengan cepat tanpa membuka kunci skrin</string>
+  <string name="camera_double_tap_power_gesture_title">Tekan butang kuasa dua kali untuk kamera</string>
+  <string name="camera_gesture_desc">Buka apl kamera dengan memusingkan pergelangan tangan anda dua kali</string>
+  <string name="camera_gesture_title">Pusing dua kali untuk membuka kamera</string>
+  <string name="keywords_color_mode">terang rgb srgb warna semula jadi standard</string>
+  <string name="manual">Manual</string>
+  <string name="picture_color_mode">Mod warna gambar</string>
+  <string name="settings_manual_activity_title">Manual</string>
+  <string name="settings_manual_activity_unavailable">Terdapat masalah memuatkan manual.</string>
+</resources>

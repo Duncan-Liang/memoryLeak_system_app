@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"장치가 도킹 또는 절전 모드일 때 작동 방식을 조정하려면 화면 보호기를 사용하도록 설정합니다."</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_mode_settings_title2">Stör ej</string>
+    <string name="zen_mode_option_off2">Alltid tillåtet</string>
+    <string name="zen_mode_option_important_interruptions2">Tillämpa Stör ej-regler</string>
+    <string name="zen_mode_option_no_interruptions2">Tillåt inte</string>
+    <string name="zen_mode_important_category2">Stör ej-regler</string>
+    <string name="zen_mode_from2">Tillåt samtal/meddelanden från</string>
+    <string name="zen_mode_from_anyone2">Alla</string>
+    <string name="zen_mode_from_contacts2">Endast kontakter</string>
+    <string name="zen_mode_from_starred2">Endast favoriter</string>
+    <string name="zen_mode_from_vip2">Endast VIP</string>
+    <string name="zen_mode_downtime_category2">Schemalagd tid (Tillämpa Stör ej-regler)</string>
+    <string name="zen_mode_alarms_priority">Alarm</string>
+    <string name="zen_mode_repeated_calls">Upprepade samtal</string>
+    <string name="zen_mode_repeated_calls_desc">Ett andra samtal inom två minuter kommer inte att ignoreras</string>
+    <string name="zen_mode_add_downtime">Nytt schema</string>
+    <string name="zen_mode_meeting_mode_category">Schema som utlöses av kalenderhändelser</string>
+    <string name="zen_mode_weekend">Veckoslut</string>
+    <string name="zen_mode_everyday">Dagligen</string>
+    <string name="zen_mode_remove_dialog_title">Ta bort schema</string>
+    <string name="zen_mode_remove_dialog_message">Ta bort detta schema?</string>
+    <string name="zen_mode_limit_dialog_title">Nytt schema</string>
+    <string name="zen_mode_limit_dialog_message">Du kan ha upp till %d schemainställningar.</string>
+    <string name="zen_mode_downtime_title">schema</string>
+    <string name="zen_mode_downtime_title_new">Nytt schema</string>
+    <string name="zen_mode_downtime_title_edit">Redigera schema</string>
+    <string name="zen_mode_downtime_title_meeting">Redigera schema </string>
+    <string name="zen_mode_others">Inställningar</string>
+    <string name="zen_mode_send_notifications">Meddelande</string>
+    <string name="zen_mode_send_notifications_desc">Skicka meddelande när Stör ej är aktiverat</string>
+    <string name="zen_mode_no_interruptions_warning">"När inställd på \"total tystnad\", kommer alarm ställas in som tysta."</string>
+    <string name="zen_mode_from_anyone3">"Från vem som helst"</string>
+    <string name="zen_mode_from_favorites_only">"Bara från favoriter"</string>
+    <string name="zen_mode_from_contacts_only">"Bara från kontakter"</string>
+    <string name="zen_mode_repeat_callers2">"Återkommande samtal"</string>
+    <string name="zen_mode_repeat_callers_summary2">"Samma nummer som ringer igen inom en period OM <xliff:g id="MINUTES">%d</xliff:g> minuter tillåts"</string>
+    <string name="zen_mode_option_important_interruptions3">"Använd störningsregler"</string>
+    <string name="zen_mode_selected_callers2">"utvalda samtal"</string>
+    <string name="zen_mode_dnd_is_on">"Stör ej är nu på. Du kan stänga av det manuellt"</string>
+    <string name="zen_mode_turn_off_now">"Stäng av nu"</string>
+    <string name="zen_mode_custom_name">"Anpassat"</string>
+    <string name="zen_mode_manual_turn_on">"Aktivera Stör ej manuellt"</string>
+    <string name="zen_mode_turn_off">"Inaktivera Stör ej"</string>
+    <string name="zen_mode_in_activity">"Aktiverat: "</string>
+    <string name="zen_mode_forever2">"Oändligt"</string>
+</resources>

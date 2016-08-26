@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- ashan_yang@asus.com, show dual sim lock string -->
+    <string name="sim_pin_attempts" description="illustrate how many times are left to input pin code and puk code" maxWidth="">/n المحاولات المتبقية:</string>
+    <string name="invalidPin" msgid="5981171102258684792">"اكتب رقم التعريف الشخصي المكون من 4 إلى 8 أرقام."</string>
+</resources>

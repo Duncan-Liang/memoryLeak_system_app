@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">Obre ràpidament la càmera sense haver de desbloquejar la pantalla</string>
+  <string name="camera_double_tap_power_gesture_title">Botó d\'engegada dos cops per obrir càmera</string>
+  <string name="camera_gesture_desc">Gira el canell dues vegades per obrir l\'aplicació Càmera</string>
+  <string name="camera_gesture_title">Doble gir per obrir Càmera</string>
+  <string name="keywords_color_mode">estàndard natural color RGB sRGB vibrant</string>
+  <string name="manual">Manual</string>
+  <string name="picture_color_mode">Mode de color de la imatge</string>
+  <string name="settings_manual_activity_title">Manual</string>
+  <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
+</resources>

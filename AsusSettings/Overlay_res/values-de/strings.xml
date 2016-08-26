@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screensaver_settings_disabled_prompt">"Um festzulegen, was geschieht, wenn das Gerät angedockt oder im Ruhezustand ist, aktivieren Sie \"Daydream\"."</string>
+</resources>

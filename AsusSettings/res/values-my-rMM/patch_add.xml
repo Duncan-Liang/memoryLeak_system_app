@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="camera_double_tap_power_gesture_desc">သင်၏ မျက်နှာပြင်ကို သော့မဖွင့်ဘဲနှင့် ကင်မရာကို အမြန်ဖွင့်ပါ</string>
+  <string name="camera_double_tap_power_gesture_title">ကင်မရာအတွက် ပါဝါခလုတ်ကို နှစ်ကြိမ် နှိပ်ပါ</string>
+  <string name="camera_gesture_desc">သင့်လက်ကိုနှစ်ကြိမ်လှည့်ခြင်းဖြင့် ကင်မရာအပ်ဖ်ကို ဖွင့်ပါ</string>
+  <string name="camera_gesture_title">ကင်မရာအတွက် နှစ်ကြိမ် လှည့်ပါ</string>
+  <string name="keywords_color_mode">တက်ကြွသည့် rgb srgb အရောင်စံသဘာဝ</string>
+  <string name="manual">ကိုယ်တိုင်ထည့်သွင်းခြင်း</string>
+  <string name="picture_color_mode">ဓာတ်ပုံအရောင်မုဒ်</string>
+  <string name="picture_color_mode_desc">sRGB ကို အသုံးပြုပါ</string>
+  <string name="settings_manual_activity_title">ကိုယ်တိုင်ထည့်သွင်းခြင်း</string>
+  <string name="settings_manual_activity_unavailable">လမ်းညွှန်ကို ဖတ်တင်ရန် ပြသနာရှိနေပါသည်</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Arthur2_Liu@asus.com -->
+    <string name="screenshot_hot_key_setting_title">"Définition de touche de raccourci"</string>
+    <string name="screenshot_hot_key_title">"Touche applications récentes"</string>
+    <string name="screenshot_hot_key_summary">"Appuyez et maintenez enfoncée la touche applications récentes pour faire une capture d'écran"</string>
+    <string name="screenshot_format_setting_title">"Définition du format de fichier"</string>
+    <string name="screenshot_format_title">"Format de fichier de capture d'écran"</string>
+    <string name="screenshot_sound_setting_title">"Réglage du son"</string>
+    <string name="screenshot_sound_title">"Activer le son de capture d'écran"</string>
+    <string name="screenshot_notify_setting_title">"Réglage des notifications"</string>
+    <string name="screenshot_notify_title">"Activer les notifications"</string>
+</resources>
